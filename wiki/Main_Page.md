@@ -4,9 +4,6 @@ permalink: b'wiki/Main_Page/'
 layout: wiki
 ---
 
-Wiki software successfully installed.
-
-Please see [documentation on customizing the
-interface](http://meta.wikipedia.org/wiki/MediaWiki_i18n) and the
-[User's Guide](http://meta.wikipedia.org/wiki/MediaWiki_User%27s_Guide)
-for usage and configuration help.
+EVProduction.org is dedicated to collaboration regarding various
+projects to bring a viable battery-powered electric vehicle into mass
+production in the United States.
