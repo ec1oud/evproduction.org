@@ -6,5 +6,5 @@ layout: wiki
 
 -   -   Members\*\*\*
 
-[Jerry Dycus](/wiki/Jerry_Dycus "wikilink") [Shawn
-Rutledge](/wiki/Shawn_Rutledge "wikilink")
+-   [Jerry Dycus](/wiki/Jerry_Dycus "wikilink")
+-   [Shawn Rutledge](/wiki/Shawn_Rutledge "wikilink")
