@@ -15,3 +15,5 @@ layout: wiki
 -   [Three Wheel Cars](http://www.rqriley.com/3-wheel.htm) narrative by
     Robert Q. Riley. Subtitle is, "Primary Factors That Determine
     Handling & Rollover Characteristics"
+-   [Tryanne II](http://home.clara.net/peterfrost/tryaneii.html) three
+    wheeled, strip laid wooden three wheeler.
