@@ -4,6 +4,10 @@ permalink: b'wiki/EVProduction:Community_Portal/'
 layout: wiki
 ---
 
+The EVProduction club began life as a [Yahoo mailing
+list](http://groups.yahoo.com/EVProduction/). The current plan is to
+collect dues from members to fund the club's projects.
+
 EVProduction club members:
 --------------------------
 
