@@ -27,22 +27,3 @@ Interested parties:
 
 <small>(you may add your name here if you have interest in the project
 but do not want membership)</small>
-
-Daniel Richer,
-
-Administrator of Fiberfab US, Kitcar Maunfacturer of the "VALKYRIE" V8
-Kitcar. Presently working on the EV3, hybrid Bio-Diesel EV Kitcar.
-Currently Located in Creston, Washington 99117 50 miles west of Spokane,
-Washington.
-
-Visit us: <http://www.fiberfab.us>
-
-or Call: 509.636.3112 direct 888.281.2220 toll free
-
-Matthew Ritchie,
-
-Finishing Student @ The University of the West of England. B.Sc.
-Engineering. Location: Bristol. Special interest: Electric Vehicles.
-
-<http://www.geocities.com/BEVS_EI/index.html> BEVS\_EI@HOTMAIL.COM or
-BEVS\_EI@YAHOO.COM
