@@ -19,6 +19,7 @@ yourself!)</small>
 -   [Lee Hart](/wiki/Lee_Hart "wikilink")
 -   [Shawn Rutledge](/wiki/Shawn_Rutledge "wikilink")
 -   [Chris Seeley](/wiki/Chris_Seeley "wikilink")
+-   [Daniel Richer](/wiki/Daniel_Richer "wikilink")
 
 Interested parties:
 -------------------
