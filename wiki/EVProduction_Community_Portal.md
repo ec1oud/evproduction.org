@@ -20,7 +20,7 @@ yourself!)</small>
 -   [Shawn Rutledge](/wiki/Shawn_Rutledge "wikilink")
 -   [Chris Seeley](/wiki/Chris_Seeley "wikilink")
 -   [Daniel Richer](/wiki/Daniel_Richer "wikilink")
--   [Matthew Richie](/wiki/Matthew_Richie "wikilink")
+-   [Matthew Ritchie](/wiki/Matthew_Ritchie "wikilink")
 
 Interested parties:
 -------------------
