@@ -15,6 +15,10 @@ Design
     Also a picture of the
     [locost7](http://locost7.info/files/suspension/Robin+Hood+Sliding+Pillar.jpg),
     front suspension. Locost7 is apparently a Lotus 7 home built.
+-   [Modified McPherson Strut](http://www.rqriley.com/images/fig-15.gif)
+    for 3 wheel Cars. From
+    [Riley's](http://www.rqriley.com/suspensn.htm) "Automobile Ride,
+    Handling, and Suspension Design".
 
 Parts sourcing ideas
 --------------------
