@@ -13,11 +13,5 @@ Subsystems
 ----------
 
 -   [Motor and controller](/wiki/Motor_and_controller "wikilink")
-
-<!-- -->
-
 -   [Suspension and steering](/wiki/Suspension_and_steering "wikilink")
-
-<!-- -->
-
 -   [Electrical accessories](/wiki/Electrical_accessories "wikilink")
