@@ -12,3 +12,6 @@ layout: wiki
     line says "The online A-Z of 3-Wheelers".
 -   [Sundancer](http://motortrend.com/roadtests/classic/112_0405_archive/)
     circa 1974 demonstrator by Exide/Mckee.
+-   [Three Wheel Cars](http://www.rqriley.com/3-wheel.htm) narrative by
+    Robert Q. Riley. Subtitle is, "Primary Factors That Determine
+    Handling & Rollover Characteristics"
