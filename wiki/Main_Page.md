@@ -7,3 +7,6 @@ layout: wiki
 EVProduction.org is dedicated to collaboration regarding various
 projects to bring a viable battery-powered electric vehicle into mass
 production in the United States.
+
+-   Enabling technologies
+-   Business plans
