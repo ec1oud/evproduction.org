@@ -5,5 +5,5 @@ layout: wiki
 ---
 
 -   [Lee Hart's Battery
-    Balancer](http://www.geocities.com/sorefeets/balancerland/intro.htm)
-    a site put up by Roger Stockton.
+    Balancer](http://www.geocities.com/sorefeets/balancerland) a site
+    put up by Roger Stockton.
