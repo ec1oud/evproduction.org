@@ -10,3 +10,5 @@ layout: wiki
     Beetle](/wiki/Conversion_kit_for_VW_Beetle "wikilink")
 -   [3 Wheeler site](http://www.3wheelers.com/enter.html) As the tag
     line says "The online A-Z of 3-Wheelers".
+-   [Sundancer](http://motortrend.com/roadtests/classic/112_0405_archive/)
+    circa 1974 demonstrator by Exide/Mckee.
