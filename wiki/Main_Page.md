@@ -17,3 +17,4 @@ Links
 
 -   [Existing vehicles](/wiki/Existing_vehicles "wikilink")
 -   [EVs in the press](/wiki/EVs_in_the_press "wikilink")
+-   [The EV Discussion List](http://www.evdl.org/)
