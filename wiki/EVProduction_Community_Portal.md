@@ -4,7 +4,7 @@ permalink: b'wiki/EVProduction:Community_Portal/'
 layout: wiki
 ---
 
--   -   Members\*\*\*
+Members
 
 -   [Jerry Dycus](/wiki/Jerry_Dycus "wikilink")
 -   [Shawn Rutledge](/wiki/Shawn_Rutledge "wikilink")
