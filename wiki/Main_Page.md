@@ -9,4 +9,5 @@ projects to bring a viable battery-powered electric vehicle into mass
 production in the United States.
 
 -   [Enabling technologies](/wiki/Enabling_technologies "wikilink")
+-   [Proposed vehicle types](/wiki/Proposed_vehicle_types "wikilink")
 -   [Business plans](/wiki/Business_plans "wikilink")
