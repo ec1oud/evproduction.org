@@ -37,3 +37,11 @@ Washington.
 Visit us: <http://www.fiberfab.us>
 
 or Call: 509.636.3112 direct 888.281.2220 toll free
+
+Matthew Ritchie,
+
+Finishing Student @ The University of the West of England. B.Sc.
+Engineering. Location: Bristol. Special interest: Electric Vehicles.
+
+<http://www.geocities.com/BEVS_EI/index.html> BEVS\_EI@HOTMAIL.COM or
+BEVS\_EI@YAHOO.COM
