@@ -22,5 +22,5 @@ yourself!)</small>
 Interested parties:
 -------------------
 
-(you may add your name here if you have interest in the project but do
-not want membership)
+<small>(you may add your name here if you have interest in the project
+but do not want membership)</small>
