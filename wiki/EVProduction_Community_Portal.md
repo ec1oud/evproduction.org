@@ -18,6 +18,7 @@ yourself!)</small>
 -   [Jerry Dycus](/wiki/Jerry_Dycus "wikilink")
 -   [Lee Hart](/wiki/Lee_Hart "wikilink")
 -   [Shawn Rutledge](/wiki/Shawn_Rutledge "wikilink")
+-   [Chris Seeley](/wiki/Chris_Seeley "wikilink")
 
 Interested parties:
 -------------------
