@@ -11,8 +11,9 @@ to collect dues from members to fund the club's projects.
 EVProduction club members:
 --------------------------
 
-(please hit the "edit" tab and add your name here only if you are a
-member)
+<small>(please hit the "edit" tab and add your name here only if you are
+a member.) Save the page. Then click on your name, and tell us about
+yourself!)</small>
 
 -   [Jerry Dycus](/wiki/Jerry_Dycus "wikilink")
 -   [Lee Hart](/wiki/Lee_Hart "wikilink")
