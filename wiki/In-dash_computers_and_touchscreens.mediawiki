@@ -1,1 +1,1 @@
-[http://www.gumstix.com|gumstix.com] makes some very fast, small, and cheap embedded Linux machines.  It is possible to connect LCDs and touchscreens to them, however for automotive use, an extended-temperature LCD is necessary.
+[http://www.gumstix.com gumstix.com] makes some very fast, small, and cheap embedded Linux machines.  It is possible to connect LCDs and touchscreens to them, however for automotive use, an extended-temperature LCD is necessary.
