@@ -15,8 +15,6 @@ Three Wheelers
     Handling & Rollover Characteristics"
 -   [Tryanne II](http://home.clara.net/peterfrost/tryaneii.html) three
     wheeled, strip laid wooden three wheeler.
--   [VW Vortex](http://www.greatchange.org/footnotes-1-liter-car.html) 3
-    wheeler.
 
 Four Wheelers
 -------------
