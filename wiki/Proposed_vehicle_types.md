@@ -26,3 +26,5 @@ Four Wheelers
     Beetle](/wiki/Conversion_kit_for_VW_Beetle "wikilink")
 -   [Sundancer](http://motortrend.com/roadtests/classic/112_0405_archive/)
     circa 1974 demonstrator by Exide/Mckee.
+-   [VW Vortex](http://www.greatchange.org/footnotes-1-liter-car.html)
+    1+1 seating, 4 wheeler.
