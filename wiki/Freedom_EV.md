@@ -30,7 +30,7 @@ Specifications
 -   with batteries (?)
 -   GVWR (?)
 
-### Performance
+### Estimated Performance
 
 -   top speed (80 mph?)
 -   accelleration 0-30 mph (?)
