@@ -4,15 +4,14 @@ permalink: b'wiki/Business_plan_for_the_Freedom_EV/'
 layout: wiki
 ---
 
-Freedom Electric Vehicles
+Mission statement
+-----------------
 
-Business Plan
-
-Mission statement: To take steps that lead to successful production of
-an electric vehicle, in quantities of more than one, in varieties to
-satisfy varying needs of potential customers, all of which are safe,
-practical, marketable and appealing vehicles which will last
-indefinitely--given suitable attention to maintenance.
+To take steps that lead to successful production of an electric vehicle,
+in quantities of more than one, in varieties to satisfy varying needs of
+potential customers, all of which are safe, practical, marketable and
+appealing vehicles which will last indefinitely--given suitable
+attention to maintenance.
 
 To establish an organization to achieve this in the following form,
 using the Internet as the unifying web to allow people in different
@@ -25,39 +24,67 @@ second phase, a third form will be required the shape of which will be
 determined by successes or failures and other conditions as exist at
 that time.
 
-First things first:
+Initial action plan
+-------------------
 
-Establish a group and name it.
+-   Establish a group and name it.
 
-Appoint/elect/drawstraws for people to 'run' it.
+<!-- -->
 
-Take care of legalities and other technicalities: bank accounts,
-websites, Wiki, plan a reporting feedback infrastructure, etc.
+-   Appoint/elect/draw straws for people to 'run' it.
 
-Set down some fundamentals that define the effort and the product and
-the group (safe economical practical vehicles, quality guarantees,
-volunteer format in phase one, etc.)
+<!-- -->
 
-Define the general characteristics that might contribute such qualities
-to the product.
+-   Take care of legalities and other technicalities: bank accounts,
+    websites, Wiki, plan a reporting feedback infrastructure, etc.
 
-Define some specific features or attributes that might be included in
-the product.
+<!-- -->
 
-Establish a demographic or market the initial product will be aimed at.
+-   Set down some fundamentals that define the effort and the product
+    and the group (safe economical practical vehicles, quality
+    guarantees, volunteer format in phase one, etc.)
 
-Design the initial product.
+<!-- -->
 
-Plan the production facility/mechanism (i.e. factory, subcontract,
-combination--whatever).
+-   Define the general characteristics that might contribute such
+    qualities to the product.
 
-Concurrently, assess your assets, human, financial, time, etc.
+<!-- -->
 
-Assign/allocate your assets to achieve specific goals.
+-   Define some specific features or attributes that might be included
+    in the product.
 
-Establish milestones and/or deadlines by which to measure progress.
+<!-- -->
 
-Monitor process, evaluate progress, plan necessary changes, plan new
-products and/or ventures.
+-   Establish a demographic or market the initial product will be aimed
+    at.
 
-Repeat until everyone is exhausted, quits, or dies (rich).
+<!-- -->
+
+-   Design the initial product.
+
+<!-- -->
+
+-   Plan the production facility/mechanism (i.e. factory, subcontract,
+    combination--whatever).
+
+<!-- -->
+
+-   Concurrently, assess your assets, human, financial, time, etc.
+
+<!-- -->
+
+-   Assign/allocate your assets to achieve specific goals.
+
+<!-- -->
+
+-   Establish milestones and/or deadlines by which to measure progress.
+
+<!-- -->
+
+-   Monitor process, evaluate progress, plan necessary changes, plan new
+    products and/or ventures.
+
+<!-- -->
+
+-   Repeat until everyone is exhausted, quits, or dies (rich).
