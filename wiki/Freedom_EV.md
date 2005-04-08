@@ -12,6 +12,7 @@ rear wheel, and 2 side-by-side seats.
 Subsystems
 ----------
 
+-   [Specifications](/wiki/Specifications "wikilink")
 -   [Motor and controller](/wiki/Motor_and_controller "wikilink")
 -   [Suspension and steering](/wiki/Suspension_and_steering "wikilink")
 -   [Electrical accessories](/wiki/Electrical_accessories "wikilink")
