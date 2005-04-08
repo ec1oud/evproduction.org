@@ -16,6 +16,15 @@ Three Wheelers
 -   [Tryanne II](http://home.clara.net/peterfrost/tryaneii.html) three
     wheeled, strip laid wooden three wheeler.
 
+danz' proposed first product effort: 3 wheeler, enclosed, 2 people, room
+for groceries or some bags of peat moss, a flat roof on which I can tie
+2X4s, or a 4X8 sheet of plywood or drywall. 30 mile range, 60 mph max,
+integral trailer hitch for a 'pusher' or a gen set trailer or even a
+small cargo trailer. Lowest cost possible consistent with safety,
+reliability, comfort and (some)convenience. Aerodynamically
+unimportant--whatever is necessary to get the speed and the range
+despite inefficiencies: more batteries, larger vehicle envelope, etc.
+
 Four Wheelers
 -------------
 
