@@ -16,7 +16,8 @@ around this vehicle right now.
 -   [Enabling technologies](/wiki/Enabling_technologies "wikilink")
 -   [Proposed vehicle types](/wiki/Proposed_vehicle_types "wikilink")
 -   [Rules & regulations](/wiki/Rules_&_regulations "wikilink")
--   [Business plans](/wiki/Business_plans "wikilink")
+-   [Business plan for the Freedom
+    EV](/wiki/Business_plan_for_the_Freedom_EV "wikilink")
 -   [Pipe dreams](/wiki/Pipe_dreams "wikilink")
 
 Links
