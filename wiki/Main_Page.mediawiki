@@ -1,5 +1,7 @@
 EVProduction.org is dedicated to collaboration regarding various projects to bring a viable battery-powered electric vehicle into mass production in the United States.  Ideas discussed on these pages are "open source" - there are no secrets here.
 
+[[Jerry Dycus]] plans to put the [[Freedom EV]] into production, so most of the activity is around this vehicle right now.
+
 *[[Enabling technologies]]
 *[[Proposed vehicle types]]
 *[[Rules & regulations]]

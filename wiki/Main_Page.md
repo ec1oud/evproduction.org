@@ -9,6 +9,10 @@ projects to bring a viable battery-powered electric vehicle into mass
 production in the United States. Ideas discussed on these pages are
 "open source" - there are no secrets here.
 
+[Jerry Dycus](/wiki/Jerry_Dycus "wikilink") plans to put the [Freedom
+EV](/wiki/Freedom_EV "wikilink") into production, so most of the activity is
+around this vehicle right now.
+
 -   [Enabling technologies](/wiki/Enabling_technologies "wikilink")
 -   [Proposed vehicle types](/wiki/Proposed_vehicle_types "wikilink")
 -   [Rules & regulations](/wiki/Rules_&_regulations "wikilink")
