@@ -4,9 +4,56 @@ This is a 3-wheeler "tadpole" EV with 2 steerable front wheels, 1 driven rear wh
 
 ==[[Business plan for the Freedom EV|Business plan]]==
 
-==Subsystems==
+==Specifications==
 
-*[[Specifications]]
-*[[Motor and controller]]
-*[[Suspension and steering]]
-*[[Electrical accessories]]
+===Dimensions===
+*height (?)
+*width (?)
+*length (?)
+*wheelbase (?)
+*tread (front) (?)
+*turning radius (?)
+===Weight===
+*empty (1200 lbs?)
+*with batteries (?)
+*GVWR (?)
+===Performance===
+*top speed (80 mph?)
+*accelleration 0-30 mph (?)
+*accelleration 0-60 mph (?)
+*time, 1/4-mile (?)
+*range at constant 30 mph (40 miles?)
+*range at constant 60 mph (20 miles?)
+
+==Subsystems==
+These are not all decided yet; choices here are the current favorites.  Links on each item go to pages with more options and information involved in the decision process.
+
+===Tires===
+*front (?)
+*rear (?)
+===Brakes===
+*front (?)
+*rear (?)
+===[[Motor and controller|Motor]]===
+*type, ratings (series, Advanced DC 6.7" L91-4001?)
+===[[Motor and controller|Controller]]
+*DC PWM controller (?)
+===[[FreedomEV Suspension|Suspension]]===
+*front (double unequal length A arms, lower transverse leaf spring, air adjustable shock absorbers)
+*rear (?)
+===[[FreedomEV Steering|Steering]]===
+*type (rack and pinion?)
+===[[FreedomEV Batteries|Batteries]]===
+*type (twelve 6v flooded golf cart batteries, Trojan T-105 or equivalent?)
+===[[FreedomEV Body|Body]]===
+*composite one-piece body
+*separate composite chassis
+*doors (?)
+*[[FreedomEV Windows|windows]] (?)
+===Interior & accessories===
+*seats (2, side by side, bench?)
+*heater (?)
+*air conditioner (?)
+*radio (any double DIN unit, if you don't install the in-dash computer)
+*[[Instrument cluster]]
+*[[In-dash computers and touchscreens|In-dash computer]] (gumstix with a high-reliability LCD touchscreen)

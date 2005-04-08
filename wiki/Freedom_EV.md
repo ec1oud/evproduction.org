@@ -12,10 +12,87 @@ rear wheel, and 2 side-by-side seats.
 [Business plan](/wiki/Business_plan_for_the_Freedom_EV "wikilink")
 ------------------------------------------------------------
 
+Specifications
+--------------
+
+### Dimensions
+
+-   height (?)
+-   width (?)
+-   length (?)
+-   wheelbase (?)
+-   tread (front) (?)
+-   turning radius (?)
+
+### Weight
+
+-   empty (1200 lbs?)
+-   with batteries (?)
+-   GVWR (?)
+
+### Performance
+
+-   top speed (80 mph?)
+-   accelleration 0-30 mph (?)
+-   accelleration 0-60 mph (?)
+-   time, 1/4-mile (?)
+-   range at constant 30 mph (40 miles?)
+-   range at constant 60 mph (20 miles?)
+
 Subsystems
 ----------
 
--   [Specifications](/wiki/Specifications "wikilink")
--   [Motor and controller](/wiki/Motor_and_controller "wikilink")
--   [Suspension and steering](/wiki/Suspension_and_steering "wikilink")
--   [Electrical accessories](/wiki/Electrical_accessories "wikilink")
+These are not all decided yet; choices here are the current favorites.
+Links on each item go to pages with more options and information
+involved in the decision process.
+
+### Tires
+
+-   front (?)
+-   rear (?)
+
+### Brakes
+
+-   front (?)
+-   rear (?)
+
+### [Motor](/wiki/Motor_and_controller "wikilink")
+
+-   type, ratings (series, Advanced DC 6.7" L91-4001?)
+
+===[Controller](/wiki/Motor_and_controller "wikilink")
+
+-   DC PWM controller (?)
+
+### [Suspension](/wiki/FreedomEV_Suspension "wikilink")
+
+-   front (double unequal length A arms, lower transverse leaf spring,
+    air adjustable shock absorbers)
+-   rear (?)
+
+### [Steering](/wiki/FreedomEV_Steering "wikilink")
+
+-   type (rack and pinion?)
+
+### [Batteries](/wiki/FreedomEV_Batteries "wikilink")
+
+-   type (twelve 6v flooded golf cart batteries, Trojan T-105 or
+    equivalent?)
+
+### [Body](/wiki/FreedomEV_Body "wikilink")
+
+-   composite one-piece body
+-   separate composite chassis
+-   doors (?)
+-   [windows](/wiki/FreedomEV_Windows "wikilink") (?)
+
+### Interior & accessories
+
+-   seats (2, side by side, bench?)
+-   heater (?)
+-   air conditioner (?)
+-   radio (any double DIN unit, if you don't install the in-dash
+    computer)
+-   [Instrument cluster](/wiki/Instrument_cluster "wikilink")
+-   [In-dash computer](/wiki/In-dash_computers_and_touchscreens "wikilink")
+    (gumstix with a high-reliability LCD touchscreen)
