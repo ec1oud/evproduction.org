@@ -2,6 +2,6 @@
 *[[Battery monitoring/management systems]]
 *[[Motors and controllers]] 
 *[[Composite body construction]]
-*[[In-dash computers and touchscreens]]
+*[[Instrument cluster]]
 *[[Steering]]
 *[[Suspension]]

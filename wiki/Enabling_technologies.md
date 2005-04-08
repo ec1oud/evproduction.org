@@ -10,7 +10,6 @@ layout: wiki
 -   [Motors and controllers](/wiki/Motors_and_controllers "wikilink")
 -   [Composite body
     construction](/wiki/Composite_body_construction "wikilink")
--   [In-dash computers and
-    touchscreens](/wiki/In-dash_computers_and_touchscreens "wikilink")
+-   [Instrument cluster](/wiki/Instrument_cluster "wikilink")
 -   [Steering](/wiki/Steering "wikilink")
 -   [Suspension](/wiki/Suspension "wikilink")
