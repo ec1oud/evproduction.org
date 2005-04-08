@@ -9,6 +9,9 @@ rear wheel, and 2 side-by-side seats.
 
 ![Prototype](FreedomEV-proto-ph3.jpg "Prototype")
 
+[Business plan](/wiki/Business_plan_for_the_Freedom_EV "wikilink")
+------------------------------------------------------------
+
 Subsystems
 ----------
 
