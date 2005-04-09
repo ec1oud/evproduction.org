@@ -7,6 +7,6 @@ layout: wiki
 Embedded software developer and webmaster of this wiki. Live in Phoenix,
 AZ.
 
-[Resumel](http://ecloud.org:8080/~ecloud/resume.htm "wikilink")
+[Resume](http://ecloud.org:8080/~ecloud/resume.htm)
 
 [My blog](/wiki/User_talk:Rutledge "wikilink")

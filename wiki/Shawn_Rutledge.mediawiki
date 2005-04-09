@@ -1,5 +1,5 @@
 Embedded software developer and webmaster of this wiki.  Live in Phoenix, AZ.
 
-[[http://ecloud.org:8080/~ecloud/resume.htm|Resumel]]
+[http://ecloud.org:8080/~ecloud/resume.htm Resume]
 
 [[User_talk:Rutledge|My blog]]
