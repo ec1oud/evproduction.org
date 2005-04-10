@@ -11,7 +11,7 @@ This is a 3-wheeler "tadpole" EV with 2 steerable front wheels, 1 driven rear wh
 *width 60"
 *length 133"
 *wheelbase 95"
-*tread (front) 53"
+*tread (front) 58"
 *turning radius (?)
 
 ===Weight===

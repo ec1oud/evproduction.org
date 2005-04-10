@@ -21,7 +21,7 @@ Specifications
 -   width 60"
 -   length 133"
 -   wheelbase 95"
--   tread (front) 53"
+-   tread (front) 58"
 -   turning radius (?)
 
 ### Weight
