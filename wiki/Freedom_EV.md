@@ -17,11 +17,11 @@ Specifications
 
 ### Dimensions
 
--   height (?)
--   width (?)
--   length (?)
--   wheelbase (?)
--   tread (front) (?)
+-   height 55"
+-   width 60"
+-   length 133"
+-   wheelbase 95"
+-   tread (front) 53"
 -   turning radius (?)
 
 ### Weight
