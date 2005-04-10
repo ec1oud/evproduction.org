@@ -54,26 +54,25 @@ involved in the decision process.
 
 ### Brakes
 
--   front (?)
--   rear (?)
+-   front Disc
+-   rear disc
 
 ### Motor
 
--   type, ratings (series, Advanced DC 6.7" L91-4001?)
+-   type, ratings series, Advanced DC 6.7" L91-4001)
 
 ### Controller
 
--   DC PWM controller (?)
+-   DC 600 amp PWM controller
 
 ### FreedomEV Suspension
 
--   front (double unequal length A arms, lower transverse leaf spring,
-    air adjustable shock absorbers)
--   rear (trailing arm, Gates Polychain belt drive to motor?)
+-   front double unequal length A arms, air adjustable shock absorbers)
+-   rear trailing arm, Gates Polychain belt drive to motor
 
 ### FreedomEV Steering
 
--   type (rack and pinion?)
+-   type rack and pinion
 
 ### FreedomEV Batteries
 
@@ -83,18 +82,12 @@ involved in the decision process.
 
 ### [Body](/wiki/FreedomEV_Body "wikilink")
 
--   composite one-piece body
--   separate composite chassis
--   doors (?)
--   [windows](/wiki/FreedomEV_Windows "wikilink") (?)
+-   composite one-piece body/chassis
+-   doors yes ;-)
 
 ### Interior & accessories
 
--   seats (2, side-by-side bench, 48" wide)
--   heater (?)
--   air conditioner (?)
--   radio (any double DIN unit, if you don't install the in-dash
-    computer)
--   [Instrument cluster](/wiki/Instrument_cluster "wikilink")
--   [In-dash computer](/wiki/In-dash_computers_and_touchscreens "wikilink")
-    (gumstix with a high-reliability LCD touchscreen)
+-   seats 2, side-by-side buckets 48" wide cabin
+-   heater
+-   air conditioner
+-   radio

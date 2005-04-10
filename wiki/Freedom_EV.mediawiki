@@ -36,35 +36,31 @@ These are not all decided yet; choices here are the current favorites.  Links on
 *rear 155/80R13 radial, 22.8" diameter
 
 ===Brakes===
-*front (?)
-*rear (?)
+*front Disc
+*rear disc
 
 ===Motor===
-*type, ratings (series, Advanced DC 6.7" L91-4001?)
+*type, ratings series, Advanced DC 6.7" L91-4001)
 
 ===Controller===
-*DC PWM controller (?)
+*DC 600 amp PWM controller 
 
 ===FreedomEV Suspension===
-*front (double unequal length A arms, lower transverse leaf spring, air adjustable shock absorbers)
-*rear (trailing arm, Gates Polychain belt drive to motor?)
+*front double unequal length A arms, air adjustable shock absorbers)
+*rear trailing arm, Gates Polychain belt drive to motor
 
 ===FreedomEV Steering===
-*type (rack and pinion?)
+*type rack and pinion
 
 ===FreedomEV Batteries===
 *type (twelve 6v flooded golf cart batteries, Trojan T-105 or equivalent?)
 *battery box 36" wide x 45" long x 12" high
 
 ===[[FreedomEV Body|Body]]===
-*composite one-piece body
-*separate composite chassis
-*doors (?)
-*[[FreedomEV Windows|windows]] (?)
+*composite one-piece body/chassis
+*doors yes ;-)
 ===Interior & accessories===
-*seats (2, side-by-side bench, 48" wide)
-*heater (?)
-*air conditioner (?)
-*radio (any double DIN unit, if you don't install the in-dash computer)
-*[[Instrument cluster]]
-*[[In-dash computers and touchscreens|In-dash computer]] (gumstix with a high-reliability LCD touchscreen)
+*seats 2, side-by-side buckets 48" wide cabin
+*heater 
+*air conditioner 
+*radio
