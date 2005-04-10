@@ -89,7 +89,7 @@ involved in the decision process.
 
 ### Interior & accessories
 
--   seats (2, side by side, bench?)
+-   seats (2, side-by-side bench, 48" wide)
 -   heater (?)
 -   air conditioner (?)
 -   radio (any double DIN unit, if you don't install the in-dash
