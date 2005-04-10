@@ -57,7 +57,7 @@ involved in the decision process.
 -   front (?)
 -   rear (?)
 
-### [Motor](/wiki/Motor_and_controller "wikilink")
+### Motor
 
 -   type, ratings (series, Advanced DC 6.7" L91-4001?)
 
