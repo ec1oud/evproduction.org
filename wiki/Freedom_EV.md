@@ -61,7 +61,7 @@ involved in the decision process.
 
 -   type, ratings (series, Advanced DC 6.7" L91-4001?)
 
-Controller
+### Controller
 
 -   DC PWM controller (?)
 
