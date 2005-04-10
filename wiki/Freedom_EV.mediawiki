@@ -51,8 +51,10 @@ These are not all decided yet; choices here are the current favorites.  Links on
 
 ===[[FreedomEV Steering|Steering]]===
 *type (rack and pinion?)
-===[[FreedomEV Batteries|Batteries]]===
+===FreedomEV Batteries===
 *type (twelve 6v flooded golf cart batteries, Trojan T-105 or equivalent?)
+*battery box 36" wide x 45" long x 12" high
+
 ===[[FreedomEV Body|Body]]===
 *composite one-piece body
 *separate composite chassis

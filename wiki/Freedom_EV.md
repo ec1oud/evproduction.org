@@ -75,10 +75,11 @@ involved in the decision process.
 
 -   type (rack and pinion?)
 
-### [Batteries](/wiki/FreedomEV_Batteries "wikilink")
+### FreedomEV Batteries
 
 -   type (twelve 6v flooded golf cart batteries, Trojan T-105 or
     equivalent?)
+-   battery box 36" wide x 45" long x 12" high
 
 ### [Body](/wiki/FreedomEV_Body "wikilink")
 
