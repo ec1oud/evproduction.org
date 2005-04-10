@@ -54,8 +54,8 @@ involved in the decision process.
 
 ### Brakes
 
--   front 155/80R13 radial
--   rear 155/80R13 radial
+-   front (?)
+-   rear (?)
 
 ### [Motor](/wiki/Motor_and_controller "wikilink")
 

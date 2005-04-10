@@ -36,8 +36,8 @@ These are not all decided yet; choices here are the current favorites.  Links on
 *rear 155/80R13 radial, 22.8" diameter
 
 ===Brakes===
-*front 155/80R13 radial
-*rear 155/80R13 radial
+*front (?)
+*rear (?)
 
 ===[[Motor and controller|Motor]]===
 *type, ratings (series, Advanced DC 6.7" L91-4001?)
