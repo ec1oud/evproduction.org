@@ -69,7 +69,7 @@ Controller
 
 -   front (double unequal length A arms, lower transverse leaf spring,
     air adjustable shock absorbers)
--   rear (?)
+-   rear (trailing arm, Gates Polychain belt drive to motor?)
 
 ### [Steering](/wiki/FreedomEV_Steering "wikilink")
 
