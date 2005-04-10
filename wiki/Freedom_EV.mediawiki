@@ -41,6 +41,8 @@ These are not all decided yet; choices here are the current favorites.  Links on
 
 ===[[Motor and controller|Motor]]===
 *type, ratings (series, Advanced DC 6.7" L91-4001?)
+
+Controller
 *DC PWM controller (?)
 
 ===[[FreedomEV Suspension|Suspension]]===
