@@ -54,7 +54,7 @@ involved in the decision process.
 
 ### Brakes
 
--   front Disc
+-   front disc
 -   rear disc
 
 ### Motor
