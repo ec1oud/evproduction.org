@@ -23,6 +23,7 @@ Specifications
 -   wheelbase 95"
 -   tread (front) 58"
 -   turning radius (?)
+-   ground clearance 7"
 
 ### Weight
 

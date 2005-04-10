@@ -13,6 +13,7 @@ This is a 3-wheeler "tadpole" EV with 2 steerable front wheels, 1 driven rear wh
 *wheelbase 95"
 *tread (front) 58"
 *turning radius (?)
+*ground clearance 7"
 
 ===Weight===
 *empty 550 lbs
