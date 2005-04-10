@@ -49,8 +49,8 @@ involved in the decision process.
 
 ### Tires
 
--   front (?)
--   rear (?)
+-   front 155/80R13 radial, 22.8" diameter
+-   rear 155/80R13 radial, 22.8" diameter
 
 ### Brakes
 
