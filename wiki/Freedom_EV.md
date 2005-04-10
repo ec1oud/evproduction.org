@@ -26,9 +26,10 @@ Specifications
 
 ### Weight
 
--   empty (1200 lbs?)
--   with batteries (?)
--   GVWR (?)
+-   empty 550 lbs
+-   payload 750 lbs max
+-   batteries 750 lbs max
+-   GVWR 2050 lbs
 
 ### Estimated Performance
 
