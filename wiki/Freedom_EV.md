@@ -65,7 +65,7 @@ involved in the decision process.
 
 -   DC PWM controller (?)
 
-### [Suspension](/wiki/FreedomEV_Suspension "wikilink")
+### FreedomEV Suspension
 
 -   front (double unequal length A arms, lower transverse leaf spring,
     air adjustable shock absorbers)
