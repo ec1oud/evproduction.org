@@ -31,12 +31,8 @@ Four Wheelers
 -   [4 Wheeled Kit Car](4_Wheeled_Kit_Car "wikilink")
 -   [Conversion kit for VW
     Beetle](/wiki/Conversion_kit_for_VW_Beetle "wikilink")
--   McKee Engineering
-    [Sundancer](/wiki/Sundancer "wikilink")[Sundancer](http://motortrend.com/roadtests/classic/112_0405_archive/)
+-   [Sundancer](http://www.evproduction.org/wiki/index.php?title=Sundancer)[Sundancer](http://motortrend.com/roadtests/classic/112_0405_archive/)
     circa 1974 demonstrator by Exide/Mckee.
-
-\- 1 Description - 2 Specifications
-
 -   [VW Vortex](http://www.greatchange.org/footnotes-1-liter-car.html)
     1+1 seating, 4 wheeler.
 -   [The
