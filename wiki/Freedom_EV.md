@@ -60,9 +60,6 @@ involved in the decision process.
 ### [Motor](/wiki/Motor_and_controller "wikilink")
 
 -   type, ratings (series, Advanced DC 6.7" L91-4001?)
-
-===[Controller](/wiki/Motor_and_controller "wikilink")
-
 -   DC PWM controller (?)
 
 ### [Suspension](/wiki/FreedomEV_Suspension "wikilink")
