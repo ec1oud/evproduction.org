@@ -49,8 +49,9 @@ These are not all decided yet; choices here are the current favorites.  Links on
 *front (double unequal length A arms, lower transverse leaf spring, air adjustable shock absorbers)
 *rear (trailing arm, Gates Polychain belt drive to motor?)
 
-===[[FreedomEV Steering|Steering]]===
+===FreedomEV Steering===
 *type (rack and pinion?)
+
 ===FreedomEV Batteries===
 *type (twelve 6v flooded golf cart batteries, Trojan T-105 or equivalent?)
 *battery box 36" wide x 45" long x 12" high

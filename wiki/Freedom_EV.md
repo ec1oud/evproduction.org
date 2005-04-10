@@ -71,7 +71,7 @@ involved in the decision process.
     air adjustable shock absorbers)
 -   rear (trailing arm, Gates Polychain belt drive to motor?)
 
-### [Steering](/wiki/FreedomEV_Steering "wikilink")
+### FreedomEV Steering
 
 -   type (rack and pinion?)
 
