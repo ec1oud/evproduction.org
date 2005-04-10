@@ -59,7 +59,7 @@ involved in the decision process.
 
 ### Motor
 
--   type, ratings series, Advanced DC 6.7" L91-4001)
+-   type, series DC; Advanced DC 6.7" L91-4001
 
 ### Controller
 
