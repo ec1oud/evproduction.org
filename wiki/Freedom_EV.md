@@ -58,24 +58,24 @@ involved in the decision process.
 -   front disc
 -   rear disc
 
-### Motor
+### [Motor](/wiki/Motor_and_controller "wikilink")
 
 -   type, series DC; Advanced DC 6.7" L91-4001
 
-### Controller
+### [Controller](/wiki/Motor_and_controller "wikilink")
 
 -   DC 600 amp PWM controller
 
-### FreedomEV Suspension
+### [Suspension](/wiki/FreedomEV_Suspension "wikilink")
 
 -   front double unequal length A arms, air adjustable shock absorbers)
 -   rear trailing arm, Gates Polychain belt drive to motor
 
-### FreedomEV Steering
+### [Steering](/wiki/FreedomEV_Steering "wikilink")
 
 -   type rack and pinion
 
-### FreedomEV Batteries
+### [Batteries](/wiki/FreedomEV_Batteries "wikilink")
 
 -   type (twelve 6v flooded golf cart batteries, Trojan T-105 or
     equivalent?)
@@ -91,4 +91,8 @@ involved in the decision process.
 -   seats 2, side-by-side buckets 48" wide cabin
 -   heater
 -   air conditioner
--   radio
+-   radio (any double DIN unit, if you don't install the in-dash
+    computer)
+-   [Instrument cluster](/wiki/Instrument_cluster "wikilink")
+-   [In-dash computer](/wiki/In-dash_computers_and_touchscreens "wikilink")
+    (gumstix with a high-reliability LCD touchscreen)
