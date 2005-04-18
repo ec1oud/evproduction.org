@@ -34,8 +34,8 @@ Four Wheelers
 -   [Sundancer](/wiki/Sundancer "wikilink") or
     [Sundancer](http://motortrend.com/roadtests/classic/112_0405_archive/)
     1970-73 Mckee chassis \#1-\#3.
--   [Copper Electric Town Car](/wiki/Copper_Electric_Town_Car "wikilink")
-    another McKee chassis concept EV
+-   [Copper Electric Town Car](/wiki/Copper_Electric_Town_Car "wikilink") 1976
+    McKee chassis \#5 concept EV
 -   [VW Vortex](http://www.greatchange.org/footnotes-1-liter-car.html)
     1+1 seating, 4 wheeler.
 -   [The
