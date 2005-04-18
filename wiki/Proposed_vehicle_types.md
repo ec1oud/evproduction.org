@@ -33,7 +33,9 @@ Four Wheelers
     Beetle](/wiki/Conversion_kit_for_VW_Beetle "wikilink")
 -   [Sundancer](/wiki/Sundancer "wikilink") or
     [Sundancer](http://motortrend.com/roadtests/classic/112_0405_archive/)
-    circa 1974 demonstrator by Exide/Mckee.
+    1970-73 Mckee chassis \#1-\#3.
+-   [Copper Electric Town Car](/wiki/Copper_Electric_Town_Car "wikilink")
+    another McKee chassis concept EV
 -   [VW Vortex](http://www.greatchange.org/footnotes-1-liter-car.html)
     1+1 seating, 4 wheeler.
 -   [The
