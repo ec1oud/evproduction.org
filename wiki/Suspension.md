@@ -19,6 +19,8 @@ Design
     for 3 wheel Cars. From
     [Riley's](http://www.rqriley.com/suspensn.htm) "Automobile Ride,
     Handling, and Suspension Design".
+-   Tango suspension from yahoo Tango-EV group
+    ![](Tango_suspension2.jpg "fig:Tango_suspension2.jpg")
 
 Parts sourcing ideas
 --------------------
