@@ -21,6 +21,7 @@ yourself!)</small>
 -   [Chris Seeley](/wiki/Chris_Seeley "wikilink")
 -   [Daniel Richer](/wiki/Daniel_Richer "wikilink")
 -   [Matthew Ritchie](/wiki/Matthew_Ritchie "wikilink")
+-   [Fred Whitridge](/wiki/Fred_Whitridge "wikilink")
 
 Interested parties:
 -------------------
