@@ -23,6 +23,7 @@ around this vehicle right now.
 Links
 -----
 
+-   [The Yahoo group](http://autos.groups.yahoo.com/group/EVProduction/)
 -   [Existing vehicles](/wiki/Existing_vehicles "wikilink")
 -   [EVs in the press](/wiki/EVs_in_the_press "wikilink")
 -   [The EV Discussion List](http://www.evdl.org/)
