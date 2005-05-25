@@ -4,16 +4,16 @@ permalink: b'wiki/Progress_Pics/'
 layout: wiki
 ---
 
-![](Freedome_EV_-1.jpg "Freedome_EV_-1.jpg")
+![Description](Freedom_EV_-1.jpg "Description")
 
-![](Freedome_EV_-_2.jpg "Freedome_EV_-_2.jpg")
+![Description](Freedom_EV_-_2.jpg "Description")
 
-![](Freedome_EV_-_3.jpg "Freedome_EV_-_3.jpg")
+![Description](Freedom_EV_-_3.jpg "Description")
 
-![](Freedome_EV_-_4.jpg "Freedome_EV_-_4.jpg")
+![Description](Freedom_EV_-_4.jpg "Description")
 
-![](Freedome_EV_-_5.jpg "Freedome_EV_-_5.jpg")
+![Description](Freedom_EV_-_5.jpg "Description")
 
-![](Freedome_EV_-_6.jpg "Freedome_EV_-_6.jpg")
+![Description](Freedom_EV_-_6.jpg "Description")
 
-![](Freedome_EV_-_7.jpg "Freedome_EV_-_7.jpg")
+![Description](Freedom_EV_-_7.jpg "Description")
