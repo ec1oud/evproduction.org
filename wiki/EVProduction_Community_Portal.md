@@ -22,6 +22,7 @@ yourself!)</small>
 -   [Daniel Richer](/wiki/Daniel_Richer "wikilink")
 -   [Matthew Ritchie](/wiki/Matthew_Ritchie "wikilink")
 -   [Fred Whitridge](/wiki/Fred_Whitridge "wikilink")
+-   [Richard Danzey](/wiki/Richard_Danzey "wikilink")
 
 Interested parties:
 -------------------
