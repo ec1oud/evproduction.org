@@ -25,8 +25,31 @@ yourself!)</small>
 -   [Richard Danzey](/wiki/Richard_Danzey "wikilink")
 -   [Mike Skelly](/wiki/Mike_Skelly "wikilink")
 
-Interested parties:
--------------------
+John Foster Vancouver BC Canada
 
-<small>(you may add your name here if you have interest in the project
-but do not want membership)</small>
+I work on the floor at Dynasty Electric Car Co. www.itiselectric.com We
+build the "IT" line of Neighbourhood Electric Vehicles.
+
+I would like to see "real" electric transport replace SUV's as soon as
+possible. But when that does happen, I hope I'll still be getting around
+on the unbeatable combo of transit & my folding bike ;) !
+
+I live with my wife Wendy, 8 year old Aki, and 2 year old Agnes, & don't
+have much energy left over to do the zillion projects I have in my head,
+in the shed and on sketches.
+
+I have an Electrical Engineering degree, but I'm not exactly what you'd
+call upwardly mobile! Past carrers include "instrumentation and
+controls"/ industrial automation (making a few rich, and putting
+everyone else into poverty), non-destructive testing (scamming a bit of
+money back from the rich by performing mostly useless testing), a bit of
+electronics, and what I liked best, bicycle mechanic.
+
+At work I glue, assemble, help organize the team and the parts flow,
+design a few electrical and mechanical improvements here & there, some
+trouble-shooting, and grind a hell of a lot of fiberglass.
+
+At home I'd like to get time to start a few electrathon cars to give the
+kids a break from running wild & shooting each other.
+
+My local EV scene: www.veva.bc.ca
