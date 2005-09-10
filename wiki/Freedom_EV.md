@@ -12,7 +12,9 @@ rear wheel, and 2 side-by-side seats.
 [Latest Progress](/wiki/Progress_Pics "wikilink")
 -------------------------------------------
 
-Jerry has finished the male mold and sent it to the boat builder.
+`       Jerry has finished the male mold and sent it to the glass shop to build the production tooling.`  
+`      `  
+`       Update, the production molds, tooling have been finished and the first body is being started.`
 
 [Business plan](/wiki/Business_plan_for_the_Freedom_EV "wikilink")
 ------------------------------------------------------------
