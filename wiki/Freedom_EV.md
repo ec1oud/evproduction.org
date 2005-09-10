@@ -9,8 +9,8 @@ rear wheel, and 2 side-by-side seats.
 
 ![Prototype](FreedomEV-proto-ph3.jpg "Prototype")
 
-[Latest Progress](/wiki/Progress_Pics "wikilink")
--------------------------------------------
+Insert non-formatted text here==[Latest
+Progress](/wiki/Progress_Pics "wikilink")==
 
 `       Jerry has finished the male mold and sent it to the glass shop to build the production tooling.`  
 `      `  
