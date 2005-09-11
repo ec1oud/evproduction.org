@@ -9,8 +9,8 @@ rear wheel, and 2 side-by-side seats.
 
 ![Prototype](FreedomEV-proto-ph3.jpg "Prototype")
 
-Insert non-formatted text here==[Latest
-Progress](/wiki/Progress_Pics "wikilink")==
+[Latest Progress](/wiki/Progress_Pics "wikilink")
+-------------------------------------------
 
 `       Jerry has finished the male mold and sent it to the glass shop to build the production tooling.`  
 `      `  
@@ -18,6 +18,8 @@ Progress](/wiki/Progress_Pics "wikilink")==
 
 [Business plan](/wiki/Business_plan_for_the_Freedom_EV "wikilink")
 ------------------------------------------------------------
+
+`       Start with 20 beta units to get processes correct then go full production with small factories around the US and Canada as needed`
 
 Specifications
 --------------
@@ -28,7 +30,7 @@ Specifications
 -   width 60"
 -   length 133"
 -   wheelbase 95"
--   tread (front) 58"
+-   tread (front) 56"
 -   turning radius (?)
 -   ground clearance 7"
 
@@ -42,9 +44,9 @@ Specifications
 ### Estimated Performance
 
 -   top speed 80 mph
--   accelleration 0-30 mph
--   accelleration 0-60 mph
--   time, 1/4-mile
+-   accelleration 0-30 mph ?
+-   accelleration 0-60 mph ?
+-   time, 1/4-mile ?
 -   range at constant 30 mph 125 miles
 -   range at constant 60 mph 90 miles
 
@@ -57,21 +59,21 @@ involved in the decision process.
 
 ### Tires
 
--   front 155/80R13 radial, 22.8" diameter
--   rear 155/80R13 radial, 22.8" diameter
+-   front 155/80R14 radial, 22.8" diameter
+-   rear 155/80R14 radial, 22.8" diameter
 
 ### Brakes
 
--   front disc
--   rear disc
+-   front Drum
+-   rear Drum
 
 ### [Motor](/wiki/Motor_and_controller "wikilink")
 
--   type, series DC; Advanced DC 6.7" L91-4001
+-   type, series DC; 2 D+D ES-22 6.7"
 
 ### [Controller](/wiki/Motor_and_controller "wikilink")
 
--   DC 600 amp PWM controller
+-   DC 450 amp PWM controller
 
 ### [Suspension](/wiki/FreedomEV_Suspension "wikilink")
 
@@ -91,15 +93,10 @@ involved in the decision process.
 ### [Body](/wiki/FreedomEV_Body "wikilink")
 
 -   composite one-piece body/chassis
--   doors yes ;-)
+-   3 doors
 
 ### Interior & accessories
 
 -   seats 2, side-by-side buckets 48" wide cabin
 -   heater
--   air conditioner
--   radio (any double DIN unit, if you don't install the in-dash
-    computer)
--   [Instrument cluster](/wiki/Instrument_cluster "wikilink")
--   [In-dash computer](/wiki/In-dash_computers_and_touchscreens "wikilink")
-    (gumstix with a high-reliability LCD touchscreen)
+-   air conditioner, Electric
