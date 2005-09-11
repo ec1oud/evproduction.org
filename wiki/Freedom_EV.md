@@ -25,7 +25,11 @@ rear wheel, and 2 side-by-side seats.
 [Business plan](/wiki/Business_plan_for_the_Freedom_EV "wikilink")
 ------------------------------------------------------------
 
-`       Start with 20 beta units to get processes correct then go full production with small factories around the US and Canada as needed`
+`     Start with 20 beta units to get `  
+` processes correct and production running`  
+` smoothly, then go full`  
+` production with small factories`  
+` around the US and Canada as needed`
 
 Specifications
 --------------
