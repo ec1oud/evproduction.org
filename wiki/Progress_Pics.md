@@ -7,6 +7,9 @@ layout: wiki
 Male Mold
 ---------
 
+The outside of the Freedom EV will look something like this, but the
+door and window openings etc. are omitted.
+
 |                                              |                                              |                                              |                                              |
 |----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 | ![](Freedom_EV_-1.jpg "Freedom_EV_-1.jpg")   | ![](Freedom_EV_-_2.jpg "Freedom_EV_-_2.jpg") | ![](Freedom_EV_-_3.jpg "Freedom_EV_-_3.jpg") | ![](Freedom_EV_-_4.jpg "Freedom_EV_-_4.jpg") |
