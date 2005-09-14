@@ -18,6 +18,9 @@ door and window openings etc. are omitted.
 Female Mold
 -----------
 
+The inside of this will be used as a mold to put Freedom EV bodies into
+production.
+
 |                                                                                             |                                                                                  |                      |                                                 |
 |---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------|-------------------------------------------------|
 | ![As it came back from the boat shop](Hr_R001-010.jpg "As it came back from the boat shop") | ![Splits in half down the middle](R001-011.jpg "Splits in half down the middle") | ![](Hr_R001-012.jpg) | ![Painted mold](Hr_R001-019.jpg "Painted mold") |
