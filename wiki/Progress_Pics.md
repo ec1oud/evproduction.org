@@ -4,23 +4,17 @@ permalink: b'wiki/Progress_Pics/'
 layout: wiki
 ---
 
-![Freedom EV Progress
-Pics](Freedom_EV_-1.jpg "Freedom EV Progress Pics")
+Male Mold
+---------
 
-![Freedom EV Progress
-Pics](Freedom_EV_-_2.jpg "Freedom EV Progress Pics")
+|                                              |                                              |                                              |                                              |
+|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| ![](Freedom_EV_-1.jpg "Freedom_EV_-1.jpg")   | ![](Freedom_EV_-_2.jpg "Freedom_EV_-_2.jpg") | ![](Freedom_EV_-_3.jpg "Freedom_EV_-_3.jpg") | ![](Freedom_EV_-_4.jpg "Freedom_EV_-_4.jpg") |
+| ![](Freedom_EV_-_5.jpg "Freedom_EV_-_5.jpg") | ![](Freedom_EV_-_6.jpg "Freedom_EV_-_6.jpg") | ![](Freedom_EV_-_7.jpg "Freedom_EV_-_7.jpg") |                                              |
 
-![Freedom EV Progress
-Pics](Freedom_EV_-_3.jpg "Freedom EV Progress Pics")
+Female Mold
+-----------
 
-![Freedom EV Progress
-Pics](Freedom_EV_-_4.jpg "Freedom EV Progress Pics")
-
-![Freedom EV Progress
-Pics](Freedom_EV_-_5.jpg "Freedom EV Progress Pics")
-
-![Freedom EV Progress
-Pics](Freedom_EV_-_6.jpg "Freedom EV Progress Pics")
-
-![Freedom EV Progress
-Pics](Freedom_EV_-_7.jpg "Freedom EV Progress Pics")
+|                                                                                             |                                                                                  |                      |                                                 |
+|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------|-------------------------------------------------|
+| ![As it came back from the boat shop](Hr_R001-010.jpg "As it came back from the boat shop") | ![Splits in half down the middle](R001-011.jpg "Splits in half down the middle") | ![](Hr_R001-012.jpg) | ![Painted mold](Hr_R001-019.jpg "Painted mold") |

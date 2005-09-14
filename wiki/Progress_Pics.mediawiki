@@ -1,13 +1,21 @@
-[[Image:Freedom EV -1.jpg|thumb|left|Freedom EV Progress Pics]]
+==Male Mold==
+{|
+|-
+|  [[Image:Freedom EV -1.jpg|thumb]]
+|| [[Image:Freedom EV - 2.jpg|thumb]]
+|| [[Image:Freedom EV - 3.jpg|thumb]]
+|| [[Image:Freedom EV - 4.jpg|thumb]]
+|-
+|  [[Image:Freedom EV - 5.jpg|thumb]]
+|| [[Image:Freedom EV - 6.jpg|thumb]]
+|| [[Image:Freedom EV - 7.jpg|thumb]]
+|}
 
-[[Image:Freedom EV - 2.jpg|thumb|Freedom EV Progress Pics]]
-
-[[Image:Freedom EV - 3.jpg|thumb|left|Freedom EV Progress Pics]]
-
-[[Image:Freedom EV - 4.jpg|thumb|Freedom EV Progress Pics]]
-
-[[Image:Freedom EV - 5.jpg|thumb|left|Freedom EV Progress Pics]]
-
-[[Image:Freedom EV - 6.jpg|thumb|Freedom EV Progress Pics]]
-
-[[Image:Freedom EV - 7.jpg|thumb|left|Freedom EV Progress Pics]]
+==Female Mold==
+{|
+|-
+|  [[Image:Hr R001-010.jpg|thumb|As it came back from the boat shop]]
+|| [[Image:R001-011.jpg|thumb|Splits in half down the middle]]
+|| [[Image:Hr R001-012.jpg|thumb|]]
+|| [[Image:Hr R001-019.jpg|thumb|Painted mold]]
+|}
