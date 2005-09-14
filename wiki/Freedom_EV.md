@@ -74,7 +74,8 @@ involved in the decision process.
 
 ### [Motor](/wiki/Motor_and_controller "wikilink")
 
--   type, series DC; 2 D+D ES-22 6.7"
+-   type, series DC; quantity 2 [D+D ES-22
+    6.7"](http://www.cloudelectric.com/item.jhtml?PRID=793411) motors
 
 ### [Controller](/wiki/Motor_and_controller "wikilink")
 
