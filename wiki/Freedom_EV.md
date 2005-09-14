@@ -12,24 +12,19 @@ rear wheel, and 2 side-by-side seats.
 [Latest Progress](/wiki/Progress_Pics "wikilink")
 -------------------------------------------
 
-`       Jerry has finished the male `  
-` mold and sent it to the glass`  
-` shop to build the production tooling.`  
-`      `  
-`       Update, the production molds,`  
-`tooling have been finished and the`  
-`first body is being started.`  
-`      `  
-`       New pics under latest progress.`
+July 2005 - Jerry has finished the male mold and sent it to the glass
+shop to build the production tooling.
+
+Sept 2005 - The production molds, tooling have been finished and the
+first body is being started. New pics under [latest
+progress](/wiki/Progress_Pics "wikilink").
 
 [Business plan](/wiki/Business_plan_for_the_Freedom_EV "wikilink")
 ------------------------------------------------------------
 
-`     Start with 20 beta units to get `  
-` processes correct and production running`  
-` smoothly, then go full`  
-` production with small factories`  
-` around the US and Canada as needed`
+Start with 20 beta units to get processes correct and production running
+smoothly, then go full production with small factories around the US and
+Canada as needed
 
 Specifications
 --------------
@@ -96,8 +91,9 @@ involved in the decision process.
 
 ### [Batteries](/wiki/FreedomEV_Batteries "wikilink")
 
--   type (twelve 6v flooded golf cart batteries, Trojan T-105 or
-    equivalent?)
+-   type (twelve 6v flooded golf cart batteries, [Trojan
+    T-105](http://www.trojan-battery.com/Products/ProductSpec.aspx?Name=T-105)
+    or equivalent?)
 -   battery box 36" wide x 45" long x 12" high
 
 ### [Body](/wiki/FreedomEV_Body "wikilink")
