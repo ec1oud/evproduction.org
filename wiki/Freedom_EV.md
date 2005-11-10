@@ -19,8 +19,8 @@ Sept 2005 - The production molds, tooling have been finished and the
 first body is being started. New pics under [latest
 progress](/wiki/Progress_Pics "wikilink").
 
-[Business plan](/wiki/Business_plan_for_the_Freedom_EV "wikilink")
-------------------------------------------------------------
+[Business strategy](/wiki/Business_strategy_for_the_Freedom_EV "wikilink")
+--------------------------------------------------------------------
 
 Start with 20 beta units to get processes correct and production running
 smoothly, then go full production with small factories around the US and
