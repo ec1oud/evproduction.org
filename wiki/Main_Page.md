@@ -4,15 +4,16 @@ permalink: b'wiki/Main_Page/'
 layout: wiki
 ---
 
-At the beginning of the 20th century, as the "horseless carriage" was
-being developed, there were 3 popular options for propulsion: a steam
-engine (like the trains of the era), an internal combustion engine, or
-an electric motor. Women tended to prefer electric cars because they
-were clean and didn't require cranking the engine over by hand; while
-the men often preferred the gasoline-powered engine. And gasoline was
-incredibly cheap then, even when you account for inflation. It was a
-byproduct from the oil refineries which did not have many uses, and in
-some cases was simply discarded by dumping it on the ground.
+<img src="Baker-ad1.jpg" title="fig:Baker" alt="Baker" width="80" /> At
+the beginning of the 20th century, as the "horseless carriage" was being
+developed, there were 3 favored options for propulsion: a steam engine
+(like the trains of the era), an internal combustion engine, or an
+electric motor. Women tended to prefer electric cars because they were
+clean and didn't require cranking the engine over by hand; while the men
+often preferred the gasoline-powered engine. And gasoline was incredibly
+cheap then, even when you account for inflation. It was a byproduct from
+the oil refineries which did not have many uses, and in some cases was
+simply discarded by dumping it on the ground.
 
 Now in the 21st century, with crude oil prices setting new records
 periodically, and our newfound concern about the global warming which we
