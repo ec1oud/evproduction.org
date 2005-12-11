@@ -9,8 +9,8 @@ list](http://groups.yahoo.com/group/EVProduction/). This list is where
 the details for this car are hashed out. To be on the list, you must pay
 club dues.
 
-EVProduction club members:
---------------------------
+Freedom EV club members
+-----------------------
 
 <small>(please hit the "edit" tab and add your name here only if you are
 a member. Save this page. Then, click on your name, and tell us about
