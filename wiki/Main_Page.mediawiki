@@ -12,7 +12,7 @@ On these pages we aim to detail exactly how it's possible.  So read on, and keep
 
 ==Our first car, the Freedom EV==
 
-Want to break free from oil dependence, but continue to experience the freedom of the open highway?  Want to keep your free time to yourself, not spend too much of it building your own car?  The [[Freedom EV]] is going to be one of your best choices.  [[Jerry Dycus]] is setting up production of these, and has some great momentum going.  It's a grassroots project, no big capitalist financing involved, which means that for now it's a kit car.  As the momentum builds, Jerry plans to get the bodies into larger-scale production, and eventually to sell finished cars.  A few others are hashing out the rest of the details.
+Want to break free from oil dependence, but continue to experience the freedom of the open highway?  Want to keep your free time to yourself, not spend too much of it building your own car?  The [[Freedom EV]] is going to be one of your best choices.  [[Jerry Dycus]] is setting up production of these, and has some great momentum going.  It's a grassroots project, no big capitalist financing involved, which means that for now it's a kit car.  As the momentum builds, Jerry plans to get the bodies into larger-scale production, and eventually to sell finished cars.  [[EVProduction:Community Portal|A few others]] are hashing out the rest of the details.
 
 *[[Business plan for the Freedom EV]]
 *[[Progress Pics|Latest Progress]]

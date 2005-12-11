@@ -69,8 +69,9 @@ EV](/wiki/Freedom_EV "wikilink") is going to be one of your best choices.
 and has some great momentum going. It's a grassroots project, no big
 capitalist financing involved, which means that for now it's a kit car.
 As the momentum builds, Jerry plans to get the bodies into larger-scale
-production, and eventually to sell finished cars. A few others are
-hashing out the rest of the details.
+production, and eventually to sell finished cars. [A few
+others](/wiki/EVProduction:Community_Portal "wikilink") are hashing out the
+rest of the details.
 
 -   [Business plan for the Freedom
     EV](/wiki/Business_plan_for_the_Freedom_EV "wikilink")
