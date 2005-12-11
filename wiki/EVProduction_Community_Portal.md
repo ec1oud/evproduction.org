@@ -5,8 +5,9 @@ layout: wiki
 ---
 
 The EVProduction club began life as a [Yahoo mailing
-list](http://groups.yahoo.com/group/EVProduction/). The current plan is
-to collect dues from members to fund the club's projects.
+list](http://groups.yahoo.com/group/EVProduction/). This list is where
+the details for this car are hashed out. To be on the list, you must pay
+club dues.
 
 EVProduction club members:
 --------------------------
