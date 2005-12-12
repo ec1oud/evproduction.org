@@ -26,7 +26,7 @@ are talking about here.
 Some well-known quick DC conversions
 ------------------------------------
 
-= These are ordinary back-yard conversions of everyday cars, built by
+These are ordinary back-yard conversions of everyday cars, built by
 everyday people like you.
 
 -   [White Zombie](http://www.plasmaboyracing.com/whitezombie.php) is a

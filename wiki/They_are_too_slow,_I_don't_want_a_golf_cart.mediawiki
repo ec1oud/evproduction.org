@@ -2,7 +2,7 @@ A golf cart is slow because it doesn't need to be any faster.  A typical one has
 
 Unfortunately there is a legal classification for slow electric cars, called the "Neighborhood Electric Vehicle" (NEV), and since these cars are not required to meet a lot of stringent qualifications, pass a crash test, and so on, the manufacturers are not afraid to produce and sell them.  These are just golf carts with a few extras, and are not what we are talking about here.
 
-==Some well-known quick DC conversions===
+==Some well-known quick DC conversions==
 These are ordinary back-yard conversions of everyday cars, built by everyday people like you.
 *[http://www.plasmaboyracing.com/whitezombie.php White Zombie] is a Datsun 1200 conversion that happens to run 12-second 1/4 mile races
 *[http://www.austinev.org/evalbum/293.html California Poppy] is a car built by the engineer who has designed the best high-power DC motor controller so far
