@@ -8,13 +8,11 @@ A golf cart is slow because it doesn't need to be any faster. A typical
 one has 8 batteries, each providing 6 volts, for a total of 48 volts
 (since they are wired in series). For a freeway-going car, of course you
 need more than that. Something between 96 and 144 volts is reasonable,
-if you still plan to use ordinary flooded lead-acid golf cart batteries
-(they are still the most cost effective, if a tad old-fashioned these
-days) and plan to use a DC motor. If you want to invest in an AC motor
-and a 3-phase inverter with which to drive it, then you need several
-hundred volts, and typically you will be using a larger quantity of
-smaller batteries in that case (and will be spending quite a bit more
-money too).
+if you plan to use lead-acid batteries and a DC motor. If you want to
+invest in an AC motor and a 3-phase inverter with which to drive it,
+then you need several hundred volts, and typically you will be using a
+larger quantity of smaller batteries in that case (and will be spending
+quite a bit more money too).
 
 Unfortunately there is a legal classification for slow electric cars,
 called the "Neighborhood Electric Vehicle" (NEV), and since these cars
