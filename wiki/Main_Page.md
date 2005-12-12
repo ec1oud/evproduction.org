@@ -100,15 +100,21 @@ Conversions
 
 The traditional way to get your own electric car has been to buy a used
 car, remove the engine, replace it with an electric motor, and add
-batteries into every nook and cranny that you can find. It began to be a
-popular idea during the energy crisis in the 1970's, but is still being
-done today. The advantage of this approach is that it's fairly direct,
-and many fairly ambitious back-yard mechanics are capable of doing it.
-The trouble is that the car was not designed to be electric, and most
-such cars will not perform as well as one that is designed for it.
+batteries. (To optimize the range, you typically want about half the
+gross weight to be batteries.) It began to be a popular idea during the
+energy crisis in the 1970's, but is still being done today. The
+advantage of this approach is that it's fairly direct, and many fairly
+ambitious back-yard mechanics are capable of doing it. The trouble is
+that the car was not designed to be electric, and most such cars will
+not perform as well as one that is designed for it.
 
 -   [evalbum.com - a gallery of hobbyist-built
     cars](http://evalbum.com), mostly conversions
+-   [One popular
+    book](http://www.amazon.com/gp/product/0830642315/qid=1134363859/sr=8-2/ref=pd_bbs_2/103-1555072-2363021?n=507846&s=books&v=glance)
+    and
+    [another](http://www.amazon.com/gp/product/1879857944/qid=1134363859/sr=8-1/ref=pd_bbs_1/103-1555072-2363021?n=507846&s=books&v=glance)
+    about the subject
 
 EV's in general
 ---------------
