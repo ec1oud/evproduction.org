@@ -79,10 +79,18 @@ rest of the details.
 -   [Latest Progress](/wiki/Progress_Pics "wikilink")
 -   [The Yahoo group](http://autos.groups.yahoo.com/group/EVProduction/)
 
-Production EV's in general
---------------------------
+Other Production EV's
+---------------------
 
--   [Proposed vehicle types](/wiki/Proposed_vehicle_types "wikilink")
+-   [The Solectria Sunrise](http://www.austinev.org/evalbum/655.html)
+    did not make it into production as fast as planned, but it just
+    might get there yet! We're working on it...
+-   [The Sparrow](http://www.myersmotors.com/) was introduced in 1999,
+    sold for a couple years, and now once again you can buy it. It is
+    freeway capable, but holds only one person. Think of it as an
+    enclosed, safer motorcycle.
+-   [Other vehicle types](/wiki/Proposed_vehicle_types "wikilink") that have
+    been proposed by members of the EVProduction club
 -   [Enabling technologies](/wiki/Enabling_technologies "wikilink")
 -   [Rules & regulations](/wiki/Rules_&_regulations "wikilink")
 -   [Pipe dreams](/wiki/Pipe_dreams "wikilink")
