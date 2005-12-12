@@ -115,10 +115,25 @@ not perform as well as one that is designed for it.
     and
     [another](http://www.amazon.com/gp/product/1879857944/qid=1134363859/sr=8-1/ref=pd_bbs_1/103-1555072-2363021?n=507846&s=books&v=glance)
     about the subject
+-   [The EV Discussion List](http://www.evdl.org/) is the best forum for
+    techie discussion regarding electric vehicles in general, and
+    especially back-yard conversions.
+-   [John Wayland's
+    conversion](http://www.plasmaboyracing.com/whitezombie.php) happens
+    to run 12-second 1/4 mile races
+
+EV myths
+--------
+
+-   [They are too slow, I don't want a golf
+    cart](/wiki/They_are_too_slow,_I_don't_want_a_golf_cart "wikilink")
+-   [Electricity pollutes the air just as much as
+    gasoline](/wiki/Electricity_pollutes_the_air_just_as_much_as_gasoline "wikilink")
+-   [Electricity is dangerous](/wiki/Electricity_is_dangerous "wikilink")
+-   [Batteries will spill acid all over in an
+    accident](/wiki/Batteries_will_spill_acid_all_over_in_an_accident "wikilink")
 
 EV's in general
 ---------------
 
--   [Existing vehicles](/wiki/Existing_vehicles "wikilink")
 -   [EVs in the press](/wiki/EVs_in_the_press "wikilink")
--   [The EV Discussion List](http://www.evdl.org/)

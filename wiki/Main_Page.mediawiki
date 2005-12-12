@@ -33,8 +33,14 @@ The traditional way to get your own electric car has been to buy a used car, rem
 
 *[http://evalbum.com evalbum.com - a gallery of hobbyist-built cars], mostly conversions
 *[http://www.amazon.com/gp/product/0830642315/qid=1134363859/sr=8-2/ref=pd_bbs_2/103-1555072-2363021?n=507846&s=books&v=glance One popular book] and [http://www.amazon.com/gp/product/1879857944/qid=1134363859/sr=8-1/ref=pd_bbs_1/103-1555072-2363021?n=507846&s=books&v=glance another] about the subject
+*[http://www.evdl.org/ The EV Discussion List] is the best forum for techie discussion regarding electric vehicles in general, and especially back-yard conversions.
+*[http://www.plasmaboyracing.com/whitezombie.php John Wayland's conversion] happens to run 12-second 1/4 mile races
+
+==EV myths==
+*[[They are too slow, I don't want a golf cart]]
+*[[Electricity pollutes the air just as much as gasoline]]
+*[[Electricity is dangerous]]
+*[[Batteries will spill acid all over in an accident]]
 
 ==EV's in general==
-*[[Existing vehicles]]
 *[[EVs in the press]]
-*[http://www.evdl.org/ The EV Discussion List]
