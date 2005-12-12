@@ -1,7 +1,11 @@
-*[[Batteries]]
-*[[Battery monitoring/management systems]]
-*[[Motors and controllers]] 
+==Top==
 *[[Composite body construction]]
 *[[Instrument cluster]]
+==Bottom==
+*[[Batteries]]
+*[[Battery monitoring/management systems]]
+*[[Brakes]]
+*[[Motors and controllers]] 
+*[[Powertrain]]
 *[[Steering]]
 *[[Suspension]]
