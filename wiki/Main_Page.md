@@ -44,11 +44,12 @@ have evolved.
 Because computers have become commonplace and cheap, and there are so
 many skilled programmers, an idea called "open source" has taken off
 exponentially in the past decade. The most creative programmers are
-pooling their spare time to build free software, which anyone can use,
+pooling their spare time to write free programs, which anyone can use,
 and anyone can fix problems, or make improvements, and give those
 changes to the world. If you are reading this page with the
 [Firefox](http://www.mozilla.com/firefox/) browser, then you are already
-benefitting from the open source movement.
+benefitting from the open source movement. And for almost every other
+task as well, some free software is available.
 
 We think the time is right for the "open source" car. It will be a car
 for the people which is built by the people, and keeps up with the
