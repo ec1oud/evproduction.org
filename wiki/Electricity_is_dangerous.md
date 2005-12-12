@@ -6,14 +6,18 @@ layout: wiki
 
 Life is dangerous. Sticking your finger in a light socket is dangerous,
 but you probably continue to change light bulbs anyway, taking the
-necessary precautions.
+necessary precautions. And driving a car is even more dangerous,
+regardless what kind of car it is; simply because you are sharing the
+road with millions of other humans, a certain percentage of whom are
+idiots, some of whom are drunk at any given time, some of whom are
+subject to seizures, some of whom cannot react quickly, and so on.
 
 Riding around with a tank full of gasoline right behind you, is kindof
 like carrying a bomb with you everywhere. Get rear-ended very hard, and
 that 300 miles worth of go-juice is liable to burn up all at once, with
 disastrous consequences. Electric cars do not carry that kind of hazard;
 batteries do not generally explode. (It's possible on a small scale,
-because charging them can electrolyse the water and generate hydrogen.
+because charging them can electrolyze the water and generate hydrogen.
 But it's a small amount of hydrogen, and hydrogen is much lighter than
 air so it tends to get out of the way pretty fast rather than spilling
 all over the ground. And you will not be generating hydrogen while going
@@ -45,9 +49,9 @@ there is a main contactor, a large relay which is energized when you
 
 There should also be an inertia switch, which will automatically
 disconnect the power from the traction pack in case of a hard impact.
-This is much like the kind which gas-powered cars have nowadays, to shut
-down the fuel pump automatically in case of an accident. Since this kind
-of switch usually cannot break a large current, you may simply use it to
+This is much like the kind which fuel-injected cars have, to shut down
+the fuel pump automatically in case of an accident. Since this kind of
+switch usually cannot break a large current, you may simply use it to
 break the circuit controlling the main contactor, so that the impact
 will cause the contactor to open up and prevent further driving until it
 is manually reset.
