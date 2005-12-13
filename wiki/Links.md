@@ -17,6 +17,7 @@ EV Stores
 -   [ElectroAutomotive](http://electroauto.com/)
 -   [Cloud Electric](http://www.cloudelectric.com/)
 -   [AC Propulsion](http://acpropulsion.com/)
+-   [Canadian Electric Vehicles](http://www.canev.com/)
 
 Batteries
 ---------
