@@ -138,8 +138,4 @@ EV's in general
 ---------------
 
 -   [EVs in the press](/wiki/EVs_in_the_press "wikilink")
-
-Links
------
-
 -   [Links](/wiki/Links "wikilink")
