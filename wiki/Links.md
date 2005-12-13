@@ -4,14 +4,86 @@ permalink: b'wiki/Links/'
 layout: wiki
 ---
 
+Here are just some of the thousands of links that will be helpful...
+
 EV Stores
 ---------
 
--   [EV Source](http://www.evsource.com)
 -   [KTA Services](http://www.kta-ev.com)
+-   [EV Source](http://www.evsource.com)
 -   [EV America](http://www.ev-america.com)
 -   [EV Parts](http://www.evparts.com/)
 -   [Metric Mind](http://www.metricmind.com/index1.htm)
 -   [ElectroAutomotive](http://electroauto.com/)
 -   [Cloud Electric](http://www.cloudelectric.com/)
 -   [AC Propulsion](http://acpropulsion.com/)
+
+Batteries
+---------
+
+-   [General
+    Info](http://www.thermoanalytics.com/support/publications/batterytypesdoc.html)
+
+Lead Acid
+
+-   [Exide](http://www.exideworld.com/)
+-   [Trojan](http://www.trojanbattery.com)
+
+AGM
+
+-   [Optima](http://www.remybattery.com/)
+-   [Hawkers](http://www.enersysreservepower.com/)
+
+Nickel Metal Hydride
+
+-   [Saft](http://www.saftbatteries.com/)
+
+Lithium ion
+
+-   [Scion](http://www.sionpower.com/)
+-   [Valence](http://www.valence.com/)
+
+Controllers
+-----------
+
+-   [Otmars Zillas](http://www.cafeelectric.com/)
+-   [Raptor](http://www.dcpowersystems.com/)
+-   See also all the EV Stores
+
+Chargers
+--------
+
+-   [Rich Rudman's PFCs](http://www.manzanitamicro.com/)
+-   See also all the EV Stores
+
+Motors
+------
+
+-   See also all the EV Stores
+
+DC
+
+-   [Warfield](http://www.warfieldelectric.com)
+-   [ADC](http://www.adcmotors.com)
+
+AC
+
+-   [MetricMind](http://www.metricmind.com/index1.htm)
+
+Misc
+----
+
+-   [Battery Filling Systems](http://www.batteryfillingsystems.com/)
+-   [AquaPro Watering System](http://www.aquapro.net/index.html)
+-   [Small Radiator](http://www.aquastealth.com/)
+-   [Build an EV](http://www.evadc.org/build_an_ev.html)
+-   [Cables, wire, connectors](http://www.quickcable.com/)
+-   [DC Contactors](http://www.curtisinst.com/)
+-   [Battery Cables](http://www.eastpenn-deka.com)
+-   [KW Meters](http://www.hialeahmeter.com/)
+-   [Wiring Harness](http://kwikwire.com/)
+-   [Anderson Connectors](http://www.powerwerx.com/)
+-   [Coil Rewinding](http://www.qsl.net/ki7cx/Coilrewind.htm)
+-   [small DC/AC inverters](http://www.zbattery.com/zbattery/aed75.html)
+-   [Make your own
+    Shunts](http://www.uoguelph.ca/~antoon/gadgets/shunts/shunts.html)

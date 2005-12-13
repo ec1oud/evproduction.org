@@ -1,10 +1,59 @@
+Here are just some of the thousands of links that will be helpful...
+
 == EV Stores ==
-    
-*[http://www.evsource.com EV Source]
 *[http://www.kta-ev.com KTA Services]
+*[http://www.evsource.com EV Source]
 *[http://www.ev-america.com EV America]
 *[http://www.evparts.com/ EV Parts]
 *[http://www.metricmind.com/index1.htm Metric Mind]
 *[http://electroauto.com/ ElectroAutomotive]
 *[http://www.cloudelectric.com/ Cloud Electric]
 *[http://acpropulsion.com/ AC Propulsion]
+
+== Batteries ==
+*[http://www.thermoanalytics.com/support/publications/batterytypesdoc.html General Info]
+Lead Acid
+*[http://www.exideworld.com/ Exide] 
+*[http://www.trojanbattery.com Trojan] 
+AGM
+*[http://www.remybattery.com/ Optima]     
+*[http://www.enersysreservepower.com/ Hawkers] 
+Nickel Metal Hydride  
+*[http://www.saftbatteries.com/ Saft]  
+Lithium ion  
+*[http://www.sionpower.com/ Scion]   
+*[http://www.valence.com/ Valence]  
+
+
+== Controllers ==
+*[http://www.cafeelectric.com/ Otmars Zillas] 
+*[http://www.dcpowersystems.com/ Raptor]   
+*See also all the EV Stores     
+          
+== Chargers ==
+*[http://www.manzanitamicro.com/ Rich Rudman's PFCs]  
+*See also all the EV Stores     
+          
+
+== Motors ==
+*See also all the EV Stores
+DC  
+*[http://www.warfieldelectric.com Warfield]
+*[http://www.adcmotors.com ADC]   
+AC  
+*[http://www.metricmind.com/index1.htm MetricMind]
+
+== Misc ==
+*[http://www.batteryfillingsystems.com/ Battery Filling Systems] 
+*[http://www.aquapro.net/index.html AquaPro Watering System]  
+*[http://www.aquastealth.com/ Small Radiator]  
+*[http://www.evadc.org/build_an_ev.html Build an EV] 
+*[http://www.quickcable.com/ Cables, wire, connectors]    
+*[http://www.curtisinst.com/ DC Contactors]   
+*[http://www.eastpenn-deka.com Battery Cables]    
+*[http://www.hialeahmeter.com/ KW Meters]   
+*[http://kwikwire.com/ Wiring Harness]  
+*[http://www.powerwerx.com/ Anderson Connectors]  
+*[http://www.qsl.net/ki7cx/Coilrewind.htm Coil Rewinding]   
+*[http://www.zbattery.com/zbattery/aed75.html small DC/AC inverters]   
+*[http://www.uoguelph.ca/~antoon/gadgets/shunts/shunts.html Make your own Shunts]
