@@ -33,3 +33,13 @@ has been free with the information in the past, so in the interest of
 getting a "Lee Hart Balancer" section started in this Wiki, here are
 some [schematics for the Lee Hart
 Balancer](http://aaron.boim.com/EV/LeeHartBalancer/).
+
+Data Communications
+-------------------
+
+I don't know much about CAN. I guess there are some barriers to
+use/entry of this automotive data bus for home-build EVs. Lee Hart has
+published his design for a data communication bus for use in EV's, where
+there is a lot of noise, and great need for isolation. Here is the
+[schematic for converting EViLBus to
+RS232](http://aaron.boim.com/EV/RS232toEVILbus.gif).
