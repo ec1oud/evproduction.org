@@ -1,1 +1,5 @@
-* [http://www.geocities.com/sorefeets/balancerland Lee Hart's Battery Balancer]  a site put up by Roger Stockton.
+Lee Hart did a very complete battery balancer design some years ago.
+Roger Stockton put up the official site for
+* [http://www.geocities.com/sorefeets/balancerland Lee Hart's Battery Balancer].
+
+Some of the [http://aaron.boim.com/EV/LeeHartBalancer/ schematics have been converted to PDF]
