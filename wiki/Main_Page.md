@@ -75,8 +75,6 @@ production, and eventually to sell finished cars. [A few
 others](/wiki/EVProduction:Community_Portal "wikilink") are hashing out the
 rest of the details.
 
--   [Business plan for the Freedom
-    EV](/wiki/Business_plan_for_the_Freedom_EV "wikilink")
 -   [Latest Progress](/wiki/Progress_Pics "wikilink")
 -   [The Yahoo group](http://autos.groups.yahoo.com/group/EVProduction/)
 
