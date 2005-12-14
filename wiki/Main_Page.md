@@ -72,8 +72,8 @@ and has some great momentum going. It's a grassroots project, no big
 capitalist financing involved, which means that for now it's a kit car.
 As the momentum builds, Jerry plans to get the bodies into larger-scale
 production, and eventually to sell finished cars. [A few
-others](/wiki/EVProduction:Community_Portal "wikilink") are hashing out the
-rest of the details.
+others](/wiki/EVProduction:Community_Portal "wikilink") are hashing out some
+of the other details.
 
 -   [Latest Progress](/wiki/Progress_Pics "wikilink")
 -   [The Yahoo group](http://autos.groups.yahoo.com/group/EVProduction/)
