@@ -6,24 +6,8 @@ battery balancers, charging algorithms, battery charger controllers.
 Designs not necessarily for the Freedom EV, but of value to
 the EV community in general.
 
-
-== Battery care and Maintenance ==
-
-[[Battery monitoring/management systems]]
-Hawker put out a [http://aaron.boim.com/EV/EVhandbook4hawkerBatteries.pdf useful guide for the general care of lead acid batteries].
-
-They also have some [http://aaron.boim.com/EV/Hawker_BatteryApplicationHandbook.pdf other battery guides].
-Even information for the [http://aaron.boim.com/EV/Hawker_ChargingLead-Tin_Batteries.pdf charging of lead-tin batteries].
-
-NREL published a paper on an [http://crow/~aaron/EV/InteruptChargingAlgorithm.pdf interrupt charging algorithm]
-for lead-acid batteries.
-
-[[Battery monitoring/management systems]]
-
-== Data Communications ==
-
-I don't know much about CAN.  I guess there are some barriers to use/entry
-of this automotive data bus for home-build EVs.
-Lee Hart has published his design for a data communication bus for use in EV's,
-where there is a lot of noise, and great need for isolation.
-Here is the [http://aaron.boim.com/EV/RS232toEVILbus.gif schematic for converting EViLBus to RS232].
+The [[Enabling technologies]] section provides references
+on general EV components such as
+[[Batteries]],
+[[Battery monitoring/management systems]] and
+[[Data Communications]].
