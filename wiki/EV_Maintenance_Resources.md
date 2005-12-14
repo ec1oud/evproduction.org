@@ -17,3 +17,8 @@ provides references on general EV components such as
 [Batteries](/wiki/Batteries "wikilink"), [Battery monitoring/management
 systems](/wiki/Battery_monitoring/management_systems "wikilink") and [Data
 Communications](/wiki/Data_Communications "wikilink").
+
+Reference Documentation by Manufacturer
+---------------------------------------
+
+-   [Solectria References](/wiki/Solectria_References "wikilink")

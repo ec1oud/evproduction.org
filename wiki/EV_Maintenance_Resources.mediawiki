@@ -11,3 +11,6 @@ on general EV components such as
 [[Batteries]],
 [[Battery monitoring/management systems]] and
 [[Data Communications]].
+
+== Reference Documentation by Manufacturer ==
+*[[Solectria References]]
