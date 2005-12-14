@@ -15,7 +15,9 @@ general.
 Battery care and Maintenance
 ----------------------------
 
-Hawker put out a [useful guide for the general care of lead acid
+[Battery monitoring/management
+systems](/wiki/Battery_monitoring/management_systems "wikilink") Hawker put
+out a [useful guide for the general care of lead acid
 batteries](http://aaron.boim.com/EV/EVhandbook4hawkerBatteries.pdf).
 
 They also have some [other battery
@@ -27,12 +29,8 @@ NREL published a paper on an [interrupt charging
 algorithm](http://crow/~aaron/EV/InteruptChargingAlgorithm.pdf) for
 lead-acid batteries.
 
-Lee Hart did a very complete battery balancer design some years ago. I
-hope that he will edit this page to link to his "official" resources. He
-has been free with the information in the past, so in the interest of
-getting a "Lee Hart Balancer" section started in this Wiki, here are
-some [schematics for the Lee Hart
-Balancer](http://aaron.boim.com/EV/LeeHartBalancer/).
+[Battery monitoring/management
+systems](/wiki/Battery_monitoring/management_systems "wikilink")
 
 Data Communications
 -------------------
