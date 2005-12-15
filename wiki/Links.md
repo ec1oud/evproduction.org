@@ -40,7 +40,11 @@ Gell
 
 -   [Deka Dominator](http://www.eastpenn-deka.com/)
 
-Nickel Metal Hydride
+Nickel-Cadmium (Ni-Cd)
+
+-   [Saft](http://www.saftbatteries.com/)
+
+Nickel-Metal Hydride (Ni-MH)
 
 -   [Saft](http://www.saftbatteries.com/)
 

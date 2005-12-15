@@ -22,7 +22,9 @@ AGM
 *[http://www.eastpenn-deka.com/ Deka Intimidator]
 Gell
 *[http://www.eastpenn-deka.com/ Deka Dominator] 
-Nickel Metal Hydride  
+Nickel-Cadmium (Ni-Cd)
+*[http://www.saftbatteries.com/ Saft]
+Nickel-Metal Hydride (Ni-MH) 
 *[http://www.saftbatteries.com/ Saft]  
 Lithium ion  
 *[http://www.sionpower.com/ Scion]   
