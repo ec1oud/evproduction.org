@@ -34,6 +34,11 @@ AGM
 
 -   [Optima](http://www.remybattery.com/)
 -   [Hawkers](http://www.enersysreservepower.com/)
+-   [Deka Intimidator](http://www.eastpenn-deka.com/)
+
+Gell
+
+-   [Deka Dominator](http://www.eastpenn-deka.com/)
 
 Nickel Metal Hydride
 

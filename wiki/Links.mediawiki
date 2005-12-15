@@ -18,7 +18,10 @@ Lead Acid
 *[http://www.trojanbattery.com Trojan] 
 AGM
 *[http://www.remybattery.com/ Optima]     
-*[http://www.enersysreservepower.com/ Hawkers] 
+*[http://www.enersysreservepower.com/ Hawkers]
+*[http://www.eastpenn-deka.com/ Deka Intimidator]
+Gell
+*[http://www.eastpenn-deka.com/ Deka Dominator] 
 Nickel Metal Hydride  
 *[http://www.saftbatteries.com/ Saft]  
 Lithium ion  
