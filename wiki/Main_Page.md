@@ -90,8 +90,7 @@ Other Production EV's
     enclosed, safer motorcycle.
 -   [Other vehicle types](/wiki/Proposed_vehicle_types "wikilink") that have
     been proposed by members of the EVProduction club
--   [http://www.fastbk.com/EVware/ Another open-source EV
-    project](http://www.fastbk.com/EVware/_Another_open-source_EV_project "wikilink")
+-   [Another open-source EV project](http://www.fastbk.com/EVware/)
 -   [Enabling technologies](/wiki/Enabling_technologies "wikilink")
 -   [Rules & regulations](/wiki/Rules_&_regulations "wikilink")
 -   [Pipe dreams](/wiki/Pipe_dreams "wikilink")
