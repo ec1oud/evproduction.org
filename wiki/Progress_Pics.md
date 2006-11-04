@@ -24,3 +24,12 @@ production.
 |                                                                                             |                                                                                                                                                      |                      |                                                 |
 |---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|-------------------------------------------------|
 | ![As it came back from the boat shop](Hr_R001-010.jpg "As it came back from the boat shop") | ![Splits in half down the middle to release the body from the mold](R001-011.jpg "Splits in half down the middle to release the body from the mold") | ![](Hr_R001-012.jpg) | ![Painted mold](Hr_R001-019.jpg "Painted mold") |
+
+First Real Body
+---------------
+
+It was made from the above mold.
+
+|                                           |                                           |                                           |                                             |
+|-------------------------------------------|-------------------------------------------|-------------------------------------------|---------------------------------------------|
+| ![foo](10-31-2006_Prototype-05.jpg "foo") | ![bar](10-31-2006_Prototype-13.jpg "bar") | ![baz](10-31-2006_Prototype-27.jpg "baz") | ![whee](10-31-2006_Prototype-06.jpg "whee") |

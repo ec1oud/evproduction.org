@@ -23,3 +23,14 @@ The inside of this will be used as a mold to put Freedom EV bodies into producti
 || [[Image:Hr R001-012.jpg|thumb|]]
 || [[Image:Hr R001-019.jpg|thumb|Painted mold]]
 |}
+
+==First Real Body==
+It was made from the above mold.
+
+{|
+|-
+|  [[Image:10-31-2006 Prototype-05.jpg|thumb|foo]]
+|| [[Image:10-31-2006 Prototype-13.jpg|thumb|bar]]
+|| [[Image:10-31-2006 Prototype-27.jpg|thumb|baz]]
+|| [[Image:10-31-2006 Prototype-06.jpg|thumb|whee]]
+|}
