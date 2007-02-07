@@ -1,4 +1,3 @@
 [[Heads Up Display]]
 
-
-[[Integrated Power Electronics]]
+[[Heads Up Display]]
