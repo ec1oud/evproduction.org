@@ -1,0 +1,28 @@
+[[Image:4-OScar1.jpg|thumb|300px|One of the design proposals]]
+[[Image:Tiago2-background2.jpg|thumb|300px|Exploded]]
+
+'''OScar''' is the first attempt to design an entire car (nowadays, also extended to other vechicles - [[bus]], [[truck]] and [[motorcycle]]) using [[open source]] principles. The aim of the project is mainly to produce [[blueprint]]s, using essentially open source [[CAD]]. The project is still far from producing a real car, but the progress has been continuous for some years.
+
+The Goal of the project is not to produce a sophisticated car, but rather a simple and functional basic one, which answer basic people's transportation needs. A long term goal is also to introduce [[standardization]] in [[auto part|parts]] manufacturing (very much in the open source way) to use [[economies of scale]]. This is a radical change from the car industry current practices and [[business model]], where every manufacturer has his own standards. This monopoly on brand specific parts often constitutes an important part of the manufacturers' revenues.
+
+Among the challenges this car will have to overcome, before reaching the manufacturing phase, is conducting [[crash test]]s and also abiding by very strict security legislation and [[pollution]] norms in the car industry. In this way, has been proposed [[low-carbon]] [[alternative propulsion]] OScars ([[petroleum electric hybrid vehicle|hybrid]], [[hydrogen vehicle]] and [[battery-electric vehicle|electric]] versions).
+
+==See also==
+* [[Car safety]]
+* [[Nanotechnology]] and [[NanoSafe]]
+* [[Open source hardware]]
+
+==External links==
+
+* [http://www.theoscarproject.org/ The project's Web site] and [http://www.theoscarproject.org/index.php?option=com_joomlaboard&Itemid=&func=view&catid=8&id=59#59 hybrid / electric propulsion].
+* [http://www.theoscarproject.org/index.php?option=com_jd-wiki&Itemid=32 OScar Wiki test]: you need to website [[login]]: includes OS [[motorcycle]], [[bus]] and [[truck]].
+* [http://requests.wikia.com/wiki/Green_OScar Green OScar].
+* [http://www.businessweek.com/innovate/content/dec2006/id20061208_509041.htm?campaign_id=bier_innc.g3a.rss1208a Article in Business Week]
+* [http://hardware.slashdot.org/hardware/06/12/08/2030246.shtml  Open Source Car on the Horizon] an interesting thread in [[Slashdot]]
+* [http://hardware.slashdot.org/comments.pl?sid=210754&cid=17167260 About Standards in the car industry]
+* [http://dsc.discovery.com/news/2006/12/18/opencar_tec.html?category=technology Discovery technology news]
+* [http://www.fiat500.com Fiat500 design web].
+
+[[Category:Open machine]]
+
+{{Modern-auto-stub}}
