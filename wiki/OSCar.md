@@ -6,9 +6,6 @@ tags:
  - Open machine
 ---
 
-<img src="4-OScar1.jpg" title="fig:One of the design proposals" alt="One of the design proposals" width="300" />
-<img src="Tiago2-background2.jpg" title="fig:Exploded" alt="Exploded" width="300" />
-
 **OScar** is the first attempt to design an entire car (nowadays, also
 extended to other vechicles - [bus](bus "wikilink"),
 [truck](truck "wikilink") and [motorcycle](motorcycle "wikilink")) using

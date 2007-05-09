@@ -1,6 +1,3 @@
-[[Image:4-OScar1.jpg|thumb|300px|One of the design proposals]]
-[[Image:Tiago2-background2.jpg|thumb|300px|Exploded]]
-
 '''OScar''' is the first attempt to design an entire car (nowadays, also extended to other vechicles - [[bus]], [[truck]] and [[motorcycle]]) using [[open source]] principles. The aim of the project is mainly to produce [[blueprint]]s, using essentially open source [[CAD]]. The project is still far from producing a real car, but the progress has been continuous for some years.
 
 The Goal of the project is not to produce a sophisticated car, but rather a simple and functional basic one, which answer basic people's transportation needs. A long term goal is also to introduce [[standardization]] in [[auto part|parts]] manufacturing (very much in the open source way) to use [[economies of scale]]. This is a radical change from the car industry current practices and [[business model]], where every manufacturer has his own standards. This monopoly on brand specific parts often constitutes an important part of the manufacturers' revenues.
