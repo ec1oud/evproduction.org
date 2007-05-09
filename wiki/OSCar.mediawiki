@@ -22,4 +22,4 @@ Among the challenges this car will have to overcome, before reaching the manufac
 
 [[Category:Open machine]]
 
-{{Modern-auto-stub}}
+{{stub}}
