@@ -12,8 +12,9 @@ This group is for the purpose of getting EV's into production by group
 effort. The auto companies will not do it so we must do it ourselves.
 
 We intend to enable start up of [open
-hardware](wikipedia:open_hardware "wikilink") EV production lines of
-several types of EV's done by group vote with money raised by the group.
+hardware](wikipedia:open_hardware "wikilink") EV production lines and
+standards of several types of EV's done by group vote with money raised
+by the group.
 
 These could be either proposals by people to the group or by the group
 designing the EV's and putting it out to bid to be built in whatever
