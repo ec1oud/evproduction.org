@@ -98,6 +98,9 @@ with our experience in EV's do them right.
 The EVProduction club is for those who want EV's on the market and
 willing to help make it happen.
 
+-   [Bootstrap to develop
+    ideas](http://www.bootstrapaustin.org/wiki/index.php/Welcome_to_the_Bootstrap_Network).
+
 Our first car, the Freedom EV
 -----------------------------
 
