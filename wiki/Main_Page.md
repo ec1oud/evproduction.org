@@ -2,6 +2,8 @@
 title: b'Main Page'
 permalink: b'wiki/Main_Page/'
 layout: wiki
+tags:
+ - Main
 ---
 
 <center>
