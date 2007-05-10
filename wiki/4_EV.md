@@ -87,7 +87,7 @@ involved in the decision process.
 ### [Body](/wiki/FreedomEV_Body "wikilink")
 
 -   composite one-piece body/chassis
--   3 doors
+-   5 doors
 
 ### Interior & accessories
 
