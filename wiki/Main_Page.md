@@ -9,22 +9,25 @@ tags:
 <center>
 </center>
 
-<img src="Baker-ad1.jpg" title="fig:Baker" alt="Baker" width="80" /> At
-the beginning of the 20th century, as the "horseless carriage" was being
-developed, there were 3 favored options for propulsion: a steam engine
-(like the trains of the era), an internal combustion engine, or an
-electric motor. Women tended to prefer electric cars because they were
-clean and didn't require cranking the engine over by hand; while the men
-often preferred the gasoline-powered engine. And gasoline was incredibly
-cheap then, even when you account for inflation. It was a byproduct from
-the oil refineries which did not have many uses, and in some cases was
-simply discarded by dumping it on the ground.
+<figure>
+<img src="Baker-ad1.jpg" title="Baker" alt="Baker" width="80" /><figcaption>Baker</figcaption>
+</figure>At the beginning of the 20th century, as the "horseless
+carriage" was being developed, there were 3 favored options for
+propulsion: a steam engine (like the trains of the era), an internal
+combustion engine, or an [electric motor](electric_motor "wikilink").
+Women tended to prefer electric cars because they were clean and didn't
+require cranking the engine over by hand; while the men often preferred
+the gasoline-powered engine. And gasoline was incredibly cheap then,
+even when you account for inflation. It was a byproduct from the oil
+refineries which did not have many uses, and in some cases was simply
+discarded by dumping it on the ground.
 
 Now in the 21st century, with crude oil prices setting new records
-periodically, and our newfound concern about the global warming which we
-may have wrought upon this world, and the smog in our cities which
-changes local weather patterns and affects the health of everyone, it is
-becoming increasingly clear that gasoline must eventually be obsolete.
+periodically, and our newfound concern about the [global
+warming](global_warming "wikilink") which we may have wrought upon this
+world, and the smog in our cities which changes local weather patterns
+and affects the health of everyone, it is becoming increasingly clear
+that gasoline and other petroleum products must eventually be obsolete.
 Economic forces will soon push us willy-nilly toward any other option
 that we can grasp, as the supply is no longer keeping up with the demand
 of so many people who all want their own wheels. We expect to face this
@@ -32,26 +35,28 @@ change within our own lifetimes.
 
 Many people do not believe that electric cars could possibly be a
 practical alternative, simply because the first image that pops into
-their minds is probably the humble golf cart. And the government, always
-subject to the influence of lobbyists with ulterior motives, is telling
-us that hydrogen is the fuel of the future; even though there is no
-obvious source for so much hydrogen, to satiate the appetite of
-Americans for fast transportation, even if we leave the rest of the
-world to its own devices. The thing is, while they dream up this
-pie-in-the-sky future and make plans that will take decades to
-materialize (at least until that idea falls out of vogue again), it's
-been possible for many decades already to build an electric car that
-will go down the freeway just as well as the gas-powered ones, and will
-handle your daily commute and errands reliably. What was possible in the
-early 20th century has improved since then, just as gas-powered engines
-have evolved.
+their minds is probably the humble [golf cart](golf_cart "wikilink") or
+a vehicle with a short range. And the government, always subject to the
+influence of lobbyists with ulterior motives, is telling us that
+hydrogen is the fuel of the future; even though there is no obvious
+source for so much hydrogen, to satiate the appetite of Americans for
+fast transportation, even if we leave the rest of the world to its own
+devices. The thing is, while they dream up this pie-in-the-sky future
+and make plans that will take decades to materialize (at least until
+that idea falls out of vogue again), it's been possible for many decades
+already to build an electric car that will go down the freeway just as
+well as the gas-powered ones, and will handle your daily commute and
+errands reliably. What was possible in the early 20th century has
+improved since then, just as gas-powered engines have evolved.
 
 Because computers have become commonplace and cheap, and there are so
-many skilled programmers, an idea called "open source" has taken off
+many skilled programmers, an idea called "open source", including [open
+source hardware](open_source_hardware "wikilink"), has taken off
 exponentially in the past decade. The most creative programmers are
-pooling their spare time to write free programs, which anyone can use,
-and anyone can fix problems, or make improvements, and give those
-changes to the world. If you are reading this page with the
+pooling their spare time to write free programs and operating systems
+(as [Linux](wikipedia:Linux "wikilink")), which anyone can use, and
+anyone can fix problems, or make improvements, and give those changes to
+the world. If you are reading this page with the
 [Firefox](http://www.mozilla.com/firefox/) browser, then you are already
 benefitting from the open source movement. And for almost every other
 task as well, some free software is available.
