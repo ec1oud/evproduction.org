@@ -54,9 +54,10 @@ changes to the world. If you are reading this page with the
 benefitting from the open source movement. And for almost every other
 task as well, some free software is available.
 
-We think the time is right for the "open source" car. It will be a car
-for the people which is built by the people, and keeps up with the
-traffic of the rest of the people on the freeway.
+We think the time is right for the [open source
+vehicle](open_source_vehicle "wikilink"). It will be a car for the
+people which is built by the people, and keeps up with the traffic of
+the rest of the people on the freeway.
 
 On these pages we aim to detail exactly how it's possible. So read on,
 and keep in mind that your ideas matter too, and we want to hear about
