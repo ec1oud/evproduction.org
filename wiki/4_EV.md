@@ -6,7 +6,8 @@ tags:
  - Freedom EV
 ---
 
-This is a 4-wheeler car
+This is a 4-wheeler car, based in [OSCar](/wiki/OSCar "wikilink") with
+electric motor.
 
 [Latest Progress](/wiki/Progress_Pics "wikilink")
 -------------------------------------------
