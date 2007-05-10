@@ -29,3 +29,8 @@ yourself!)</small>
 -   [Alex Smith](/wiki/Alex_Smith "wikilink")
 -   [Mark Hastings](/wiki/Mark_Hastings "wikilink")
 -   [Seth Rothenberg](/wiki/Seth_Rothenberg "wikilink")
+
+Proposed articles
+-----------------
+
+-   [Battery electric vehicle](/wiki/Battery_electric_vehicle "wikilink")
