@@ -38,7 +38,11 @@ One can use [[OSCar]] as a base to develop a greener car, the Freedom EV.
 *[[Progress Pics|Latest Progress]]
 *[http://autos.groups.yahoo.com/group/EVProduction/ The Yahoo group]
 
-==Other Production EV's==
+==Other EVProduction Goods==
+* [[EVProduction vehicles]]
+* [[EVProduction complements]], includin a range extender [[baset trailer]
+
+==Other EV's==
 
 *[http://www.austinev.org/evalbum/655.html The Solectria Sunrise] did not make it into production as fast as planned, but it just might get there yet!  We're working on it...
 *[http://www.myersmotors.com/ The Sparrow] was introduced in 1999, sold for a couple years, and now once again you can buy it.  It is freeway capable, but holds only one person.  Think of it as an enclosed, safer motorcycle.

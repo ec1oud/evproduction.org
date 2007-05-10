@@ -125,8 +125,15 @@ car, the Freedom EV.
 -   [Latest Progress](/wiki/Progress_Pics "wikilink")
 -   [The Yahoo group](http://autos.groups.yahoo.com/group/EVProduction/)
 
-Other Production EV's
----------------------
+Other EVProduction Goods
+------------------------
+
+-   [EVProduction vehicles](/wiki/EVProduction_vehicles "wikilink")
+-   [EVProduction complements](/wiki/EVProduction_complements "wikilink"),
+    includin a range extender \[\[baset trailer\]
+
+Other EV's
+----------
 
 -   [The Solectria Sunrise](http://www.austinev.org/evalbum/655.html)
     did not make it into production as fast as planned, but it just
