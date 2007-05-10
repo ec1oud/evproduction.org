@@ -17,3 +17,11 @@ See also
 --------
 
 -   [EVProduction complements](/wiki/EVProduction_complements "wikilink")
+
+External links
+--------------
+
+-   [Bootstrap to develop
+    ideas](http://www.bootstrapaustin.org/wiki/index.php/Welcome_to_the_Bootstrap_Network)
+-   [online
+    financing](http://www.bootstrapaustin.org/wiki/index.php/Bootstrap_Online_Financing).

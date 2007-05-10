@@ -7,5 +7,8 @@
 
 == See also == 
 * [[EVProduction complements]]
+== External links ==
+* [http://www.bootstrapaustin.org/wiki/index.php/Welcome_to_the_Bootstrap_Network Bootstrap to develop ideas]
+* [http://www.bootstrapaustin.org/wiki/index.php/Bootstrap_Online_Financing online financing].
 
 {{Stub}}
