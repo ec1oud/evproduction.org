@@ -97,7 +97,7 @@ involved in the decision process.
 -   type (twelve 6v flooded golf cart batteries, [Trojan
     T-105](http://www.trojan-battery.com/Products/ProductSpec.aspx?Name=T-105)
     or equivalent?)
--   battery box 36" wide x 45" long x 12" high
+-   [battery box](battery_box "wikilink") 36" wide x 45" long x 12" high
 
 ### [Body](/wiki/FreedomEV_Body "wikilink")
 

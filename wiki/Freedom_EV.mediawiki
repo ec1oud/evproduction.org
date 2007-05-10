@@ -66,7 +66,7 @@ These are not all decided yet; choices here are the current favorites.  Links on
 
 ===[[FreedomEV Batteries|Batteries]]===
 *type (twelve 6v flooded golf cart batteries, [http://www.trojan-battery.com/Products/ProductSpec.aspx?Name=T-105 Trojan T-105] or equivalent?)
-*battery box 36" wide x 45" long x 12" high
+*[[battery box]] 36" wide x 45" long x 12" high
 
 ===[[FreedomEV Body|Body]]===
 *composite one-piece body/chassis
