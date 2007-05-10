@@ -1,0 +1,6 @@
+Complements for EVProduction vehicles, includes : 
+
+* [[Baset trailer]] and [[removable battery|removable batteries]]. The business strategy includes acquire batteries and removable batteries to offer them for [[wikipedia:renting|renting]] (including maintenance costs). EVProduction could offer replace and/or recharge points for batteries.
+
+{{stub}}
+[[Category:complements]]
