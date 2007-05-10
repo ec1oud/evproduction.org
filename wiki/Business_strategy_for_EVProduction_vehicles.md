@@ -17,5 +17,5 @@ Resources
 See also
 --------
 
--   [Business strategy for Freedom
-    EV](/wiki/Business_strategy_for_Freedom_EV "wikilink")
+-   [Business strategy for the Freedom
+    EV](/wiki/Business_strategy_for_the_Freedom_EV "wikilink")
