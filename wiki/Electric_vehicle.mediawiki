@@ -1,0 +1,125 @@
+{{clear}}
+An '''electric vehicle''', or EV, is a [[vehicle]] with one or more [[electric motor]]s for propulsion.  The motion may be provided either by [[wheels]] or [[propellers]] driven by rotary motors, or in the case of tracked vehicles, by [[linear motor]]s. 
+
+The [[energy]] used to propel the vehicle may be obtained from several sources:
+*from [[chemical energy]] stored on the vehicle in on-board batteries: [[Battery electric vehicle]] (BEV)
+*from both an on-board rechargeable energy storage system ([[rechargeable energy storage system|RESS]]) and a fueled propulsion power source: [[hybrid vehicle]], including [[plug-in hybrid]]
+*generated on-board using a combustion engine, as in a [[diesel-electric]] locomotive
+*generated on-board using a [[fuel cell]]: [[fuel cell vehicle]]
+*generated on-board using [[nuclear energy]], on nuclear [[submarine]]s and [[aircraft carrier]]s
+*from more esoteric sources such as [[Gyrobus|flywheels]], [[wind energy|wind]] and [[solar car|solar]] 
+*from a direct connection to land-based generation plants, as is common in [[electric train]]s and [[trolleybus|trolley buses]] (See also : [[third rail]] and [[Conduit current collection]])
+*from both an on-board rechargeable energy storage system and a direct continuous connection to land-based generation plants for purposes of on-highway recharging with unrestricted highway range.
+
+=== Advantages of electric vehicles ===
+
+Electric motors are used to drive vehicles because they can be finely controlled, they deliver power efficiently and they are mechanically very simple.  Electric motors often achieve 90% conversion efficiency over the full range of speeds and power output and can be precisely controlled.  Electric motors can provide high torque while an EV is stopped, unlike [[internal combustion engine]]s, and do not need gears to match power curves.  This removes the need for [[Transmission (mechanics)|gearbox]]es and [[torque converter]]s.  Electric motors also have the ability to convert movement energy back into electricity, through [[regenerative braking]].  This can be used to reduce the wear on brake systems and reduce the total energy requirement of a trip.
+
+Another advantage is that electric vehicles lack the vibration and noise pollution of a vehicle powered by an [[internal combustion engine]]. [[Trolleybus]]es are especially capable of this advantage, due to the fact that trolleybuses also lack the noise of steel wheels on rails, unlike [[Tram]]s.
+
+Why electricity?: 
+* First, electricity offers outstanding benefits… beginning with the opportunity to diversify fuel sources “upstream” of the vehicle. In other words, the electricity that is used to drive the vehicle can be made from the best local fuel sources – natural gas, coal, nuclear, wind, hydroelectric, and so on. So, before you even start your vehicle, you’re working toward energy diversity.
+* Second, electrically driven vehicles… are zero-emission vehicles. And when the electricity, itself, is made from a renewable source, the entire energy pathway is emissions free.
+* Third, electrically driven vehicles offer great performance… with extraordinary acceleration, instant torque, improved driving dynamics, and so on. [http://finance.senate.gov/hearings/testimony/2007test/050107testme.pdf]
+
+
+== Large-scale electric transport ==
+
+Most large electric transport systems are powered by stationary sources of electricity that are directly connected to the vehicles through wires.  Due to the extra infrastructure and difficulty in handling arbitrary travel, most directly connected vehicles are owned publicly or by large companies.  These forms of transportation are covered in more detail in [[Magnetic levitation train|maglev trains]], [[metro]]s, [[tram]]s, [[train]]s and [[trolleybus]]es.  A hypothetical electric vehicle design is the [[personal rapid transit]], a cross between cars and trains optimised for independent travel.
+
+In most systems the motion is provided by a rotary electric motor.  However, some trains unroll their motors to drive directly against a special matched track. These are known as [[linear motor]]s and are most commonly used in maglev trains which float above the rails through magnetic force. This allows for almost no rolling resistance of the vehicle and no mechanical wear and tear of the train or track. The levitation and the forward motion are independent effects; the forward motive forces still require external power, but [[Inductrack]] achieves levitation at low speeds without any.
+
+== Chemical-electric power ==
+[[Image:2402 'County of Hampshire' at Wool.JPG|thumb|250px|right|A passenger railroad, taking power through a [[third rail]]]]
+
+Chemical energy is a common independent energy source.  Chemical energy is converted to electrical energy, which is then regulated and fed to the drive motors.  Chemical energy is usually in the form of [[diesel]] or [[petrol]] ([[gasoline]]).  The liquid fuels are usually converted into electricity by an [[electrical generator]] powered by an internal combustion engine or other [[heat engine]].  This approach is known as [[diesel-electric]] or gas-[[hybrid vehicle|hybrid]] locomotion.
+
+Another common form of chemical to electrical conversion is by electro-chemical devices.  These include [[fuel cell]]s and [[battery (electricity)|batteries]].  By avoiding an intermediate mechanical step, the conversion efficiency is dramatically improved over the chemical-thermal-mechanical-electrical-mechanical process already discussed.  This is due to the higher carnot efficiency through directly oxidizing the fuel and by avoiding several unnecessary energy conversions.  Furthermore, electro-chemical batteries conversions are easy to reverse, allowing electrical energy to be stored in chemical form.
+
+Despite the higher efficiency, electro-chemical vehicles have been beset by a technical issue which has prevented them from replacing the more cumbersome heat engines: energy storage.  Fuel cells are fragile, sensitive to contamination, and require external reactants such as [[hydrogen]].  Batteries currently used are either not mass-produced, leading to high per-unit prices, or end up being a significant (25%-50%) portion of the final vehicle mass, in the case of conventional lead-acid technology.  Both have lower [[Energies per unit mass|energy]] and [[Specific power|power density]] than petroleum fuels. However, recent advances in battery efficiency, capacity, materials, safety, toxicity and durability are likely to allow their superior characteristics to be widely applied in car-sized EVs,
+
+For especially large electric vehicles, such as [[submarine]]s and [[aircraft carrier]]s, the chemical energy of the diesel-electric can be replaced by a [[nuclear reactor]].  The nuclear reactor usually provides heat, which drives a [[steam turbine]], which drives a generator, which is then fed to the propulsion.
+
+
+
+== Electric motor ==
+{{Main|Electric motor|Energy efficiency}}
+The power of a vehicle electric motor, as in other vehicles, is measured in [[kw]].
+
+==History==
+{{main|history of the electric vehicle}}
+
+[[Image:Ed_d22m.jpg|250px|thumb|right|[[Edison]] and an electric car, 1913 (courtesy of the [[National Museum of American History]])]]
+Electric motive power started with a small railway operated by a miniature electric motor, built by [[Thomas Davenport]] in [[1835]].  In [[1838]], a Scotsman named [[Robert Davidson]] built an electric locomotive that attained a speed of four miles an hour. In [[England]] a patent was granted in 1840 for the use of rails as conductors of electric current, and similar American patents were issued to [[Lilley and Colten]] in [[1847]]. <ref>[http://mikes.railhistory.railfan.net/r066.html]</ref>
+
+Between 1832 and 1839 (the exact year is uncertain), [[Robert Anderson (businessman)|Robert Anderson]] of [[Scotland]] invented the first crude electric carriage, powered by non-rechargeable [[Primary cell]]s. <ref>[http://inventors.about.com/library/weekly/aacarselectrica.htm]</ref>
+
+By the 20th century, electric cars and rail transport were commonplace, with commercial electric automobiles having the majority of the market.  Electrified trains were used for [[coal]] transport as the motors did not use precious [[oxygen]] in the mines.  [[Switzerland]]'s lack of natural fossil resources forced the rapid electrification of [[Rail transport in Switzerland|their rail network]].  One of the earliest [[rechargeable batteries]] -
+the [[Nickel-iron battery]] - was favored by [[Edison]] for use in [[electric cars]].
+
+Electric vehicles were among the earliest automobiles, and before the preeminence of light, powerful [[internal combustion engines]], electric automobiles held many vehicle land speed and distance records in the early [[1900s]]. They were produced by [[Anthony Electric]], [[Baker Electric]], [[Detroit Electric]], and others and at one point in history out-sold gasoline-powered vehicles.
+
+In the early 20th century, [[National City Lines]], which was a partnership of [[General Motors]], [[Firestone Tire and Rubber Company|Firestone]], and [[Standard Oil of California]] purchased many electric [[tram]] networks across the country to dismantle them and replace them with GM buses. The partnership was convicted for this [[General Motors streetcar conspiracy|conspiracy]], but the ruling was overturned in a higher court.  Electric tram line technologies could be used to recharge [[BEV]]s and [[PHEV]]s on the highway
+while the user drives, providing virtually unrestricted driving range.  The technology is old and well established  (see :  [[Conduit current collection]], [[Nickel-iron battery]]).  The infrastructure has not been built.
+
+[[Image:Evcrushed.jpg|thumb|right|250px|EV1s crushed by General Motors only 5 years after production]]
+
+From 1996 to 1998 during emissions reductions regulations GM produced 1117 of their [[General Motors EV1|EV1]] models, 800 of which were made available through 3-year leases.  In [[2003]], upon the expiration of [[General Motors EV1|EV1]] leases, GM crushed them.  The reason for the crushing is not clear, but has variously been attributed to (1) the auto industry's successful challenge to California law requiring zero emission vehicles or (2) a federal regulation requiring GM to produce and maintain spare parts for the few thousands EV1s or (3) a conspiracy to remove the dream of electric vehicles from the public consciousness.  A movie made on the subject in 2005-2006 was titled [[Who killed the electric car|Who Killed the Electric Car?]] and released theatrically by [[Sony Pictures Classics]] in 2006. The film explores the roles of [[automobile manufacturer]]s, [[oil industry]], the [[US government]], [[batteries]], [[Hydrogen (car)|hydrogen vehicles]], and [[consumer]]s, and each of their roles in limiting the deployment and adoption of this technology.
+
+==Future==
+{{main|Battery electric vehicle}}
+<div style="float: right; clear: right">[[Image:Eliica.jpg|thumb|250px|none|[[Eliica]] Battery Electric Car with 370 km/h top speed and 200 km range]]
+[[Image:New Vehicle Purchase Preference.gif|none|thumb|250px|The number of US survey respondents willing to pay $4,000 more for a [[Plug-in hybrid electric vehicle|plug-in hybrid]] car increased from 17% in 2005 to 26% in 2006.]]</div>
+
+Several start-up companies, like [[Tesla Motors]] and [[Phoenix Motorcars]], will have powerful battery-electric vehicles available to the public in 2008.  Battery and energy storage technology is advancing rapidly.  Electric car are perfectly useful as second household vehicle for usual short and medium distance trips of 100 to 250 miles per charge.  The range issue will be improved by technologies such as [[Plug-in hybrid]] electric vehicles which are capable of using traditional fuels for unlimited range.
+
+===Improved long term energy storage and nano batteries===
+There have been several developments which could bring back electric vehicles outside of their current fields of application, as scooters, golf cars, neighborhood vehicles, in industrial operational yards and indoor operation. First, advances in [[Lithium ion battery|lithium-based battery technology]], in large part driven by the consumer electronics industry, allow full-sized, highway-capable electric vehicles to be propelled as far on a single charge as conventional cars go on a single tank of gasoline. Lithium batteries have been made safe, can be recharged in minutes instead of hours, and now last longer than the typical vehicle. The production cost of these lighter, higher-capacity lithium batteries is gradually decreasing as the technology matures and production volumes increase.
+
+===Introduction of Battery Management and Intermediate Storage===
+Another improvement was to decouple the electric motor from the battery through electronic control while employing [[ultra-capacitor]]s to buffer large but short power demands and [[regenerative braking]] energy.  The development of new cell types combined with intelligent cell management improved both weak points mentioned above. The cell management involves not only monitoring the health of the cells but also a redundant cell configuration (one more cell than needed).  With sophisticated switched wiring it is possible to condition one cell while the rest are on duty.
+
+==Patents==
+*
+* {{US patent|1017198}}, E. W. Bender, ''Electric Motor vehicle''
+
+==See also==
+* [[Battery electric vehicle]].
+* [[Battery propulsion semi-trailer]].
+* [[Buckeye Bullet]].
+* [[Dual-mode vehicle]].
+* [[Electric motorcycles and scooters]].
+* [[Electric vehicle conversion]].
+* [[Electric vehicle production]].
+* [[Fuel Cell Vehicle]].
+* [[Green tuning]].
+* [[Hybrid vehicle]].
+* [[Hydrogen vehicle]].
+* [[Mitigation of global warming]].
+* [[National Electric Drag Racing Association]].
+* [[Plug-in hybrid electric vehicle]].
+* [[Solar car]]
+* [[Who Killed the Electric Car?|''Who Killed the Electric Car?'']], [[documentary film]].
+* [[World Green Car]].
+
+==External links==
+*[http://www.cosmosmagazine.com/node/957 2007 – Year of the electric car]: [[nanotechnology]] batteries.
+*[http://www.cbev.org The Campaign for Battery Electric Vehicles (UK based)]
+*[http://www.eere.energy.gov/afdc/altfuel/electricity.html DOE Alternative Fuels Data Center - Electricity]
+*[http://www.pbs.org/now/shows/223/index.html The PBS newsmagazine NOW] takes a closer look at the life and death of the electric vehicle, including interviews with "[[Who killed the electric car]]?" director [[Chris Paine]], and [[Baywatch]] actress/EC Enthusiast [[Alexandra Paul]]
+*[http://www.eaaev.org/ The Electric Auto Association (EAAEV)]
+*[http://www.electriccarsociety.com/ Electric Car Society]
+*[http://www.pluginamerica.com/ PlugInAmerica.com]
+*[http://evproduction.org/wiki/index.php?title=Main_Page EVProduction wiki: open source electric vehicles].
+*[http://www.evalbum.com/ The EV Photo Album - Photos and information of many types and styles of EVs and EV conversions]
+*[http://www.sciam.com/article.cfm?chanID=sa006&articleID=00065437-FFF8-14E5-BFF883414B7F0000 New Scientific American article]
+*[http://www.evworld.com/ EV World - News about Electric Cars, Plug-in Hybrids, Hydrogen Fuel-Cell Vehicles and All Forms of Alternative Modes of Transportation]
+*[http://www.electrifyingtimes.com/ Electrifying Times - The International Magazine of Electric Vehicles, Hybrids, Fuel Cells, Batteries, Alternative Fuels, Electric Car Racing & Exhibition]
+* [http://www.geocities.com/CapeCanaveral/Lab/8679/evcalc.html Electric vehicle calculator].
+* [http://inventors.about.com/library/weekly/aacarselectrica.htm The History of Electric Vehicles].
+
+{{Energy Transportation}}
+
+[[Category:Alternative propulsion]]
+[[Category:Electric vehicles| ]]
+[[Category:Renewable energy]]
