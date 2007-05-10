@@ -71,6 +71,33 @@ and keep in mind that your ideas matter too, and we want to hear about
 them! We invite you to change and improve every page, and to write your
 own dreams. If we work together, maybe all our wishes can be fulfilled.
 
+EVProduction club
+-----------------
+
+The EVProduction club began life as a [Yahoo mailing
+list](http://groups.yahoo.com/group/EVProduction/). The current plan is
+to collect dues from members to fund the club's projects.
+
+This group is for the purpose of getting EV's into production by group
+effort. The auto companies will not do it so we must do it ourselves. We
+intend to enable start up of [open
+hardware](wikipedia:open_hardware "wikilink") EV production lines and
+standards of several types of EV's done by group vote with money raised
+by the group.
+
+These could be either proposals by people to the group or by the group
+designing the EV's and putting it out to bid to be built in whatever
+manner the group decides.
+
+There will be dues as decided by the elected board and once an EV plan
+is decided, production slots will be first deposit, first unit basis.
+
+By spreading the costs amoung many we can keep the risk very low and
+with our experience in EV's do them right.
+
+The EVProduction club is for those who want EV's on the market and
+willing to help make it happen.
+
 Our first car, the Freedom EV
 -----------------------------
 

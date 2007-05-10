@@ -13,6 +13,21 @@ We think the time is right for the electric [[open source vehicle]].  It will be
 
 On these pages we aim to detail exactly how it's possible.  So read on, and keep in mind that your ideas matter too, and we want to hear about them!  We invite you to change and improve every page, and to write your own dreams.  If we work together, maybe all our wishes can be fulfilled.
 
+== EVProduction club == 
+
+The EVProduction club began life as a [http://groups.yahoo.com/group/EVProduction/ Yahoo mailing list]. The current plan is to collect dues from members to fund the club's projects.
+
+This group is for the purpose of getting EV's into production by group effort. The auto companies will not do it so we must do it ourselves. We intend to enable start up of [[wikipedia:open hardware|open hardware]] EV production lines and standards of several types of EV's done by group vote with money raised by the group. 
+
+These could be either proposals by people to the group or by the group designing the EV's and putting it out to bid to be built in whatever manner the group decides. 
+
+There will be dues as decided by the elected board and once an EV plan is decided, production slots will be first deposit, first unit basis.
+
+By spreading the costs amoung many we can keep the risk very low and with our experience in EV's do them right.
+
+The EVProduction club is for those who want EV's on the market and willing to help make it happen. 
+
+
 ==Our first car, the Freedom EV==
 
 Want to break free from oil dependence, but continue to experience the freedom of the open highway?  Want to keep your free time to yourself, not spend too much of it building your own car?  The [[Freedom EV]] is going to be one of your best choices.  [[Jerry Dycus]] is setting up production of these, and has some great momentum going.  It's a grassroots project, no big capitalist financing involved, which means that for now it's a kit car.  As the momentum builds, Jerry plans to get the bodies into larger-scale production, and eventually to sell finished cars.  [[EVProduction:Community Portal|A few others]] are hashing out some of the other details.
