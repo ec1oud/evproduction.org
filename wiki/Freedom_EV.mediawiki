@@ -76,3 +76,5 @@ These are not all decided yet; choices here are the current favorites.  Links on
 *seats 2, side-by-side buckets 48" wide cabin
 *heater 
 *air conditioner,  Electric
+
+[[Category:Freedom EV]]

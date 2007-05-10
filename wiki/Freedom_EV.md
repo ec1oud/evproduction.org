@@ -2,6 +2,8 @@
 title: b'Freedom EV'
 permalink: b'wiki/Freedom_EV/'
 layout: wiki
+tags:
+ - Freedom EV
 ---
 
 This is a 3-wheeler "tadpole" EV with 2 steerable front wheels, 1 driven
