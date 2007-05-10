@@ -1,4 +1,3 @@
-{{clear}}
 An '''electric vehicle''', or EV, is a [[vehicle]] with one or more [[electric motor]]s for propulsion.  The motion may be provided either by [[wheels]] or [[propellers]] driven by rotary motors, or in the case of tracked vehicles, by [[linear motor]]s. 
 
 The [[energy]] used to propel the vehicle may be obtained from several sources:
