@@ -54,7 +54,7 @@ changes to the world. If you are reading this page with the
 benefitting from the open source movement. And for almost every other
 task as well, some free software is available.
 
-We think the time is right for the [open source
+We think the time is right for the electric [open source
 vehicle](open_source_vehicle "wikilink"). It will be a car for the
 people which is built by the people, and keeps up with the traffic of
 the rest of the people on the freeway.

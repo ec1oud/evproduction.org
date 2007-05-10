@@ -8,7 +8,7 @@ Many people do not believe that electric cars could possibly be a practical alte
 
 Because computers have become commonplace and cheap, and there are so many skilled programmers, an idea called "open source" has taken off exponentially in the past decade.  The most creative programmers are pooling their spare time to write free programs, which anyone can use, and anyone can fix problems, or make improvements, and give those changes to the world.  If you are reading this page with the [http://www.mozilla.com/firefox/ Firefox] browser, then you are already benefitting from the open source movement.  And for almost every other task as well, some free software is available.
 
-We think the time is right for the [[open source vehicle]].  It will be a car for the people which is built by the people, and keeps up with the traffic of the rest of the people on the freeway.
+We think the time is right for the electric [[open source vehicle]].  It will be a car for the people which is built by the people, and keeps up with the traffic of the rest of the people on the freeway.
 
 On these pages we aim to detail exactly how it's possible.  So read on, and keep in mind that your ideas matter too, and we want to hear about them!  We invite you to change and improve every page, and to write your own dreams.  If we work together, maybe all our wishes can be fulfilled.
 
