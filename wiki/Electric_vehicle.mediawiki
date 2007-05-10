@@ -90,6 +90,7 @@ Another improvement was to decouple the electric motor from the battery through 
 * [[Electric motorcycles and scooters]].
 * [[Electric vehicle conversion]].
 * [[Electric vehicle production]].
+* [[EV income tax credit]]
 * [[Fuel Cell Vehicle]].
 * [[Green tuning]].
 * [[Hybrid vehicle]].

@@ -319,6 +319,7 @@ See also
     conversion](/wiki/Electric_vehicle_conversion "wikilink").
 -   [Electric vehicle
     production](/wiki/Electric_vehicle_production "wikilink").
+-   [EV income tax credit](/wiki/EV_income_tax_credit "wikilink")
 -   [Fuel Cell Vehicle](/wiki/Fuel_Cell_Vehicle "wikilink").
 -   [Green tuning](/wiki/Green_tuning "wikilink").
 -   [Hybrid vehicle](/wiki/Hybrid_vehicle "wikilink").
