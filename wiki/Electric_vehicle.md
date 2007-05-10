@@ -73,9 +73,9 @@ Why electricity?:
 -   First, electricity offers outstanding benefits, beginning with the
     opportunity to diversify fuel sources “upstream” of the vehicle. In
     other words, the electricity that is used to drive the vehicle can
-    be made from the best local fuel sources – natural gas, coal,
-    nuclear, wind, hydroelectric, and so on. So, before you even start
-    your vehicle, you’re working toward energy diversity.
+    be made from the best local clean fuel sources – preferly [renewable
+    energy](renewable_energy "wikilink") sources. So, before you even
+    start your vehicle, you’re working toward energy diversity.
 -   Second, electrically driven vehicles… are zero-emission vehicles.
     And when the electricity, itself, is made from a renewable source,
     the entire energy pathway is emissions free.

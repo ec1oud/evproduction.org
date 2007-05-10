@@ -17,7 +17,7 @@ Electric motors are used to drive vehicles because they can be finely controlled
 Another advantage is that electric vehicles lack the vibration and noise pollution of a vehicle powered by an [[internal combustion engine]]. [[Trolleybus]]es are especially capable of this advantage, due to the fact that trolleybuses also lack the noise of steel wheels on rails, unlike [[Tram]]s.
 
 Why electricity?: 
-* First, electricity offers outstanding benefits, beginning with the opportunity to diversify fuel sources “upstream” of the vehicle. In other words, the electricity that is used to drive the vehicle can be made from the best local fuel sources – natural gas, coal, nuclear, wind, hydroelectric, and so on. So, before you even start your vehicle, you’re working toward energy diversity.
+* First, electricity offers outstanding benefits, beginning with the opportunity to diversify fuel sources “upstream” of the vehicle. In other words, the electricity that is used to drive the vehicle can be made from the best local clean fuel sources – preferly [[renewable energy]] sources. So, before you even start your vehicle, you’re working toward energy diversity.
 * Second, electrically driven vehicles… are zero-emission vehicles. And when the electricity, itself, is made from a renewable source, the entire energy pathway is emissions free.
 * Third, electrically driven vehicles offer great performance… with extraordinary acceleration, instant torque, improved driving dynamics, and so on. [http://finance.senate.gov/hearings/testimony/2007test/050107testme.pdf]
 
