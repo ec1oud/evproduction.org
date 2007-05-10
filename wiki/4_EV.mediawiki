@@ -69,4 +69,6 @@ These are not all decided yet; choices here are the current favorites.  Links on
 == See also ==
 * [[EVProduction vehicles]]
 
+{{stub}}
+
 [[Category:Freedom EV]]
