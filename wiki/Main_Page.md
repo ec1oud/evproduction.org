@@ -101,7 +101,8 @@ willing to help make it happen.
 Our first car, the Freedom EV
 -----------------------------
 
-Want to break free from oil dependence, but continue to experience the
+Want to break free from nuclear-[oil
+dependence](oil_dependence "wikilink"), but continue to experience the
 freedom of the open highway? Want to keep your free time to yourself,
 not spend too much of it building your own car? The [Freedom
 EV](/wiki/Freedom_EV "wikilink") is going to be one of your best choices.
