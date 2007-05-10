@@ -53,13 +53,13 @@ Because computers have become commonplace and cheap, and there are so
 many skilled programmers, an idea called "open source", including [open
 source hardware](open_source_hardware "wikilink"), has taken off
 exponentially in the past decade. The most creative programmers are
-pooling their spare time to write free programs and operating systems
-(as [Linux](wikipedia:Linux "wikilink")), which anyone can use, and
-anyone can fix problems, or make improvements, and give those changes to
-the world. If you are reading this page with the
-[Firefox](http://www.mozilla.com/firefox/) browser, then you are already
-benefitting from the open source movement. And for almost every other
-task as well, some free software is available.
+pooling their spare time to write free programs and operating systems,
+which anyone can use, and anyone can fix problems, or make improvements,
+and give those changes to the world. If you are reading this page with
+the [Firefox](http://www.mozilla.com/firefox/) browser or uses
+[Linux](wikipedia:Linux "wikilink"), then you are already benefitting
+from the open source movement. And for almost every other task as well,
+some free software is available.
 
 We think the time is right for the electric [open source
 vehicle](open_source_vehicle "wikilink"). It will be a car for the
