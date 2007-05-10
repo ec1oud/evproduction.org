@@ -70,7 +70,7 @@ steel wheels on rails, unlike [Trams](/wiki/Tram "wikilink").
 
 Why electricity?:
 
--   First, electricity offers outstanding benefits… beginning with the
+-   First, electricity offers outstanding benefits, beginning with the
     opportunity to diversify fuel sources “upstream” of the vehicle. In
     other words, the electricity that is used to drive the vehicle can
     be made from the best local fuel sources – natural gas, coal,
