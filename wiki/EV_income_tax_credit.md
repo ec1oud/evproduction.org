@@ -26,11 +26,12 @@ mileage than their non-hybrid equivalents. But in the end, they are
 gasoline-powered cars. The only way to put energy into your Prius is
 through its gas tank.
 
-However, a real electric car does a whole lot more to reduce our
-dependence on foreign oil and to reduce our emissions of greenhouse
-gasses than any hybrid ever can. We should be encouraging new car buyers
-to consider an electric car instead of a gasoline car – even instead of
-a hybrid.
+However, a real [electric car](electric_car "wikilink") does a whole lot
+more to reduce our [dependence on foreign
+oil](petroleum_dependence "wikilink") and to reduce our emissions of
+[greenhouse gases](greenhouse_gas "wikilink") than any hybrid ever can.
+We should be encouraging new car buyers to consider an electric car
+instead of a gasoline car – even instead of a hybrid.
 
 For this reason must be reconsidered some of what Senator Rockefeller
 proposed in his Alternative Fuel Promotion Act a few years back:
