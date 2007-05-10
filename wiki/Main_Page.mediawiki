@@ -16,6 +16,8 @@ On these pages we aim to detail exactly how it's possible.  So read on, and keep
 
 Want to break free from oil dependence, but continue to experience the freedom of the open highway?  Want to keep your free time to yourself, not spend too much of it building your own car?  The [[Freedom EV]] is going to be one of your best choices.  [[Jerry Dycus]] is setting up production of these, and has some great momentum going.  It's a grassroots project, no big capitalist financing involved, which means that for now it's a kit car.  As the momentum builds, Jerry plans to get the bodies into larger-scale production, and eventually to sell finished cars.  [[EVProduction:Community Portal|A few others]] are hashing out some of the other details.
 
+One can use [[OSCar]] as a base to develop a greener car, the Freedom EV.
+
 *[[Progress Pics|Latest Progress]]
 *[http://autos.groups.yahoo.com/group/EVProduction/ The Yahoo group]
 

@@ -78,6 +78,9 @@ production, and eventually to sell finished cars. [A few
 others](/wiki/EVProduction:Community_Portal "wikilink") are hashing out some
 of the other details.
 
+One can use [OSCar](/wiki/OSCar "wikilink") as a base to develop a greener
+car, the Freedom EV.
+
 -   [Latest Progress](/wiki/Progress_Pics "wikilink")
 -   [The Yahoo group](http://autos.groups.yahoo.com/group/EVProduction/)
 
