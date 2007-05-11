@@ -30,8 +30,6 @@ Four Wheelers
 
 -   [4 EV](4_EV "wikilink"), 4 Wheeled Car
 -   [4 Wheeled Kit Car](4_Wheeled_Kit_Car "wikilink")
--   [Conversion kit for VW
-    Beetle](/wiki/Conversion_kit_for_VW_Beetle "wikilink")
 -   [Sundancer](/wiki/Sundancer "wikilink") or
     [Sundancer](http://motortrend.com/roadtests/classic/112_0405_archive/)
     1970-73 Mckee chassis \#1-\#3.
@@ -43,3 +41,8 @@ Four Wheelers
     Hustler](http://www.austin-rover.co.uk/index.htm?townshustlerf.htm)
     modular concept devised by William Towns in July 1978 to demonstrate
     that such a car could be viable for low-volume production
+
+### Conversion kits
+
+-   [Conversion kit for VW
+    Beetle](/wiki/Conversion_kit_for_VW_Beetle "wikilink")
