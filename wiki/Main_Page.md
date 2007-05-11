@@ -180,6 +180,8 @@ not perform as well as one that is designed for it.
     conversion](http://www.plasmaboyracing.com/whitezombie.php) happens
     to run 12-second 1/4 mile races
 
+One can use also a [glider](glider "wikilink") and install a EV motor.
+
 EV myths
 --------
 
