@@ -1087,9 +1087,9 @@ Further reading
 External articles
 -----------------
 
--   [VE drive motor](http://www.austinev.org/evalbum/motor)
--   [Electricity museum: early
-    motors](http://www.sparkmuseum.com/MOTORS.HTM)
+-   [VE drive motor article](http://www.austinev.org/evalbum/motor)
+-   [Electric vehicle
+    motors](http://www.geocities.com/MotorCity/Downs/4214/links.html#EV%20Parts).
 -   [Electric Motors and
     Generators](http://www.phys.unsw.edu.au/~jw/HSCmotors.html),
     explanations with animations from the University of New South Wales.
