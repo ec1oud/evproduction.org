@@ -141,8 +141,6 @@ Other EV's
 -   [The Solectria Sunrise](http://www.austinev.org/evalbum/655.html)
     did not make it into production as fast as planned, but it just
     might get there yet! We're working on it...
--   [Other vehicle types](/wiki/Proposed_vehicle_types "wikilink") that have
-    been proposed by members of the EVProduction club
 -   [Another open-source EV project](http://www.fastbk.com/EVware/)
 -   [Enabling technologies](/wiki/Enabling_technologies "wikilink")
 -   [Rules & regulations](/wiki/Rules_&_regulations "wikilink")
