@@ -138,13 +138,7 @@ Other EV's
 ### Open source
 
 -   [SSM Open Source Green Vehicle](http://www.osgv.org/).
--   [The Solectria Sunrise](http://www.austinev.org/evalbum/655.html)
-    did not make it into production as fast as planned, but it just
-    might get there yet! We're working on it...
 -   [Another open-source EV project](http://www.fastbk.com/EVware/)
--   [Enabling technologies](/wiki/Enabling_technologies "wikilink")
--   [Rules & regulations](/wiki/Rules_&_regulations "wikilink")
--   [Pipe dreams](/wiki/Pipe_dreams "wikilink")
 
 ### Propietary
 
@@ -152,6 +146,16 @@ Other EV's
     sold for a couple years, and now once again you can buy it. It is
     freeway capable, but holds only one person. Think of it as an
     enclosed, safer motorcycle.
+-   [The Solectria Sunrise](http://www.austinev.org/evalbum/655.html)
+    did not make it into production as fast as planned, but it just
+    might get there yet! We're working on it...
+
+Other technologies and parts
+----------------------------
+
+-   [Enabling technologies](/wiki/Enabling_technologies "wikilink")
+-   [Rules & regulations](/wiki/Rules_&_regulations "wikilink")
+-   [Pipe dreams](/wiki/Pipe_dreams "wikilink")
 
 Conversions
 -----------
