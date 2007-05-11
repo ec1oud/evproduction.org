@@ -9,7 +9,7 @@ tags:
 ---
 
 ![A Lamborghini built golf
-cart](Lamborghini1.jpgtumb "A Lamborghini built golf cart")
+cart](Lamborghini1.jpg "A Lamborghini built golf cart")
 
 A **golf cart** (sometimes referred to as a **golf car** [1]) is a small
 [vehicle](vehicle "wikilink") designed originally to carry two
