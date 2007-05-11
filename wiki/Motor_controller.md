@@ -14,12 +14,12 @@ tags:
 ---
 
 A **motor controller** is a device or group of devices that serves to
-govern in some predetermined manner the performance of an [electric
-motor](electric_motor "wikilink"). A motor controller might include a
-manual or automatic means for starting and stopping the motor, selecting
-forward or reverse rotation, selecting and regulating the speed,
-regulating or limiting the torque, and protecting against overloads and
-faults.
+govern in some predetermined manner the performance of a vehicle drive
+[electric motor](electric_motor "wikilink"). A motor controller might
+include a manual or automatic means for starting and stopping the motor,
+selecting forward or reverse rotation, selecting and regulating the
+speed, regulating or limiting the torque, and protecting against
+overloads and faults.
 
 Scope of motor controller applications
 --------------------------------------
