@@ -137,7 +137,7 @@ Other EV's
 
 ### Open source
 
--   \[<http://www.osgv.org/>
+-   [SSM Open Source Green Vehicle](http://www.osgv.org/).
 -   [The Solectria Sunrise](http://www.austinev.org/evalbum/655.html)
     did not make it into production as fast as planned, but it just
     might get there yet! We're working on it...

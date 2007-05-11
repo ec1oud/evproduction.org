@@ -44,7 +44,7 @@ One can use [[OSCar]] as a base to develop a greener car, the Freedom EV.
 
 ==Other EV's==
 === Open source ===
-*[http://www.osgv.org/ 
+*[http://www.osgv.org/ SSM Open Source Green Vehicle]. 
 *[http://www.austinev.org/evalbum/655.html The Solectria Sunrise] did not make it into production as fast as planned, but it just might get there yet!  We're working on it...
 *[[Proposed vehicle types|Other vehicle types]] that have been proposed by members of the EVProduction club
 *[http://www.fastbk.com/EVware/ Another open-source EV project]
