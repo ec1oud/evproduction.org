@@ -8,11 +8,12 @@ tags:
  - Electric vehicles
 ---
 
-<figure>
-<img src="http://upload.wikimedia.org/wikipedia/commons/4/41/Lamborghini1.jpg" title="A Lamborghini built golf cart" alt="A Lamborghini built golf cart" width="250" /><figcaption>A Lamborghini built golf cart</figcaption>
-</figure>A **golf cart** (sometimes referred to as a **golf car** [1])
-is a small [vehicle](vehicle "wikilink") designed originally to carry
-two [golfers](golf "wikilink") and their [golf
+[thumb\|right\|250px\|A Lamborghini built golf
+cart](http://upload.wikimedia.org/wikipedia/commons/4/41/Lamborghini1.jpg "wikilink")
+
+A **golf cart** (sometimes referred to as a **golf car** [1]) is a small
+[vehicle](vehicle "wikilink") designed originally to carry two
+[golfers](golf "wikilink") and their [golf
 clubs](/wiki/Golf_club_(equipment) "wikilink") around a [golf
 course](golf_course "wikilink") faster and with less effort than
 [walking](walking "wikilink").
