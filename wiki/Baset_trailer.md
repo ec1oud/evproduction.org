@@ -8,8 +8,8 @@ tags:
  - Replacing
 ---
 
-![baset trailer without
-batteries](baset_trailer.jpg "baset trailer without batteries")
+![Baset trailer without
+batteries](baset_trailer.jpg "Baset trailer without batteries")
 
 A **baset trailer** is a range extending device for use with [battery
 electric vehicles](battery_electric_vehicle "wikilink") consisting of a
