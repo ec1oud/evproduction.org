@@ -1,3 +1,5 @@
+[[Image:baset_trailer.jpg|thumbnail|baset trailer without batteries]]
+
 A '''baset trailer''' is a range extending device for use with [[battery electric vehicle]]s consisting of a [[battery pack]] mounted in a [[trailer]].  The batteries (i.e.[http://enviromotors.com/wiki/index.php/Sparrow/Batteries "D34M" Optima Blue-Top and Yellow-Top batteries]) can be [[wikt:replace|replace]]d by recharged ones. Most small to midsized passenger vehicles would require 15 to 20 [[wikipedia:kW|kW]]. Larger vehicles could require 30 kW or more of power depending on how heavy and/or un-aerodynamic they happen to be. 
 
 They can be also used with [[electric bus]]es: bus companies can store recharged batteries in route strategic points ([[wikipedia:bus station|bus station]]s, [[filling station]]s, [[wikipedia:parking lot|parking lot]]s, [[wikipedia:electric utility|electric utility]] facilities, ad-hoc facilities or shops and so on).
@@ -13,7 +15,6 @@ In [[wikipedia:renting|renting]], the maintenance costs of baset trailers can be
 * [[Trailer]]
 == External links ==
 * [http://apple-trailers.com/custom.htm Custom trailers].
-* [http://commons.wikimedia.org/wiki/Image:Baset_trailer.jpg Utility trailer].
 * [http://en.wikipedia.org/wiki/Battery_range_extender_module Battery range extender module].
 
 {{stub}}

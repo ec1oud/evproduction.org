@@ -8,6 +8,9 @@ tags:
  - Replacing
 ---
 
+![baset trailer without
+batteries](baset_trailer.jpg "baset trailer without batteries")
+
 A **baset trailer** is a range extending device for use with [battery
 electric vehicles](battery_electric_vehicle "wikilink") consisting of a
 [battery pack](battery_pack "wikilink") mounted in a
@@ -46,7 +49,5 @@ External links
 --------------
 
 -   [Custom trailers](http://apple-trailers.com/custom.htm).
--   [Utility
-    trailer](http://commons.wikimedia.org/wiki/Image:Baset_trailer.jpg).
 -   [Battery range extender
     module](http://en.wikipedia.org/wiki/Battery_range_extender_module).
