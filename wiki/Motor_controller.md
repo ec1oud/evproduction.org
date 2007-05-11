@@ -21,59 +21,8 @@ motor, selecting forward or reverse rotation, selecting and regulating
 the speed, regulating or limiting the torque, and protecting against
 overloads and faults.
 
-Scope of motor controller applications
---------------------------------------
-
-The scope of motor control technology must be very wide to accommodate
-the wide variety of motor applications.
-
-### Domestic applications
-
-Electric motors are used domestically in [personal care
-products](small_appliance "wikilink"),
-[small](small_appliance "wikilink") and
-[large](major_appliance "wikilink") appliances, and residential heating
-and cooling equipment. In most domestic applications, the motor
-controller functions are built into the product. In some cases, such as
-bathroom ventilation fans, the motor is controlled by a switch on the
-wall. Some appliances have provisions for controlling the speed of the
-motor. Built-in circuit breakers protect some appliance motors, but most
-are unprotected except that the household fuse or circuit breaker panel
-disconnects the motor if it fails.
-
-### Office equipment, medical equipment etc.
-
-There is a wide variety of motorized office equipment such as personal
-computers, computer peripherals, copy machines and fax machines as well
-as smaller items such as electric pencil sharpeners. Motor controllers
-for these types of equipment are built into the equipment. Some quite
-sophisticated motor controllers are used to control the motors in
-computer disc drives. Medical equipment may include very sophisticated
-motor controllers.
-
-### Commercial applications
-
-Commercial buildings have larger heating ventilation and air
-conditioning ([HVAC](/wiki/HVAC "wikilink")) equipment than that found in
-individual residences. In addition, motors are used for elevators,
-escalators and other applications. In commercial applications, the motor
-control functions are sometimes built into the motor-driven equipment
-and sometimes installed separately.
-
-### Industrial applications
-
-Many industrial applications are dependent upon motors (or machines),
-which range from the size of your thumb to the size of a railroad
-locomotive. The motor controllers can be built into the driven
-equipment, installed separately, installed in an enclosure along with
-other machine control equipment or installed in motor control centers.
-Motor control centers are multi-compartment steel enclosures designed to
-enclose many motor controllers. It is also common for more than one
-motor controller to operate a number of motors in the same application.
-In this case the controllers communicate with each other so they can
-work the motors together as a team.
-
-### Vehicle applications
+Vehicle applications
+--------------------
 
 All types of engine-driven vehicles from automobiles, airplanes,
 aircraft carriers and agricultural equipment to
@@ -84,28 +33,6 @@ vehicles](electric_vehicles "wikilink"),
 vehicles](hybrid_vehicles "wikilink"), electric motors are used to
 propel the vehicle. The motor controllers in vehicle applications are
 integrated into the vehicle.
-
-### Power tools
-
-[Power tools](/wiki/Power_tools "wikilink") such as drills, saws and sanders
-are widely used by home owners, hobbyists, construction and repair
-trades people, and industrial workers. Both portable and stationary
-power tools usually have built in motor controllers and often include an
-adjustable speed feature.
-
-### Hobby equipment
-
-A variety of hobbies make use of specialized motorized equipment that is
-similar to domestic appliances or portable tools.
-
-[Radio controlled (R/C)](/wiki/Radio_control "wikilink")
-[models](scale_model "wikilink") may include fairly sophisticated motor
-controllers. The motor controllers are ultimately built into the
-equipment, but the hobbyist may purchase the controller separately or
-construct it.
-
-[Robotics](/wiki/Robot "wikilink") is another area in which the hobbyist may
-purchase a motor controller as a separate item or construct it.
 
 Types of motor controllers
 --------------------------
