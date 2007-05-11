@@ -5,4 +5,4 @@ layout: tagpage
 tag: Replacing
 ---
 
-
+Replacing instead of [recharging](recharging "wikilink")
