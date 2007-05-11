@@ -1,0 +1,264 @@
+''This page is about EV batteries.''
+
+In science and technology, a [[galvanic cell]] is an electrochemical cell that stores chemical [[energy]] and makes it available in an electrical form, and a '''battery''' is a string of two or more cells in series. Other types of electrochemical cell include [[electrolytic cell]]s, [[fuel cell]]s, or [[voltaic cell]]s.<ref>{{cite web |url=http://www.pspb.org/e21/media/Compare_pvfc_v108_TN.pdf |title=Spotlight on Photovoltaics & Fuel Cells: A Web-based Study & Comparison |accessdate=2007-03-14 |format=PDF |pages=1-2 }}</ref> The modern development of batteries started with the [[Voltaic pile]], invented by the Italian physicist [[Alessandro Volta]] in 1800.<ref>
+Banks, Sir Joseph (1800), "On the Electricity excited by the mere Contact of conducting Substances of different Kinds. In a Letter from Mr. Alessandro Volta, F.R.S., Professor of Natural Philosophy at the University of Pavia, to the Rt. Hon. Sir. Joseph Banks, Bart. K.B. P.R.S. Read June 26, 1800." ''Philosophical Transactions of the Royal Society of London,'' 1800, p. 403[http://www.journals.royalsoc.ac.uk/openurl.asp?genre=article&issn=0365-5695&volume=1&spage=27].
+The paper was submitted in April 1800 and read before the Royal Society on June 26, 1800: {{cite book|title="Science Education and Culture: The Contribution of History and Philosophy of Science"|first=Michael R.|last=Matthews|coauthors=Fabio Bevilacqua, Enrico Giannetto|publisher=Springer|year=2001|id=ISBN 0-7923-6972-6}}, [http://books.google.com/books?vid=ISBN0792369726&id=6Mk3YwBe5L4C&pg=PA261&lpg=PA261&sig=YWNePfQcdfQf5vz8B1qY1ettdIk p. 261].
+Some sources identify the year of ''invention'' as 1799; e.g. "The voltaic pile... was constructed by Volta in 1799, and became known in England in 1800," {{cite book|title=A Practical Treatise on the Medical and Surgical Uses of Electricity Including Localized and General Faradization, Localized and Central Galvanization, Franklinization, Electrolysis and Galvano-cautery|last=Beard|first=George Miller|year=1883|publisher=Wood}},  [http://books.google.com/books?vid=OCLC25102074&id=tRqZbI_vzlQC&pg=PA30&lpg=PA30 p. 30]
+The publication in 1800 "caused a sensation" according to {{cite book|title=Science and the Enlightenment|first=Thomas Leroy|last=Hankins|publisher=Cambridge University Press|year=1985|id=ISBN}}[http://books.google.com/books?vid=ISBN0521286190&id=MUvvOemrAe4C&pg=PA72&lpg=PA72&sig=lQ4FdyEauQF70YoqDj5L5CPc5Fw p. 72]
+</ref> According to a 2005 estimate, the worldwide battery industry generates [[United States dollar|US$]]48 [[1000000000 (number)|billion]] in sales annually.<ref>{{cite web |url=http://www.dfj.com/cgi-bin/artman/publish/article_141.shtml |title=Power Shift: DFJ on the lookout for more power source investments |accessdate=2005-11-20 |date= |publisher=Draper Fisher Jurvetson }}[http://www.dfj.com/cgi-bin/artman/publish/article_141.shtml Power Shift: DFJ on the lookout for more power source investments]. Accessed 20 November 2005].</ref>
+
+Formally, an electrical "battery" is a series-connected array of similar ''voltaic cells'' ("cells"). However, in many contexts it is common to call a single cell as a ''battery''.<ref>Battery" (def. 6), ''The Random House Dictionary of the English Language, the Unabridged Edition (2nd edition)'', 1996 ed.</ref>
+
+==History==
+
+{{main|History of the battery}}
+[[Image:DSC03487.jpg|right|thumb|A Voltaic Pile, the first battery.]]
+
+The earliest known artifacts that may have served as batteries are the [[Baghdad Battery|Baghdad Batteries]], which existed some time between [[250 BC]] and [[640|640 AD]]. However, it is not known what electrical function they may have served, and if they were in fact batteries at all. Scientists have developed several theories about its use, including [[medicine]] (as a [[painkiller]]) and [[electroplating]] jewelry.<ref>[http://www.world-mysteries.com/sar_11.htm World Mysteries - Strange Artifacts, Baghdad Battery]. Retrieved 16 March 2007.</ref>
+
+The story of the modern battery begins in the [[1780s]] with the discovery of "animal electricity" by [[Luigi Galvani]], which he published in [[1791]].<ref>Saslow, Ch. 8, p. 337.</ref> He created an [[electric circuit]] consisting of two different metals, with one touching a frog's leg and the other touching both the leg and the first metal, thus closing the circuit. In modern terms, the frog's leg served as both [[electrolyte]] and [[electrolytic detector|detector]], and the metals served as [[electrode]]s. He noticed that even though the frog was dead, its legs would twitch when he touched them with the metals.<ref>[http://www.corrosion-doctors.org/Biographies/GalvaniBio.htm Luigi Galvani - Corrosion Doctors]. Accessed 16 March 2007.</ref>
+
+By [[1791]], [[Alessandro Volta]] realized that the frog could be replaced by cardboard soaked in salt water, employing another form of detection. Having already studied the electrostatic phenomenon of [[capacitance]], Volta was able to quantitatively measure the [[electromotive force]] (emf) associated with each electrode-electrolyte interface ([[voltage]]) in [[volt]]s, which were named after him. Such a device is called a [[voltaic cell]], or cell for short. In [[1799]], Volta invented the modern battery by placing many galvanic cells in [[Series and parallel circuits#Series circuits|series]], literally piling them one above the other. This [[Voltaic Pile]] gave a greatly enhanced net emf for the combination,<ref>Willie Weinberg. [http://www.italian-american.com/volta.htm Volta - The Italian American Website of New York]. Accessed 19 March 2007.</ref> with a voltage of about 50 volts for a 32-cell pile.<ref>Saslow, Ch. 8, p. 338.</ref> In many parts of Europe batteries continue to be called piles.
+Unfortunately, Volta did not appreciate that the voltage was due to chemical reactions. He thought that his cells were an inexhaustible source of energy, and that the associated chemical effects (e.g., corrosion) were a mere nuisance -- rather than, as [[Michael Faraday]] showed around 1830, an unavoidable by-product of their operation.
+
+Later, researchers placed galvanic cells in [[Series and parallel circuits#Series_circuits|series]]. Such banks of cells are called batteries, presumably after the earlier use by [[Benjamin Franklin]] to describe [[Leyden jar]]s ([[capacitor]]s) in series and in parallel.<ref>Mary Bellis. [http://inventors.about.com/library/inventors/blbattery.htm History of the Electric Battery - About]. Accessed 19 March 2007.</ref>
+
+Although early batteries were of great value for experimental purposes, their limitations made them impractical for large current drain. Later, batteries, starting with the [[Daniell cell]] in [[1836]], provided more reliable currents and were adopted by industry for use in stationary devices, particularly in telegraph networks where they were the only practical source of electricity, since electrical distribution networks did not exist then.<ref>[http://www.mpoweruk.com/history.htm#daniell Battery History, Technology, Applications and Development]. Accessed 19 March 2007.</ref> These wet cells used liquid electrolytes, which were prone to leaks and spillage if not handled correctly. Many used glass jars to hold their components, which made them fragile. These characteristics made wet cells unsuitable for portable appliances. Near the end of the 19th century, the invention of dry cell batteries, which replaced liquid electrolyte with a paste made portable electrical devices practical.
+
+==How batteries work==
+{{main|Electrochemical cell}}
+[[Image:Galvanic cell.png|right|thumb| One example of a galvanic cell, element of a battery]]
+A battery is a device in which chemical energy is directly converted to electrical energy.<ref>Marshall Brain. [http://electronics.howstuffworks.com/battery.htm "How Batteries Work" - Howstuffworks]. Accessed 28 March 2007.</ref> It consists of one or more voltaic cells, each of which comprises two [[half cell]]s connected in series by the conductive electrolyte. A battery consists of one or more voltaic cells in series.  Each cell has a positive electrode (cathode), and a negative electrode (anode). These do not touch each other but are immersed in a solid or liquid electrolyte.<ref>[http://www.open2.net/science/roughscience/library/batteries.htm BBC- Rough Science Library]. Accessed 28 March 2007.</ref> In a practical cell the materials are enclosed in a container, and a separator between the electrodes prevents them from touching one another.
+
+Each half cell has a net [[electromotive force]] (or [[voltage]]), with the net voltage of the battery being the difference between the voltages of the half-cells. 
+The electrical potential difference across the terminals of a battery is known as its ''terminal voltage'', measured in [[volt]]s. The terminal voltage of a battery that is neither charging nor discharging is called the [[open-circuit voltage]]. The terminal voltage of a battery that is discharging is smaller in magnitude than the open-circuit voltage, and the terminal voltage of a battery being charged is greater than the open-circuit voltage. <ref>[http://www.tiscali.co.uk/reference/encyclopaedia/hutchinson/m0030399.html Terminal Voltage - Tiscali Reference]. Originally from ''Hutchinson Encyclopaedia''. Accessed 7 April 2007.</ref>
+
+The voltage developed across a cell's terminals depends on the chemicals used in it and their concentrations. For example, alkaline and carbon-zinc cells both measure about 1.5 volts, due to the energy release of the associated chemical reactions. Because of the high electrochemical potential changes in the reactions of [[lithium]] compounds, lithium cells can provide as much as 3 volts or more.
+
+==Classification of batteries==
+Batteries are usually divided into two broad classes:
+* ''Primary'' batteries irreversibly transform chemical energy to electrical energy.  Once the initial supply of reactants is exhausted, energy cannot be readily restored to the battery by electrical means. 
+* ''Secondary'' batteries can be recharged, that is, have their chemical reactions reversed by supplying electrical energy to the cell, restoring their original composition.<ref>Fink, Ch. 11, Sec. "Batteries and Fuel Cells."</ref>
+
+Historically, some types of primary batteries used, for example, for [[telegraph]] circuits, were restored to operation by replacing the components of the battery consumed by the chemical reaction. Secondary batteries are not indefinitely rechargeable due to dissipation of the active materials, loss of electrolyte, and internal corrosion. 
+{{See|List of battery sizes}}
+
+==Battery capacity and discharging==
+[[Image:Batteries.jpg|right|thumb|Various examples of some of the most common battery types.]]
+The more electrolyte and electrode material there is in the cell, the greater the capacity of the cell. Thus a small cell has less capacity than a larger cell, given the same chemistry (e.g. [[alkaline cell]]s), though they develop the same open-circuit voltage.<ref name="aappc">[http://www.aaportablepower.com/BatteryKnowledge/BatteryKnowledge.asp Battery Knowledge - AA Portable Power Corp.]. Accessed 16 April 2007.</ref>
+
+Because of the chemical reactions within the cells, the capacity of a battery depends on the [[discharge]] conditions such as the magnitude of the current, the duration of the current, the allowable terminal voltage of the battery, temperature, and other factors.<ref name="aappc">[http://www.aaportablepower.com/BatteryKnowledge/BatteryKnowledge.asp Battery Knowledge - AA Portable Power Corp.]. Accessed 16 April 2007.</ref>
+
+The available capacity of a battery depends upon the rate at which it is discharged.<ref name="techlib">[http://www.techlib.com/reference/batteries.html Battery Capacity - Techlib]. Accessed 10 April 2007.</ref> If a battery is discharged at a relatively high rate, the available capacity will be lower than expected. Therefore, a battery rated at 100 A·h will deliver 5 A over a 20 hour period, but if it is instead discharged at 50 A, it will run out of charge before the theoretically expected 2 hours. For this reason, a battery capacity rating is always related to an expected discharge duration, such as 15 minutes, 8 hours, 20 hours or others. 
+
+The relationship between current, discharge time, and capacity for a lead acid battery is expressed by [[Peukert's law]]. The [[efficiency]] of a battery is different at different discharge rates. When discharging at low rate, the battery's energy is delivered more efficiently than at higher discharge rates. 
+
+Battery manufacturers use a standard method to rate their batteries. The battery is discharged at a constant rate of current over a fixed period of time, such as 10 hours or 20 hours, down to a predetermined terminal voltage per cell. So a 100&nbsp;ampere-hour battery is rated to provide 5&nbsp;A for 20&nbsp;hours at [[room temperature]].  Ampere-hours are commonly called amp-hours. 
+
+In general, the higher the ampere-hour rating, the longer the battery will last for a certain load. Installing batteries with different A·h ratings will not affect the operation of a device rated for a specific voltage.
+
+{| border="1" style="text-align:center"
+|+'''Typical alkaline battery sizes and capacities<ref name="techlib">[http://www.techlib.com/reference/batteries.html Battery Capacity - Techlib]. Accessed 10 April 2007.</ref><ref>[http://www.powerstream.com/Size.htm Standard cylindrical and prismatic battery size chart - PowerStream]. Accessed 14 April 2007.</ref><ref>[http://data.energizer.com/PDFs/e96.pdf Energizer E96]. Accessed 17 April 2007.</ref>'''
+! Battery type
+! Diagram
+! Capacity ([[mAh]])
+! Discharge rate
+|-
+| D
+| [[Image:D battery size.svg]]
+| 12,000
+| 200
+|-
+| C
+| [[Image:C battery size.svg]]
+| 6,000
+| 100
+|-
+| AA
+| [[Image:AA battery size.svg]]
+| 2,000
+| 50
+|-
+| AAA
+| [[Image:AAA battery size.svg]]
+| 1,000
+| 10
+|-
+| AAAA
+|
+| 620
+| 25
+|-
+| N
+| [[Image:N battery size.svg]]
+| 650
+| 10
+|-
+| 9V
+|
+| 500
+| 15
+|-
+| 6V (Lantern)
+|
+| 11,000
+| 300
+|}
+
+==Conversion to energy==
+
+The ampere-hour (A·h) rating of a battery is related to the amount of [[energy]] it stores when fully charged.<ref>David Hunt. [http://www.kaper.us/basics/BASICS_020103_hunt_battery.html Batteries Page 1 - Basics -- Kite Aerial Photography Electronic Resources]. Accessed 18 April 2007.</ref> If two batteries have the same nominal [[voltage]], then the one with the higher A·h rating stores more energy. It also typically takes longer to recharge. Accurate calculation of the energy stored in the battery is complex due to the varying terminal voltage during discharge (and so the need to specify an end terminal voltage for discharge), and due to the dependency of total capacity on the discharge rate and discharge duty. 
+
+Secondary batteries always yield less energy than was used to charge them, since (among other reasons) the terminal voltage during charging is higher than during discharging. The nickel cadmium and nickel metal-hydride designs have efficiencies of around 66%.<ref>[http://www.powerstream.com/NiMH.htm NiMH Battery Charging Facts - PowerStream]. Accessed 18 April 2007.</ref> However, modern lithium designs have almost negated this wastage as they can have efficiencies of around 99%.<ref>[http://www.batteryuniversity.com/partone-12.htm Charging lithium-ion batteries - BatteryUniversity]. Accessed 18 April 2007.</ref>
+
+==Battery lifetime==
+Even if never taken out of the original package, disposable (or "primary") batteries can lose two to twenty-five percent of their original charge every year. This is known as the "self discharge" rate and is due to non-current-producing "side" chemical reactions, which occur within the cell even if no load is applied to it.  The rate of the side reactions is reduced if the batteries are stored at low temperature, although some batteries can be damaged by freezing. High or low temperatures may reduce battery performance.
+
+Rechargeable batteries traditionally self-discharge more rapidly than disposable alkaline batteries; up to three percent a day (depending on temperature), but modern Lithium designs have reduced the self discharge to a relatively low level (but still poorer than primary technology). Due to their poor shelf life, they should not be stored and then relied upon to power flashlights or radios in an emergency. For this reason, it is a good idea to keep alkaline batteries on hand. NiCd Batteries are almost always "dead" when purchased, and must be charged before first use.
+
+Most NiMH and NiCd batteries can be charged several hundred times. Also, they both can be completely discharged and then recharged without their capacity being damaged or shortened.
+
+Automotive lead-acid rechargeable batteries have a much harder life.  Because of vibration, shock, heat, cold, and sulfation of their lead plates, few automotive batteries last beyond six years of regular use. Automotive starting batteries have many thin plates to provide as many amps as possible in a reasonably small package, and are only drained a small amount before being immediately recharged. Care should  be taken to avoid deep discharging a starting battery, since each [[charge and discharge cycle]] causes active material to be shed from the plates. When holes form in the plates it results in less surface area for the chemical reaction, which results in less available voltage when under load. Leaving a lead-acid battery in a deeply discharged state for any significant length of time allows the lead sulfate to crystallize, making it difficult or impossible to remove during the charging process. This can result in a permanent reduction in the available plate surface and therefore reduced current output and energy capacity. "Deep-Cycle" lead-acid batteries such as those used in electric golf carts have much thicker plates to aid their longevity. The main benefit of lead-acid is its low cost; the main drawbacks are its large size and weight per a given capacity and voltage. Lead-acid batteries should never be discharged to below 20% of their full capacity as internal resistance will cause heat and damage when attempting to recharge them. Deep-cycle lead-acid systems often use a low-charge warning light or a low-charge power cut-off switch to prevent the type of damage that will shorten the battery's life.
+
+Special "reserve" batteries intended for long storage in emergency equipment or munitions keep the electrolyte of the battery separate from the plates until the battery is activated, allowing the cells to be filled with the electrolyte. Shelf times for such batteries can be years or decades. However, their construction is more expensive than more common forms.
+
+Battery life can be extended by storing the batteries at a low temperature, as in a [[refrigerator]] or [[freezer]], because the chemical reactions in the batteries are slower. Such storage can extend the life of alkaline batteries by an insignificant 5%; however, the charge of rechargeable batteries can be extended dramatically from a few days to several months.<ref>[http://ask.yahoo.com/ask/20011219.html Ask Yahoo: Does putting batteries in the freezer make them last longer?]. Retrieved 7 March 2007.</ref> In order to reach their full power, batteries must be returned to room temperature; therefore, alkaline battery manufacturers like [[Duracell]] do not recommend refrigerating or freezing batteries.<ref>[http://www.duracell.com/care_disposal/care.asp Duracell: Battery Care]. Retrieved 7 March 2007.</ref>
+
+==Environmental considerations==
+Since their development over 250 years ago, batteries have remained among the most expensive energy sources, and their manufacturing consumes many valuable resources and often involves hazardous chemicals. For this reason many areas now have battery [[recycling]] services available to recover some of the more toxic (and sometimes valuable) materials from used batteries. Batteries may be harmful or fatal if [[swallowing|swallow]]ed.  It is also important to prevent dangerous elements found in some batteries, such as  lead, [[mercury (element)|mercury]], [[cadmium]], from entering the environment.
+
+==Effect of a battery's internal resistance==
+A battery can be simply modeled as a perfect voltage source (i.e. one with zero internal [[electrical resistance|resistance]]) in series with a [[resistor]]. The voltage source depends mainly on the chemistry of the battery, not on whether it is empty or full. When a battery runs down, its internal [[electrical resistance|resistance]] increases. When the battery is connected to a load (e.g. a [[light bulb]]), which has its own resistance, the resulting voltage across the load depends on the ratio of the battery's [[internal resistance]] to the resistance of the load. When the battery is fresh, its internal resistance is low, so the voltage across the load is almost equal to that of the battery's internal voltage source. As the battery runs down and its internal resistance increases, the voltage drop across its internal resistance increases, so the voltage at its terminals decreases, and the battery's ability to deliver [[Electric power|power]] to the load decreases. 
+
+The formula for calculating the voltage V<sub>t</sub> at the terminals of a battery is:
+:<math>V_t = V_{oc}-R_i \cdot I</math> 
+where
+:<math>V_{oc}</math> is the open-circuit voltage of the battery
+:<math>R_i</math> is the battery's internal resistance
+:<math>I</math> is the current flowing through the battery
+This can be rearranged to calculate the internal resistance given the other quantities:
+:<math>R_i=\frac {V_{oc}-V_t} {I}</math>
+
+==Battery explosion==
+A battery explosion is caused by the misuse or malfunction of a battery, such as attempting to recharge a primary (non-rechargeable) battery, or [[short circuit]]ing a battery.  With car batteries, explosions are most likely to occur when a short circuit generates very large currents. In addition, car batteries liberate [[hydrogen]] when they are overcharged (because of [[electrolysis]] of the water in the electrolyte). Normally the amount of overcharging is very small, as is the amount of explosive gas developed, and the gas dissipates quickly. However, when "jumping" a car battery, the high current can cause the rapid release of large volumes of hydrogen, which can be ignited by a nearby spark (for example, when removing the jumper cables).
+
+When a battery is recharged at an excessive  rate, an explosive gas mixture of hydrogen and oxygen may be produced faster than it can escape from within the walls of the battery, leading to pressure build-up and the possibility of the battery case bursting. In extreme cases, the battery acid may spray violently from the casing of the battery and cause injury.
+
+Additionally, disposing of a battery in fire may cause an explosion as steam builds up within the sealed case of the battery.
+
+Overcharging -- that is, attempting to charge a battery beyond its electrical capacity -- can also lead to a battery explosion, leakage, or irreversible damage to the battery. It may also cause damage to the charger or device in which the overcharged battery is later used.
+
+==Types of batteries==
+[[image:batteries.jpg|framed|Various batteries (clockwise from bottom left): two 9-volt, two "AA", one "D", a handheld ham radio battery, a cordless phone battery, a camcorder battery, one "C" and two "AAA"]]
+[[Image:Batterien.jpg|thumb|From top to bottom: Two [[button cell]]s, a 9 volt ''[[PP3 battery]], a ''[[AAA battery]]'', a ''[[AA battery]]'', a ''[[C battery]]'', a ''[[D battery]]'', a large ''3R12'']]
+
+From a user's viewpoint, at least, batteries can be generally divided into two main types: ''non-rechargeable ([[disposable]])'' and ''[[rechargeable battery|rechargeable]]''. Each is in wide usage.
+
+Disposable batteries, also called ''primary cells'', are intended to be used once and discarded. These are most commonly used in portable devices with either low current drain, only used intermittently, or used well away from an alternative power source. Primary cells were also commonly used for alarm and communication circuits where other electric power was only intermittently available. Primary cells cannot be reliably recharged, since the chemical reactions are not easily reversible and active materials may not return to their original forms.  Battery manufacturers recommend against attempting to recharge primary cells, although some electronics enthusiasts claim it is possible to do so using a special type of charger.<ref>[http://www.batteryxtender.com Battery Xtender]. Retrieved 7 March 2007.</ref>
+
+By contrast, rechargeable batteries or ''secondary cells'' can be re-charged by applying electrical current, which reverses the [[chemical reactions]] that occur in use. Devices to supply the appropriate current are called chargers or rechargers.
+
+The oldest form of rechargeable battery still in modern usage is the "[[wet cell]]" [[lead-acid battery]]. This battery is notable in that it contains a liquid in an unsealed container, requiring that the battery be kept upright and the area be well ventilated to ensure safe dispersal of the [[hydrogen]] gas produced by these batteries during overcharging. The lead-acid battery is also very heavy for the amount of electrical energy it can supply. Despite this, its low manufacturing cost and its high surge current levels make its use common where a large capacity (over approximately 10Ah) is required or where the weight and ease of handling are not concerns.
+
+A common form of lead-acid battery is the modern wet-cell [[car battery]]. This can deliver about 10,000 [[watt]]s of power for a short period, and has a peak current output that varies from 450 to 1100 [[ampere]]s.  An improved type of lead-acid battery called a ''[[gel battery]]'' (or "gel cell") has become popular in automotive industry as a replacement for the lead-acid wet cell.  The gel battery contains a semi-solid electrolyte to prevent spillage, electrolyte evaporation, and out-gassing, as well as greatly improving its resistance to damage from vibration and heat. Another type of battery, the ''[[Absorbed Glass Mat]]'' (AGM) suspends the electrolyte in a special fiberglass matting to achieve similar results. More portable rechargeable batteries include several "dry cell" types, which are sealed units and are therefore useful in appliances like [[mobile phone]]s and [[laptop]]s. Cells of this type (in order of increasing [[power density]] and cost) include [[nickel-cadmium battery|nickel-cadmium]] (NiCd), [[nickel metal hydride battery|nickel metal hydride]] (NiMH), and [[lithium ion battery|lithium-ion]] (Li-Ion) cells.
+{{see|List of battery sizes}}
+
+===Disposable===
+Not designed to be rechargeable - sometimes called "primary cells".
+* [[Zinc-carbon battery]] - mid cost - used in light drain applications
+* [[Zinc-chloride battery]] - similar to zinc carbon but slightly longer life
+* [[Alkaline battery]] - alkaline/manganese "long life" batteries widely used in both light drain and heavy drain applications
+* [[Silver-oxide battery]] - commonly used in hearing aids
+* [[Lithium Iron Disulphide battery]] - commonly used in digital cameras. Sometimes used in watches and computer clocks. Very long life (up to ten years in wristwatches) and capable of delivering high currents but expensive.  Will operate in sub-zero temperatures.
+* [[Mercury battery]] - formerly used in digital watches, radio communications, and portable electronic instruments, manufactured only for specialist applications due to toxicity
+* [[Zinc-air battery]] - commonly used in hearing aids
+* [[Thermal Battery|Thermal battery]] - high temperature reserve. Almost exclusively military applications.
+* [[Water-activated battery]] - used for [[radiosondes]] and emergency applications
+* [[Nickel Oxyhydroxide battery]] - Ideal for applications that use bursts of high current.  Better performance and cheaper in this application than Lithium Iron Disulphide.
+
+===Rechargeable ===
+:{{main|Rechargeable battery}}
+Also known as secondary batteries or accumulators.
+* [[Lead-acid battery]] - used in vehicles, alarm systems and [[uninterruptible power supply|uninterruptible power supplies]]. The major advantage of this chemistry is its low cost - a large lead-acid battery (e.g. 70Ah) is relatively inexpensive compared to batteries based on other chemistries, but this is most likely due to its popularity. However, this  historically important battery type has a lower energy/mass than other battery types now available (see below).  
+** [[Absorbed glass mat]]
+** [[Gel battery]]
+* [[Lithium ion battery]] - used in laptops (notebook PCs), modern camera phones, some rechargeable MP3 players and most other portable rechargeable digital equipment.  This relatively modern battery type has a very high energy/mass (i.e., a light battery that will store a lot of energy) and shows no "[[memory effect]]".  Lithium ion batteries are now pushing out NiMH technology.<ref>[http://www.e-mobile.ch/pdf/2005/Subat_WP5-006.pdf Subat_WP5-006]</ref>
+* [[Lithium ion polymer battery]] - similar characteristics to lithium-ion, but with slightly less energy/mass.  This battery type can be shaped according to need, as in ultra-thin (1 mm thick) cells for [[PDA]]s. 
+* [[NaS battery]]
+* [[Nickel-iron battery]]
+* [[Nickel metal hydride battery]]
+* [[Nickel-cadmium battery]] - used in many domestic applications but being superseded by Li-Ion and Ni-MH types. This chemistry gives the longest cycle life (over 1500 cycles), but has low energy/mass compared to Li-Ion and Ni-MH. Ni-Cd cells using older technology suffer from memory effect; this has been reduced drastically in modern batteries.  Toxicity hazard with the heavy metal, Cadmium.
+* [[Nickel-zinc battery]]
+* [[Molten salt battery]]
+* [[Silver Zinc battery]] - This once attractive technology had the highest energy density (prior to lithium technologies), and was primarily developed for aircraft use.  The worldwide rise in silver prices saw its demise.  It was used as the power source for the 'moon buggy' on the later Apollo moon missions.
+
+[[Image:Nokia Battery Hologram.jpg|thumb|A rechargeable lithium polymer [[Nokia]] [[mobile phone]] battery.]]
+
+===Flow batteries===
+[[Flow Battery|Flow batteries]] are a special class of battery where additional quantities of [[electrolyte]] are stored outside the main power cell of the battery, and circulated through it by pumps or by movement. Flow batteries can have extremely large capacities and are used in marine applications and are gaining popularity in [[grid energy storage]] applications.
+
+[[Zinc-bromine flow battery|Zinc-bromine]] and [[Vanadium redox battery|vanadium redox batteries]] are typical examples of commercially-available flow batteries.
+
+===Homemade cells===
+Almost any liquid or moist object that has enough ions to be electrically conductive can serve as the electrolyte for a cell. As a novelty or science demonstration, it is possible to insert two electrodes made of different metals into a [[Lemon battery|lemon]]<ref>[http://www.ushistory.org/franklin/fun/lemon.htm The Lemon Battery - ushistory.org]. Accessed 10 April 2007.</ref>, [[potato]]<ref>[http://pbskids.org/zoom/activities/phenom/potatobattery.html ZOOM . activities . phenom . Potato Battery]. Accessed 10 April 2007.</ref>, etc. and generate small amounts of electricity. "Two-potato clocks" are also widely available in hobby and toy stores; they consist of a pair of cells, each consisting of a potato (lemon, etc.) with two electrodes inserted into it, wired in series to form a battery with enough voltage to power a digital clock.<ref>[http://www.sciencekit.com/category.asp_Q_c_E_756000&cr=1220 Two-Potato Clock - Science Kit and Boreal Laboratories]. Accessed 10 April 2007.</ref> Homemade cells of this kind are of no real practical use, because they produce far less current&mdash;and cost far more per unit of energy generated&mdash;than commercial cells, due to the need for frequent replacement of the fruit or vegetable. In addition, one can make a [[voltaic pile]] from two coins (such as a [[nickel]] and a [[penny]]) and a piece of [[paper towel]] dipped in [[saline water|salt water]]. Such a pile would make very little voltage itself, but when many of them are stacked together in [[series circuit|series]], they can replace normal batteries for a short amount of time.<ref>[http://electronics.howstuffworks.com/battery1.htm Howstuffworks "Battery Experiments: Voltaic Pile"]. Accessed 10 April 2007.</ref>
+
+Lead acid cells can easily be manufactured at home, but a tedious charge/discharge cycle is needed to 'form' the plates.  This is a process whereby lead sulfate forms on the plates, and during charge is converted to lead dioxide (positive plate) and pure lead (negative plate).  Repeating this process results in a microscopically rough surface, with far greater surface area being exposed. This increases the current the cell can deliver.  For an example, see
+[http://windpower.org.za/batteries/batteries.html].
+
+===Battery packs===
+{{main|Battery pack}}
+The cells in a battery can be connected in parallel, series, or in both. A parallel combination of cells has the same [[voltage]] as a single cell, but can supply a higher [[Current (electricity)|current]] (the sum of the currents from all the cells). A series combination has the same current rating as a single cell but its voltage is the sum of the voltages of all the cells. Most practical electrochemical batteries, such as 9 [[volt]] flashlight (torch) batteries and 12 V [[automobile]] (car) batteries, have several cells connected in series inside the casing. Parallel arrangements suffer from the problem that, if one cell discharges faster than its neighbour, current will flow from the full cell to the empty cell, wasting power and possibly causing overheating. Even worse, if one cell becomes short-circuited due to an internal fault, its neighbour will be forced to discharge its maximum current into the faulty cell, leading to overheating and possibly explosion. Cells in parallel are therefore usually fitted with an electronic circuit to protect them against these problems. In both series and parallel types, the energy stored in the battery is equal to the sum of the energies stored in all the cells.
+
+====Traction batteries====
+{{main|Traction battery}}
+Traction batteries are high-power batteries designed to provide propulsion to move a vehicle, such as an [[electric car]] or tow motor. A major design consideration is [[power to weight ratio]] since the vehicle must carry the battery. While conventional lead acid batteries with liquid electrolyte have been used,  gelled electrolyte and ([[Absorbed Glass Mat|AGM-type]]) can also be used, especially in smaller sizes. The largest installations of batteries for propulsion of vehicles are found in [[submarine]]s, although the toxic gas produced by seawater contact with acid electrolyte is a considerable hazard. 
+
+Battery types commercially used in electric vehicles include: 
+* [[lead-acid battery]] 
+** flooded type with liquid electrolyte.
+** [[Absorbed Glass Mat|AGM-type (Absorbed Glass Mat)]]
+* [[Molten salt battery|Zebra Na/NiCl<sub>2</sub>]] battery operating at 270 °C requiring cooling in case of temperature excursions
+* [[NiZn battery]] (higher cell voltage 1.6 V and thus 25% increased specific energy, very short lifespan)
+
+See also: [[battery electric vehicle]]s and [[hydrogen vehicle]].
+
+==Glossary==
+Some common battery-related terms:
+
+*[[W]]: [[watt]], unit of power.  One watt equals one [[joule]] per second.
+*W/kg: watts per kilogram, unit of power per mass.
+*W/l: watts per liter, unit of power density.
+*[[W•h]]: [[watt-hour]], unit of energy, or work.  1 watt expended continuously for 1 hour equals 1 watt-hour.
+*W•h/kg: watt-hours per kilogram, unit of energy per mass.
+*W•h/l: watt-hours per litre, unit of energy density.
+*W•h/lb: watt-hours per pound, unit of energy per mass.
+
+==See also==
+{{portalpar|Electronics|Nuvola_apps_ksim.png}}
+{{portal|energy}}
+* [[Electrochemical cell]]
+* [[Galvanic cell]]
+* [[Duracell]]
+* [[Energizer]]
+* [[List of battery types]]
+* Nano [[titanate]]
+* [[Recharging batteries]] 
+* [[Replacing batteries]]
+* [[Thermal runaway]]
+* [[Trickle charging]]
+
+==External Links==
+*[http://electronics.howstuffworks.com/battery.htm HowStuffWorks: How batteries work]
+*[http://mobilitynow.org/2007/05/10/battery-life-15-minutes/ Cellphone batteries explained]
+*[http://www.digitalcamera-hq.com/digital-cameras/batteries_guide.html Battery guide for digital cameras]
+
+==References==
+===Footnotes===
+{{reflist|2}}
+
+===Bibliography===
+#{{cite book|last=Fink|first=Donald G.|coauthors=H. Wayne Beaty|title=Standard Handbook for Electrical Engineers, Eleventh Edition|year=1978|publisher=McGraw-Hill|location=New York|isbn=0-07020974-X}}
+#{{cite book|last=Linden|first=David|coauthors=Thomas B. Reddy|title=Handbook Of Batteries|year=2001|publisher=McGraw-Hill|location=New York|isbn=0-0713-5978-8}}
+#{{cite book|last=Saslow|first=Wayne M.|title=Electricity, Magnetism, and Light|year=2002|publisher=Thomson Learning|location=Toronto|isbn=0-12-619455-6}} Chs. 8-9 (pp. 336-418) have more information on batteries.
+
+[[Category:Electric batteries|*]]
