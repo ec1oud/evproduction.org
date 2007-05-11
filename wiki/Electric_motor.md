@@ -1087,6 +1087,7 @@ Further reading
 External articles
 -----------------
 
+-   [VE drive motor](http://www.austinev.org/evalbum/motor)
 -   [Electricity museum: early
     motors](http://www.sparkmuseum.com/MOTORS.HTM)
 -   [Electric Motors and

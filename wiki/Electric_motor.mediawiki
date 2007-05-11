@@ -322,7 +322,7 @@ Related subjects:
 * John N. Chiasson, ''Modeling and High Performance Control of Electric Machines'', Wiley-IEEE Press, New York, 2005, ISBN 0-471-68449-X.
 
 == External articles==
-{{wikibookspar||School science how-to}}
+* [http://www.austinev.org/evalbum/motor VE drive motor]
 * [http://www.sparkmuseum.com/MOTORS.HTM Electricity museum: early motors]
 * [http://www.phys.unsw.edu.au/~jw/HSCmotors.html Electric Motors and Generators], explanations with animations from the University of New South Wales.
 * [http://users.goldengate.net/~kbrady/motors.pdf The Numbers Game: A Primer on Single-Phase A.C. Electric Motor Horsepower Ratings], Kevin S. Brady.
