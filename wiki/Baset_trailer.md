@@ -5,6 +5,7 @@ layout: wiki
 tags:
  - Electric vehicles
  - Trailers
+ - Replacing
 ---
 
 A **baset trailer** is a range extending device for use with [battery
