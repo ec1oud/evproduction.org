@@ -78,7 +78,7 @@ The EVProduction club began life as a [Yahoo mailing
 list](http://groups.yahoo.com/group/EVProduction/). The current plan is
 to collect dues from members to fund the club's projects.
 
-This group is for the purpose of getting EV's into production by group
+This group is for the purpose of getting BEV's into production by group
 effort. The auto companies will not do it so we must do it ourselves. We
 intend to enable start up of [open
 hardware](wikipedia:open_hardware "wikilink") EV production lines and
