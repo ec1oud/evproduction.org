@@ -40,7 +40,7 @@ One can use [[OSCar]] as a base to develop a greener car, the Freedom EV.
 
 ==Other EVProduction Goods==
 * [[EVProduction vehicles]]
-* [[EVProduction complements]], includin a range extender [[baset trailer]]
+* [[EVProduction complements]], including a range extender [[baset trailer]]
 
 ==Other EV's==
 === Open source ===

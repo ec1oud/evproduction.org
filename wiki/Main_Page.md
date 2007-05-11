@@ -130,7 +130,7 @@ Other EVProduction Goods
 
 -   [EVProduction vehicles](/wiki/EVProduction_vehicles "wikilink")
 -   [EVProduction complements](/wiki/EVProduction_complements "wikilink"),
-    includin a range extender [baset trailer](baset_trailer "wikilink")
+    including a range extender [baset trailer](baset_trailer "wikilink")
 
 Other EV's
 ----------
