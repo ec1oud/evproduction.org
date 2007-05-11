@@ -12,7 +12,7 @@ tags:
  - British inventions
 ---
 
-*This page is about vehicle drive motors.*
+*This page is about vehicle drive electric motors.*
 
 An **electric motor** converts [electrical
 energy](electrical_energy "wikilink") into [mechanical

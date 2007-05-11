@@ -1,4 +1,4 @@
-''This page is about vehicle drive motors.''
+''This page is about vehicle drive electric motors.''
 
 An '''electric motor''' converts [[electrical energy]] into [[mechanical energy]]. The reverse task, that of converting mechanical energy into electrical energy, is accomplished by a [[Electrical generator|generator]] or dynamo.   [[Traction motor]]s used on [[locomotive]]s often perform both tasks if the locomotive is equipped with [[dynamic brake]]s. Electric motors are found in household appliances such as fans, fridges, washing machines, pool pumps and fan-forced ovens.
 
