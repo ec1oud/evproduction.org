@@ -6,7 +6,7 @@
 *danz' proposed first product effort: 3 wheeler, enclosed, 2 people, room for groceries or some bags of peat moss, a flat roof on which I can tie 2X4s, or a 4X8 sheet of plywood or drywall.  30 mile range, 60 mph max, integral trailer hitch for a 'pusher' or a gen set trailer or even a small cargo trailer.  Lowest cost possible consistent with safety, reliability, comfort and (some)convenience.  Aerodynamically unimportant--whatever is necessary to get the speed and the range despite inefficiencies: more batteries, larger vehicle envelope, etc.
 
 ==Four Wheelers==
-*[[4 Wheeled Car]]
+*[[4 EV]], 4 Wheeled Car
 *[[4 Wheeled Kit Car]]
 *[[Conversion kit for VW Beetle]]
 *[[Sundancer]] or [http://motortrend.com/roadtests/classic/112_0405_archive/ Sundancer] 1970-73 Mckee chassis #1-#3.
