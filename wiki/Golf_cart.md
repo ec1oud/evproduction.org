@@ -8,8 +8,8 @@ tags:
  - Electric vehicles
 ---
 
-[thumb\|right\|250px\|A Lamborghini built golf
-cart](http://upload.wikimedia.org/wikipedia/commons/4/41/Lamborghini1.jpg "wikilink")
+<http://upload.wikimedia.org/wikipedia/commons/4/41/Lamborghini1.jpg> A
+Lamborghini built golf cart
 
 A **golf cart** (sometimes referred to as a **golf car** [1]) is a small
 [vehicle](vehicle "wikilink") designed originally to carry two
