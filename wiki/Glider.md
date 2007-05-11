@@ -4,4 +4,4 @@ permalink: b'wiki/Glider/'
 layout: wiki
 ---
 
-A vehicle without powertrain
+A vehicle without [powertrain](powertrain "wikilink").
