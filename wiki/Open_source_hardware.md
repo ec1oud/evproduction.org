@@ -249,8 +249,3 @@ External links
 -   [The Open Source Gift Guide: Open source hardware, software, and
     more for the
     holidays!](http://www.makezine.com/blog/archive/2006/11/the_open_source_1.html)
-
-[bg:Свободен хардуер](bg:Свободен_хардуер "wikilink") [de:Freie
-Hardware](de:Freie_Hardware "wikilink") [fr:Matériel informatique
-libre](fr:Matériel_informatique_libre "wikilink") [ru:Открытое
-аппаратное обеспечение](ru:Открытое_аппаратное_обеспечение "wikilink")
