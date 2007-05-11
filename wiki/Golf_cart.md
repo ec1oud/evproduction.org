@@ -4,7 +4,6 @@ permalink: b'wiki/Golf_cart/'
 layout: wiki
 tags:
  - Golf equipment
- - Vehicles
  - Electric vehicles
 ---
 
