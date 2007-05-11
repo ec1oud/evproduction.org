@@ -1,0 +1,108 @@
+'''Open source hardware''' refers to computer and electronic hardware that is designed in the same fashion as [[free software|free]] and [[open-source software|open-source]] [[software]]. Open source hardware is part of the [[open source culture]] that takes the open source ideas to fields other than software. An example of this is the [[Simputer]] project.
+
+Some of the impetus for the development of open source hardware was initiated in [[2002]] through the [[Challenge to Silicon Valley]] issued by [[Kofi Annan]] [http://news.com.com/2010-1069-964507.html?tag=lh].  Because the nature of hardware is different than software, and because the concept of open source hardware is relatively new, no exact definition of open source hardware has emerged.
+
+Because hardware has direct variable costs associated with it, no open source software definition can directly be applied without modification.  Instead, the term open source hardware has primarily been used to reflect the use of free/open source software with the hardware and the free release of [[information]] regarding the hardware, often including the release of schematics, design, sizes and other information about the hardware. In anyway, it includes the hardware design and element distribution on the motherboard (i.e. a [[laptop|notebook]] where one can replace elements).
+
+With the rise of reconfigurable [[Programmable logic device|logic device]]s, the sharing of logic designs is also a form of open source hardware. Instead of sharing the schematics, [[hardware description language|HDL]] code is shared. This is different from free/open source software. HDL descriptions are commonly used to set up [[System-on-a-chip|SoC]] systems either in [[Field-programmable gate array|FPGA]]s or directly in [[Application-specific integrated circuit|ASIC]] designs.  HDL modules, when distributed, are called [[semiconductor intellectual property core]]s, or IP cores.
+
+==Notable projects and collections==
+
+===3D Printers===
+
+* The [[RepRap Project]]: An open source, self-replicating [[3D printer]]
+** [http://www.3dreplicators.com The Clanking Replicator Project: An open source, self-replicating [[3D printer]]] - RepRap variant
+* [http://www.fabathome.org Fab@Home - An open source [[Desktop manufacturing]] system]
+
+===Computers and Computer Components===
+*'''[[Arduino]]''' is an open-source physical computing platform based on a simple I/O board and a development environment that implements the open source [[Processing (programming language)|Processing]] / [http://wiring.org.co/ Wiring] language.
+* [[OpenSPARC]] is a project with an already created UltraSPARC T1 multicore chip by [[Sun Microsystems]]. [http://opensparc.net Sun's OpenSPARC]
+* [[Open OEM]] - Project to build the first open source computer [http://www.innovationstage.com/openoem/index.php]
+* [[OpenRISC]] is a group of developers working to produce a very high performance [[open source]] [[RISC]] [[central processing unit|CPU]].
+* [[OpenBook Project|OpenBook]] - tablet design positioning between [[$100 laptop]] and consumer [[Tablet PC]] which wants allow tablet usage to masses by high volume production
+* [[Simputer]] - handheld computer aimed at developing countries
+* [[LEON]] is an open source 32-bit RISC CPU.
+* [[Open Graphics Project]] aims to design an open architecture and standard for graphics cards.
+* [[BalloonBoard.org]] produces open arm-based development boards, aimed at OEMs and Further Education.
+* [[ECB_AT91]] - [[Single-board computer]] based on the Atmel AT91RM9200 ARM9 processor (180MHz).
+* [[PLAICE]] - The [http://flash-plaice.wikispaces.com PLAICE] is an open source hardware and software project developing a powerful in-circuit development tool that combines in one device the features of a FLASH Programmer, Memory Emulator, and High Speed Multi-Channel Logic Analyzer. It runs uClinux.
+
+===Organisations===
+*'''Open Hardware''' ('''OH''') is a project in which [[hardware design]]ers share their work by disclosing the [[schematic]]s and [[software]] ([[Device driver|driver]]s) used in their designs.  Open hardware [[designers]] meet, discuss what they are doing and ask each other for assistance in finding parts, or seek ideas to solve design problems. OH is also an opportunity to exhibit designs, so some may learn from what others have done.
+* [[OpenCores]] is a [[foundation]] that attempts to form a community of designers to support open-source cores (logic designs) for CPUs, peripherals and other devices.  OpenCores maintains an open-source on-chip interconnection bus specification called [[Wishbone (computer bus)|Wishbone]].
+
+===Telephones===
+* [http://www.opencellphone.org Opencellphone.org] - also called '[[TuxPhone]]'
+* [[OpenMoko]] - open phone framework (first use case: [[First International Computer|FIC]] neo1973, expected in Q1, 2007)
+===Vehicles===
+* [[c,mm,n]]: '''c,mm,n''' is a dutch project to design a environmental friendly car using [[open source]] principles.
+* [[OScar (open source car)]]: '''OScar''' is the first attempt to design an entire car using [[open source]] principles.
+* [http://www.ihpva.org/wiki/index.php/Open_Source_Velomobile_Development_Project Open Source Velomobile Development Project]: build your own [[velomobile]].
+* [[Open Source Green Vehicle]] ([http://www.osgv.org/]): The '''Open Source Green Vehicle''' project is an attempt to design design a environmental friendly SUV using [[open source]] principles.
+
+===Other Projects===
+* [[RONJA]] - Open source Free Space Optic system, DIY in a garage, 10Mbps full duplex/1.4km
+* [[Neuros Technology|Neuros "Open Source Device"]] an open source set-top box type device designed to serve as a low cost Linux "media center"
+* [[Chumby]] - 'Glancable' information device
+* [http://transcenmentalism.org/OpenStim/ OpenStim: The Open Noninvasive Brain Stimulator]
+* [[gEDA]] - full [[GPL]]'d suite of '''E'''lectronic '''D'''esign '''A'''utomation tools.
+* [[OpenEEG]] - creating a low cost [[EEG]] device and free software to go with it. [http://openeeg.sourceforge.net/]
+* [[Open-rTMS]] - creating a low cost [[Transcranial_magnetic_stimulation|rTMS]] device and free software to go with it. [http://open-rtms.sourceforge.net/]
+* [[Daisy MP3 Player|Daisy]] - An open source MP3 player [http://www.teuthis.com/html/daisy_mp3.html]
+* [[OSMC]] - An open source Motor Control project, meant primarily for [[robotics]] but applicable to low-power electric vehicles and other uses [http://www.robotpower.com/osmc_info/]
+* [[Monome]] 40h - A reconfigurable grid of sixty-four backlit buttons, used via USB. A limited batch of 500 monome 40h has been produced. All the design process, design specifications, firmware and PCB schematics are available online [http://monome.org/]
+* [[SHPEGS]] - Open source Solar Heat Pump Electrical Generation System
+
+
+==References==
+* [http://www.opencollector.org/Whyfree/freedesign.html Free Hardware Design - Past, Present, Future] by Graham Seaman
+
+==See also==
+*[[Open source]]
+*[[Open source software]]
+*[[Free software]]
+*[[Open design]] - open-source physical design with a wider focus
+*[[Open content]]
+*[[Free content]]
+*[[Electronic design automation]]
+*[[Lee Felsenstein]], founder of the [[Homebrew Computer Club]], based on [[Ivan Illich]]'s [http://todd.cleverchimp.com/tools_for_conviviality/ ''Tools for Conviviality'']
+
+== External links ==
+{{external links}}
+* [http://features.linuxtoday.com/news_story.php3?ltsn=1999-06-22-005-05-NW-LF Richard Stallman's thoughts on free hardware].
+* [http://opensource.wikia.com/wiki/Main_Page Open hardware Wikia].
+* [http://www.openhardware.net Openhardware.net]
+* [http://dmoz.org/Computers/Hardware/Open_Source/ Open Directory: Computers: Hardware: Open Source]
+* [http://openeeg.sourceforge.net/doc/ The open-source Electroencephalography project]
+* [http://www.openhardware.de Openhardware's Kernel Accelerator Device]
+* [http://opencollector.org/Whyfree/open_hardware.html Debian Open Hardware] at [http://opencollector.org/ Open Collector]
+* [http://www.uclinux.org Embedded Linux/Microcontroller Project]
+* [http://www.opencores.org OpenCores]
+* [http://www.obook.info OpenBook Project] - open hardware and open software tablet project
+* [http://www.f-cpu.org/ Freedom CPU]
+* [http://www.gaisler.com/ Gaisler research]
+* [http://opensparc.net Sun's OpenSPARC]
+* [http://wiki.debian.org/open_hardware DebianWiki page about Open hardware].
+* [http://fusor.net/ Open-source fusor research]
+* [http://opencircuits.com/ Open Circuits wiki]
+* [http://www.opendildonics.org/ Open dildonics wiki]
+* [http://www.gaisler.com/products/leon2/leon.html open source LEON2  processor]
+* [http://www.thinkcycle.org/ ThinkCycle]
+* [http://www.wired.com/wired/archive/11.11/opensource.html Wired:Open Source Everywhere]
+* [http://recentchangescamp.org/OpenHardware Open Hardware]
+* {{ru|http://www.openhardware.ru/}}
+* [http://software.newsforge.com/article.pl?sid=05/09/13/1631226 Neuros Open Source Approach to Hardware... Newsforge]
+* [http://www.atariarchives.org/deli/homebrew_and_how_the_apple.php Homebrew and How the Apple Came to Be] by [[Stephen Wozniak]]
+* [http://www.srisc.com/ Simply RISC S1 Core] ([http://www.eetimes.eu/193000635 EETimes article])
+* [http://www.opencores.org/projects.cgi/web/opentech/about OpenTech] - compiling open hardware designs and free design tools to one package for [[hardware design]]ers.
+* [http://www.openprosthetics.org/ The Open Prosthetics Project]- A [[Prosthetics]]  designed with open source principles.
+* [http://www.makezine.com/blog/archive/2006/11/the_open_source_1.html The Open Source Gift Guide: Open source hardware, software, and more for the holidays!]
+
+
+[[Category:Open machine|Hardware]]
+[[Category:Open hardware]]
+
+[[bg:Свободен хардуер]]
+[[de:Freie Hardware]]
+[[fr:Matériel informatique libre]]
+[[ru:Открытое аппаратное обеспечение]]
