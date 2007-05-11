@@ -1,0 +1,471 @@
+{{featured article}}
+{{pp-semi-protected|small=yes}}
+[[Image:Instrumental Temperature Record.png|thumb|280px|right|Global mean surface temperature anomaly 1850 to 2006]]
+[[Image:Global Warming Map.jpg|thumb|280px|right|Mean surface temperature anomalies during the period 1995 to 2004 with respect to the average temperatures from 1940 to 1980]]
+
+<!-- Please leave the first paragraph as a simple declarative sentence. Details on terminology have been added at the end of the intro. The rest of the intros should be a [[WP:LEAD]] summary. -->
+'''Global warming''' is the increase in the [[Instrumental temperature record|average temperature]] of the Earth's near-surface air and [[ocean]]s in recent decades and its projected continuation.
+
+Global average air temperature near the Earth's surface rose 0.74 [[Plus-minus sign|±]] 0.18&nbsp;°[[Celsius|C]] (1.3 ± 0.32&nbsp;°[[Fahrenheit|F]]) during the past century. The [[Intergovernmental Panel on Climate Change]] (IPCC) concludes, "most of the observed increase in globally averaged temperatures since the mid-20th century is very likely [[Attribution of recent climate change|due to]] the observed increase in [[anthropogenic]] greenhouse gas concentrations,"<ref name=grida7>{{cite web | url=http://www.ipcc.ch/SPM2feb07.pdf | format=[[Portable Document Format|PDF]] | title=Summary for Policymakers | work=Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change | accessdate=2007-02-02 | date=[[2007-02-05]] |publisher=[[Intergovernmental Panel on Climate Change]]}}</ref> which leads to warming of the surface and lower atmosphere by increasing the [[greenhouse effect]]. Natural phenomena such as [[solar variation]] combined with [[volcano]]es have probably had a small warming effect from pre-industrial times to 1950, but a cooling effect since 1950.<ref name=grida7/> The basic conclusions have been endorsed by at least 30 [[Scientific opinion on climate change|scientific societies and academies of science]], including all of the national academies of science of the [[G8|major industrialized countries]]. The [[American Association of Petroleum Geologists]] is the only scientific society that rejects these conclusions,<ref name="quaternary">{{cite journal|author= American Quaternary Association| date = [[2006-09-05]] | url= http://www.agu.org/fora/eos/pdfs/2006EO360008.pdf |title = Petroleum Geologists‘ Award to Novelist Crichton Is Inappropriate | journal = [[Eos (journal)|Eos]] | volume = 87 | number = 3| pages = 364 | format = [[Portable Document Format|PDF]] |quote = [AAPG] stands alone among scientific societies in its denial of human-induced effects on global warming.}}</ref><ref>{{cite web |url= http://dpa.aapg.org/gac/papers/climate_change.cfm |title= Climate Change Policy |accessdate=2007-03-30 |format= [[ColdFusion|cfm]] | publisher = [[American Association of Petroleum Geologists]]}}</ref><ref>{{cite journal|author= American Quaternary Association| date = [[2006-09-05]] | url= http://www.agu.org/fora/eos/pdfs/2006EO360008.pdf |title = Petroleum Geologists‘ Award to Novelist Crichton Is Inappropriate | journal = [[Eos (journal)|Eos]] | volume = 87 | number = 3 | pages = 364 | format = [[Portable Document Format|PDF]] | quote = Few credible scientists now doubt that humans have influenced the documented rise in global temperatures since the Industrial Revolution.}}</ref> although a comparatively small number of [[Scientists opposing the mainstream scientific assessment of global warming|individual scientists]] do disagree with parts of them<ref name="quaternary" />.
+
+Climate models referenced by the IPCC project that global surface temperatures are likely to increase by {{nowrap|1.1 to 6.4 °C}} {{nowrap|(2.0 to 11.5 °F)}} between 1990 and 2100.<ref name=grida7/> The range of values reflects the use of differing [[Special Report on Emissions Scenarios|scenarios]] of future [[greenhouse gas]] emissions and results of models with differences in [[climate sensitivity]]. Although most studies focus on the period up to 2100, warming and sea level rise are expected to continue for more than a millennium even if greenhouse gas levels are stabilized.<ref name=grida7/> This reflects the large heat capacity of the oceans.
+
+An increase in global temperatures can in turn cause other [[effects of global warming|changes]], including [[sea level rise]], and changes in the amount and pattern of [[precipitation (meteorology)|precipitation]]. There may also be changes in the frequency and intensity of [[extreme weather]] events, though it is difficult to connect specific events to global warming. Other effects may include changes in agricultural yields, [[Glacier mass balance|glacier retreat]], reduced summer streamflows, species [[extinction risk from climate change|extinctions]] and increases in the ranges of [[Vector (biology)|disease vectors]].
+
+Remaining scientific [[uncertainty|uncertainties]] include the exact degree of climate change expected in the future, and how changes will vary from region to region around the globe. There is ongoing [[Politics of global warming|political]] and [[global warming controversy|public debate]] regarding what, if any, action should be taken to [[Mitigation of global warming|reduce or reverse future warming]] or to [[Adaptation to global warming|adapt to its expected consequences]]. [[List of Kyoto Protocol signatories|Most national governments]] have signed and ratified the [[Kyoto Protocol]] aimed at combating greenhouse gas emissions.
+
+==Terminology==
+The term "global warming" is a specific example of the broader term [[climate change]], which can also refer to [[global cooling]]. In common usage the term refers to recent warming and implies a human influence.<ref>{{cite web | title = Climate Change: Basic Information | publisher = [[United States Environmental Protection Agency]] | url = http://epa.gov/climatechange/basicinfo.html | accessdate = 2007-02-09 | date = [[2006-12-14]] | quote = In common usage, 'global warming' often refers to the warming that can occur as a result of increased emissions of greenhouse gases from human activities.}}</ref> The [[United Nations Framework Convention on Climate Change]] (UNFCCC) uses the term "climate change" for human-caused change, and "climate variability" for other changes.<ref>{{cite web | title = United Nations Framework Convention on Climate Change, Article I | publisher = [[United Nations Framework Convention on Climate Change]] | url = http://unfccc.int/essential_background/convention/background/items/2536.php | accessdate = 2007-01-15 }}</ref> The term "anthropogenic climate change" is sometimes used when focusing on human-induced changes.
+
+==Causes==
+[[Image:Carbon Dioxide 400kyr-2.png|thumb|280px|right|[[Carbon dioxide]] during the last 400,000 years and the rapid rise since the [[Industrial Revolution]]; changes in the Earth's orbit around the Sun, known as [[Milankovitch cycles]], are believed to be the pacemaker of the 100,000 year [[ice age]] cycle.]]
+{{main|Attribution of recent climate change|scientific opinion on climate change}}
+
+The climate system varies through natural, internal processes and in response to variations in external forcing factors including [[Solar variation|solar activity]], [[volcano|volcanic]] emissions, variations in the earth's orbit ([[orbital forcing]]) and [[greenhouse gas]]es. The detailed [[attribution of recent climate change|causes of the recent warming]] remain an active field of research, but the [[scientific opinion on climate change|scientific consensus]]<ref>{{cite web |title=Joint science academies' statement: The science of climate change | url=http://www.royalsoc.ac.uk/displaypagedoc.asp?id=13619 | format=[[Active Server Pages|ASP]] | quote=The work of the Intergovernmental Panel on Climate Change (IPCC) represents the consensus of the international scientific community on climate change science| publisher = [[Royal Society]] | date =[[2001-05-17]] |accessdate=2007-04-01}}</ref> identifies increased levels of greenhouse gases due to human activity as the main influence. This attribution is clearest for the most recent 50 years, for which the most detailed data are available. Contrasting with the scientific consensus, other hypotheses have been proposed to explain some of the observed increase in global temperatures, including: the warming is within the range of natural variation; the warming is a consequence of coming out of a prior cool period, namely the [[Little Ice Age]]; or the warming is primarily a result of variances in [[solar radiation]].<ref>{{cite web | title=The truth about global warming - it's the Sun that's to blame | first=Michael | last=Leidig | coauthors=Nikkhah, Roya | publisher=[[Telegraph.co.uk]] | date=[[2004-07-17]] | accessdate=2007-04-29 | url=http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2004/07/18/wsun18.xml&sSheet=/news/2004/07/18/ixnewstop.html}}</ref>
+
+None of the effects of forcing are instantaneous. Due to the [[Volumetric heat capacity|thermal inertia]] of the Earth's oceans and slow responses of other indirect effects, the Earth's current climate is not in equilibrium with the forcing imposed. [[Climate commitment studies]] indicate that even if greenhouse gases were stabilized at present day levels, a further warming of about {{nowrap|0.5 °C}} {{nowrap|(0.9 °F)}} would still occur.<ref>{{cite journal |last=Meehl |first=Gerald A. |coauthors=''et al.'' |date=[[2005-03-18]] |title=How Much More Global Warming and Sea Level Rise |journal=[[Science (journal)|Science]] |volume=307 |issue=5716 |pages=1769–1772 |doi=10.1126/science.1106663 |url=http://www.sciencemag.org/cgi/content/full/307/5716/1769 |accessdate=2007-02-11}}</ref>
+
+===Greenhouse gases in the atmosphere===
+{{main|Greenhouse effect}}
+[[Image:Mauna Loa Carbon Dioxide.png|thumb|280px|right|Recent increases in atmospheric carbon dioxide (CO<sub>2</sub>). The monthly CO<sub>2</sub> measurements display small seasonal oscillations in an overall yearly uptrend; each year's maximum is reached during the northern hemisphere's late spring, and declines during the northern hemisphere growing season as plants remove some CO<sub>2</sub> from the atmosphere.]]
+
+The [[greenhouse effect]] was discovered by [[Joseph Fourier]] in 1824 and was first investigated quantitatively by [[Svante Arrhenius]] in 1896. It is the process by which absorption and emission of [[infrared]] radiation by [[Atmosphere|atmospheric gases]] warms a [[planet]]'s atmosphere and surface.
+
+Greenhouse gases create a natural greenhouse effect, without which, mean temperatures on Earth would be an estimated 30&nbsp;°C (54&nbsp;°F) lower, so that Earth would be uninhabitable.<ref>{{cite paper|title=Living with Climate Change – An Overview of Potential Climate Change Impacts on Australia. Summary and Outlook |publisher=[[Australian Greenhouse Office]] |date=December 2002 |format=[[Portable Document Format|PDF]] |accessdate=2007-04-18 |url=http://www.greenhouse.gov.au/impacts/overview/pubs/overview4.pdf}}</ref> Thus scientists do not "believe in" or "oppose" the greenhouse effect as such; rather, the debate concerns the net effect of the addition of greenhouse gases, while allowing for associated [[positive feedback|positive]] and [[negative feedback]] mechanisms.
+
+On Earth, the major natural greenhouse gases are [[water vapor]], which causes about 36–70% of the greenhouse effect ([[Cloud forcing|not including clouds]]); [[carbon dioxide]] (CO<sub>2</sub>), which causes 9–26%; [[methane]] (CH<sub>4</sub>), which causes 4–9%; and [[ozone]], which causes 3–7%. The [[Greenhouse gas#Increase of greenhouse gases|atmospheric concentrations]] of CO<sub>2</sub> and CH<sub>4</sub> have increased by 31% and 149% respectively above pre-industrial levels since 1750. These levels are considerably higher than at any time during the last 650,000 years, the period for which reliable data has been extracted from [[ice core]]s. From less direct geological evidence it is believed that CO<sub>2</sub> values this high were last attained 20 million years ago.<ref>{{cite journal| first=Paul N.| last=Pearson| coauthors=Palmer, Martin R.| journal=[[Nature (journal)|Nature]]| title= Atmospheric carbon dioxide concentrations over the past 60 million years| date=[[2000-08-17]]| volume=406| issue=6797| pages=695-699| url=http://www.nature.com/nature/journal/v406/n6797/abs/406695a0.html| doi=10.1038/35021000}}</ref> "About three-quarters of the anthropogenic [man-made] emissions of CO<sub>2</sub> to the atmosphere during the past 20 years are due to [[fossil fuel]] burning. The rest of the anthropogenic emissions are predominantly due to land-use change, especially [[deforestation]]."<ref>{{cite web |url=http://www.grida.no/climate/ipcc_tar/wg1/006.htm |title=Summary for Policymakers |work=Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change |accessdate=2007-01-18 |date=[[2001-01-20]] |publisher=[[Intergovernmental Panel on Climate Change]]}}</ref>
+
+The present atmospheric concentration of CO<sub>2</sub> is about 383 parts per million (ppm) by volume.<ref>{{cite web | title = Trends in Atmospheric Carbon Dioxide – Mauna Loa | last = Tans | first = Pieter | url = http://www.esrl.noaa.gov/gmd/ccgg/trends/ | publisher = [[National Oceanic and Atmospheric Administration]] | accessdate = 2007-04-28}}</ref> Future CO<sub>2</sub> levels are expected to rise due to ongoing burning of fossil fuels and land-use change. The rate of rise will depend on uncertain economic, sociological, technological, natural developments, but may be ultimately limited by the availability of fossil fuels. The IPCC [[Special Report on Emissions Scenarios]] gives a wide range of future CO<sub>2</sub> scenarios, ranging from 541 to 970 ppm by the year 2100.<ref>{{cite web |url=http://www.grida.no/climate/ipcc_tar/wg1/123.htm |last = Prentice |first = I. Colin |coauthors = ''et al.'' |title = 3.7.3.3 SRES scenarios and their implications for future CO2 concentration |work = Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change |accessdate=2007-04-28 |date=[[2001-01-20]] |publisher=[[Intergovernmental Panel on Climate Change]]}}</ref> Fossil fuel reserves are sufficient to reach this level and continue emissions past 2100, if coal, tar sands or [[methane clathrate]]s are extensively used.<ref>{{cite web |url=http://www.grida.no/climate/ipcc/emission/104.htm |title=4.4.6. Resource Availability |work=IPCC Special Report on Emissions Scenarios |accessdate=2007-04-28 |publisher=[[Intergovernmental Panel on Climate Change]]}}</ref>
+
+Positive feedback effects such as the expected release of CH<sub>4</sub> from the melting of [[permafrost]] [[peat]] [[bog]]s in [[Siberia]] (possibly up to 70,000 million [[tonne]]s) may lead to significant additional sources of greenhouse gas emissions<ref>{{cite news | first=Ian | last=Sample | title=Warming Hits 'Tipping Point' | date=[[2005-08-11]] | url=http://www.guardian.co.uk/climatechange/story/0,12374,1546824,00.html | publisher=[[The Guardian]] | accessdate=2007-01-18}}</ref> not included in climate models cited by the IPCC.<ref name=grida7/>
+
+===Feedbacks===
+The effects of forcing agents on the climate are complicated by various feedback processes.
+
+One of the most pronounced feedback effects relates to the evaporation of water. CO<sub>2</sub> injected into the atmosphere causes a warming of the atmosphere and the earth's surface. The warming causes more water to be evaporated into the atmosphere. Since water vapor itself acts as a greenhouse gas, this causes still more warming; the warming causes more water vapor to be evaporated, and so forth until a new dynamic equilibrium concentration of water vapor is reached at a slight increase in humidity and with a much larger greenhouse effect than that due to CO<sub>2</sub> alone.<ref name=soden1>{{cite journal| first= Brian J. | last= Soden | coauthors= Held, Isacc M. | journal= [[Journal of Climate]] | title= An Assessment of Climate Feedbacks in Coupled Ocean–Atmosphere Models | date= [[2005-11-01]] | volume= 19 | issue= 14 | page= 3354-3360 | url= http://www.gfdl.noaa.gov/reference/bibliography/2006/bjs0601.pdf | format= [[Portable Document Format|PDF]] | accessdate= 2007-04-21 | quote=Interestingly, the true feedback is consistently weaker than the constant relative humidity value, implying a small but robust reduction in relative humidity in all models on average" "clouds appear to provide a positive feedback in all models}}</ref> This feedback effect can only be reversed slowly as CO<sub>2</sub> has a long average [[Greenhouse gas#Removal from the atmosphere and global warming potential|atmospheric lifetime]].
+
+Feedback effects due to clouds are an area of ongoing research and debate. Seen from below, clouds absorb infrared radiation and so exert a warming effect. Seen from above, the same clouds reflect sunlight and so exert a cooling effect. Increased global water vapor concentration may or may not cause an increase in global average cloud cover. The net effect of clouds thus has not been well modeled, however, cloud feedback is second only to water vapor feedback and is positive in all the models that contributed to the [[IPCC Fourth Assessment Report]].<ref name=soden1/> 
+
+Another important feedback process is ice-albedo feedback.<ref>{{cite web |url=http://www.grida.no/climate/ipcc_tar/wg1/295.htm |last = Stocker |first = Thomas F. |coauthors = ''et al.'' |title = 7.5.2 Sea Ice |work = Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change |accessdate=2007-02-11 |date=[[2001-01-20]] |publisher=[[Intergovernmental Panel on Climate Change]]}}</ref> The increased CO<sub>2</sub> in the atmosphere warms the Earth's surface and leads to melting of ice near the poles. As the ice melts, land or open water takes its place. Both land and open water are on average less reflective than ice, and thus absorb more solar radiation. This causes more warming, which in turn causes more melting, and this cycle continues.
+
+Positive feedback due to release of CO<sub>2</sub> and CH<sub>4</sub> from thawing permafrost is an additional mechanism contributing to warming. Possible positive feedback due to CH<sub>4</sub> release from melting seabed ices is a further mechanism to be considered.
+
+===Solar variation===
+[[Image:Solar-cycle-data.png|thumb|280px|right|Solar variation over the last 30 years.]]
+{{main|Solar variation}}
+Variations in [[solar variation|solar output]], possibly amplified by cloud feedbacks, may have contributed to recent warming.<ref>{{cite journal | first=Nigel | last=Marsh | coauthors=Henrik, Svensmark | title=Cosmic Rays, Clouds, and Climate | journal=Space Science Reviews | volume=94 | number=1-2 | pages=215-230 | year=2000 | month=November | url=http://www.dsri.dk/~hsv/SSR_Paper.pdf | format=[[Portable Document Format|PDF]] | doi=10.1023/A:1026723423896 | accessdate=2007-04-17}}</ref> A difference between this mechanism and greenhouse warming is that an increase in solar activity should produce a warming of the [[stratosphere]] while greenhouse warming should produce a cooling of the stratosphere. [[Ozone depletion|Reduction of stratospheric ozone]] also has a cooling influence but substantial ozone depletion did not occur until the late 1970's. Cooling in the lower stratosphere has been observed since at least 1960.<ref>{{cite web|title=Climate Change 2001:Working Group I: The Scientific Basis (Fig. 2.12)|url=http://www.grida.no/climate/ipcc_tar/wg1/fig2-12.htm|date=2001|accessdate=2007-05-08}}</ref>
+ 
+Other phenomena such as solar variation combined with [[volcano]]es have probably had a warming effect from pre-industrial times to 1950, but a cooling effect since 1950.<ref name=grida7/> However, some research has suggested that the Sun's contribution may have been underestimated. Two researchers at [[Duke University]] have estimated that the Sun may have contributed about 40–50% of the global surface temperature warming over the period 1900–2000, and about 25–35% between 1980 and 2000.<ref>{{cite journal | first=Nicola | last=Scafetta | coauthors=West, Bruce J. | title=Phenomenological solar contribution to the 1900–2000 global surface warming | url = http://www.fel.duke.edu/~scafetta/pdf/2005GL025539.pdf | format = [[Portable Document Format|PDF]] | date=[[2006-03-09]] | journal=[[Geophysical Research Letters]] | volume=33 | issue=5 | id=L05708 | doi=10.1029/2005GL025539 | accessdate=2007-05-08}}</ref> Stott and coauthors suggest that climate models overestimate the relative effect of greenhouse gases compared to solar forcing; they also suggest that the cooling effects of volcanic dust and sulfate aerosols have been underestimated.<ref>{{Cite journal | first=Peter A. | last=Stott | coauthors=''et al.'' | title=Do Models Underestimate the Solar Contribution to Recent Climate Change? | date=[[2003-12-03]] | journal=[[Journal of Climate]] | volume=16 | issue=24 | pages=4079–4093 | doi=10.1175/1520-0442(2003)016%3C4079:DMUTSC%3E2.0.CO;2 | accessdate=2007-04-16 | url=http://climate.envsci.rutgers.edu/pdf/StottEtAl.pdf}}</ref> They conclude that even with an enhanced climate sensitivity to solar forcing, most of the warming during the latest decades is attributable to the increases in greenhouse gases.
+
+==History==
+[[Image:Ice Age Temperature.png|thumb|280px|right|Curves of reconstructed temperature at two locations in Antarctica and a global record of variations in glacial ice volume. Today's date is on the left side of the graph.]]
+{{main|Temperature record}}
+
+===From the present to the dawn of human settlement===
+Global temperatures on both land and sea have increased by {{nowrap|0.75&nbsp;°C (1.4 °F)}} relative to the period 1860&ndash;1900,  according to the [[instrumental temperature record]]. This measured temperature increase is not significantly affected by the [[urban heat island]]. Since 1979, land temperatures have increased about twice as fast as ocean temperatures (0.25&nbsp;°C per decade against 0.13&nbsp;°C per decade).<ref>{{cite journal| last = Smith | first = Thomas M. | coauthors= Reynolds, Richard W. | title = A Global Merged Land–Air–Sea Surface Temperature Reconstruction Based on Historical Observations (1880–1997) | journal = [[Journal of Climate]] |volume = 18 |issue = 12 | issn = 0894-8755 | pages = 2021-2036 | url = http://www.ncdc.noaa.gov/oa/climate/research/Smith-Reynolds-dataset-2005.pdf | format = [[Portable Document Format|PDF]] | date = [[2005-05-15]] | accessdate = 2007-03-14}}</ref> Temperatures in the lower [[troposphere]] have increased between 0.12 and 0.22&nbsp;°C (0.22 and 0.4&nbsp;°F) per decade since 1979, according to [[satellite temperature measurements]]. [[Temperature record of the past 1000 years|Temperature]] is believed to have been relatively stable over the one or two thousand years before 1850, with possibly regional fluctuations such as the [[Medieval Warm Period]] or the [[Little Ice Age]].
+
+Based on estimates by [[NASA]]'s [[Goddard Institute for Space Studies]], 2005 was the warmest year since reliable, widespread instrumental measurements became available in the late 1800s, exceeding the previous record set in 1998 by a few hundredths of a degree.<ref>{{cite web |url= http://data.giss.nasa.gov/gistemp/2005/ |last= Hansen | first = James E. |authorlink= James Hansen |coauthors= ''et al.'' |title= Goddard Institute for Space Studies, GISS Surface Temperature Analysis |accessdate=2007-01-17 |date= [[2006-01-12]] |publisher= NASA [[Goddard Institute for Space Studies]]}}</ref> Estimates prepared by the [[World Meteorological Organization]] and the [[Climatic Research Unit]] concluded that 2005 was the second warmest year, behind 1998.<ref>{{cite web |url= http://www.cru.uea.ac.uk/cru/press/2005-12-WMO.pdf |title= Global Temperature for 2005: second warmest year on record |accessdate=2007-04-13 |date= [[2005-12-15]] |publisher= [[Climatic Research Unit]], School of Environmental Sciences, University of East Anglia |format = [[Portable Document Format|PDF]]}}</ref><ref>{{cite web |url=http://grdc.bafg.de/servlet/is/4226/Pressemitteilung-WMO-23-Dez-05-743_E1.pdf |format=[[Portable Document Format|PDF]] |title=WMO STATEMENT ON THE STATUS OF THE GLOBAL CLIMATE IN 2005 |accessdate=2007-04-13 |date=[[2005-12-15]] |publisher=[[World Meteorological Organization]]}}</ref>
+
+Anthropogenic emissions of other [[pollutant]]s—notably sulfate [[Particulate|aerosols]]—can exert a cooling effect by increasing the reflection of incoming sunlight. This partially accounts for the cooling seen in the temperature record in the middle of the twentieth century,<ref>{{cite web |url=http://www.grida.no/climate/ipcc_tar/wg1/462.htm |last = Mitchell |first = J. F. B. |coauthors = ''et al.'' |title = 12.4.3.3 Space-time studies |work = Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change |accessdate=2007-01-04 |date=[[2001-01-20]] |publisher=[[Intergovernmental Panel on Climate Change]]}}</ref> though the cooling may also be due in part to natural variability.
+
+Paleoclimatologist [[William Ruddiman]] has argued that human influence on the global climate began around 8,000 years ago with the start of forest clearing to provide land for agriculture and 5,000 years ago with the start of Asian rice irrigation.<ref>{{cite journal |last=Ruddiman |first=William F. |authorlink=William Ruddiman |title=How Did Humans First Alter Global Climate? |volume=292 |issue=3 |journal=[[Scientific American]] |date=March 2005 |pages=46-53 |url=http://ccr.aos.wisc.edu/news/0305046.pdf |format=[[Portable Document Format|PDF]] |accessdate=2007-03-05}}</ref> Ruddiman's interpretation of the historical record, with respect to the methane data, has been disputed.<ref>{{cite journal |last=Schmidt |first=Gavin |authorlink=Gavin Schmidt |coauthors=''et al.'' |date=[[2004-12-10]] |title=A note on the relationship between ice core methane concentrations and insolation |journal=[[Geophysical Research Letters]] |volume=31 |issue=23 |id=L23206 |doi=10.1029/2004GL021083 |url=http://pubs.giss.nasa.gov/abstracts/2004/Schmidt_etal_2.html |accessdate=2007-03-05}}</ref>
+
+===Pre-human climate variations===
+[[Image:2000 Year Temperature Comparison.png|thumb|280px|right|Two millennia of mean surface temperatures according to different reconstructions, each smoothed on a decadal scale. The unsmoothed, annual value for 2004 is also plotted for reference.]]
+{{See|Paleoclimatology}}
+{{See also|Snowball Earth}}
+Earth has experienced warming and cooling many times in the past. The recent Antarctic [[EPICA]] ice core spans 800,000 years, including eight glacial cycles timed by [[Milankovitch cycles|orbital variations]] with [[interglacial]] warm periods comparable to present temperatures.<ref>{{cite journal | first=James | last=Hansen | coauthors=''et al.'' | url=http://www.pnas.org/cgi/reprint/103/39/14288.pdf | title=Global temperature change | journal=[[Proceedings of the National Academy of Sciences|PNAS]] | volume=103 | number=39 | pages=14288-14293 | date=[[2006-09-26]] | format=[[Portable Document Format|PDF]] | accessdate=2007-04-20 | doi:10.1073/pnas.060291103}}</ref>
+
+A rapid buildup of greenhouse gases caused warming in the early [[Jurassic]] period (about 180 million years ago), with average temperatures rising by 5&nbsp;°C (9.0&nbsp;°F). Research by the [[Open University]] indicates that the warming caused the rate of rock weathering to increase by 400%. As such weathering locks away carbon in [[calcite]] and [[dolomite]], CO<sub>2</sub> levels dropped back to normal over roughly the next 150,000 years.<ref>{{cite press release |title=The Open University Provides Answers on Global Warming |publisher=[[Open University]] |date=[[2004-01-30]] |url=http://www3.open.ac.uk/earth-sciences/downloads/Press%20Release.pdf |format=[[Portable Document Format|PDF]] |accessdate=2007-03-04}}</ref><ref>{{cite journal | last = Cohen | first = Anthony S. | coauthors = ''et al.'' | year = 2004 | month = February | title = Osmium isotope evidence for the regulation of atmospheric CO<sub>2</sub> by continental weathering | journal = [[Geology (journal)|Geology]] | volume = 32 | issue = 2 | pages = 157-160 | doi = 10.1130/G20158.1 | url = http://sheba.geo.vu.nl/~vonh/imagesanddata/data/Cohenetal2004.pdf | format = [[Portable Document Format|PDF]] | accessdate = 2007-03-04}}</ref>
+
+Sudden releases of methane from [[clathrate compound]]s (the [[clathrate gun hypothesis]]) have been hypothesized as a cause for other  warming events in the distant past, including the [[Permian-Triassic extinction event]] (about 251 million years ago) and the [[Paleocene-Eocene Thermal Maximum]] (about 55 million years ago).
+
+==Climate models==
+[[Image:Global Warming Predictions.png|thumb|280px|Calculations of global warming prepared in or before 2001 from a range of [[climate model]]s under the [[SRES]] A2 emissions scenario, which assumes no action is taken to reduce emissions.]]
+[[Image:Global Warming Predictions Map 2.jpg|thumb|280px|The geographic distribution of surface warming  during the 21<sup>st</sup> century calculated by the [[HadCM3]] climate model if a business as usual scenario is assumed for economic growth and greenhouse gas emissions. In this figure, the globally averaged warming corresponds to 3.0&nbsp;°C (5.4&nbsp;°F).]]
+{{main|Global climate model}}
+
+Scientists have studied global warming with computer models of the climate. These models are based on physical principles of fluid dynamics, radiative transfer, and other processes, with some simplifications being necessary because of limitations in computer power. These models predict that the net effect of adding greenhouse gases is to produce a warmer climate. However, even when the same assumptions of fossil fuel consumption and CO<sub>2</sub> emission are used, the amount of projected warming varies between models and there still remains a considerable range of [[climate sensitivity]].
+
+Including uncertainties in the models and in future greenhouse gas concentrations, the IPCC anticipates a warming of {{nowrap|1.1 °C to 6.4 °C}} {{nowrap|(2.0 °F to 11.5 °F)}} between 1990 and 2100. Models have also been used to help investigate the [[Attribution of recent climate change|causes of recent climate change]] by comparing the observed changes to those that the models project from various natural and human derived causes.
+
+Climate models can produce a good match to observations of global temperature changes over the last century, but "cannot yet simulate all aspects of climate."<ref>{{cite web |url=http://www.grida.no/climate/ipcc_tar/wg1/007.htm |title=Summary for Policymakers |work=Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change |accessdate=2007-04-28 |date=[[2001-01-20]] |publisher=[[Intergovernmental Panel on Climate Change]]}}</ref> These models do not unambiguously attribute the warming that occurred from approximately 1910 to 1945 to either natural variation or human effects; however, they suggest that the warming since 1975 is dominated by man-made [[greenhouse gas]] emissions.
+
+Most global climate models, when run to project future climate, are forced by imposed greenhouse gas scenarios, generally one from the IPCC [[Special Report on Emissions Scenarios]] (SRES). Less commonly, models may be run by adding a simulation of the [[carbon cycle]]; this generally shows a positive feedback, though this response is uncertain (under the A2 SRES scenario, responses vary between an extra 20 and 200&nbsp;ppm of CO<sub>2</sub>). Some observational studies also show a positive feedback.<ref>
+{{cite journal |last=Torn |first=Margaret |coauthors=Harte, John |date=[[2006-05-26]] |title=Missing feedbacks, asymmetric uncertainties, and the underestimation of future warming |journal=[[Geophysical Research Letters]] |volume=33 |issue=10 |id=L10703 |url=http://www.agu.org/pubs/crossref/2006/2005GL025540.shtml |accessdate=2007-03-04}}</ref><ref>
+{{cite journal |last=Harte |first=John |coauthors=''et al.'' |date=[[2006-10-30]] |title=Shifts in plant dominance control carbon-cycle responses to experimental warming and widespread drought |journal=Environmental Research Letters |volume=1 |issue=1 |id=014001 |url=http://www.iop.org/EJ/article/1748-9326/1/1/014001/erl6_1_014001.html |accessdate=2007-05-02}}</ref><ref>{{cite journal |last = Scheffer |first = Marten |coauthors = ''et al.'' |title = Positive feedback between global warming and atmospheric CO2 concentration inferred from past climate change. |journal = [[Geophysical Research Letters]] |volume = 33 |url = http://www.pik-potsdam.de/~victor/recent/scheffer_etal_T_CO2_GRL_in_press.pdf |doi = 10.1029/2005gl025044 |date = [[2006-05-26]] |accessdate = 2007-05-04}}</ref>
+
+The representation of clouds is one of the main sources of uncertainty in present-generation models, though progress is being made on this problem.<ref>{{cite web |url=http://www.grida.no/climate/ipcc_tar/wg1/271.htm |last = Stocker |first = Thomas F. |coauthors = ''et al.'' |title = 7.2.2 Cloud Processes and Feedbacks |work = Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change |accessdate=2007-03-04 |date=[[2001-01-20]] |publisher=[[Intergovernmental Panel on Climate Change]]}}</ref> There is also an ongoing discussion as to whether climate models are neglecting important indirect and feedback effects of [[solar variation|solar variability]].
+
+==Attributed and expected effects==
+{{main|Effects of global warming}}
+[[Image:Glacier Mass Balance.png|right|thumb|280px|Sparse records indicate that glaciers have been retreating since the early 1800s. In the 1950s measurements began that allow the monitoring of glacial mass balance, reported to the [[World Glacier Monitoring Service|WGMS]] and the [[National Snow and Ice Data Center|NSIDC]].]]
+
+Some effects on both the [[natural environment]] and [[civilization|human life]] are, at least in part, already being attributed to global warming. A 2001 report by the IPCC suggests that [[Retreat of glaciers since 1850|glacier retreat]], [[Ice shelf#Ice shelf disruption|ice shelf disruption]] such as the [[Larsen Ice Shelf]], [[sea level rise]], changes in rainfall patterns, increased intensity and frequency of [[Effects of global warming#More extreme weather|extreme weather events]], are being attributed in part to global warming.<ref name="tar_wg2">{{cite web |title = Climate Change 2001: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Third Assessment Report of the Intergovernmental Panel on Climate Change |url = http://www.grida.no/climate/ipcc_tar/wg2/index.htm |publisher = [[Intergovernmental Panel on Climate Change]] |date = [[2001-02-16]] |accessdate = 2007-03-14}}</ref> While changes are expected for overall patterns, intensity, and frequencies, it is difficult to attribute specific events to global warming. Other expected effects include water scarcity in some regions and increased precipitation in others, changes in mountain snowpack, adverse health effects from warmer temperatures.
+
+Increasing deaths, displacements, and economic losses projected due to [[extreme weather]] attributed to global warming may be exacerbated by growing population densities in affected areas, although temperate regions are projected to experience some minor benefits, such as fewer deaths due to cold exposure.<ref name="WGII SPM AR4">{{cite web |title = Summary for Policymakers |work = Climate Change 2007: Impacts, Adaptation and Vulnerability. Working Group II Contribution to the Intergovernmental Panel on Climate Change Fourth Assessment Report |url = http://www.ipcc.ch/SPM13apr07.pdf |format = [[Portable Document Format|PDF]] |publisher = [[Intergovernmental Panel on Climate Change]] |date = [[2007-04-13]] |accessdate = 2007-04-28}}</ref> A summary of probable effects and recent understanding can be found in the report made for the [[IPCC Third Assessment Report]] by Working Group II.<ref name="tar_wg2"/> The newer [[IPCC Fourth Assessment Report]] summary reports that there is observational evidence for an increase in intense [[tropical cyclone]] activity in the North [[Atlantic Ocean]] since about 1970, in correlation with the increase in sea surface temperature, but that the detection of long-term trends is complicated by the quality of records prior to routine satellite observations. The summary also states that there is no clear trend in the annual worldwide number of tropical cyclones.<ref name=grida7/>
+
+Additional anticipated effects include sea level rise of {{nowrap|110 to 770 mm}} {{nowrap|(0.36 to 2.5 feet)}} between 1990 and 2100,<ref>{{cite web |url=http://www.grida.no/climate/ipcc_tar/wg1/409.htm |last = Church |first = John A. |coauthors = ''et al.'' |title = Executive Summary of Chapter 11 |work = Climate Change 2001: The Scientific Basis. Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change |accessdate=2005-12-19 |date=[[2001-01-20]] |publisher=[[Intergovernmental Panel on Climate Change]]}}</ref> [[Climate change and agriculture|repercussions to agriculture]], [[Shutdown of thermohaline circulation|possible slowing of the thermohaline circulation]], reductions in the [[ozone layer]], increased intensity and frequency of [[Effects of global warming#More extreme weather|hurricanes and extreme weather events]], [[Ocean acidification|lowering]] of ocean [[pH]], and the spread of diseases such as [[malaria]] and [[dengue fever]]. One study predicts 18% to 35% of a sample of 1,103 animal and plant species would be [[extinction risk from climate change|extinct]] by 2050, based on future climate projections.<ref>{{cite journal |last= Thomas |first= Chris D. |coauthors= ''et al.'' |date= [[2004-01-08]] |title= Extinction risk from climate change |journal= [[Nature (journal)|''Nature'']] |volume= 427 |issue= 6970 |pages= 145-138 |doi= 10.1038/nature02121 |url= http://www.geog.umd.edu/resac/outgoing/GEOG442%20Fall%202005/Lecture%20materials/extinctions%20and%20climate%20change.pdf |format= [[Portable Document Format|PDF]] |accessdate= 2007-03-18}}</ref> Mechanistic studies have documented extinctions due to recent climate change: McLaughlin ''et al.'' documented two populations of [[Bay checkerspot butterfly]] being threatened by precipitation change.<ref name="McLaughlin">{{cite journal |last= McLaughlin |first= John F. |coauthors= ''et al.'' |date= [[2002-04-30]] |title= Climate change hastens population extinctions |journal= [[Proceedings of the National Academy of Sciences|PNAS]] |volume= 99 |issue= 9 |pages= 6070-6074 |doi= 10.1073/pnas.052131199 |url= http://www.nd.edu/~hellmann/pnas.pdf |format= [[Portable Document Format|PDF]] |accessdate= 2007-03-29}}</ref> Parmesan states, "Few studies have been conducted at a scale that encompasses an entire species"<ref>{{cite journal |last= Permesan |first= Camille |date= [[2006-08-24]] |title= Ecological and Evolutionary Responses to Recent Climate Change |journal= [[Annual Review of Ecology, Evolution, and Systematics]] |volume= 37 |pages= 637-669 |doi= 10.1146/annurev.ecolsys.37.091305.110100 |url= http://cns.utexas.edu/communications/File/AnnRev_CCimpacts2006.pdf |format= [[Portable Document Format|PDF]] |accessdate= 2007-03-30}}</ref> and McLaughlin ''et al.'' agreed "few mechanistic studies have linked extinctions to recent climate change."<ref name="McLaughlin"/>
+
+===Economics===
+{{main|Economics of global warming}}
+Some economists have tried to estimate the aggregate net economic costs of damages from climate change across the globe. Such estimates have so far failed to reach conclusive findings; in a survey of 100 estimates, the values ran from [[United States dollar|US$]]-10 per tonne of carbon (tC) (US$-3 per tonne of carbon dioxide) up to US$350/tC (US$95 per tonne of carbon dioxide), with a mean of US$43 per tonne of carbon (US$12 per tonne of carbon dioxide).<ref name="WGII SPM AR4"/> One widely-publicized report on potential economic impact is the [[Stern Review]]; it suggests that extreme weather might reduce global [[gross domestic product]] by up to 1%, and that in a worst case scenario global consumption per head could fall 20%.<ref>{{cite web | url= http://news.bbc.co.uk/2/hi/business/6098362.stm | title = At-a-glance: The Stern Review | publisher = [[BBC]] |accessdate=2007-04-29 |date = [[2006-10-30]]}}</ref> The reports methodology, advocacy and conclusions has been criticized by many economists, primarily around the Review's assumptions of [[discounting]] and its choices of scenarios, while others have supported the general attempt to quantify economic risk, even if not the specific numbers.
+
+In a summary of economic cost associated with climate change, the [[United Nations Environment Programme]] emphasizes the risks to [[insurance|insurers]], [[reinsurance|reinsurers]], and [[bank]]s of increasingly traumatic and costly weather events. Other economic sectors likely to face difficulties related to climate change include [[Climate change and agriculture|agriculture]] and transport. Developing countries, rather than the developed world, are at greatest economic risk.<ref>{{cite web | url=http://www.unepfi.org/fileadmin/documents/CEO_briefing_climate_change_2002_en.pdf | format= [[Portable Document Format|PDF]] | title = Climate Risk to Global Economy |last = Dlugolecki |first= Andrew |coauthors= ''et al.'' |work = CEO Briefing: UNEP FI Climate Change Working Group | publisher = [[United Nations Environment Programme]] |accessdate=2007-04-29 |date=2002}}</ref>
+
+==Mitigation and adaptation==
+{{main|Mitigation of global warming|adaptation to global warming|Kyoto Protocol}}
+The broad agreement among climate scientists that global temperatures will continue to increase has led nations, states, corporations and individuals to implement actions to try to [[Mitigation of global warming|curtail global warming]] or [[Adaptation to global warming|adjust to it]]. Many environmental groups encourage [[Individual and political action on climate change|action against global warming]], often by the consumer, but also by community and regional organizations. There has been [[business action on climate change]], including efforts at increased energy efficiency and (still limited) moves to [[alternative fuels]]. One important innovation has been the development of greenhouse gas [[emissions trading]] through which companies, in conjunction with government, agree to cap their emissions or to purchase credits from those below their allowances.
+
+The world's primary international agreement on combating global warming is the [[Kyoto Protocol]], an amendment to the [[United Nations Framework Convention on Climate Change]] (UNFCCC), negotiated in 1997. The Protocol now covers more than 160 countries globally and over 55% of global greenhouse gas emissions.<ref>{{cite web | url=http://unfccc.int/files/essential_background/kyoto_protocol/application/pdf/kpstats.pdf | format=[[Portable Document Format|PDF]] |title=Kyoto Protocol Status of Ratification | publisher=[[United Nations Framework Convention on Climate Change]] | date=[[2006-07-10]] | accessdate=2007-04-27}}</ref> The [[United States]], the world's largest greenhouse gas emitter; [[Australia]]; and [[Kazakhstan]] have refused to ratify the treaty. [[China]] and [[India]], two other large emitters, have ratified the treaty but, as developing countries, are exempt from its provisions.
+
+==Issue debate and political processes==
+{{main|Global warming controversy|politics of global warming}}
+Increased awareness of the scientific findings surrounding global warming has resulted in political and economic debate. Poor regions, particularly [[Africa]], appear at greatest risk from the suggested effects of global warming, while their actual emissions have been negligible compared to the developed world, reports ''[[The New York Times]]''.<ref name>{{cite news | title= Poor Nations to Bear Brunt as World Warms | first=Andrew | last=Revkin | date=[[2007-04-01]] | publisher=[[The New York Times]] | url= http://www.nytimes.com/2007/04/01/science/earth/01climate.html?ex=1333080000&en=6c687d64add0b7ba&ei=5088&partner=rssnyt&emc=rss| accessdate = 2007-05-02}}</ref> At the same time, [[developing country]] exemptions from provisions of the [[Kyoto Protocol]] have been criticized by the United States and been used as part of its justification for continued non-ratification.<ref>{{cite web | title= China's emissions may surpass the US in 2007 | first=Catherine | last=Brahic | date=[[2006-04-25]] | publisher=[[New Scientist]] | url=http://environment.newscientist.com/article/dn11707-chinas-emissions-to-surpass-the-us-within-months.html | accessdate = 2007-05-02}}</ref> In the [[Western world]], the idea of human influence on climate and efforts to combat it has gained wider acceptance in [[Europe]] than the United States.<ref>{{cite news | title=More in Europe worry about climate than in U.S., poll shows | first=Thomas | last=Crampton | date=[[2007-01-04]] | publisher=[[International Herald Tribune]] | url=http://www.iht.com/articles/2007/01/04/news/poll.php | accessdate = 2007-04-14}}</ref><ref>{{cite web | title = Summary of Findings | work = Little Consensus on Global Warming. Partisanship Drives Opinion | publisher = [[Pew Research Center]] | date = [[2006-07-12]] | accessdate = 2007-04-14 | url = http://people-press.org/reports/display.php3?ReportID=280}}</ref> 
+
+Fossil fuel companies such as [[ExxonMobil]] have spent large sums of money for public relations to downplay the risks of climate change,<ref>{{cite news |title= Exxon cuts ties to global warming skeptics |url= http://www.msnbc.msn.com/id/16593606 |publisher= [[MSNBC]] |date= [[2007-01-12]] |accessdate= 2007-05-02}}</ref><ref>{{cite news |title= Report: Big Money Confusing Public on Global Warming |url= http://abcnews.go.com/Technology/Business/story?id=2767979&page=1 |last= Sandell |first= Clayton |publisher= [[American Broadcasting Company|ABC]] |date= [[2007-01-03]] |accessdate= 2007-04-27}}</ref> while environmental groups have launched campaigns emphasizing its impacts.
+
+This issue has sparked debate in the U.S. about the benefits of limiting [[industrial process|industrial]] [[Air pollution|emissions]] of [[greenhouse gas]]es to reduce impacts to the climate, versus the effects on economic activity.<ref>{{cite news |url= http://thehill.com/the-executive/global-warming-becomes-hot-topic-on-capitol-hill-2007-01-18.html |title= Global warming becomes hot topic on Capitol Hill |date= [[2007-01-18]] |last= Holzer |first= Jessica |publisher= [[The Hill (newspaper)|The Hill]] |accessdate=2007-05-02}}</ref><ref>{{cite news |url= http://news.yahoo.com/s/nm/20070504/pl_nm/globalwarming_usa_dc_1;_ylt=AnqRsGYs.NTGIOSzjoZQzwzuOrgF |title= U.S. rejects 'high cost' global warming scenarios |date= [[2007-05-04]] |last= Zabarenko |first= Deborah |publisher= [[Reuters]] |accessdate=2007-05-04}}</ref> There has also been discussion in several countries about the cost of adopting alternate, cleaner [[alternative energy|energy sources]] in order to reduce emissions.<ref>{{cite news |url= http://news.bbc.co.uk/2/hi/europe/6432829.stm |title= EU agrees on carbon dioxide cuts |date= [[2007-03-09]] |publisher= [[BCC]] |accessdate=2007-05-04}}</ref>
+
+Another point of debate is the degree to which [[Newly industrialized country|newly-developed economies]], like [[India]] and [[China]], have a right to [[Industrialization|increase]] their industrial emissions, especially since China is expected to exceed the United States in total greenhouse gas emissions by 2010,<ref>{{cite news |url= http://news.yahoo.com/s/afp/20070502/sc_afp/unclimatewarming_070502135622;_ylt=ApTpRIMZMVR_v_2xYw1OHVVrAlMA |title= China, India, Brazil hold up climate change talks |date= [[2007-05-02]] |last= Angleys |first = Emmanuel |publisher = [[Agence France-Presse]] |accessdate=2007-05-02}}</ref> though the U.S. has less than one-fourth of China's population.<ref>{{cite news |url= http://www.redorbit.com/news/science/782348/us_population_300888812_for_jan_1/index.html?source=r_science |title= U.S. Population 300,888,812 for Jan. 1 |date= [[2006-12-28]] |publisher= Red Orbit |accessdate= 2007-05-03}}</ref>
+
+==Related climatic issues==
+{{main|Ocean acidification|global dimming|ozone depletion}}
+A variety of issues are often raised in relation to global warming. One is [[ocean acidification]], the ongoing decrease in the [[pH]] of the [[Earth]]'s oceans. Increased atmospheric CO<sub>2</sub> increases the amount of CO<sub>2</sub> dissolved in the oceans.<ref>{{cite web |url=http://science.hq.nasa.gov/oceans/system/carbon.html |title=The Ocean and the Carbon Cycle |accessdate=2007-03-04 |date=[[2005-06-21]] |work=[[NASA]]}}</ref> CO<sub>2</sub> dissolved in the ocean reacts with water to form [[carbonic acid]] resulting in acidification. Ocean surface pH is estimated to have decreased from approximately 8.25 to 8.14 since the beginning of the industrial era,<ref>{{cite journal |last= Jacobson |first= Mark Z. |date= [[2005-04-02]] |title= Studying ocean acidification with conservative, stable numerical schemes for nonequilibrium air-ocean exchange and ocean equilibrium chemistry |journal= [[Journal of Geophysical Research]] |volume= 110 |issue= D7 |id= D07302 |url= http://www.stanford.edu/group/efmh/jacobson/2004JD005220.pdf |format=[[Portable Document Format|PDF]] |doi = 10.1029/2004JD005220 |accessdate=2007-04-28}}</ref> and it is estimated that it will drop by a further 0.14 to 0.5 units by 2100 as the ocean absorbs more CO<sub>2</sub>.<ref name=grida7/><ref>{{cite journal| last = Caldeira | first = Ken | coauthors= Wickett, Michael E. | title = Ocean model predictions of chemistry changes from carbon dioxide emissions to the atmosphere and ocean | journal = [[Journal of Geophysical Research]] |volume = 110 |issue = C09S04 | doi:10.1029/2004JC002671 | pages = 1-12 | url = http://www.agu.org/pubs/crossref/2005/2004JC002671.shtml | date = [[2005-09-21]] | accessdate = 2006-02-14}}</ref> Since organisms and ecosystems are adapted to a narrow range of pH, this raises [[extinction]] concerns, directly driven by increased atmospheric CO<sub>2</sub>, that could disrupt food webs and impact human societies that depend on marine ecosystem services.<ref>{{cite paper |author=Raven, John A.; ''et al.'' |title= Ocean acidification due to increasing atmospheric carbon dioxide |publisher= [[Royal Society]] |date= [[2005-06-30]] |url= http://www.royalsoc.ac.uk/displaypagedoc.asp?id=13314 |format= [[Active Server Pages|ASP]] |accessdate= 2007-05-04}}</ref>
+
+Another related issue that may have partially mitigated global warming in the late twentieth century is [[global dimming]], the gradual reduction in the amount of global direct [[irradiance]] at the Earth's surface. From 1960 to 1990 human-caused aerosols likely precipitated this effect. Scientists have stated with 66–90% confidence that the effects of human-caused aerosols, along with volcanic activity, have offset some of global warming, and that greenhouse gases would have resulted in more warming than observed if not for these dimming agents.<ref name=grida7/>
+
+[[Ozone depletion]], the steady decline in the total amount of [[ozone]] in Earth's [[stratosphere]], is frequently cited in relation to global warming. Although there are [[Ozone_depletion#Ozone_depletion_and_global_warming|areas of linkage]], the relationship between the two is not strong.
+
+==See also==
+* [[Glossary of climate change]]
+
+==References==
+{{reflist|2}}
+
+==Further reading==
+<div class="references-small">
+*{{cite journal
+ | last = Amstrup | first=Steven C.
+ | coauthors = [[Ian Stirling]], Tom S. Smith, Craig Perham, Gregory W. Thiemann
+ | date = [[2006-04-27]]
+ | title = Recent observations of intraspecific predation and cannibalism among polar bears in the southern Beaufort Sea
+ | journal = Polar Biology
+ | volume = 29 | issue = 11 | pages = 997-1002
+ | doi = 10.1007/s00300-006-0142-5
+ }}
+*{{cite book
+ | title = Financial Risks of Climate Change
+ | author = Association of British Insurers
+ | year= 2005-06
+ | url=http://www.abi.org.uk/Display/File/Child/552/Financial_Risks_of_Climate_Change.pdf
+| format = [[Portable Document Format|PDF]]
+ }}
+*{{cite journal
+ | last = Barnett | first = Tim P.
+ | coauthors = J. C. Adam, D. P. Lettenmaier
+ | date = [[2005-11-17]]
+ | title = Potential impacts of a warming climate on water availability in snow-dominated regions
+ | journal = [[Nature (journal)|Nature]]
+ | volume = 438 | issue = 7066  | pages = 303-309
+ | url = http://www.nature.com/nature/journal/v438/n7066/abs/nature04141.html
+ | doi = 10.1038/nature04141
+ }} 
+*{{cite journal
+ | last= Behrenfeld | first= Michael J.
+ | coauthors = Robert T. O'Malley, David A. Siegel, Charles R. McClain, Jorge L. Sarmiento, Gene C. Feldman, Allen G. Milligan, Paul G. Falkowski, Ricardo M. Letelier, Emanuel S. Boss 
+ | date = [[2006-12-07]]
+ | title = Climate-driven trends in contemporary ocean productivity
+ | journal = [[Nature (journal)|Nature]]
+ | volume = 444 | issue = 7120 | pages = 752-755.
+ | url=http://www.icess.ucsb.edu/~davey/MyPapers/Behrenfeld_etal_2006_Nature.pdf
+ | format = [[Portable Document Format|PDF]]
+ | doi=10.1038/nature05317
+ }}
+*{{cite journal
+ | first = Onelack | last= Choi
+ | coauthors = Ann Fisher
+ | date = May 2005
+ | title = The Impacts of Socioeconomic Development and Climate Change on Severe Weather Catastrophe Losses: Mid-Atlantic Region (MAR) and the U.S.
+ | journal = Climate Change
+ | volume = 58 | issu e= 1-2 | pages = 149-170
+ | doi = 10.1023/A:1023459216609
+ | url = http://www.springerlink.com/content/m6308777613702q0/
+}}
+*{{cite book
+ | last = Dyurgerov | first =  Mark B.
+ | coauthors = Mark F. Meier
+ | year = 2005
+ | title = Glaciers and the Changing Earth System: a 2004 Snapshot
+ | publisher = Institute of Arctic and Alpine Research Occasional Paper #58
+ | url = http://instaar.colorado.edu/other/download/OP58_dyurgerov_meier.pdf
+ | format = [[Portable Document Format|PDF]]
+ | id = {{ISSN|0069-6145}}
+ }}
+*{{cite journal
+ | last=Emanuel | first=Kerry A.
+ | authorlink=Kerry Emanuel
+ | date= [[2005-08-04]]
+ | title=Increasing destructiveness of tropical cyclones over the past 30 years.
+ | journal= [[Nature (journal)|Nature]]
+ | volume=436 | issue=7051 | pages=686-688
+ | url=ftp://texmex.mit.edu/pub/emanuel/PAPERS/NATURE03906.pdf
+ | format = [[Portable Document Format|PDF]]
+ | doi=10.1038/nature03906
+ }}
+*{{cite journal
+ | last=Hansen | first=James
+ | authorlink=James Hansen
+ | coauthors=Larissa Nazarenko, Reto Ruedy, Makiko Sato, Josh Willis, Anthony Del Genio, Dorothy Koch, Andrew Lacis, Ken Lo, Surabi Menon, Tica Novakov, Judith Perlwitz, Gary Russell, [[Gavin A. Schmidt]], Nicholas Tausnev
+ | date= [[2005-06-03]]
+ | title=Earth's Energy Imbalance: Confirmation and Implications
+ | journal=[[Science (journal)|Science]]
+ | volume=308 | issue=5727 | pages=1431-1435
+ | url=http://pangea.stanford.edu/research/Oceans/GES205/Hansen_Science_Earth's%20Energy%20Balance.pdf
+ | format = [[Portable Document Format|PDF]]
+ | doi=10.1126/science.1110252
+ }} 
+*{{cite journal
+ | last= Hinrichs | first= Kai-Uwe
+ | coauthors=Laura R. Hmelo, Sean P. Sylva
+ | date=[[2003-02-21]]
+ | title = Molecular Fossil Record of Elevated Methane Levels in Late Pleistocene Coastal Waters
+ | journal = [[Science (journal)|Science]]
+ | volume = 299
+ | issue = 5610
+ | pages = 1214-1217
+ | doi= 10.1126/science.1079601
+ }}
+*{{cite news
+ | last=Hirsch | first=Tim
+ | publisher=[[BBC]]
+ | url=http://news.bbc.co.uk/2/hi/science/nature/4604332.stm
+ | title=Plants revealed as methane source
+ | date=[[2006-01-11]]
+ }}
+*{{cite journal
+ | last = Hoyt | first = Douglas V.
+ | coauthors = Kenneth H. Schatten
+ | year = 1993-11
+ | title = A discussion of plausible solar irradiance variations, 1700&ndash;1992
+ | journal = [[Journal of Geophysical Research]]
+ | volume = 98 | issue = A11 | pages = 18,895–18,906
+ | url = http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=1993JGR....9818895H&amp;db_key=AST&amp;data_type=HTML&amp;format=&amp;high=448f267ff303582
+ }}
+*{{cite book
+ | last = Kenneth | first = James P.
+ | coauthors = Kevin G. Cannariato, Ingrid L. Hendy, Richard J. Behl 
+ | year = [[2003-02-14]]
+ | title = Methane Hydrates in Quaternary Climate Change: The Clathrate Gun Hypothesis
+ | publisher = [[American Geophysical Union]]
+ | url = https://www.agu.org/cgi-bin/agubooks?book=ASSP0542960
+ }}
+*{{cite news 
+ | last = Keppler | first = Frank
+ | coauthors = Marc Brass, Jack Hamilton, Thomas Röckmann
+ | title = Global Warming - The Blame Is not with the Plants
+ | url = http://www.mpg.de/english/illustrationsDocumentation/documentation/pressReleases/2006/pressRelease200601131/index.html
+ | publisher = [[Max Planck Society]]
+ | date = [[2006-01-18]]
+ }}
+*{{cite journal
+ | author = Kurzweil, Raymond
+ | authorlink = Raymond Kurzweil
+ | year = 2006-07
+ | title = Nanotech Could Give Global Warming a Big Chill
+ | journal = Forbes / Wolfe Nanotech Report
+ | volume = 5 | issue = 7
+ | url = http://www.qsinano.com/pdf/ForbesWolfe_NanotechReport_July2006.pdf
+ | format = [[Portable Document Format|PDF]]
+ }}
+*{{cite journal
+ | title = The effect of increasing solar activity on the Sun's total and open magnetic flux during multiple cycles: Implications for solar forcing of climate
+ | last = Lean | first = Judith L.
+ | coauthors = Y.M. Wang, N.R. Sheeley
+ | year = 2002-12
+ | journal = [[Geophysical Research Letters]]
+ | volume = 29 | issue = 24 |
+ | url = http://adsabs.harvard.edu/abs/2002GeoRL..29x..77L
+ | doi = 10.1029/2002GL015880
+ }}
+*{{cite book
+ | last = Lerner | first = K. Lee
+ | coauthors = Brenda Wilmoth Lerner
+ | title = Environmental issues : essential primary sources.
+ | publisher = [[Thomson Gale]]
+ | date = [[2006-07-26]]
+ | isbn = 1414406258
+ }}
+*{{cite journal
+ | last = McLaughlin | first = Joseph B.
+ | coauthors = Angelo DePaola, Cheryl A. Bopp, Karen A. Martinek, Nancy P. Napolilli, Christine G. Allison, Shelley L. Murray, Eric C. Thompson, Michele M. Bird, John P. Middaugh
+ | title = Outbreak of Vibrio parahaemolyticus gastroenteritis associated with Alaskan oysters
+ | journal = [[New England Journal of Medicine]]
+ | volume = 353 | issue = 14 | pages = 1463&ndash;1470
+ | publisher = New England Medical Society
+ | date = [[2005-10-06]]
+ | url = http://content.nejm.org/cgi/content/abstract/353/14/1463
+ }}''(online version requires registration)''
+*{{cite journal
+ | last = Muscheler, Raimund
+ | coauthors = Fortunat Joos, Simon A. Müller, Ian Snowball
+ | date = [[2005-07-28]]
+ | title = Climate: How unusual is today's solar activity?
+ | journal = [[Nature (journal)|Nature]]
+ | volume = 436 | issue = 7012 | pages = 1084–1087
+ | url = http://www.cgd.ucar.edu/ccr/raimund/publications/Muscheler_et_al_Nature2005.pdf
+ | format = [[Portable Document Format|PDF]]
+ | doi = 10.1038/nature04045
+ }}
+*{{cite journal
+ | last = Oerlemans | first = J.
+ | date = [[2005-04-29]]
+ | title = Extracting a Climate Signal from 169 Glacier Records
+ | journal = [[Science (journal)|Science]]
+ | volume = 308 | issue = 5722 | pages = 675-677
+ | url=http://www.cosis.net/abstracts/EGU05/04572/EGU05-J-04572.pdf
+ | format = [[Portable Document Format|PDF]]
+ | doi = 10.1126/science.1107046
+ }}
+*{{cite journal
+ | last = Oreskes | first = Naomi
+ | authorlink=Naomi Oreskes
+ | date = [[2004-12-03]]
+ | title = Beyond the Ivory Tower: The Scientific Consensus on Climate Change
+ | journal = [[Science (journal)|Science]]
+ | volume = 306 | issue = 5702 | pages = 1686
+ | url = http://www.sciencemag.org/cgi/reprint/306/5702/1686.pdf
+ | format = [[Portable Document Format|PDF]]
+ | doi = 10.1126/science.1103618
+ }}
+*{{cite journal
+ | last = Purse | first = Bethan V.
+ | coauthors = Philip S. Mellor, David J. Rogers, Alan R. Samuel, Peter P. C. Mertens, Matthew Baylis
+ | title = Climate change and the recent emergence of bluetongue in Europe
+ | journal = [[Nature Reviews Microbiology]]
+ | volume = 3 | issue = 2 | pages = 171&ndash;181
+ | date = February 2005
+ | doi = 10.1038/nrmicro1090
+ | url=http://www.nature.com/nrmicro/journal/v3/n2/abs/nrmicro1090_fs.html
+ }}
+*{{cite news
+ | last = Revkin | first = Andrew C
+ | date = [[2005-11-05]]
+ | title = Rise in Gases Unmatched by a History in Ancient Ice
+ | publisher = [[The New York Times]]
+ | url = http://www.nytimes.com/2005/11/25/science/earth/25core.html?ei=5090&en=d5078e33050b2b0c&ex=1290574800&adxnnl=1&partner=rssuserland&emc=rss
+ }}
+*{{cite book
+ | last = Ruddiman | first = William F.
+ | authorlink=William Ruddiman
+ | date = [[2005-12-15]]
+ | title = Earth's Climate Past and Future
+ | location = New York
+ | publisher = [[Princeton University Press]]
+ | isbn = 0-7167-3741-8
+ | url = http://www.whfreeman.com/ruddiman/
+ }}
+*{{cite book
+ | last = Ruddiman | first = William F.
+ | authorlink=William Ruddiman
+ | date = [[2005-08-01]]
+ | title = Plows, Plagues, and Petroleum: How Humans Took Control of Climate
+ | location = New Jersey
+ | publisher = [[Princeton University Press]]
+ | isbn = 0-691-12164-8
+ }}
+*{{cite journal
+ | last = Solanki | first = Sami K.
+ | authorlink=Sami Solanki
+ | coauthors = I.G. Usoskin, B. Kromer, M. Schussler, J. Beer
+ | date = [[2004-10-23]]
+ | title = Unusual activity of the Sun during recent decades compared to the previous 11,000 years.
+ | journal = [[Nature (journal)|Nature]]
+ | volume = 431 | pages = 1084&ndash;1087
+ | url = http://cc.oulu.fi/%7Eusoskin/personal/nature02995.pdf
+ | format = [[Portable Document Format|PDF]]
+ | doi = 10.1038/nature02995
+ }}
+*{{cite journal
+ | last = Solanki | first = Sami K.
+ | authorlink=Sami Solanki
+ |coauthors = I. G. Usoskin, B. Kromer, M. Schüssler, J. Beer
+ | date = [[2005-07-28]]
+ | title = Climate:  How unusual is today's solar activity? (Reply)
+ | journal = [[Nature (journal)|Nature]]
+ | volume = 436
+ | pages = E4-E5
+ | url = http://cc.oulu.fi/%7Eusoskin/personal/sola_nature05.pdf
+ | format = [[Portable Document Format|PDF]]
+ | doi = 10.1038/nature04046
+ }}
+*{{cite journal
+ | last = Sowers | first = Todd
+ | date = [[2006-02-10]]
+ | journal = Science
+ | volume = 311 | issue = 5762 | pages = 838&ndash;840
+ | title = Late Quaternary Atmospheric CH<sub>4</sub> Isotope Record Suggests Marine Clathrates Are Stable
+ | doi = 10.1126/science.1121235
+ }}
+*{{cite journal
+ | last = Svensmark | first = Henrik
+ | authorlink=Henrik Svensmark
+ | coauthors = Jens Olaf P. Pedersen, Nigel D. Marsh, Martin B. Enghoff, Ulrik I. Uuggerhøj
+ | year = [[2007-02-08]]
+ | title = Experimental evidence for the role of ions in particle nucleation under atmospheric conditions
+ | journal = [[Proceedings of the Royal Society]] A
+ | volume = 463 | issue = 2078 | pages = 385-396
+ | publisher = FirstCite Early Online Publishing
+ | doi = 10.1098/rspa.2006.1773 
+ }}''(online version requires registration)''
+*{{cite journal
+ | last = Walter | first = K. M.
+ | coauthors = S. A. Zimov, Jeff P. Chanton, D. Verbyla, [[F. Stuart Chapin III|F. S. Chapin]]
+ | date = [[2006-09-07]]
+ | title = Methane bubbling from Siberian thaw lakes as a positive feedback to climate warming
+ | journal = [[Nature (journal)|Nature]]
+ | volume = 443 | issue = 7107 | pages = 71-75
+ | doi = 10.1038/nature05040
+ }}
+*{{cite journal
+ | last = Wang | first = Y.-M.
+ | coauthors = J.L. Lean, N.R. Sheeley
+ | date = [[2005-05-20]]
+ | title = Modeling the sun's magnetic field and irradiance since 1713
+ | journal = [[Astrophysical Journal]]
+ | volume = 625 | pages = 522–538
+ | url = http://climatesci.colorado.edu/publications/pdf/Wang_2005.pdf
+ | format = [[Portable Document Format|PDF]]
+ | doi = 10.1086/429689
+ }}
+</div>
+
+==External links==
+===Scientific===
+*[http://www.ipcc.ch Intergovernmental Panel on Climate Change (IPCC)]
+*[http://www.ncdc.noaa.gov/oa/climate/globalwarming.html#INTRO NOAA's Global Warming FAQ]
+*[http://www.aip.org/history/climate Discovery of Global Warming] — An extensive introduction to the topic and the history of its discovery
+*[http://news.bbc.co.uk/1/hi/world/6460635.stm Caution urged on climate 'risks']
+*[http://www.jpl.nasa.gov/news/features.cfm?feature=1319 NASA Finds Sun-Climate Connection in Old Nile Records]
+
+===Educational===
+*[http://green.nationalgeographic.com/environment/global-warming/gw-overview.html What Is Global Warming?] Simulation from National Geographic
+* [http://edgcm.columbia.edu/ The EdGCM (Educational Global Climate Modelling) Project] free research-quality simulation for students, educators, and scientists alike, with a user-friendly interface that runs on desktop computers
+*[http://pm-esip.msfc.nasa.gov/amsutemps/  Daily global temperatures and trends from satellites] Interactive graphics from [[NASA]]
+
+===Other===
+*[http://www.wikihow.com/Prevent-Global-Warming Help Prevent Global Warming] A [[wikiHow]] article
+*[http://www.ft.com/cms/s/193150ea-f1ce-11db-b5b6-000b5df10621.html UBS Launches First Global Warming Index "UBS-GWI"]
+*[http://www.un.org/apps/news/story.asp?NewsID=20772&Cr=global&Cr1=environment UN: rearing cattle produces more greenhouse gases than driving cars]
+*[http://www.istl.org/01-fall/internet.html Science and Technology Librarianship: Global Warming and Climate Change Science] – Extensive commented list of Internet resources – Science and Technology Sources on the Internet.
+*[http://www.ucsusa.org/global_warming/ Union of Concerned Scientists Global Warming page]
+*[http://www.abc.net.au/catalyst/stories/s1647466.htm Watch and read 'Tipping Point'], Australian science documentary about effects of global warming on rare, common, and endangered wildlife
+*[http://yosemite.epa.gov/oar/globalwarming.nsf/content/newsandeventsScienceandPolicyNews.html Newest reports on U.S. EPA website]
+*[http://www.ipsnews.net/new_focus/kyoto/index.asp IPS Inter Press Service] — Independent news on global warming and its consequences.
+*[http://gristmill.grist.org/skeptics  How to talk to climate skeptics]
+
+
+{{global warming}}
+[[Category:Climate change feedbacks and causes]]
+[[Category:History of climate]]
+[[Category:Global warming|*]]
