@@ -28,6 +28,7 @@ Three Wheelers
 Four Wheelers
 -------------
 
+-   [4 Wheeled Car](4_Wheeled_Car "wikilink")
 -   [4 Wheeled Kit Car](4_Wheeled_Kit_Car "wikilink")
 -   [Conversion kit for VW
     Beetle](/wiki/Conversion_kit_for_VW_Beetle "wikilink")
