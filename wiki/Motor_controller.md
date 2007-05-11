@@ -3,14 +3,8 @@ title: b'Motor controller'
 permalink: b'wiki/Motor_controller/'
 layout: wiki
 tags:
- - Automation
  - BEV components
- - Electrical engineering
- - Electrical engineering
  - Electric motors
- - Electromagnetic components
- - Power components
- - Power electronics
 ---
 
 An EV **motor controller** is a device or group of devices that serves

@@ -39,11 +39,5 @@ Stepper motors are moved by rotating which coil to apply electricity to in a cir
 === Battery electric vehicles===
 * [http://www.cafeelectric.com/ Zilla motor controller].
 
-[[Category:Automation]]
 [[Category:BEV components]]
-[[Category:Electrical engineering]]
-[[Category:Electrical engineering]]
 [[Category:Electric motors]]
-[[Category:Electromagnetic components]]
-[[Category:Power components]]
-[[Category:Power electronics]]
