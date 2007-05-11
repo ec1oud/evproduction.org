@@ -8,9 +8,6 @@ tags:
  - Global warming|*
 ---
 
-<img src="Instrumental_Temperature_Record.png" title="fig:Global mean surface temperature anomaly 1850 to 2006" alt="Global mean surface temperature anomaly 1850 to 2006" width="280" />
-<img src="Global_Warming_Map.jpg" title="fig:Mean surface temperature anomalies during the period 1995 to 2004 with respect to the average temperatures from 1940 to 1980" alt="Mean surface temperature anomalies during the period 1995 to 2004 with respect to the average temperatures from 1940 to 1980" width="280" />
-
 **Global warming** is the increase in the [average
 temperature](/wiki/Instrumental_temperature_record "wikilink") of the Earth's
 near-surface air and [oceans](ocean "wikilink") in recent decades and
