@@ -43,14 +43,17 @@ One can use [[OSCar]] as a base to develop a greener car, the Freedom EV.
 * [[EVProduction complements]], includin a range extender [[baset trailer]]
 
 ==Other EV's==
-
+=== Open source ===
+*[http://www.osgv.org/ 
 *[http://www.austinev.org/evalbum/655.html The Solectria Sunrise] did not make it into production as fast as planned, but it just might get there yet!  We're working on it...
-*[http://www.myersmotors.com/ The Sparrow] was introduced in 1999, sold for a couple years, and now once again you can buy it.  It is freeway capable, but holds only one person.  Think of it as an enclosed, safer motorcycle.
 *[[Proposed vehicle types|Other vehicle types]] that have been proposed by members of the EVProduction club
 *[http://www.fastbk.com/EVware/ Another open-source EV project]
 *[[Enabling technologies]]
 *[[Rules & regulations]]
 *[[Pipe dreams]]
+
+===Propietary ===
+*[http://www.myersmotors.com/ The Sparrow] was introduced in 1999, sold for a couple years, and now once again you can buy it.  It is freeway capable, but holds only one person.  Think of it as an enclosed, safer motorcycle.
 
 ==Conversions==
 The traditional way to get your own electric car has been to buy a used car, remove the engine, replace it with an electric motor, and add batteries.  (To optimize the range, you typically want about half the gross weight to be batteries.)  It began to be a popular idea during the energy crisis in the 1970's, but is still being done today.  The advantage of this approach is that it's fairly direct, and many fairly ambitious back-yard mechanics are capable of doing it.  The trouble is that the car was not designed to be electric, and most such cars will not perform as well as one that is designed for it.
