@@ -68,7 +68,6 @@ With the rise of reconfigurable [[Programmable logic device|logic device]]s, the
 *[[Lee Felsenstein]], founder of the [[Homebrew Computer Club]], based on [[Ivan Illich]]'s [http://todd.cleverchimp.com/tools_for_conviviality/ ''Tools for Conviviality'']
 
 == External links ==
-{{external links}}
 * [http://features.linuxtoday.com/news_story.php3?ltsn=1999-06-22-005-05-NW-LF Richard Stallman's thoughts on free hardware].
 * [http://opensource.wikia.com/wiki/Main_Page Open hardware Wikia].
 * [http://www.openhardware.net Openhardware.net]
