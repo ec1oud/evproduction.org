@@ -53,8 +53,9 @@ One can use [[OSCar]] as a base to develop a greener car, the Freedom EV.
 
 ==Other technologies and parts ==
 *[[Enabling technologies]]
-*[[Rules & regulations]]
 *[[Pipe dreams]]
+==Rules and regulations ==
+*[[Rules & regulations]]
 
 ==Conversions==
 The traditional way to get your own electric car has been to buy a used car, remove the engine, replace it with an electric motor, and add batteries.  (To optimize the range, you typically want about half the gross weight to be batteries.)  It began to be a popular idea during the energy crisis in the 1970's, but is still being done today.  The advantage of this approach is that it's fairly direct, and many fairly ambitious back-yard mechanics are capable of doing it.  The trouble is that the car was not designed to be electric, and most such cars will not perform as well as one that is designed for it.

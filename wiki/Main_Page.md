@@ -154,8 +154,12 @@ Other technologies and parts
 ----------------------------
 
 -   [Enabling technologies](/wiki/Enabling_technologies "wikilink")
--   [Rules & regulations](/wiki/Rules_&_regulations "wikilink")
 -   [Pipe dreams](/wiki/Pipe_dreams "wikilink")
+
+Rules and regulations
+---------------------
+
+-   [Rules & regulations](/wiki/Rules_&_regulations "wikilink")
 
 Conversions
 -----------
