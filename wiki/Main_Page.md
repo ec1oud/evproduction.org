@@ -138,7 +138,7 @@ Other EV's
 ### Open source
 
 -   [SSM Open Source Green Vehicle](http://www.osgv.org/).
--   [Another open-source EV project](http://www.fastbk.com/EVware/)
+-   [EVWare](http://www.fastbk.com/EVware/)
 
 ### Propietary
 
