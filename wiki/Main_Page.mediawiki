@@ -65,7 +65,7 @@ The traditional way to get your own electric car has been to buy a used car, rem
 *[http://www.evdl.org/ The EV Discussion List] is the best forum for techie discussion regarding electric vehicles in general, and especially back-yard conversions.
 *[http://www.plasmaboyracing.com/whitezombie.php John Wayland's conversion] happens to run 12-second 1/4 mile races
 
-One can use also a [[glider]] and install a EV motor.
+One can use also a [[glider]] and install an EV motor.
 
 ==EV myths==
 *[[They are too slow, I don't want a golf cart]]
