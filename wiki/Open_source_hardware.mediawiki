@@ -36,7 +36,7 @@ With the rise of reconfigurable [[Programmable logic device|logic device]]s, the
 * [[OpenMoko]] - open phone framework (first use case: [[First International Computer|FIC]] neo1973, expected in Q1, 2007)
 ===Vehicles===
 * [[c,mm,n]]: '''c,mm,n''' is a dutch project to design a environmental friendly car using [[open source]] principles.
-* [[OScar (open source car)]]: '''OScar''' is the first attempt to design an entire car using [[open source]] principles.
+* [[OScar]]: '''OScar''' is the first attempt to design an entire car using [[open source]] principles.
 * [http://www.ihpva.org/wiki/index.php/Open_Source_Velomobile_Development_Project Open Source Velomobile Development Project]: build your own [[velomobile]].
 * [[Open Source Green Vehicle]] ([http://www.osgv.org/]): The '''Open Source Green Vehicle''' project is an attempt to design design a environmental friendly SUV using [[open source]] principles.
 

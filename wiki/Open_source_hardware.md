@@ -132,9 +132,9 @@ Notable projects and collections
 -   [c,mm,n](c,mm,n "wikilink"): **c,mm,n** is a dutch project to design
     a environmental friendly car using [open
     source](open_source "wikilink") principles.
--   [OScar (open source car)](/wiki/OScar_(open_source_car) "wikilink"):
-    **OScar** is the first attempt to design an entire car using [open
-    source](open_source "wikilink") principles.
+-   [OScar](/wiki/OScar "wikilink"): **OScar** is the first attempt to design
+    an entire car using [open source](open_source "wikilink")
+    principles.
 -   [Open Source Velomobile Development
     Project](http://www.ihpva.org/wiki/index.php/Open_Source_Velomobile_Development_Project):
     build your own [velomobile](velomobile "wikilink").
