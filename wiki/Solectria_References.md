@@ -2,6 +2,8 @@
 title: b'Solectria References'
 permalink: b'wiki/Solectria_References/'
 layout: wiki
+tags:
+ - Solectria
 ---
 
 -   [Solectria S10 Service

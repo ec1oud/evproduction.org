@@ -6,3 +6,5 @@
 *[http://aaron.boim.com/EV/AMC200_300_01.pdf AMC 200, 300 manual in German]
 *[http://aaron.boim.com/EV/1997_Force_Service_Manual.pdf 1997 Force service manual]
 *[http://aaron.boim.com/EV/1992_Force_Wiring.pdf 1992 Force wiring manual]
+
+[[Category:Solectria]]
