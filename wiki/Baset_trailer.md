@@ -69,5 +69,5 @@ External links
     carriage](http://www.bhs1.com).
 -   [Battery
     handler](http://www.lislecorp.com/tool_detail.cfm?detail=1024) and
-    [carrier](http://www.lislecorp.com/tool_detail.cfm?detail=1056)\]
-    from [Lisle Corporation](/wiki/Lisle_Corporation "wikilink").
+    [carrier](http://www.lislecorp.com/tool_detail.cfm?detail=1056) from
+    [Lisle Corporation](/wiki/Lisle_Corporation "wikilink").
