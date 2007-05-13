@@ -14,7 +14,7 @@ Here are just some of the thousands of links that will be helpful...
 == Batteries ==
 *[http://www.thermoanalytics.com/support/publications/batterytypesdoc.html General Info]
 *[[Lead Acid]]
-***[http://www.exideworld.com/ Exide] 
+**[http://www.exideworld.com/ Exide] 
 **[http://www.trojanbattery.com Trojan] 
 *Absorbed Glass Mat Batteries ([[AGM]])
 **[http://www.remybattery.com/ Optima]     

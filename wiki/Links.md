@@ -27,10 +27,8 @@ Batteries
 -   [General
     Info](http://www.thermoanalytics.com/support/publications/batterytypesdoc.html)
 -   [Lead Acid](/wiki/Lead_Acid "wikilink")
-    -   -   [Exide](http://www.exideworld.com/)
-
+    -   [Exide](http://www.exideworld.com/)
     -   [Trojan](http://www.trojanbattery.com)
-
 -   Absorbed Glass Mat Batteries ([AGM](/wiki/AGM "wikilink"))
     -   [Optima](http://www.remybattery.com/)
     -   [Hawkers](http://www.enersysreservepower.com/)
