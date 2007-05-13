@@ -2,6 +2,8 @@
 title: b'Rules & regulations'
 permalink: b'wiki/Rules_&_regulations/'
 layout: wiki
+tags:
+ - Rules and regulations
 ---
 
 -   [Rules & regulations in

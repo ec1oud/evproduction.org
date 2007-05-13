@@ -2,3 +2,5 @@
 *[[Rules & regulations in EU]]
 *[[Rules & regulations in USA]]
 *[[World standardization]]
+
+[[Category:Rules and regulations]]
