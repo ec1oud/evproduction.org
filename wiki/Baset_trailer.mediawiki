@@ -12,7 +12,7 @@ In [[wikipedia:renting|renting]], the maintenance costs of baset trailers can be
 
 == Removable individual batteries  and trays ==
 Batteries can be mounted in a light, easy and accesible [[removable tray]]s or individually, so one can replace only some batteries when discharged, instead of a trailer.
-
+[[Image:UL20712.jpg|thumb]]
 ==See also==
 * [[Epusher trailer]]
 * [[Genset trailer]]
@@ -23,7 +23,7 @@ Batteries can be mounted in a light, easy and accesible [[removable tray]]s or i
 == External links ==
 * [http://apple-trailers.com/custom.htm Custom trailers].
 * [http://en.wikipedia.org/wiki/Battery_range_extender_module Battery range extender module].
-
+* [http://www.bhs1.com Battery handling, including  automatic transfer carriage].
 {{stub}}
 
 [[Category:Electric vehicles]]

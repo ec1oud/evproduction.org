@@ -46,6 +46,7 @@ Removable individual batteries and trays
 Batteries can be mounted in a light, easy and accesible [removable
 trays](removable_tray "wikilink") or individually, so one can replace
 only some batteries when discharged, instead of a trailer.
+![](UL20712.jpg "fig:UL20712.jpg")
 
 See also
 --------
@@ -63,3 +64,5 @@ External links
 -   [Custom trailers](http://apple-trailers.com/custom.htm).
 -   [Battery range extender
     module](http://en.wikipedia.org/wiki/Battery_range_extender_module).
+-   [Battery handling, including automatic transfer
+    carriage](http://www.bhs1.com).
