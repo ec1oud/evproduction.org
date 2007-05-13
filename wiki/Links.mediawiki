@@ -49,19 +49,20 @@ AC
 *[http://www.metricmind.com/index1.htm MetricMind]
 
 == Misc ==
-*[http://www.batteriesareus.com Batteriesareus.com]
-*[http://www.batteryfillingsystems.com/ Battery Filling Systems] 
-*[http://www.aquapro.net/index.html AquaPro Watering System]  
-*[http://www.aquastealth.com/ Small Radiator]  
-*[http://www.evadc.org/build_an_ev.html Build an EV] 
-*[http://www.quickcable.com/ Cables, wire, connectors]    
-*[http://www.curtisinst.com/ DC Contactors]   
-*[http://www.eastpenn-deka.com Battery Cables]    
-*[http://www.hialeahmeter.com/ KW Meters]   
-*[http://kwikwire.com/ Wiring Harness]  
-*[http://www.powerwerx.com/ Anderson Connectors]  
-*[http://www.qsl.net/ki7cx/Coilrewind.htm Coil Rewinding]   
-*[http://www.zbattery.com/zbattery/aed75.html small DC/AC inverters]   
-*[http://www.uoguelph.ca/~antoon/gadgets/shunts/shunts.html Make your own Shunts]
+*[http://www.batteriesareus.com Batteriesareus.com].
+*[http://www.timskelton.com/lightning/race_prep/weight/battery_relocate.htm Battery relocation].
+*[http://www.batteryfillingsystems.com/ Battery Filling Systems] .
+*[http://www.aquapro.net/index.html AquaPro Watering System]  .
+*[http://www.aquastealth.com/ Small Radiator].  
+*[http://www.evadc.org/build_an_ev.html Build an EV] .
+*[http://www.quickcable.com/ Cables, wire, connectors].    
+*[http://www.curtisinst.com/ DC Contactors] .  
+*[http://www.eastpenn-deka.com Battery Cables].    
+*[http://www.hialeahmeter.com/ KW Meters].   
+*[http://kwikwire.com/ Wiring Harness].  
+*[http://www.powerwerx.com/ Anderson Connectors].  
+*[http://www.qsl.net/ki7cx/Coilrewind.htm Coil Rewinding].   
+*[http://www.zbattery.com/zbattery/aed75.html Small DC/AC inverters].   
+*[http://www.uoguelph.ca/~antoon/gadgets/shunts/shunts.html Make your own Shunts].
 
 [[Category:links]]
