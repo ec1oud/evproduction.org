@@ -11,6 +11,9 @@ tags:
 ![Baset trailer without
 batteries](baset_trailer.jpg "Baset trailer without batteries")
 
+Baset trailers and removable batteries follows the principle of
+**replacing instead of recharging**.
+
 A **baset trailer** is a range extending device for use with [battery
 electric vehicles](battery_electric_vehicle "wikilink") consisting of a
 [battery pack](battery_pack "wikilink") mounted in a
