@@ -74,4 +74,5 @@ External links
 -   [Handling
     batteries](http://www.geocities.com/waynem48/battery/BATTERY6.HTML).
 -   [Portable 1500 W / 12 V battery with AC/DC
-    charger](http://www.batteriesareus.com/index.php?main_page=product_info&cPath=25&products_id=113)
+    charger](http://www.xantrex.com/web/id/63/p/1/pt/10/product.asp) by
+    [Xantrex](/wiki/Xantrex "wikilink").
