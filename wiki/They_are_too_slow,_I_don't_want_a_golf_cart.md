@@ -2,6 +2,8 @@
 title: b"They are too slow, I don't want a golf cart"
 permalink: b"wiki/They_are_too_slow,_I_don't_want_a_golf_cart/"
 layout: wiki
+tags:
+ - Categories
 ---
 
 A golf cart is slow because it doesn't need to be any faster. A typical

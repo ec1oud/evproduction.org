@@ -19,3 +19,5 @@ An internal combustion engine must operate within a certain RPM range.  It must 
 But an electric motor can provide instant torque, from a standstill.  A series-wound DC motor, in particular, actually provides the *most* torque in preciesly that condition.  So, a transmission is not necessary in many of these race cars.  A series-wound DC motor is ideal for drag racing.  The problem is not getting enough torque, but keeping the tires stuck to the track rather than spinning out of control.  If you can do that, you're nearly guaranteed to get a quicker launch than any gas-powered vehicle can muster.
 
 The racers are constantly pushing out the limits of power, and figuring out how to control more power; but for a street car, the design goals are a bit different.  You typically want to drive as far as possible without needing to recharge the batteries too often.  But that's mostly a matter of carrying more batteries.
+
+[[Category:Categories]]
