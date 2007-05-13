@@ -1,12 +1,7 @@
 ---
 title: b'Shawn Rutledge'
 permalink: b'wiki/Shawn_Rutledge/'
-layout: wiki
+redirect_to: /b'wiki/User%3ARutledge/'
 ---
 
-Embedded software developer and webmaster of this wiki. Live in Phoenix,
-AZ.
-
-[Resume](http://ecloud.org:8080/~ecloud/resume.html)
-
-[My blog](/wiki/User_talk:Rutledge "wikilink")
+You should automatically be redirected to [b'User%3ARutledge'](/b'wiki/User%3ARutledge/')
