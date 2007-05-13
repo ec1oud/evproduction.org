@@ -3,7 +3,7 @@ title: b'FreedomEV Steering'
 permalink: b'wiki/FreedomEV_Steering/'
 layout: wiki
 tags:
- - Automotive accessories
+ - Freedom EV components
 ---
 
 Design
