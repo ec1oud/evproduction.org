@@ -13,23 +13,22 @@ Here are just some of the thousands of links that will be helpful...
 
 == Batteries ==
 *[http://www.thermoanalytics.com/support/publications/batterytypesdoc.html General Info]
-Lead Acid
-*[http://www.exideworld.com/ Exide] 
-*[http://www.trojanbattery.com Trojan] 
-AGM
-*[http://www.remybattery.com/ Optima]     
-*[http://www.enersysreservepower.com/ Hawkers]
-*[http://www.eastpenn-deka.com/ Deka Intimidator]
-Gell
-*[http://www.eastpenn-deka.com/ Deka Dominator] 
-Nickel-Cadmium (Ni-Cd)
-*[http://www.saftbatteries.com/ Saft]
-Nickel-Metal Hydride (Ni-MH) 
-*[http://www.saftbatteries.com/ Saft]  
-Lithium ion  
-*[http://www.sionpower.com/ Scion]   
-*[http://www.valence.com/ Valence]  
-
+*[[Lead Acid]]
+***[http://www.exideworld.com/ Exide] 
+**[http://www.trojanbattery.com Trojan] 
+*[[AGM]]
+**[http://www.remybattery.com/ Optima]     
+**[http://www.enersysreservepower.com/ Hawkers]
+**[http://www.eastpenn-deka.com/ Deka Intimidator]
+*[[Gell]]
+***[http://www.eastpenn-deka.com/ Deka Dominator] 
+*[[Nickel-Cadmium]] (Ni-Cd)
+**[http://www.saftbatteries.com/ Saft]
+*[[Nickel-Metal Hydride]] (Ni-MH) 
+**[http://www.saftbatteries.com/ Saft]  
+*[[Lithium ion]]  
+**[http://www.sionpower.com/ Scion]   
+**[http://www.valence.com/ Valence]
 
 == Controllers ==
 *[http://www.cafeelectric.com/ Otmars Zillas] 

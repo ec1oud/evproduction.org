@@ -26,34 +26,25 @@ Batteries
 
 -   [General
     Info](http://www.thermoanalytics.com/support/publications/batterytypesdoc.html)
+-   [Lead Acid](/wiki/Lead_Acid "wikilink")
+    -   -   [Exide](http://www.exideworld.com/)
 
-Lead Acid
+    -   [Trojan](http://www.trojanbattery.com)
 
--   [Exide](http://www.exideworld.com/)
--   [Trojan](http://www.trojanbattery.com)
+-   [AGM](/wiki/AGM "wikilink")
+    -   [Optima](http://www.remybattery.com/)
+    -   [Hawkers](http://www.enersysreservepower.com/)
+    -   [Deka Intimidator](http://www.eastpenn-deka.com/)
+-   [Gell](/wiki/Gell "wikilink")
+    -   -   [Deka Dominator](http://www.eastpenn-deka.com/)
 
-AGM
-
--   [Optima](http://www.remybattery.com/)
--   [Hawkers](http://www.enersysreservepower.com/)
--   [Deka Intimidator](http://www.eastpenn-deka.com/)
-
-Gell
-
--   [Deka Dominator](http://www.eastpenn-deka.com/)
-
-Nickel-Cadmium (Ni-Cd)
-
--   [Saft](http://www.saftbatteries.com/)
-
-Nickel-Metal Hydride (Ni-MH)
-
--   [Saft](http://www.saftbatteries.com/)
-
-Lithium ion
-
--   [Scion](http://www.sionpower.com/)
--   [Valence](http://www.valence.com/)
+-   [Nickel-Cadmium](/wiki/Nickel-Cadmium "wikilink") (Ni-Cd)
+    -   [Saft](http://www.saftbatteries.com/)
+-   [Nickel-Metal Hydride](/wiki/Nickel-Metal_Hydride "wikilink") (Ni-MH)
+    -   [Saft](http://www.saftbatteries.com/)
+-   [Lithium ion](/wiki/Lithium_ion "wikilink")
+    -   [Scion](http://www.sionpower.com/)
+    -   [Valence](http://www.valence.com/)
 
 Controllers
 -----------
