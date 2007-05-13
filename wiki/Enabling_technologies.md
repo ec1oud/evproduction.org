@@ -2,6 +2,8 @@
 title: b'Enabling technologies'
 permalink: b'wiki/Enabling_technologies/'
 layout: wiki
+tags:
+ - Technologies
 ---
 
 Top
