@@ -38,7 +38,7 @@ In [renting](wikipedia:renting "wikilink"), the maintenance costs of
 baset trailers can be deferred to the lessor or agency. They are can
 also be given for rent.
 
-![](Acp_tzero_dsc00309.jpg "Acp_tzero_dsc00309.jpg")
+![Battery package](Acp_tzero_dsc00309.jpg "Battery package")
 
 Removable individual batteries and trays
 ----------------------------------------
@@ -46,7 +46,8 @@ Removable individual batteries and trays
 Batteries can be mounted in a light, easy and accesible [removable
 trays](removable_tray "wikilink") or individually, so one can replace
 only some batteries when discharged, instead of a trailer.
-![](UL20712.jpg "fig:UL20712.jpg")
+
+![Individual battery ](UL20712.jpg "Individual battery ")
 
 See also
 --------

@@ -8,11 +8,12 @@ They can be also used with [[electric bus]]es: bus companies can store recharged
 
 In [[wikipedia:renting|renting]], the maintenance costs of baset trailers can be deferred to the lessor or agency. They are can also be given for rent.
 
-[[Image:Acp tzero dsc00309.jpg|thumbnail]]
+[[Image:Acp tzero dsc00309.jpg|thumbnail|Battery package]]
 
 == Removable individual batteries  and trays ==
 Batteries can be mounted in a light, easy and accesible [[removable tray]]s or individually, so one can replace only some batteries when discharged, instead of a trailer.
-[[Image:UL20712.jpg|thumb]]
+
+[[Image:UL20712.jpg|thumb|Individual battery ]]
 ==See also==
 * [[Epusher trailer]]
 * [[Genset trailer]]
