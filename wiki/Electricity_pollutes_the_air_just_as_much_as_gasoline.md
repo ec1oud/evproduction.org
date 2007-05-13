@@ -2,6 +2,8 @@
 title: b'Electricity pollutes the air just as much as gasoline'
 permalink: b'wiki/Electricity_pollutes_the_air_just_as_much_as_gasoline/'
 layout: wiki
+tags:
+ - FAQ
 ---
 
 Well where does your electricity come from? If it is 100% coal, or 100%
