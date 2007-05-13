@@ -29,7 +29,7 @@ to be.
 They can be also used with [electric buses](electric_bus "wikilink"):
 bus companies can store recharged batteries in route strategic points
 ([bus stations](wikipedia:bus_station "wikilink"), [filling
-stations](filling_station "wikilink"), [parking
+stations](wikipedia:filling_station "wikilink"), [parking
 lots](wikipedia:parking_lot "wikilink"), [electric
 utility](wikipedia:electric_utility "wikilink") facilities, ad-hoc
 facilities or shops and so on).
