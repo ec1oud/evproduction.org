@@ -2,6 +2,8 @@
 title: b'EVProduction vehicles'
 permalink: b'wiki/EVProduction_vehicles/'
 layout: wiki
+tags:
+ - EVProduction vehicles
 ---
 
 Three Wheelers
