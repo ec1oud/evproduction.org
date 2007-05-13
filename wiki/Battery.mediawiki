@@ -251,6 +251,7 @@ Some common battery-related terms:
 *[http://electronics.howstuffworks.com/battery.htm HowStuffWorks: How batteries work]
 *[http://mobilitynow.org/2007/05/10/battery-life-15-minutes/ Cellphone batteries explained]
 *[http://www.digitalcamera-hq.com/digital-cameras/batteries_guide.html Battery guide for digital cameras]
+*[http://www.xantrex.com/support/howlong.asp Battery calculator].
 
 ==References==
 ===Footnotes===

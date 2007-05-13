@@ -677,6 +677,7 @@ External Links
     explained](http://mobilitynow.org/2007/05/10/battery-life-15-minutes/)
 -   [Battery guide for digital
     cameras](http://www.digitalcamera-hq.com/digital-cameras/batteries_guide.html)
+-   [Battery calculator](http://www.xantrex.com/support/howlong.asp).
 
 References
 ----------
