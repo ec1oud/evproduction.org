@@ -38,7 +38,7 @@ also be given for rent.
 Removable trays
 ---------------
 
-Batteries can be mounted in a light [removable
+Batteries can be mounted in a light, easy and accesible [removable
 trays](removable_tray "wikilink"), so one can replace only some
 batteries when discharged, instead of all the trailer.
 
