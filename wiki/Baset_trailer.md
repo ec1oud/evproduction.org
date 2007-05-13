@@ -73,5 +73,5 @@ External links
     carriage](http://www.bhs1.com).
 -   [Handling
     batteries](http://www.geocities.com/waynem48/battery/BATTERY6.HTML).
--   [Portable 1500 W / 12 V
-    battery](http://www.batteriesareus.com/index.php?main_page=product_info&cPath=25&products_id=113)
+-   [Portable 1500 W / 12 V battery with AC/DC
+    charger](http://www.batteriesareus.com/index.php?main_page=product_info&cPath=25&products_id=113)
