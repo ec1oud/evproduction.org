@@ -31,11 +31,11 @@ Batteries
 
     -   [Trojan](http://www.trojanbattery.com)
 
--   [AGM](/wiki/AGM "wikilink")
+-   Absorbed Glass Mat Batteries ([AGM](/wiki/AGM "wikilink"))
     -   [Optima](http://www.remybattery.com/)
     -   [Hawkers](http://www.enersysreservepower.com/)
     -   [Deka Intimidator](http://www.eastpenn-deka.com/)
--   [Gell](/wiki/Gell "wikilink")
+-   Gelled Electrolyte([Gel](/wiki/Gel "wikilink"))
     -   -   [Deka Dominator](http://www.eastpenn-deka.com/)
 
 -   [Nickel-Cadmium](/wiki/Nickel-Cadmium "wikilink") (Ni-Cd)

@@ -16,11 +16,11 @@ Here are just some of the thousands of links that will be helpful...
 *[[Lead Acid]]
 ***[http://www.exideworld.com/ Exide] 
 **[http://www.trojanbattery.com Trojan] 
-*[[AGM]]
+*Absorbed Glass Mat Batteries ([[AGM]])
 **[http://www.remybattery.com/ Optima]     
 **[http://www.enersysreservepower.com/ Hawkers]
 **[http://www.eastpenn-deka.com/ Deka Intimidator]
-*[[Gell]]
+*Gelled Electrolyte([[Gel]])
 ***[http://www.eastpenn-deka.com/ Deka Dominator] 
 *[[Nickel-Cadmium]] (Ni-Cd)
 **[http://www.saftbatteries.com/ Saft]
