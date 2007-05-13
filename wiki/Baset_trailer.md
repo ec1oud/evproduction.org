@@ -43,7 +43,7 @@ Removable trays and individual batteries
 
 Batteries can be mounted in a light, easy and accesible [removable
 trays](removable_tray "wikilink") or individually, so one can replace
-only some batteries when discharged, instead of all the trailer.
+only some batteries when discharged, instead of a trailer.
 
 See also
 --------
