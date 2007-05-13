@@ -78,3 +78,4 @@ External links
 -   [Portable 1500 W / 12 V battery with AC/DC
     charger](http://www.xantrex.com/web/id/63/p/1/pt/10/product.asp) by
     [Xantrex](/wiki/Xantrex "wikilink").
+-   [Battery box](http://www.beevo.com/battery_box.htm)
