@@ -1,3 +1,5 @@
 A vehicle without [[powertrain]]. 
 
 {{stub}}
+
+[[Category:Vehicles]]
