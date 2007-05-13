@@ -3,7 +3,6 @@ title: b'Golf cart'
 permalink: b'wiki/Golf_cart/'
 layout: wiki
 tags:
- - Golf equipment
  - Electric vehicles
 ---
 
@@ -71,11 +70,6 @@ cart paths that link the city together. Golf cart travel is used by a
 great majoriy of the community, especially among high school students.
 [McIntosh High School](/wiki/McIntosh_High_School "wikilink") even has a
 student golf cart parking lot on campus.
-
-References
-----------
-
-<references />
 
 [1] [ANSI
 z130.1](http://www.ansi.org/news_publications/media_tips/golf.aspx?menuid=7)
