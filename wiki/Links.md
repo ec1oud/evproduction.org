@@ -2,6 +2,8 @@
 title: b'Links'
 permalink: b'wiki/Links/'
 layout: wiki
+tags:
+ - links
 ---
 
 Here are just some of the thousands of links that will be helpful...

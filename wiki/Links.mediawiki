@@ -63,3 +63,5 @@ AC
 *[http://www.qsl.net/ki7cx/Coilrewind.htm Coil Rewinding]   
 *[http://www.zbattery.com/zbattery/aed75.html small DC/AC inverters]   
 *[http://www.uoguelph.ca/~antoon/gadgets/shunts/shunts.html Make your own Shunts]
+
+[[Category:links]]
