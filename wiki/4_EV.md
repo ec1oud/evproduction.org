@@ -3,7 +3,7 @@ title: b'4 EV'
 permalink: b'wiki/4_EV/'
 layout: wiki
 tags:
- - Freedom EV
+ - EVProduction vehicles
 ---
 
 This is a 4-wheeler car, based in [OSCar](/wiki/OSCar "wikilink") with
