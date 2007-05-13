@@ -2,6 +2,8 @@
 title: b'In-dash computers and touchscreens'
 permalink: b'wiki/In-dash_computers_and_touchscreens/'
 layout: wiki
+tags:
+ - input devices
 ---
 
 [gumstix.com](http://www.gumstix.com) makes some very fast, small, and
