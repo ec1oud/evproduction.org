@@ -16,19 +16,19 @@ Freedom EV club members
 a member. Save this page. Then, click on your name, and tell us about
 yourself!)</small>
 
--   [User%3AJerry Dycus](/wiki/User%3AJerry_Dycus "wikilink")
--   [User%3ALee Hart](/wiki/User%3ALee_Hart "wikilink")
--   [User%3AShawn Rutledge](/wiki/User%3AShawn_Rutledge "wikilink")
--   [User%3AChris Seeley](/wiki/User%3AChris_Seeley "wikilink")
--   [User%3ADaniel Richer](/wiki/User%3ADaniel_Richer "wikilink")
--   [User%3AMatthew Ritchie](/wiki/User%3AMatthew_Ritchie "wikilink")
--   [User%3AFred Whitridge](/wiki/User%3AFred_Whitridge "wikilink")
--   [User%3ARichard Danzey](/wiki/User%3ARichard_Danzey "wikilink")
--   [User%3AMike Skelly](/wiki/User%3AMike_Skelly "wikilink")
--   [User%3AJohn Foster](/wiki/User%3AJohn_Foster "wikilink")
--   [User%3AAlex Smith](/wiki/User%3AAlex_Smith "wikilink")
--   [User%3AMark Hastings](/wiki/User%3AMark_Hastings "wikilink")
--   [User%3ASeth Rothenberg](/wiki/User%3ASeth_Rothenberg "wikilink")
+-   [Jerry Dycus](/wiki/User%3AJerry_Dycus "wikilink")
+-   [Lee Hart](/wiki/User%3ALee_Hart "wikilink")
+-   [Shawn Rutledge](/wiki/User%3AShawn_Rutledge "wikilink")
+-   [Chris Seeley](/wiki/User%3AChris_Seeley "wikilink")
+-   [Daniel Richer](/wiki/User%3ADaniel_Richer "wikilink")
+-   [Matthew Ritchie](/wiki/User%3AMatthew_Ritchie "wikilink")
+-   [Fred Whitridge](/wiki/User%3AFred_Whitridge "wikilink")
+-   [Richard Danzey](/wiki/User%3ARichard_Danzey "wikilink")
+-   [Mike Skelly](/wiki/User%3AMike_Skelly "wikilink")
+-   [John Foster](/wiki/User%3AJohn_Foster "wikilink")
+-   [Alex Smith](/wiki/User%3AAlex_Smith "wikilink")
+-   [Mark Hastings](/wiki/User%3AMark_Hastings "wikilink")
+-   [Seth Rothenberg](/wiki/User%3ASeth_Rothenberg "wikilink")
 
 Proposed articles
 -----------------
