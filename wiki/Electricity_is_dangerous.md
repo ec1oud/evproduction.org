@@ -2,6 +2,9 @@
 title: b'Electricity is dangerous'
 permalink: b'wiki/Electricity_is_dangerous/'
 layout: wiki
+tags:
+ - FAQ
+ - Security
 ---
 
 Life is dangerous. Sticking your finger in a light socket is dangerous,

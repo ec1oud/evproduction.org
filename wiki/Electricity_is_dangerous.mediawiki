@@ -11,3 +11,6 @@ There must be a large fuse which can break the circuit if a short somehow develo
 The pack is not continuously connected to the motor controller; rather, there is a main contactor, a large relay which is energized when you "start" the car and disconnected when you are parked.
 
 There should also be an inertia switch, which will automatically disconnect the power from the traction pack in case of a hard impact.  This is much like the kind which fuel-injected cars have, to shut down the fuel pump automatically in case of an accident.  Since this kind of switch usually cannot break a large current, you may simply use it to break the circuit controlling the main contactor, so that the impact will cause the contactor to open up and prevent further driving until it is manually reset.
+
+[[Category:FAQ]]
+[[Category:Security]]
