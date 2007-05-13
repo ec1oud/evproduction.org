@@ -24,9 +24,9 @@ Batteries can be mounted in a light, easy and accesible [[removable tray]]s or i
 == External links ==
 * [http://apple-trailers.com/custom.htm Custom trailers].
 * [http://en.wikipedia.org/wiki/Battery_range_extender_module Battery range extender module].
-* [http://www.bhs1.com Battery handling, including  automatic transfer carriage].
 * [http://www.lislecorp.com/tool_detail.cfm?detail=1024 Battery handler] and [http://www.lislecorp.com/tool_detail.cfm?detail=1056 carrier] from [[Lisle Corporation]].
-
+* [http://www.bhs1.com Battery handling, including  automatic transfer carriage].
+* [http://www.geocities.com/waynem48/battery/BATTERY6.HTML Handling batteries].
 {{stub}}
 
 [[Category:Electric vehicles]]
