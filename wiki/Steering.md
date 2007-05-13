@@ -2,6 +2,8 @@
 title: b'Steering'
 permalink: b'wiki/Steering/'
 layout: wiki
+tags:
+ - Automotive accessories
 ---
 
 Design
