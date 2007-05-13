@@ -38,6 +38,8 @@ In [renting](wikipedia:renting "wikilink"), the maintenance costs of
 baset trailers can be deferred to the lessor or agency. They are can
 also be given for rent.
 
+![](Acp_tzero_dsc00309.jpg "Acp_tzero_dsc00309.jpg")
+
 Removable individual batteries and trays
 ----------------------------------------
 
