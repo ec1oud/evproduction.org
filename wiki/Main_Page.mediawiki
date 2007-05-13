@@ -78,4 +78,4 @@ One can use also a [[glider]] and install an EV motor.
 *[[Links]]
 *[[EV Maintenance Resources]]
 
-[[Category:Main]]
+[[Category:Main page]]
