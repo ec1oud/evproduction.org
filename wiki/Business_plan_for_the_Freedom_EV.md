@@ -2,6 +2,8 @@
 title: b'Business plan for the Freedom EV'
 permalink: b'wiki/Business_plan_for_the_Freedom_EV/'
 layout: wiki
+tags:
+ - EVProduction business plans
 ---
 
 Mission statement
