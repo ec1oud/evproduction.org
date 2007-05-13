@@ -261,4 +261,4 @@ Some common battery-related terms:
 #{{cite book|last=Linden|first=David|coauthors=Thomas B. Reddy|title=Handbook Of Batteries|year=2001|publisher=McGraw-Hill|location=New York|isbn=0-0713-5978-8}}
 #{{cite book|last=Saslow|first=Wayne M.|title=Electricity, Magnetism, and Light|year=2002|publisher=Thomson Learning|location=Toronto|isbn=0-12-619455-6}} Chs. 8-9 (pp. 336-418) have more information on batteries.
 
-[[Category:Electric batteries|*]]
+[[Category:Batteries|*]]

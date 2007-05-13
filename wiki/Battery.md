@@ -3,7 +3,7 @@ title: b'Battery'
 permalink: b'wiki/Battery/'
 layout: wiki
 tags:
- - Electric batteries|*
+ - Batteries|*
 ---
 
 *This page is about EV batteries.*
