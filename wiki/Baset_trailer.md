@@ -65,6 +65,8 @@ External links
 -   [Custom trailers](http://apple-trailers.com/custom.htm).
 -   [Battery range extender
     module](http://en.wikipedia.org/wiki/Battery_range_extender_module).
+-   [Battery with
+    handles](http://www.independent-power.com/batteries.htm)
 -   [Battery
     handler](http://www.lislecorp.com/tool_detail.cfm?detail=1024) and
     [carrier](http://www.lislecorp.com/tool_detail.cfm?detail=1056) from
