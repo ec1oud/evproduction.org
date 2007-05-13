@@ -3,7 +3,7 @@ title: b'Business strategy for EVProduction vehicles'
 permalink: b'wiki/Business_strategy_for_EVProduction_vehicles/'
 layout: wiki
 tags:
- - business strategy
+ - EVProduction business plans
 ---
 
 Resources
