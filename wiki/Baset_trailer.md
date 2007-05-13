@@ -47,6 +47,10 @@ Batteries can be mounted in a light, easy and accesible [removable
 trays](removable_tray "wikilink") or individually, so one can replace
 only some batteries when discharged, instead of a trailer.
 
+Users that continuously are travelling in the same route, can leave
+discharged battery in any point at 1/4 of the route, and to gather it
+when recharged to the return.
+
 ![Individual battery ](UL20712.jpg "Individual battery ")
 
 See also
