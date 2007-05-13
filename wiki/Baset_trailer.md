@@ -67,5 +67,5 @@ External links
     module](http://en.wikipedia.org/wiki/Battery_range_extender_module).
 -   [Battery handling, including automatic transfer
     carriage](http://www.bhs1.com).
--   [Battery
-    handler](http://www.shop.com/op/sprod-0-p23910066-k24-g1-~battery+handler-nover).
+-   [Battery handler from
+    Lisle](http://www.shop.com/op/sprod-0-p23910066-k24-g1-~battery+handler-nover).
