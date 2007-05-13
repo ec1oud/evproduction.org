@@ -90,3 +90,9 @@ Initial action plan
 <!-- -->
 
 -   Repeat until everyone is exhausted, quits, or dies (rich).
+
+See also
+--------
+
+-   [Business strategy for the Freedom
+    EV](/wiki/Business_strategy_for_the_Freedom_EV "wikilink")
