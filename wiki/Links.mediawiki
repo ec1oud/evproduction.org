@@ -66,5 +66,6 @@ AC
 *[http://www.zbattery.com/zbattery/aed75.html Small DC/AC inverters].   
 *[http://www.uoguelph.ca/~antoon/gadgets/shunts/shunts.html Make your own Shunts].
 == Others ==
-* {{wikipedia|Radio-controlled car}}
+* {{wikipedia|Radio-controlled_car}}
+
 [[Category:links]]
