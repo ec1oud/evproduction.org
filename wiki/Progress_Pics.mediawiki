@@ -1,5 +1,5 @@
 ==Male Mold==
-The outside of the Freedom EV will look something like this, but the door and window openings etc. are omitted.
+The outside of the [[Freedom EV]] will look something like this, but the door and window openings etc. are omitted.
 
 {|
 |-
@@ -34,3 +34,5 @@ It was made from the above mold.
 || [[Image:10-31-2006 Prototype-27.jpg|thumb|]]
 || [[Image:10-31-2006 Prototype-06.jpg|thumb|]]
 |}
+
+[[Category:Freedom EV]]

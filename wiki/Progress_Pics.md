@@ -2,13 +2,15 @@
 title: b'Progress Pics'
 permalink: b'wiki/Progress_Pics/'
 layout: wiki
+tags:
+ - Freedom EV
 ---
 
 Male Mold
 ---------
 
-The outside of the Freedom EV will look something like this, but the
-door and window openings etc. are omitted.
+The outside of the [Freedom EV](/wiki/Freedom_EV "wikilink") will look
+something like this, but the door and window openings etc. are omitted.
 
 |                                              |                                              |                                              |                                              |
 |----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
