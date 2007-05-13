@@ -38,7 +38,7 @@ In [renting](wikipedia:renting "wikilink"), the maintenance costs of
 baset trailers can be deferred to the lessor or agency. They are can
 also be given for rent.
 
-Removable trays and individual batteries
+Removable individual batteries and trays
 ----------------------------------------
 
 Batteries can be mounted in a light, easy and accesible [removable
