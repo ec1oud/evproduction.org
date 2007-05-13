@@ -68,4 +68,4 @@ External links
 -   [Battery handling, including automatic transfer
     carriage](http://www.bhs1.com).
 -   [Battery handler from
-    Lisle](http://www.shop.com/op/sprod-0-p23910066-k24-g1-~battery+handler-nover).
+    Lisle](http://www.lislecorp.com/tool_browse_list.cfm?browse=13).
