@@ -65,5 +65,6 @@ AC
 *[http://www.qsl.net/ki7cx/Coilrewind.htm Coil Rewinding].   
 *[http://www.zbattery.com/zbattery/aed75.html Small DC/AC inverters].   
 *[http://www.uoguelph.ca/~antoon/gadgets/shunts/shunts.html Make your own Shunts].
-
+== Others ==
+* {{wikipedia|RC car}}
 [[Category:links]]

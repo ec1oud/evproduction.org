@@ -93,3 +93,8 @@ Misc
     inverters](http://www.zbattery.com/zbattery/aed75.html).
 -   [Make your own
     Shunts](http://www.uoguelph.ca/~antoon/gadgets/shunts/shunts.html).
+
+Others
+------
+
+-   
