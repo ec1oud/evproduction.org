@@ -79,6 +79,7 @@ Misc
 -   [Batteriesareus.com](http://www.batteriesareus.com).
 -   [Battery
     relocation](http://www.timskelton.com/lightning/race_prep/weight/battery_relocate.htm).
+-   [Battery extender](http://www.sfxperformance.com/parts/AUM9202.htm)
 -   [Battery Filling Systems](http://www.batteryfillingsystems.com/) .
 -   [AquaPro Watering System](http://www.aquapro.net/index.html) .
 -   [Small Radiator](http://www.aquastealth.com/).

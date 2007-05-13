@@ -51,6 +51,7 @@ AC
 == Misc ==
 *[http://www.batteriesareus.com Batteriesareus.com].
 *[http://www.timskelton.com/lightning/race_prep/weight/battery_relocate.htm Battery relocation].
+*[http://www.sfxperformance.com/parts/AUM9202.htm Battery extender]
 *[http://www.batteryfillingsystems.com/ Battery Filling Systems] .
 *[http://www.aquapro.net/index.html AquaPro Watering System]  .
 *[http://www.aquastealth.com/ Small Radiator].  
