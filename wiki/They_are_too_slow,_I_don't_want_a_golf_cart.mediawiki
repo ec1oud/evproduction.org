@@ -21,3 +21,4 @@ But an electric motor can provide instant torque, from a standstill.  A series-w
 The racers are constantly pushing out the limits of power, and figuring out how to control more power; but for a street car, the design goals are a bit different.  You typically want to drive as far as possible without needing to recharge the batteries too often.  But that's mostly a matter of carrying more batteries.
 
 [[Category:Categories]]
+[[Category:FAQ]]
