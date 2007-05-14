@@ -4,6 +4,7 @@ permalink: b'wiki/Batteries_will_spill_acid_all_over_in_an_accident/'
 layout: wiki
 tags:
  - Batteries
+ - FAQ
 ---
 
 Lead-acid batteries are constructed from a lot of separate cells. One

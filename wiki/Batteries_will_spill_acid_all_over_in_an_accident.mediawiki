@@ -7,3 +7,4 @@ A full tank of gas, on the other hand, can quite literally become a bomb.  We've
 If you are designing and building your own car, a strong battery box is an important safety feature.  Usually they are built from welded angle iron, and it is very good if you can have each battery supported by angle iron on both sides.  There must be hold-down straps or brackets which are sufficient to restrain the batteries from flying out, in any accident imaginable.  Quite likely you will need to fully enclose the battery box, to keep them warmer in the winter, and keep them clean and dry all year, and for this some relatively flimsy sheet material (plastic or metal or wood) can be used, but the structural stability is the most important part.  The batteries should be supported by a welded frame which is welded in place and has become part of the frame of the car.
 
 [[Category:Batteries]]
+[[Category:FAQ]]
