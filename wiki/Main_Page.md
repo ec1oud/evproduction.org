@@ -109,6 +109,9 @@ EVProductions vehicles and goods
 EVProduction vehicles and goods uses own solutions and as much as
 possible other open solutions, specially [OSCar](/wiki/OSCar "wikilink").
 
+You can propose improvements and ideas although they are not in the
+market, to develop them.
+
 ### Our first car, the Freedom EV
 
 Want to break free from nuclear-[oil
