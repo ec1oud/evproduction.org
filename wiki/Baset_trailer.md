@@ -51,7 +51,7 @@ Users that continuously are travelling in the same route, can leave
 discharged battery in any point at 1/4 of the route, and to gather it
 when recharged to the return.
 
-In any case, taxicabs can recharge batteries in the
+In any case, taxicabs can recharge portable batteries in the
 [cabstand](wiktionary:cabstand "wikilink") (in an
 [kiosk](wikipedia:kiosk "wikilink") or similar), when they are driving
 or waiting for passengers.
