@@ -2,6 +2,8 @@
 title: b'Battery monitoring/management systems'
 permalink: b'wiki/Battery_monitoring/management_systems/'
 layout: wiki
+tags:
+ - Automotive accessories
 ---
 
 Lee Hart did a very complete battery balancer design some years ago.
