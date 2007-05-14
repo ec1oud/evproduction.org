@@ -6,3 +6,5 @@ tag: Categories
 ---
 
 This is the highest level of EVPWiki's category system
+
+All the pages must be included in a category.
