@@ -1,0 +1,112 @@
+---
+title: b'Battery pack'
+permalink: b'wiki/Battery_pack/'
+layout: wiki
+tags:
+ - Automotive technologies
+ - BEV components
+ - Electric batteries
+---
+
+![Automobile battery pack consisting of 28
+[Optima](/wiki/Optima_(disambiguation) "wikilink") Yellow
+Tops](Acp_tzero_dsc00309.jpg "Automobile battery pack consisting of 28 Optima Yellow Tops")
+
+A **battery pack** is a set of any number of (preferably) identical
+[batteries](/wiki/Battery_(electricity) "wikilink") or individual battery
+cells. They may be configured in a series, parallel or a mixture of both
+to deliver the desired voltage, capacity, or power density. The term
+battery pack is often used in reference to RC hobby toys and [battery
+electric vehicles](battery_electric_vehicle "wikilink").
+
+Components of battery packs include the individual batteries or cells,
+and the [interconnects](interconnects "wikilink") which provide
+electrical conductivity between them. Interconnects are also found in
+batteries as they are the part which connects each cell, though
+batteries are most often only arranged in series strings. When wiring a
+pack in parallel there are various methods and one should take into
+consideration the *balance* of the electrical circuit. [Battery
+regulators](/wiki/Battery_regulator "wikilink") are sometimes used to keep the
+peak voltage of each individual battery or cell below its maximum value
+so to allow weaker batteries to be fully charged, bringing the whole
+pack back into balance. Active balancing can also be performed by
+[battery balancer](battery_balancer "wikilink") devices which can
+shuttle energy from strong batteries to weaker ones in real time for
+even better balance. A well-balanced pack lasts longer and delivers
+better performance so it is a rather beneficial component of high
+capacity or expensive packs.
+
+For an inline package cells are selected and stacked with solder in
+between and pressed together and a current pulse is used to generate
+heat and solder them together and to weld all connections internal the
+cell.
+
+Calculating State Of Charge
+---------------------------
+
+SOC or State of charge is the equivalent of a [fuel
+gauge](fuel_gauge "wikilink") for a battery. SOC is sometimes difficult
+to determine as it can not usually be determined by simple voltage
+measurements. Electrolite PH levels are a good SOC indication, but many
+modern chemistries don't offer easy access to that part of the battery.
+Most SOC methods take into account voltage and current as well as
+temperature and other aspects of the discharge and charge process to in
+essence count up or down within a pre-defined capacity of a pack.
+E-Meters take into account Puckert effect which is a function of
+charge/discharge rate or amps.
+
+Advantages
+----------
+
+An advantage of a battery pack is the ease with which it can be swapped
+into or out of a device. This allows multiple packs to deliver extended
+runtimes, freeing up the device for continued use while charging the
+removed pack separately.
+
+Another advantage is the flexibility of their design and implementation,
+allowing for the use of cheaper high production cells or batteries to be
+combined into a pack for nearly any application.
+
+Disadvantages
+-------------
+
+Packs are often simpler for end users to repair or tamper with than a
+sealed non-serviceable battery or cell. Though some might consider this
+an advantage it is important to take safety precautions when servicing a
+battery pack as they pose a danger as potential chemical, electrical,
+and fire risks.
+
+Use in science fiction
+----------------------
+
+In science fiction and video games, a battery pack is sometimes called a
+**power pack**, and is used for energy weapons and other devices.
+Usually these packs have an extraordinarly high energy density, well
+beyond any current technologies.
+
+See also
+--------
+
+-   [Battery balancer](/wiki/Battery_balancer "wikilink")
+-   [Battery charger](/wiki/Battery_charger "wikilink")
+-   [Battery Management System](/wiki/Battery_Management_System "wikilink")
+    (BMS)
+-   [Battery monitoring](/wiki/Battery_monitoring "wikilink")
+-   [Battery regulator](/wiki/Battery_regulator "wikilink")
+-   [Smart Battery Data](/wiki/Smart_Battery_Data "wikilink")
+
+External links
+--------------
+
+-   [Battery
+    Monitor](http://genki.home.ionet.net/BattMon/BattMonArticle.html) -
+    Bar Graph
+-   BMS:
+    -   [BMS Concepts](http://www.mpoweruk.com/bms.htm)
+    -   [Capacitive BMS (doubleplus good, although I haven't had time to
+        find who makes
+        them)](http://patimg1.uspto.gov/.piw?docid=US005710504&SectionNum=1&IDKey=848FB6E63FD1&HomeUrl=http://patft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2%2526Sect2=HITOFF%2526p=1%2526u=%25252Fnetahtml%25252FPTO%25252Fsearch-bool.html%2526r=25%2526f=G%2526l=50%2526co1=AND%2526d=PTXT%2526s1=5,710,504%2526OS=5,710,504%2526RS=5,710,504)
+    -   [And Victor made a good shot at a BMS, and actually -shares- his
+        info (unusual)](http://www.metricmind.com/ac_honda/main2.htm)
+-   [Individual cell
+    monitor](http://genki.home.ionet.net/BattMon/BattMonArticle.html)
