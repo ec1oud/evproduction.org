@@ -2,6 +2,8 @@
 title: b'Batteries'
 permalink: b'wiki/Batteries/'
 layout: wiki
+tags:
+ - Batteries
 ---
 
 Hawker put out a [useful guide for the general care of lead acid

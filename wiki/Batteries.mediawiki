@@ -5,3 +5,5 @@ Even information for the [http://aaron.boim.com/EV/Hawker_ChargingLead-Tin_Batte
 
 NREL published a paper on an [http://crow/~aaron/EV/InteruptChargingAlgorithm.pdf interrupt charging algorithm]
 for lead-acid batteries.
+
+[[Category:Batteries]]
