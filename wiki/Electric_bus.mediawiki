@@ -1,0 +1,44 @@
+[[Image:Trolleybus4120Harvard.jpg|thumb|right|New (2004) [[Massachusetts Bay Transportation Authority]] [[Neoplan]] [[trolleybus]].]]
+
+An '''electric bus''' is a [[bus]] powered by electricity. 
+
+There are two main electric bus categories: 
+
+* The [[trolleybus]] is a type of electric bus powered by two overhead electric wires, from which it draws [[electricity]] using two [[trolley pole]]s. 
+* The stored-electricity bus:
+** [[Battery electric bus]]
+** [[Gyrobus]].
+
+[[Image:Drawbar trailer coupling.jpg|right|thumb|Trailer-[[Tow hitch|hitch]] on a large vehicle]]
+
+==Electric bus-makers==
+* [[Allison Transmission|Allison]] & [[General Motors|GM]] <ref>http://www.allisontransmission.com/product/electricdrive/epsystem.jsp</ref>
+* [[Ebus]] [http://www.ebus.com].
+* [[ElDorado National]].
+* [[Gillig]] [http://www.gillig.com]
+* North American Bus Industries ([[NABI]])
+* [[New Flyer]]
+* [[Orion Bus Industries]]
+* [[TransTeq]] [http://www.transteq.com]
+
+==See also==
+* [[Battery box]]
+* [[Battery pack]]
+* [[Electric vehicle]]
+* [[Jump start (vehicle)]]
+* [[Shuttle]]
+* [[Supercapacitor]]
+* [[Traction motor]]
+* [[Wikipedia:WikiProject buses]]
+
+== References ==
+<References />
+
+==External links==
+* [http://www.eere.energy.gov/fleetguide/ EERE electric bus fleet guide].
+* [http://citytransport.info/Electbus.htm Electric buses].
+* {{PDF|http://www.arb.ca.gov/regact/zbus06/res0628.pdf|28.2&nbsp;[[Kibibyte|KiB]]<!-- application/pdf, 28881 bytes -->}} ([[CARB]]).
+
+[[Category:Electric buses| ]]
+
+{{bus-stub}}
