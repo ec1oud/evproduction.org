@@ -20,7 +20,13 @@ There are two main electric bus categories:
     [electricity](electricity "wikilink") using two [trolley
     poles](trolley_pole "wikilink").
 -   The stored-electricity bus:
-    -   [Battery electric bus](/wiki/Battery_electric_bus "wikilink")
+    -   [Battery electric bus](/wiki/Battery_electric_bus "wikilink"). The
+        main batteries can be stored inside the bus
+        [coach](coach "wikilink") (where there is the electric motor),
+        in a rear [baset trailer](baset_trailer "wikilink") to extend
+        the range or in both. When the batteries in the baset are
+        discharged, another charged baset can be attached to the bus to
+        replace the first.
     -   [Gyrobus](/wiki/Gyrobus "wikilink").
 
 ![Trailer-[hitch](/wiki/Tow_hitch "wikilink") on a large

@@ -6,7 +6,7 @@ There are two main electric bus categories:
 
 * The [[trolleybus]] is a type of electric bus powered by two overhead electric wires, from which it draws [[electricity]] using two [[trolley pole]]s. 
 * The stored-electricity bus:
-** [[Battery electric bus]]
+** [[Battery electric bus]]. The main batteries can be stored inside the bus [[coach]] (where there is the electric motor), in a rear [[baset trailer]] to extend the range or in both. When the batteries in the  baset are discharged, another charged baset can be attached to the bus to replace the first.
 ** [[Gyrobus]].
 
 [[Image:Drawbar trailer coupling.jpg|right|thumb|Trailer-[[Tow hitch|hitch]] on a large vehicle]]
