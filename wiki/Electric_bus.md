@@ -44,6 +44,7 @@ See also
 
 -   [Battery box](/wiki/Battery_box "wikilink")
 -   [Battery pack](/wiki/Battery_pack "wikilink")
+-   [Baset trailer](/wiki/Baset_trailer "wikilink")
 -   [Electric vehicle](/wiki/Electric_vehicle "wikilink")
 -   [Jump start (vehicle)](/wiki/Jump_start_(vehicle) "wikilink")
 -   [Shuttle](/wiki/Shuttle "wikilink")

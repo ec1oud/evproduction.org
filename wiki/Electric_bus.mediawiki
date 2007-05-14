@@ -24,6 +24,7 @@ There are two main electric bus categories:
 ==See also==
 * [[Battery box]]
 * [[Battery pack]]
+* [[Baset trailer]]
 * [[Electric vehicle]]
 * [[Jump start (vehicle)]]
 * [[Shuttle]]
