@@ -2,6 +2,8 @@
 title: b'Suspension'
 permalink: b'wiki/Suspension/'
 layout: wiki
+tags:
+ - Automotive accessories
 ---
 
 Design
