@@ -2,6 +2,8 @@
 title: b'Versatile Vehicle Architecture'
 permalink: b'wiki/Versatile_Vehicle_Architecture/'
 layout: wiki
+tags:
+ - Open architecture
 ---
 
 **Versatile Vehicle Architecture** (**VVA**) is an effort by the
