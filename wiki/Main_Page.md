@@ -103,8 +103,13 @@ willing to help make it happen.
     and [online
     financing](http://www.bootstrapaustin.org/wiki/index.php/Bootstrap_Online_Financing).
 
-Our first car, the Freedom EV
------------------------------
+EVProductions vehicles and goods
+--------------------------------
+
+EVProduction vehicles and goods uses own solutions and as much as
+possible other open solutions, specially [OSCar](/wiki/OSCar "wikilink").
+
+### Our first car, the Freedom EV
 
 Want to break free from nuclear-[oil
 dependence](oil_dependence "wikilink"), but continue to experience the
@@ -119,16 +124,12 @@ production, and eventually to sell finished cars. [A few
 others](/wiki/EVProduction:Community_Portal "wikilink") are hashing out some
 of the other details.
 
-One can use [OSCar](/wiki/OSCar "wikilink") as a base to develop a greener
-car, the Freedom EV.
-
 -   [Latest Progress](/wiki/Progress_Pics "wikilink")
 -   [The Yahoo group](http://autos.groups.yahoo.com/group/EVProduction/)
 
-Other EVProduction Goods
-------------------------
+### Other EVProduction Goods
 
--   [EVProduction vehicles](/wiki/EVProduction_vehicles "wikilink")
+-   [EVProduction vehicles](/wiki/EVProduction_vehicles "wikilink").
 -   [EVProduction complements](/wiki/EVProduction_complements "wikilink"),
     including a range extender [baset trailer](baset_trailer "wikilink")
 
