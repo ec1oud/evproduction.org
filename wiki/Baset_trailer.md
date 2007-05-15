@@ -62,9 +62,8 @@ See also
 --------
 
 -   [Epusher trailer](/wiki/Epusher_trailer "wikilink")
--   [Genset trailer](/wiki/Genset_trailer "wikilink")
 -   [Green tuning](/wiki/Green_tuning "wikilink")
--   [Pusher trailer](/wiki/Pusher_trailer "wikilink")
+-   [Nuclear-fossil dependence](/wiki/Nuclear-fossil_dependence "wikilink")
 -   [Plug-in hybrid](/wiki/Plug-in_hybrid "wikilink")
 -   [Trailer](/wiki/Trailer "wikilink")
 
