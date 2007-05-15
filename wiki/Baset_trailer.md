@@ -43,6 +43,8 @@ also be given for rent.
 Removable individual batteries and trays
 ----------------------------------------
 
+![Individual battery ](UL20712.jpg "Individual battery ")
+
 Batteries can be mounted in a light, easy and accesible [removable
 trays](removable_tray "wikilink") or individually, so one can replace
 only some batteries when discharged, instead of a trailer.
@@ -56,7 +58,7 @@ In any case, taxicabs can recharge portable batteries in the
 [kiosk](wikipedia:kiosk "wikilink") or similar), when they are driving
 or waiting for passengers.
 
-![Individual battery ](UL20712.jpg "Individual battery ")
+![Prius taxi](PriusTaxi.jpg "Prius taxi")
 
 See also
 --------
