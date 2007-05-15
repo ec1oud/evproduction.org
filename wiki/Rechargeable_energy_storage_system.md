@@ -13,4 +13,4 @@ related to [hybrid vehicles](hybrid_vehicle "wikilink"), such as the
 U.S. Energy Policy Act of [2003](2003 "wikilink"), and also in
 [ISO](/wiki/ISO "wikilink") [international
 standards](international_standard "wikilink") on [electric
-vehicles](electric_vehicles "wikilink").
+vehicles](electric_vehicle "wikilink").
