@@ -1007,6 +1007,12 @@ Diego](/wiki/San_Diego_International_Airport "wikilink").
 See also
 --------
 
+-   [Toyota Prius FAQ in
+    Wikibooks](http://en.wikibooks.org/wiki/Toyota_Prius_FAQ)
+-   [Toyota Prius driving tricks in
+    Wikibooks](http://en.wikibooks.org/wiki/Toyota_Prius_driving_tricks)
+-   [Toyota Prius in Wikimedia
+    Commons](http://commons.wikimedia.org/wiki/Category:Toyota_Prius)
 -   [Comparison of Toyota
     hybrids](/wiki/Comparison_of_Toyota_hybrids "wikilink")
 -   [List of hybrid vehicles](/wiki/List_of_hybrid_vehicles "wikilink")

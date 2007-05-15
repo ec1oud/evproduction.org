@@ -317,9 +317,9 @@ Many Toyota dealerships in the USA offer car rentals, allowing prospective buyer
 EV Rental Cars <ref> http://www.evrental.com/</ref>, in partnership with Fox Rent-a-Car <ref> http://www.foxrentacar.com/ev-cars.html </ref>, offers the Prius for rent at the airports in [[Sky Harbor International Airport|Phoenix]], [[San Francisco International Airport|San Francisco]], [[San Jose International Airport|San Jose]], [[Oakland International Airport|Oakland]], [[John Wayne Airport|Orange County]], [[Los Angeles International Airport|Los Angeles]], and [[San Diego International Airport|San Diego]].
 
 ==See also==
-{{wikibooks|Toyota Prius FAQ}}
-{{wikibooks|Toyota Prius driving tricks}}
-{{commonscat|Toyota Prius}}
+*[http://en.wikibooks.org/wiki/Toyota_Prius_FAQ Toyota Prius FAQ in Wikibooks]
+*[http://en.wikibooks.org/wiki/Toyota_Prius_driving_tricks Toyota Prius driving tricks in Wikibooks]
+*[http://commons.wikimedia.org/wiki/Category:Toyota_Prius Toyota Prius in Wikimedia Commons]
 *[[Comparison of Toyota hybrids]]
 *[[List of hybrid vehicles]]
 *[[Honda Civic Hybrid]]
