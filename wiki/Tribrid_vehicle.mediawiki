@@ -1,0 +1,12 @@
+'''Tribrids''' are the third generation of [[alternative propulsion]] [[vehicle]]s. Second generation are the [[Bivalent (engine)|bivalent]] [[hybrid vehicle]]s with [[turbine]]s. Tribrids  are [[Hybrid vehicle|hybrids]] that obtain additional energy from the ambient [[Natural environment|environment]] ([[solar panel]], [[windmill]] or [[sail]]). An example is a [[velomobile]] with an electric power-assist motor and additional on-board [[solar cell]]s.
+
+== External links ==
+* [http://www.obvio.ind.br Obvio production tribrids].
+* [http://morriesmazda.blogspot.com/2007/02/future-of-mazda-hybrids.html Mazda5 tribrid prototype].
+
+
+[[Category:Sustainable technologies]]
+[[Category:Alternative propulsion]]
+[[Category:Hybrid vehicles]]
+
+{{vehicle-stub}}
