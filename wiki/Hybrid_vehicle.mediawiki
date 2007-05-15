@@ -1,0 +1,98 @@
+{{For|other types of "Hybrid Transportation"|Hybrid (disambiguation)#Transportation}}
+
+A '''hybrid vehicle''' (HV) is a vehicle that uses two or more distinct power or fuel sources such as:
+*An on-board [[rechargeable energy storage system]] (RESS) and a fueled power source for vehicle [[Ground propulsion|propulsion]]
+*Human powered bicycle with battery assist
+*A sail boat with electric power[http://www.autobloggreen.com/2006/11/28/heard-of-regenerative-braking-how-about-regenerative-sailing/]
+
+The term most commonly refers to '''Hybrid-electric vehicle (HEV)''' which includes [[internal combustion]] engines (if uses petroleum, it´s called a a [[hybrid-electric petroleum vehicle]]) and [[electric motor]]s (generally powered by [[electric battery|electric batteries]]). See also "[[Hybrid Vehicle Drivetrains]]" and [[List_of_hybrid_vehicles|"List of hybrid vehicles"]].
+
+==History==
+One of the earliest hybrid vehicles were simply boats with both sails and oars, such as the  [[Trireme|Greek/Phoenician trireme warships]]. These used a sail for traveling with the wind, and the oars for when there was insufficient wind, or in circumstances that the sail was unfavorable (such as naval combat, in the case of the triremes).
+
+== Core segment in the market ==
+Hybrids are viewed by some [[automaker]]s as a core segment of the future vehicle market .<ref>http://www.autonews.com/apps/pbcs.dll/article?AID=/20070416/REG/70416014/-1 </ref>
+
+==Two-wheeled and cycle-type vehicles==
+[[Moped]]s and [[Motorized bicycles|electric bicycles]] are a simple form of a hybrid, as power is delivered both via an [[internal combustion|internal combustion engine]] or [[electric motor]] and the rider's muscles. 
+
+* In a '''parallel hybrid bicycle''' human and motor power are mechanically coupled at the pedal drive train or at the rear or the front wheel, e.g. using a hub motor, a roller pressing onto a tire, or a connection to a wheel using a transmission element. Human and motor torques are added together. Almost all manufactured models are of this type. See [[Motorized bicycles]], [[Moped|Mopeds]] and <ref>{{cite web | title=Das Powerbike (German), ISBN 3895951234 | url=http://gso.gbv.de/DB=2.1/SET=1/TTL=1/SHW?FRST=1&PRS=HOL&HILN=888#888 | accessdate=february 27 | accessyear=2007}}</ref> for more information.
+
+* In a '''series hybrid bicycle''' (SH) the user powers a generator using the pedals. This is converted into electricity and can be fed directly to the motor giving a [[chainless bicycle]] but also to charge a battery. The motor draws power from the battery and must be able to deliver the full mechanical torque required because none is available from the pedals. SH bicycles are not yet commercially available. They will become feasible if extremely high-efficiency generators and motors are available at competitive prices, especially for recumbent bicycles and tandems, where problems associated with the complexity of a long chain drive can be avoided. <ref>{{cite web | title=Velomobile Seminar 1999, ISBN 3-9520694-1-8 | url=http://www.futurebike.ch/page.asp?DH=2305 | accessdate=January 11 | accessyear=2006}} </ref>.
+
+::The first known prototype and publication of a SH bicycle is by Augustus Kinzel (US Patent 3'884'317) in 1975. In 1994 Bernie Macdonalds conceived the [http://www.mcn.org/a/omni/ELiteBro95.htm Electrilite] SH lightweight vehicle which used power electronics allowing regenerative braking and pedaling while stationary. In 1995 Thomas Müller designed a "Fahrrad mit elektromagnetischem Antrieb" in his 1995 diploma thesis and built a functional vehicle. In 1996  Jürg Blatter and Andreas Fuchs of Berne University of Applied Sciences built a SH bicycle and in 1998 mounted the system onto a [[Leitra]] tricycle (European patent EP 1165188). In 1999 Harald Kutzke described his concept of the "active bicycle": the aim is to approach the ideal bicycle weighing nothing and having no drag by electronic compensation. Until 2005 Fuchs and colleagues built several prototype SH tricycles and quadricycles. [http://mypage.bluewin.ch/fuchsbau/Fuchs2006.pdf]
+
+==Heavy vehicles==
+Hybrid [[power train]]s are used for [[diesel-electric]] or [[turbo-electric]] railway locomotives, buses, heavy goods vehicles, mobile [[hydraulic machinery]], and ships. Some form of heat engine drives an electric generator or hydraulic pump which power one or several electric or hydraulic motors. There are advantages in distributing power through wires or pipes rather than mechanical elements especially when multiple drives - e.g. driven wheels or propellers - are required. There are disadvantages due to the power lost in the double conversion. With large vehicles the advantages often outweigh especially as the relative conversion losses decrease with size. Generally there is no or relatively little energy storage capacity, e.g. auxiliary and emergency batteries and [[hydraulic accumulator]]s.
+
+==Hybrid-electric petroleum vehicles==
+[[Image:Hybrid-bus.jpg|thumbnail|Hybrid [[New Flyer]] [[Metrobus]]|300px]]
+{{main|Petroleum electric hybrid vehicle}}
+When the term ''hybrid vehicle'' is used, it most often refers to a [[Petroleum electric hybrid vehicle]]. These encompass such vehicles as the [[Toyota Prius]], [[Toyota Camry Hybrid]], [[Ford Escape Hybrid]], [[Honda Insight]] and others. A petroleum-electric hybrid most commonly uses [[internal combustion]] engines (generally gasoline or [[Diesel engine]]s, powered by a variety of fuels) and [[electric battery|electric batteries]] to power [[electric motor]]s. There are many [[Hybrid Vehicle Drivetrains|types of petroleum-electric hybrid drivetrains]] from '''Full hybrid''' to [[Mild hybrid]] which offer varying advantages and disadvantages <ref>[http://automobiles.honda.com/tools/calculators/mileage_calculator.asp?ModelNa,e=Civic+Hybrid# Fuel Saving Calculator]</ref>.
+
+==Hybrid fuel (dual mode)==
+In addition to vehicles that use two or more different devices for [[Ground propulsion|propulsion]], some also consider vehicles that use distinct energy input types ("[[fuel]]s") using the same tank and engine to be hybrids, although to avoid confusion with hybrids as described above and to use correctly the terms, these are described as [[dual mode]] vehicles:
+* Some [[electric trolleybus]]es can switch between an on board [[diesel engine]] and overhead electrical power depending on conditions (see [[dual mode bus]]). In principle, this could be combined with a battery subsystem to create a true plug-in hybrid trolleybus, although [[as of 2006]], no such design seems to have been announced.
+* [[Flexible-fuel vehicle]]s can use a mixture of input fuels (petroleum and [[biofuel]]s) in one tank &mdash; typically [[gasoline]] and [[bioethanol]] or [[biobutanol]], though diesel-[[biodiesel]] vehicles would also qualify. [[Liquified petroleum gas]] and [[natural gas]] are very different from each other and cannot be used in the same tanks, so it would be impossible to build an (LPG-NG) flexible fuel system.
+* Some vehicles have been modified to use another fuel source if it is available, such as cars modified to run on [[Autogas|autogas (LPG)]] and diesels modified to run on [[waste vegetable oil]] that has not been processed into bio-diesel.
+* Power-assist mechanisms for [[bicycle]]s and other [[human]]-powered vehicles are also included.
+* A [[Plug-in hybrid]] electric vehicles (PHEV) is an emerging type of automobile which can use traditional liquid combustibles and electricity as fuels.  Such vehicles could reduce fossil fuel consumption, pollution, and operating costs.  If equipped with [[vehicle to grid]] technology they could also help stabilize the [[electric grid]] by acting as load balance devices. By reducing the amount of liquid fuel required they could also help [[biofuel]]s meet a larger portion of our fuel demands.
+
+==Continuously Recharged [[Battery electric vehicle|Battery Electric Vehicle (BEV)]]==
+
+Given suitable infrastructure, BEVs can be '''recharged'''
+'''while the user drives'''.  The [[BEV]] establishes contact with an electrified rail, plate or overhead wires on the highway via an attached conducting wheel or other similar mechanism  (see [[Conduit current collection]]).  The BEV's batteries are recharged by this process - on the highway - and can then be used normally on other roads.
+
+This provides the advantage of '''virtually unrestricted highway'''
+'''range'''.  Since most destinations are within 100 km of a major 
+highway, this '''reduces the need for expensive battery systems'''.
+
+The technology for such infrastructure is old and well established -
+(see [[Conduit current collection]], [[trams]], [[electric rail]], [[Tram|trolleys]], [[third rail]]).  Electricity and infrastructure costs can be funded by toll revenue, gasoline taxes or other sources.
+
+==See also==
+{{Portal|Energy}}
+{{Portal|Ecology}}
+{|
+|- valign=top
+| width=250 align=left |
+* [[Alternative propulsion]]
+* [[Bivalent (engine)]]
+* [[Diesel-electric]] and [[diesel-electric locomotive]]
+* [[Electric vehicle]]
+* [[:Category:Hybrid buses|Hybrid buses]]
+* [[:Category:Hybrid trucks|Hybrid trucks]]
+
+| width=250 align=left |
+
+* [[Hybrid Locomotive|Hybrid Locomotive]]
+* [[Hybrid Vehicle Drivetrains]]
+* [[List of hybrid vehicles]]
+* [[OScar (open source car)]]
+* [[Petroleum electric hybrid vehicle]]
+* [[Plug-in hybrid electric vehicle]]
+* [[Solid oxide fuel cell]]
+* [[Tribrid vehicle]]
+|}
+
+==References==
+<div class="references-small">
+<references/>
+</div>
+
+==External links==
+===Projects===
+[http://doctord.webhop.net/Scott/Hybrid/Weller_report.htm High School Student Project] - April 2003
+===News===
+[http://cyclesantamonica.blogspot.com/2006/09/hybrid-bike.html Man Motors On Hybrid Bicycle video] - Sept 2006
+=== Hybrid airplanes ===
+* [http://www.hybrid-vehicles.net/hybrid-airplanes.htm Hybrid airplanes].
+*[http://www.redorbit.com/news/science/733650/scuderi_group_secures_patent_protection_for_worlds_first_hybrid_airplane/index.html World's First Hybrid Airplane Engine].
+* http://www.ecogeek.org/content/view/131/1/  
+
+{{Energy related development}} 
+
+[[Category:Alternative propulsion]]
+[[Category:Hybrid vehicles]]
+[[Category:Engines]]
+[[Category:Electric vehicles]]
