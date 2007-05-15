@@ -1,0 +1,423 @@
+{{redirect|Prius|the Japanese personal computer|Hitachi Flora Prius}}
+{{Infobox Automobile
+|name=Toyota Prius
+|image=[[Image:Toyota Prius side.jpg|250px|center]]
+|manufacturer=[[Toyota Motor Corporation]]
+|aka=Toyota Hybrid
+|assembly=[[Toyota City]], [[Japan]]
+|similar=[[Honda Civic Hybrid]]
+|class=[[Hybrid car]]
+|layout=[[FF layout]]
+|production=1997&ndash;present}}
+{{Infobox Automobile generation
+|name=NHW20
+|production=2004&ndash;present
+|image=[[Image:Prius2004.JPG|250px|2004 Toyota Prius]]
+|class=[[Midsize car]]
+|body_style=5-door [[hatchback]]
+|engine='''[[Hybrid Synergy Drive]]'''<br />'''Gasoline''': 1.5&nbsp;L [[DOHC]] [[Straight-4|I4]] [[VVT-i]]<br />57&nbsp;kW (76&nbsp;hp) @ 5000 rpm<br />115&nbsp;N·m (85&nbsp;ft·lbf) @ 4200 rpm<br />'''Electric''': 500 [[volt|V]]<br />50&nbsp;kW (67&nbsp;hp) @ 1200 rpm<br />400&nbsp;N·m (295&nbsp;ft·lbf) @ 0 rpm<br />[[AT-PZEV]]<br />[[Hybrid System Net Power|Net power]]: 110&nbsp;hp (82&nbsp;kW)
+|length=4450 mm (175.33 in)
+|width=1725 mm (67.97 in)
+|height=1490 mm (58.71 in)
+|weight=1325 kg (2921 lb)
+|transmission=[[Continuously variable transmission|CVT]]
+|wheelbase=2700 mm (106.3 in)
+}}
+{{Infobox Automobile generation
+|name=NHW11
+|image=[[Image:1st-Prius.jpg|250px|Toyota Prius]]
+|production=2000&ndash;2003
+|class=[[Compact car]]
+|body_style=4-door [[Sedan (car)|sedan]]
+|engine='''[[Toyota Hybrid System]]'''<br />'''Gasoline''': 1.5&nbsp;L [[DOHC]] [[Straight-4|I4]] [[VVT-i]]<br />13.0:1 [[compression ratio|compression]]<br />52&nbsp;kW (70&nbsp;hp) @ 4500 rpm<br />110&nbsp;N·m (82&nbsp;ft·lbf) @ 4200 rpm<br />'''Electric''': 273.6 [[volt|V]] motor<br />33&nbsp;kW (44&nbsp;hp) @ 1040 rpm<br />350&nbsp;N·m (258&nbsp;ft·lbf) @ 0 rpm<br />[[SULEV]]
+|length=4308 mm <!--confirm mm values? -->(169.6 in)
+|width=1694 mm <!--confirm mm values? -->(66.7 in)
+|height=1463 mm <!--confirm mm values? -->(57.6 in)
+|weight=1254.2 kg <!--confirm kg values? -->(2765 lb)
+|wheelbase=2550 mm (100.4 in)
+|transmission=1-speed [[Continuously variable transmission|CVT]]
+}}
+
+{{Infobox Automobile generation
+|name=NHW10
+|production=1997&ndash;2001
+|image=[[Image:TOYOTA Prius.jpg|250px|0th Generation "Original" Prius]]
+|class=[[Compact car]]
+|body_style=4-door [[Sedan (car)|sedan]]
+|engine='''[[Toyota Hybrid System]]'''<br />'''Gasoline''': 1.5&nbsp;L [[DOHC]] [[Straight-4|I4]]<br />13.5:1 [[compression ratio|compression]]<br />43&nbsp;[[Watt|kW]] (58&nbsp;[[horsepower#hp (SAE)|hp]]) @ 4000 rpm<br />102&nbsp;[[Newton metre|N·m]] (75&nbsp;[[Torque|ft·lbf]]) @ 4000 rpm<br />'''Electric''': 288 [[volt|V]] motor<br />30&nbsp;kW (40&nbsp;hp) @ 940 rpm<br />305&nbsp;N·m (225&nbsp;ft·lbf) @ 0 rpm
+|length=4275 mm <!-- confirm mm values ? -->(168.3 in)
+|width=1694 mm <!-- confirm mm values ? --> (66.7 in)
+|height=1491 mm <!-- confirm mm values ? --> (58.7 in)
+}}
+[[Image:Prius2004HSD.JPG|thumbnail|right|Hybrid Synergy Drive]]
+
+The '''Toyota Prius''' is the first mass-produced and marketed [[Petroleum electric hybrid vehicle|hybrid]] automobile/car.  In [[Latin]], ''prius'' means "before." It went on sale in [[Japan]] in 1997, and worldwide in 2001.  By the end of 2003, nearly 160,000 units had been produced for sale in Japan, [[Europe]], and [[North America]].  The Prius (2000 to 2003 model years) is certified as a [[Super Ultra Low Emission Vehicle]] (SULEV) by the [[California Air Resources Board]] (CARB).  With the 2004 model, the Prius was redesigned as a midsize [[hatchback]] and certified as an Advanced Technology [[Partial zero-emissions vehicle]] (AT-PZEV).  The 2000 model Prius slotted between the [[Toyota Vitz|Echo]] and [[Toyota Corolla|Corolla]] in the company's North American lineup. The 2004 model slots between the Corolla and [[Toyota Camry|Camry]].
+ 
+The Prius has won numerous [[Prius#Awards|awards]] including Car of the Year awards for Europe, Japan and North America.  It is most famous for its fuel economy.  The U.S. EPA has rated the current version at 60 [[Miles per gallon|mpg]] (3.9 [[L/100_km|L/100 km]]) city driving and 51 mpg (4.6 L/100 km) highway, although real-world results tend to average in the mid 40s mpg (about 5 L/100 km).  
+
+In the United States, the Prius initially attracted buyers interested in the vehicle's low particulate emissions, advanced technology, and high fuel economy.  In 2006, demand for the Prius broadened for several reasons: the rising price of gasoline made the vehicle's fuel economy more attractive; tax credits provided by the federal government lowered the end-price to consumers; and some states introduced privileges for hybrid vehicle drivers.  California, Maryland and Virginia, for example, allowed single-occupant hybrid vehicles in [[High-occupancy vehicle lane|HOV-lanes]].
+
+==How it works==
+:''Main article'': [[Petroleum electric hybrid vehicle|Petroleum-electric hybrid vehicle page]]
+The Prius is a [[Hybrid Vehicle Drivetrains|series-parallel]] configuration hybrid, a vehicle that can run on just the engine, just the batteries, or a combination of both. [[Toyota|Toyota's]] design goals are to reduce the amount of pollution and to maximize fuel efficiency. To do this, it uses a gasoline/electric hybrid powertrain, incorporating large batteries that are charged by the gas (petrol) engine directly or by regenerative braking (cannot be plugged in as built).  Either the engine or the battery (or both) can power the vehicle, depending on conditions.  This gives it the acceleration and power of a standard car having a much larger gasoline-burning engine.  Specifically, the Prius incorporates:
+#More efficient use of the [[internal combustion engine]] (ICE), reducing gasoline/petrol consumption. The [[Toyota NZ engine|1NZ-FXE engine]] uses the more efficient [[Atkinson cycle]] instead of the more common [[Four-stroke cycle|Otto cycle]];
+#Two [[electric motor]]/[[electrical generator|generators]], MG1 and MG2 are in the transaxle. The MG2 provides 50&nbsp;kW (67&nbsp;hp) @ 1,200 to 1,540&nbsp;rpm and 400&nbsp;N·m (295 ft·lbf) torque from 0 to 1,200 rpm, which significantly contributes to performance and economy. The MG1, with rpm from -10,000 to +10,000 rpm, provides the engine starter and counter torque for the electronic Continuously Variable Transmission;
+#50&nbsp;kW [[IGBT]] [[inverter (electrical)|inverter]] controlled by a 32-bit [[microprocessor]], which efficiently converts power between the batteries and the motor/generators.
+#Lower [[Drag coefficient|coefficient of drag]] at 0.26 (0.29 for 2000 model), with a [[Kammback]] design reducing air resistance, especially at higher speeds;
+#Lower rolling-resistance tires on the 2000 model, reducing road [[friction]];
+#[[Regenerative braking]], a process for recovering [[kinetic energy]] when braking or travelling down a slope and storing it as [[chemical potential energy]] in the [[Battery (electricity)#Traction batteries|traction battery]] for later use while reducing wear and tear on the brake pads;
+#Sealed 168-cell [[nickel metal hydride]] (NiMH) [[rechargeable battery|battery]] providing 201.6 volts;
+#[[Continuously variable transmission]] — the Prius uses a computer-managed (rather than a mechanical) CVT; Toyota calls it the Power Split Device<ref>{{cite web | title = The Power Split Device | url = http://www.ecrostech.com/prius/original/Understanding/PowerSplitDevice.htm }}</ref>. The electric motors and gasoline engine are connected to a [[planetary gear]] set which is always engaged, and there is no shifting.
+#Flexible resin gasoline tank, reducing the amount of [[hydrocarbon]] emissions in the form of escaped gasoline vapour; (US model only)
+#[[Vacuum flask]] coolant storage system that stores hot engine coolant when the vehicle is powered off, then reuses it to reduce warm-up time. (US model only)
+#[[Toyota Prius#EV Mode|EV Mode]] (Europe and Asian markets only, aftermarket option in the U.S.) allows the driver to select electric-only mode in low-power conditions.  The vehicle can only be driven a couple kilometers (depending on conditions) on battery power alone before the gas engine is needed.
+#Weight reduction — for example the hatch and hood/bonnet are made of [[aluminium]] instead of [[steel]].
+One reason that the Prius gets such good gasoline mileage is that the [[Internal combustion engine|ICE]] is smaller than in most cars this size. The ICE usually shuts off at stop lights and when backing up and descending long hills. The Prius performance remains very good because the battery/electric motor booster automatically provides more than enough extra power for acceleration and hill climbing. This means it drives like a traditional ICE automobile, with the on-board computer taking care of shifting power to and from the engine and motors, and automatically determining when to charge the battery, as well as the most efficient use of the engine or the electric motors (or both) based on driving conditions. This also means that one cannot use electricity from external sources. Advocates of 'plug-in' hybrids consider this to be a missed opportunity. The Prius also uses its electric motor to recharge the battery during braking, with kinetic energy normally wasted as heat being recaptured. This also significantly reduces brake wear. 
+
+The engine can shut down once it has warmed up and the [[catalytic converter]] in the exhaust system has reached operating temperature. The Prius can then operate solely on electric power under low energy loads. This is sometimes referred to as "stealth mode" due to the lack of engine noise. This further reduces gasoline consumption and engine wear. When driving conditions demand additional power, the engine starts up automatically.
+[[Image:PriusBatteryModule.jpg|thumbnail|right|A battery module used on the Prius]]
+
+The on-board computer ensures that the engine runs under the most efficient conditions.  Typically, a petrol/gasoline engine runs inefficiently at half-throttle, creating a choking condition.  This effect, called [[pumping loss]], is a major reason for the inefficiency of gasoline engines compared to [[diesel engines|diesels]].  The Prius minimizes pumping loss by running the gasoline engine at a high torque range with the throttle fully open. [[Drive-by-wire]] throttle control technology and Toyota's ''Hybrid Synergy Drive'' (a torque combiner, electric drive, and computer control) are essential to this engine control. 
+[[Image:Prius mfd energy.jpg|thumb|right|Energy Monitor on the 2005 Prius Multi-Function Display (MFD), showing energy flow to/from the engine, battery, and from the regenerative braking, as well as battery charge level.]]
+[[Image:Prius mfd consumption.jpg|thumb|right|Consumption monitor on the 2005 Toyota Prius MFD, displaying mpg for highway driving, in the previous 30 minutes, as well as average mpg for 244 miles since last gas fill-up.]]
+In addition to the immediate benefit of reducing fuel consumption and emissions, stopping the combustion engine also improves the performance of the catalytic converter. In a non-hybrid vehicle the exhaust gases from an idling engine tend to cool the catalysts below their optimal temperature.
+[[Image:2003 Prius energy screen.jpg|thumb|right|Energy screen on the 2003 Prius]]
+The frequent starting and stopping of the engine does not cause additional wear and tear or emission problems because the drive motors have enough power to quickly spin the engine to optimal [[Revolutions per minute|rpm]] (around 1,000) before the engine fires up. This avoids the wear that would occur if the engine were to run (with fuel and spark) at very low rpm. 
+
+[[Image:PriusPowerSteering.jpg|thumbnail|right|Electric [[power steering]]]]
+[[Image:ToyotaOpenHSD.jpg|thumbnail|right|THS inverter unit (from NHW11)]]
+For any car, [[aerodynamic]] losses due to [[Drag (physics)|drag]] are much greater on the highway than in low speed city driving. A non-hybrid car nonetheless gets worse mileage in city driving because its engine is far less efficient at low power, such as when stopped in traffic, and because it must frequently dump its kinetic energy into the brakes during stop-and-go driving. The Prius gets better fuel efficiency in city [[dynamometer]] cycles because the engine can shut down instead of running at low power, and run solely off the battery at low speeds and when stopped (including the cabin air heating/cooling system and the power steering).  Also, the car's kinetic energy is captured when braking and stored in the battery. According to [[Environmental Protection Agency|EPA]] tests <ref name="find_a_car">{{cite web | title = Find a Car | url = http://www.fueleconomy.gov/feg/findacar.htm}}</ref>, the Prius gets 60 mpg (3.9 L/100 km) in the city dynamometer tests, compared with 51 (4.6 l/100 km) on the highway, and [[Natural Resources Canada]] estimates 58.8 mpg (4.0 l/100 km) in the city and 56.0 (4.2 l/100 km) on the highway. (Owing to peculiarities of these tests, few drivers obtain these mileage values in typical suburban circumstances, but "real world" performance with careful driving can come close.  Typical real-world drivers get about 46-50 mpg or 5.1 to 4.7 L/100 km, [[hypermiler]]s can get up 100 mpg (42.5 km/L). This means the greatest advantages of a hybrid are mainly in city driving, though factors including driving style, air conditioning use, and short trips may offset some of this advantage. The hybrid has less of an advantage in higher speed open road driving typical of intercity driving, yet obtains improved mileage under these circumstances since it can use a smaller and more efficient engine than would otherwise be required (because the battery and electric motor can provide the extra peak power needed for passing and limited hill climbing).
+
+==Versions==
+The first Prius model, NHW10, was sold only in Japan, though [[grey import|personal imports]] have been made to the British Isles, Australia, and New Zealand.  Subsequent versions have seen wider sales, increased power and reduced battery weight.
+
+{| class="wikitable"
+|-
+!colspan="2" rowspan="2"| Feature
+!colspan="3"| Model code
+|-
+! NHW10
+! NHW11
+! NHW20
+|-
+|colspan="2"| Body style
+|align="center"| 4 Door<br>Sedan
+|align="center"| 4 Door<br>Sedan
+|align="center"| 5 Door<br>Hatchback
+|-
+|colspan="2"| First sales
+|align="right"| 1997
+|align="right"| 2000
+|align="right"| 2003
+|-
+|rowspan="8"|Battery
+|Modules
+|align="right"| 40
+|align="right"| 38
+|align="right"| 28
+|-
+|Cells per module
+|align="right"| 6
+|align="right"| 6
+|align="right"| 6
+|-
+|Total cells
+|align="right"| 240
+|align="right"| 228
+|align="right"| 168
+|-
+|Volts per cell
+|align="right"| 1.2
+|align="right"| 1.2
+|align="right"| 1.2
+|-
+|Total volts (nominal)
+|align="right"| 288
+|align="right"| 273.6
+|align="right"| 201.6
+|-
+|Capacity amp hours
+|align="right"| 6.0
+|align="right"| 6.5
+|align="right"| 6.5
+|-
+|Capacity Watt hours
+|align="right"| 1728
+|align="right"| 1778.4
+|align="right"| 1310.4
+|-
+|Weight kg
+|align="right"| 57
+|align="right"| 50
+|align="right"| 45
+|-
+|rowspan="2"|Petrol Engine
+|Power kW
+|align="right"| 43
+|align="right"| 52
+|align="right"| 57
+|-
+|Max rpm
+|align="right"| 4000
+|align="right"| 4500
+|align="right"| 5000
+|-
+|rowspan="2"|Electric Motor
+|Operating Voltage
+|align="right"| 288
+|align="right"| 273
+|align="right"| 500
+|-
+|Power kW
+|align="right"| 30
+|align="right"| 33
+|align="right"| 50
+|-
+|Combined
+|Power kW
+|align="right"| ?
+|align="right"| 73
+|align="right"| 82
+|}
+
+Production of the Prius for the [[China]] market began in December 2005 by [[Sichuan FAW Toyota Motor]], a [[joint venture]] with [[First Automobile Works]].
+
+===2001 to 2003 Prius (NHW11)===
+The first Prius sold in the U.S. was a compact sedan with a distinctive front hood (bonnet).  Sold in relatively small numbers, it nevertheless gained wide attention and proved the market existed for a sensible hybrid vehicle as a family car.
+
+===2004 to 2007 Prius (NHW20)===
+[[Image:Toyota Paris 6.JPG|thumb|2006 Prius Cut-away in Toyota Showroom in Paris]]
+The Prius 2004 model was a complete redesign of the previous generations of Prius. The new model is larger inside and out (now a mid-size vehicle), gets even better gas mileage and is a hatchback.  It is based on the new (second generation) [[Hybrid Synergy Drive]] (HSD or also known as THSII), replacing the earlier [[Toyota Hybrid System]] (THS) technology. The first generation (1997 to 2003) used the engine to run the air conditioning compressor.  While idling, the engine would need to start every minute or so if the air conditioning was running. In contrast, the 2004 model introduced an all-electric compressor for cooling. This not only allowed the use of air conditioning without the engine starting from time to time when the car was completely still, it also allowed more extensive use of the "stealth mode" (operation on electric motor only).
+
+Its [[drag coefficient]] of 0.26 was then the second-lowest in the industry, after the [[Honda Insight]] at 0.25.
+
+Regenerative braking was greatly improved, relying so little upon the friction-type brakes (except for panic stops) that some Toyota technicians quipped that the original brake pads might well last for the life of the car.
+
+The 2004 Prius emerged as a midsize car with more room than the previous compact, redesigned as a "five-door" model (four doors plus a rear hatch). In general, the car remained conveniently narrow on the outside, rather flat-sided, and relatively tall (several inches taller than a [[Toyota Camry|Camry]]). The profile was more continuous, with a short sloping nose transitioning to a highly sloped windscreen and an arcing roofline ending in a cut-off [[Kammback]]. The additional height allowed a more erect seating position and a higher eye point, giving a better view of the road to the driver. There was also a surprising amount of additional rear-seat leg room, resembling that available in a much larger vehicle. Fold down rear seats with a 60/40 split made for easy carriage of most parcels. It retains a tight turning radius of 17 feet (34 feet or 10.4 meters in diameter), which when combined with a short hood is particularly useful in urban environments.
+
+With a smaller and lower voltage NiMH battery and a [[boost converter]] to step the voltage up to 500 V, the 2004 model was more powerful (2 seconds faster in 0 to 96 km/h acceleration) and is 15% more [[fuel efficiency|fuel efficient]] than the previous generation Prius, with 60 miles per US gallon (25.5 km/L) city and 51 miles per US gallon (22 km/L) highway (according to the [[Environmental Protection Agency|EPA]]) <ref name="find_a_car"/>. Except in short trips or  extreme cold, typical commuting and mixed suburban drivers are reporting fuel consumption of 45 to 50 miles per US gallon (19-21 km/L). <ref>{{cite web | title = Hybrid car owners wonder: Where's the mileage?|url = http://www.usatoday.com/money/autos/2004-02-03-hybridmileage_x.htm}}</ref> Models have a 0-60 mph acceleration time of 10.1 seconds and a top speed of 105 mph (169 km/h) when using both electric and internal combustion motors simultaneously. When exclusively using its electric motor, the Prius has a 42 mph (68 km/h) top speed.
+
+The multi-function-display (MFD) shows fuel consumption bars for each five minute segment of driving and this can encourage economical driving. The display also indicates instantaneous fuel consumption, which is useful for detecting when the vehicle has switched from electric-only to electric plus ICE. At this time it can usually be advantageous to accelerate quickly rather than lug the vehicle, in an attempt to get to a more favorable location or speed range for electric-only mode.
+
+An option called the Smart Key System (SKS) eliminates the traditional ignition key. The "smart key," which resembles a conventional keyless entry remote, has buttons to remotely lock and unlock the door, as well as trigger the alarm system. It is not necessary to use any of the buttons to utilize the SKS. Approaching to within one meter of the car while in possession of the key (even inside a pocket or purse) causes the interior dome lights to fade in (if the switches are at the DOOR position). When the person with the key in their possession touches the inside of either of the front door handles, or the rear hatchback door handle, that door (or more) is immediately unlocked and can be opened. There are three settings in which the Smart Key System (SKS) can operate: driver's door unlocking mode, single door unlocking mode, and all doors unlocking mode. Once inside, the car may be started by pushing the "POWER" button while depressing the brake pedal, with the fob still safely tucked away inside your pocket or purse. To stop the car, push the "POWER" button again. Once parked, the car can be locked by a pushing a black button on the exterior door handle. The SKS will detect keys left inside the vehicle when powered-off, and will not allow the vehicle to be locked in this situation.
+
+On cars which are not equipped with SKS, the driver uses the lock/unlock buttons on the fob, and puts the remote fob into a slot in the dash to allow the car to start.
+
+The vehicle is classified as a [[SULEV]] (Super Ultra Low Emissions Vehicle), 90% cleaner than conventional gasoline-only automobiles. It comes with an Advanced Technology Partial Zero Emission Vehicle (AT-[[PZEV]]) certification by the California Air Resources Board ([[CARB]]). 
+
+As an interesting side note, an option package offered in Japan and Europe gives the Prius the ability to perform parallel and reverse parking assisted by the on-board computer — the first time such a capability has been offered on a production vehicle. Eighty percent of the Prius buyers in Japan have chosen this option. The system is not [[Artificial Intelligence|intelligent]] though, particularly lacking [[machine vision]] which would allow avoidance of obstructions or pedestrians, so it is very limited. <ref>{{cite web |title = Look, no hands! New Toyota parks itself | url = http://www.cnn.com/2004/TECH/ptech/01/15/car.selfpark.ap/index.html}}</ref>
+
+The Prius also has an optional [[Bluetooth]] hands free kit for [[cellphone]]s, which uses one of the stereo's speakers in the driver door, and a microphone near the rear-view mirror. The steering wheel has a dedicated button for answering and hanging up the phone while driving. The hands free system usually comes in the highest or next-to-highest packages from the dealership. Most, but not all Bluetooth phones are 100% compatible with the Prius. Nearly all phones have the minimum functionality of using the car as a headset, but some phones also allow some or all of the following actions:
+* Copy phone numbers to the Prius' (small) internal phone book (some allow them to be sent all at once).
+* Display cell tower signal strength on any cellphone related screen.
+* Cell phone ring tone heard through the car audio system.
+* Voice dialing through car audio system.
+
+The 2006 Prius introduced some minor cosmetic changes, along with optional features such as advanced airbags, a rear-view camera, an upgraded audio system (including a line-in port), an updated Navigation DVD with new user interface, and a higher-resolution [[liquid crystal display]].
+
+The 2007 Prius carries over the newer features from 2006 (also slightly higher price), while making the advanced and side-curtain airbags standard on all models. Also available is a Touring Edition that includes an elongated larger rear spoiler as well as larger, sharper-pointed 7-spoke 16" alloy wheels with plastic hub cap cover to protect it from scratches when parking against the curb.  In addition, the Touring Edition also comes with a firmer European tuned suspension, standard high-intensity-discharge (HID) headlights and integrated (non-HID) fog lights.
+
+===2009 Prius===
+The Prius is scheduled for a redesign for the 2009 model with a significant number of upgrades. It has been mentioned that the new Prius will receive an upgrade of the petrol (gasoline) engine from 1.5 litres to 1.8 litres.  The upgraded specifications of the vehicle will give it vastly improved mileage rumoured to be between 80–113 MPG (2–3 L/100 km) as well as improved acceleration giving it a sprint time of less than 10 seconds in 0–100 km/h (0–62 mph). It has been rumored that the new Prius's range will exceed 1000 miles (1600 km) on a full tank.
+<ref>{{cite web | title = Next Prius goes even further | url = http://www.autoexpress.co.uk/news/autoexpressnews/204210/toyota_prius.html}}</ref>
+
+The [[Hybrid Synergy Drive#Third generation|third generation Hybrid Synergy Drive]] from Toyota is expected to debut in the 2009 Toyota Prius, due out in late 2008 or early 2009.  It will use [[lithium-ion batteries]] for greater energy density, resulting in better performance and less weight. It should also give the new Prius more cabin or trunk space.
+
+Toyota CEO [[Katsuaki Watanabe]] confirmed this in an interview with [[BusinessWeek]] on February 16, 2007. "We are now aiming at reducing, by half, both size and cost of the third-generation hybrid system," said Watanabe. <ref>{{cite web | title = Toyota's Bid for a Better Battery | url = http://www.businessweek.com/magazine/content/07_10/b4024075.htm}}</ref>
+
+==Crash testing==
+NHTSA crash testing of the 2004 Prius yielded a five star driver and four star passenger rating in the frontal collision test (out of five stars). Side crash results were four out of five stars for both front and rear seats. The car scored four out of five stars in rollover testing. <ref>{{cite web | title = 2004 Toyota Prius 4-DR |url = http://www.nhtsa.dot.gov/ncap/cars/2971.html}}</ref>
+
+In 2004, [[EuroNCAP]] tested the Prius. It earned these ratings:
+*Adult Occupant Rating- {{rating-5|5}}
+*Child Occupant Rating- {{rating-5|4}}
+*Pedestrian Rating- {{rating-4|2}}
+
+==Awards==
+*1997–98 Car of the Year Japan<ref>{{cite web | title = Car of the year Japan | url = http://www.jcoty.org}}</ref>
+*2003 ''[[Scientific American]]'' names [[Toyota Motor Corporation]] as "Business Leader of the Year" ("Scientific American 50"; December, 2003) for its singular accomplishment in the commercialization of affordable hybrid cars.
+* ''[[Motor Trend]]'' [[Motor Trend Car of the Year|Car of the Year]] 2004 (January 2004 issue)
+* ''[[Car and Driver]]'' magazine's [[Car and Driver Ten Best|Ten Best list]] for 2004.
+* [[North American Car of the Year]] award for 2004. Nominated in 2001.
+* [[International Engine of the Year]] for 2004.
+* "Best Engineered Vehicle for 2004" by [[Society of Automotive Engineers|SAE]]'s ''Automotive Engineering International'' magazine.<ref>{{cite web | title = ''| url = http://www.sae.org/news/releases/prius2004.htm}}</ref>
+* 2005 [[European Car of the Year]] (406 points, ahead of [[Citroën C4]] with 267 points and [[Ford Focus|Ford Focus II]] with 228).<ref>{{cite web | title =  Toyota Prius is 2005 European Car of the Year | url = http://www.di-ve.com/dive/portal/portal.jhtml?id=161929&pid=null}}</ref>
+*2006 EnerGuide Award (Midsize)<ref>{{cite web | title = 2007 EnerGuide Awards | url = http://www.toyota.ca/NWS/english/energuide/energuide_e.html}}</ref>
+*2006 Intellichoice Best Overall Value of the Year, Midsize <ref>{{cite web | title = 2006 Toyota Prius | url = http://www.intellichoice.com/reports/vehicleReport/vehicle_nmb/19025/type/used/year/2006/make/Toyota/model/Prius}}</ref>
+*2007 Intellichoice Best in Class Winner :Best Retained Value, Lowest Fuel, Lowest Operating Costs, Lowest Ownership Costs<ref>{{cite web | title = 2007 Toyota Prius | url = http://www.intellichoice.com/reports/vehicleReport/vehicle_nmb/19453/section/reviews/type/new/year/2007/make/Toyota/model/Prius/sub/intro }}</ref>
+
+==Aftermarket products==
+===EV mode===
+When the vehicle is turned-on with the "start" button, it is ready to drive immediately with the electric motor, while electric pumps warm the engine with previously saved hot engine coolant, before the internal combustion engine is started. The delay between starting the car and starting the internal combustion engine is approximately seven seconds. The Asian and European versions of this vehicle provide a button labelled "EV" that maintains Electric Vehicle mode after start up, under most low-load driving conditions. The North American model does not have the "EV" button, although the "EV" mode is still supported internally by the Prius Hybrid Vehicle management computer. While some have speculated that EV mode was not included on North American models in the interest of retaining the longer warranted battery life of 150,000 miles (240,000 km) in certain US states, a Toyota chief engineer has stated that the EV button was omitted because its use can cause the [[catalytic converter]] to cool too much, leading to emissions problems<ref>{{cite web | title = Visiting the Prius Chief Engineer |url = http://priuschat.com/index.php?showtopic=26599&hl=}}</ref>. In addition to information from on-line discussion groups, the PRIUS+ Project<ref>{{cite web | title = How We Green-Tuned an '04 Prius into a PRIUS+ Plug-In Hybrid! | url = http://www.calcars.org/priusplus.html}}</ref> offers instructions for ''[[Do it yourself|do-it-yourself]]ers'' who wish to enable the button.
+
+===Plug-in===
+{{main|Plug-in hybrid}}
+Plug-in hybrids use a larger battery pack that is recharged from external sources in order to further reduce gas consumption. The batteries in a production PHEV will be built to handle deeper discharge cycles without loss of lifespan such as those in the [[Toyota RAV4 EV]]. Operation of the vehicle will be very similar to a normal hybrid, other than the electric operation will be more prevalent.  In the case of a Prius PHEV, under high-load situations such as high-speed roads, the gasoline (petrol) engine will operate as before, leaving the car the same ability to accelerate and use freeways.  Current converted Prius also operate in a high speed [[blended mode]] which can reduce but not eliminate gasoline consumption on the freeway.  When driving in slower conditions or other light loads, the batteries will be used first in a [[charge-depleting]] mode, allowing moderate commutes at low speeds (particularly under 41 mph/65 km/h) to be driven entirely on electricity.  Once the batteries have been sufficiently discharged the car will automatically revert back to the [[charge-sustaining]] mode of the current stock Prius.  Safe lithium-based batteries exist, eliminating all risk of run-away thermal conditions (spontaneously catch fire or explode) as seen in some laptop computer batteries.
+
+<!-- The rest of this can probably be removed as the main article will be more accurate,
+leaving it for now incase any references haven't been moved into the main article yet -->
+Evolving from the button project, The California Cars Initiative (CalCars)<ref>{{cite web | title = Plug-In Hybrids Use Cheaper, Cleaner, Domestic Energy | url = http://www.calcars.org}}</ref> converted a Prius in 2004, adding larger batteries and found out how to safely charge the batteries without affecting the hybrid system. Private companies EDrive Systems in the [[United States|USA]] and Amberjac Projects in the [[United Kingdom|UK]] announced plans to sell conversion kits in 2006 (pushed back to 2007). The most recent versions use a new, patented advanced safe-format Lithium Battery from Valence Technology called Saphion.  Using the advanced batteries pushes the final price to an estimated $12,000 US.  The energy density and far more efficient utilisation of these batteries provide around 20x the available power of the standard NiMH battery pack but at only double the weight.  Tests show it capable of achieving >30 miles (50 km) in all electric mode at speeds below 34 mph (55 km/h). The internal combustion engine starts only at higher speeds or when extra acceleration is needed.   Fuel economy is improved to 50-200 km/L (100-500 mpg (US)) <ref>{{cite web | title = Plug-in Hybrid Technology Kits Released |url = http://www.businessweek.com/autos/content/mar2006/bw20060303_978539.htm?chan=autos_hybrids+index+page_technology}}</ref> depending on driving conditions. City driving may be possible without using the ICE at all, eliminating the use of almost all liquid fuel in exchange for electrical energy.
+
+PriusPlus<ref>{{cite web | title = PriusPlus | url = http://www.calcars.org/priusplus.html}}</ref> is a similar project evolving from CalCars, using lead-acid batteries and a do-it-yourself kit. This conversion gives a car that has 100 mpg under normal driving conditions.  All-electric mode can be used for 10-12 miles in street driving. In January 2007 issue of [[IEEE Spectrum]], CalCars lead technical engineer, Ron Gremban, notes that drivers installing the CalCars Prius+ kit shouldn’t expect a 'positive financial payback.'<ref>{{cite web | title = You Tell Us: The Home Plug-In Hybrid Kit |url = http://www.spectrum.ieee.org/jan07/4824}}</ref> In addition, the kit adds 135 kg to the car's weight, reducing fuel economy over the stock Prius whenever the gasoline engine is used exclusively. The battery pack suffers in cold weather, has a limited life of about 400 deep discharges, and must be recharged within a day to maintain this lifespan. The hope is, by the time the batteries need replacing, a better option is on the market at a comparable price. 
+
+Hymotion<ref>{{cite web | title = Plug-in Hybrid Electric Vehicle |url = http://www.hymotion.com/products.htm}}</ref> is a Canadian company (recently purchased by A123systems, an advanced battery company) planning on selling a kit incorporating Lithium-Ion batteries with similar characteristics as EDrive Systems.  It is currently undergoing fleet testing, and is planned for sale for 2008.
+
+Recently Toyota has announced that it intends to build a plug in hybrid vehicle at an unspecified future time. <ref>{{cite web | title = Toyota moves to corner the 'plug-in' market |url = http://www.csmonitor.com/2006/0720/p02s01-ussc.html}}</ref>
+
+===Solar panels===
+Solar panels provide additional energy to the batteries while the vehicle is in motion or otherwise away from the grid. Solar panels are also useful when the Prius is parked for extended periods of time in a sunny location if it doesn't have a charger or is not connected to a power outlet. Some drivers have claimed up to 30% mileage improvements with the addition of their solar panels, although individual results are dependent on the size and efficiency of the solar panels as well as weather conditions. Drivers in Australia and the US south western states, for instance, see the largest mileage improvements on their Prius. One advantage of solar panels is that they do not wear out or depreciate like ICE components. <ref>{{cite web | title = Solar-Powered Toyota Prius Project |url = http://www.treehugger.com/files/2005/08/solar-powered_t.php}}</ref>
+
+==Notable facts==
+[[Image:PriusTaxi.jpg|250px|thumb|Taxi in [[Vancouver]], [[British Columbia]], [[Canada]]]]
+[[Image:RCMP_car_in_Ottawa_crop.jpg|250px|thumb|Police in [[Ottawa]], [[Ontario]], [[Canada]]]]
+[[Image:Toyota Prius I.jpg|250px|thumb|Traffic Warden car in [[Örebro]], [[Sweden]].]]
+[[Image:LBPD-ParkingServices.JPG|250px|thumb|Parking Enforcement car in [[Laguna Beach, CA]], [[United States]].]]
+
+===Name===
+The word '''prius''' has been said to be [[Latin language|Latin]] meaning "to go before". In fact it is a Latin [[comparative]] [[adjective]], not a Latin [[verb]]. It is the [[neuter]] [[nominative]] singular form of the adjective whose corresponding masculine and feminine nominative singular forms are '''prior'''. [http://pt.wiktionary.org/wiki/prior]
+
+===Recalls===
+*In July 2006 Toyota issued a recall totaling 34,700 units covering early model Prius and Echo cars (26,200 Echo and 8,500 Prius). This recall was not related to hybrid components of the car. The connector for the crankshaft position sensor may become disconnected.<ref>{{cite web | year=July, 2006 | url=http://www.caranddriver.com/dailyautoinsider/11365/toyota-clarifies-echo-and-prius-recall.html |title=Toyota Clarifies Echo and Prius Recall | accessdate=November 2 | accessyear=2006 }}</ref>
+*In May 2006, Toyota announced the [[product recall|recall]] of up to 170,856 Prius vehicles because of a crack which can develop in the steering shaft if the Prius is frequently steered at full lock, or if the front tires strike the curb.  The fault can affect Priuses made in 2004 through to November 2005.<ref>{{cite web  | year=October, 2006 |url=http://www.chicagotribune.com/classified/automotive/chi-0610290254oct29,1,7747109.story | title=RECALLS | publisher=Chicago Tribune | accessdate=November 1 | accessyear=2006 }}</ref><ref>{{cite web  | year=October, 2006 |url=http://www.intellichoice.com/reports/vehicleReport/vehicle_nmb/19025/section/recalls/type/new/year/2006/make/Toyota/model/Prius | title=2006 Toyota Prius Recalls | work=National Highway Transportation Safety Board | publisher=intellichoice.com | accessdate=November 1 | accessyear=2006 }}</ref>
+*On [[June 1]], [[2005]], the National Highway Traffic Safety Administration of the US started an investigation on the 33 reported cases of engine stalling when the Prius travels at highway speed. The cars were still operable under battery power for a short distance with substantial loss of power when the internal combustion engine failed to run. Toyota believes it was due to a computer programming error that was fixed in a recall (SSC-40D) issued back in September, 2004. The investigation needs to verify if all the valid reported cases occurred to cars that did not receive the software fix. 
+*In August 2004, Toyota began a Special Service Campaign (SSC 40G), affecting most previous-generation Prius cars manufactured between 2001 and mid-2003. This repair involves re-sealing terminals on the high-voltage battery to avoid minor [[electrolyte]] leakage. Repairs will be performed free of charge on affected automobiles.
+
+===Local incentives===
+*In the US, the Internal Revenue Service approved a series of tax deductions and credits through at least [[September 30]], [[2006]].<ref>{{cite web | year=April, 2006 | url=http://www.irs.gov/newsroom/article/0,,id=156048,00.html |title=Some Toyota and Lexus Vehicles Certified for the New Energy Tax Credit | work=Internal Revenue Service | accessdate=September 6 | accessyear=2006 }}</ref> This amounts to $3150 tax credit for cars purchased between [[January 1]] [[2006]] and [[September 30]] [[2006]].  Thereafter the credit dropped to half until an anticipated date of [[March 31]] [[2007]], whereafter it will be $787.50 before disappearing entirely under current tax law on [[October 1]] [[2007]].
+* Some companies such as [[Hyperion Solutions]],<ref>{{cite web | year=November, 2004 | url=http://www.hyperion.com/driveclean/ |title=Details of Hyperion Solutions' Drive Clean Program | work=Hyperion Solutions | accessdate=January 12 | accessyear=2007 }}</ref> [[Bank of America]] and [[Google]] give their employee incentives to purchase hybrid vehicles.  Employees of Hyperion Solutions and Google can get a $5000 credit toward their purchase of a hybrid vehicle such as the Prius.
+*Drivers of the Toyota Prius, or other hybrid engine automobiles are allowed to drive by themselves in Carpool ([[High-occupancy vehicle lane|High Occupancy Vehicle]]) lanes in some US states such as Virginia (currently until [[July 1]], [[2007]], and requires a special "Clean Fuel Vehicle" [[Vehicle registration plate|licence plate]] at $25 per year<ref>{{cite web | title=Virginia DMV|url=http://www.dmvnow.com/webdoc/general/news/news.asp?id=4865}}</ref>), California (currently until [[January 1]], [[2011]],<ref>{{cite web | title=AB 2600 Assembly Bill | url=http://www.leginfo.ca.gov/pub/05-06/bill/asm/ab_2551-2600/ab_2600_bill_20060929_chaptered.html}}</ref> requires $8 one-time fee for a decal), Florida (requires $5 per year decal), New York and Arizona.<ref>{{cite web | title=AZ Central|url=http://www.azcentral.com/news/articles/0209hybrids0209online.html}}</ref>
+*Prius drivers in London, UK, are exempt from the £8 daily [[London congestion charge|congestion charge]] (requires £10 per year registration).
+*Prius drivers in Winchester, UK, used to qualify for free parking at a number of the city's car parks (season ticket worth ~ £800 per annum). This has now been discontinued due to lack of funding.
+*Prius and other hybrid drivers purchasing a new hybrid in San Jose, California qualify for free parking city wide until [[July 1]] [[2007]].<ref>{{cite web | year=April, 2003 |url=http://www.sanjoseca.gov/transportation/whatsnew/hybrid/index.htm | title=Hybrid Program Free Parking | work=From City of San Jose Website}}</ref> 
+*Prius and other hybrid drivers qualify for free parking in metered spaces in the City of Los Angeles, California until [[December 31]] [[2007]].<ref>{{cite web | year=June, 2006 |url=http://www.lacity.org/LADOT/FreePark.htm | title=Free Parking Info | work=From City of Los Angeles Website}}</ref>
+
+===Miscellaneous news===
+* The Wall Street Journal reported in 2007 that some blind people find the silence of the cars like the Prius to be a challenge in crossing the street. <ref>{{cite web | year=February, 2007 |url=http://online.wsj.com/public/article/SB117133115592406662-7BH5dNRG2MssUH28WlvpqNMnCy8_20080212.html |title=Blind Pedestrians Say Quiet Hybrids Pose Safety Threat | work=From The Wall Street Journal Online}}</ref>
+*Due to the success of both the engineering and sales of the Prius, in 2005, Toyota has released a hybrid V-6 engine for the Lexus RX400h and a hybrid engine version of the Highlander. In 2006 Toyota's #1 selling car, the Camry added a hybrid version to the line-up.
+*Starting with the 2004 model, Toyota is now producing the Prius on a standard mass-production [[assembly line]], resulting in one being produced every minute instead of one every 8 to 10 minutes. The use of a standard assembly line has dropped the manufacturing cost significantly, allowing Toyota to deliver a substantially upgraded model, which in turn has generated publicity and popularity. The limiting factor in Prius (and Lexus RX400h) production now appears to be third-party component availability, particularly batteries.
+*The battery pack of the 2004 Prius is warranteed for 160,000 km (100,000 miles) or 8 years, although Toyota has stated that they expect it to last 15 years. The warranty is extended to 240,000 km (150,000 miles) or 10 years for Prius in California and several other states that adopted the [[California Air Resources Board|Californian emission control standards]]. {{Fact|date=January 2007}}
+*In June 2002 the Prius became the first ever hybrid car to complete a [[Fédération Internationale de l'Automobile|FIA]] rally. Driven by UK journalist Nik Berg and co-driver Tim Bampton, the Prius finished the 2002 Midnight Sun to Red Sea Marathon in 15th place after completing 8,000 km (5,000 miles) in 20 days of [[rallying]].
+*The NHW20 Prius fuel tank holds 45 litres (11.9 US gal), although the internal bladder in American models limits the fill (particularly in colder weather), giving a range of up to 1,000 km (600 miles) under good conditions.  The fuel tank capacity for a European NHW11 without the bladder is 50 litres.
+*In March 2007, an editorial in the [[Central Connecticut State University]] ''Recorder'' alleged that the total cost and environmental damage to produce a Prius greatly outweighs that of producing a non-hybrid vehicle<ref>{{cite web | title = Prius Outdoes Hummer in Environmental Damage | url=http://clubs.ccsu.edu/recorder/editorial/editorial_item.asp?NewsID=188}}</ref>.  According to this editorial, over the lifespan of the vehicle, the Prius will cost more to operate than most other vehicles, and cost more energy initially for production of the batteries and other equipment.  To truly be efficient, one would be more effective in purchasing a Toyota Scion xB, which costs a paltry $0.48 per mile to operate, as opposed to the $3.25 of the Prius. This editorial cited a study by [[CNW Marketing Research, Inc.]]<ref>{{cite web | title = CNW's "Dust to Dust" Automotive Energy Report | url = http://cnwmr.com/nss-folder/automotiveenergy/}}</ref>, and was cited by a number of news sources[http://www.evworld.com/news.cfm?newsid=14582].  However, in a letter to the editor of the Washington Post, a Toyota Motor Sales vice president refuted the CNW Marketing study[http://www.washingtonpost.com/wp-dyn/content/article/2007/04/25/AR2007042502561.html].  Furthermore, the author of the ''Recorder'' article later questioned the authenticity of the CNW numbers on which he had based his original column.<ref>{{cite web | title = Prius Still Not Sitting Pretty | url=http://clubs.ccsu.edu/recorder/editorial/editorial_item.asp?NewsID=203}}</ref>  The other primary source for the CCSU article, a piece titled "Toyota Factory Turns Landscape to Arid Wilderness" published in the Mail on Sunday newspaper was subsequently retracted and a correction published in its place.<ref>{{cite web | title = Toyota Factory | url=http://www.mailonsunday.co.uk/pages/live/articles/news/news.html?in_article_id=417227&in_page_id=1770}}</ref>  The amount of misinformation in the CNW study and CCSU articles lead to a long piece being written at The Car Connection titled ''Prius vs. Hummer: Exploding the Myth'' <ref>{{cite web | title = Prius vs. Hummer: Exploding the Myth | url=http://www.thecarconnection.com/Auto_News/Green_Car_News/Prius_Versus_HUMMER_Exploding_the_Myth.S196.A12220.html}}</ref>
+
+=====Corporations and cities=====
+* [[Transport for London]] operates a fleet of 10 vehicles for use by their Surface Transport employees.
+* [[Microsoft]] operates a small fleet as shuttle cars in [[Redmond, Washington|Redmond]].
+* The city of [[Hollywood, Florida]] uses them for parking enforcement vehicles.
+* The city of [[Houston, Texas]] uses them in their Building Inspection fleet.
+* Both [[King County, Washington]]<ref>{{cite web | title = King County Environmental Purchasing Program |url = http://www.metrokc.gov/procure/green/hybrids.htm}}</ref> and the city of [[Seattle, Washington]]<ref>{{cite web | title = Fleets and Facilities Department | url = http://www.seattle.gov/fleetsfacilities/aboutFFD.htm}}</ref> (in King County) own a large fleet of hybrid, electric, and [[bio-diesel]] vehicles.  
+* [[Valley Transit Authority]] of [[Santa Clara County]] of [[California]] (with its contractor OUTREACH Inc.) runs its [[paratransit]] service with a fleet of 231 vehicles (proposed).  As of July 2006, 22 Priuses were already in service and 60 more were planned.<ref>{{cite web | title = Agenda Item #13 | url = http://www.vta.org/inside/boards/committee_advisory/cta/agendas_minutes/2006/07_jul/13.html}}</ref>
+* [[Dallas-Fort Worth International Airport|DFW International Airport]], in Dallas, Texas, has operated several Priuses since 2002 for Guest Assistance.
+* The [[Orange County Transportation Authority]] operates a fleet of white Priuses for bus-driver transfers.
+* The City of [[Portland, Oregon]] employs a fleet of Priuses for official use.
+* The [[East Bay Municipal Utility District]] operates a fleet of Priuses for district business that can be seen on the streets of Downtown Oakland and most of Western Alameda and Contra Costa Counties.
+* The [[California State Automobile Association]] also operates a fleet of Priuses as a part of the Greenlight Initiative.<ref>{{cite web | title = Greenlight Initiative | url = http://www.csaa.com/portal/site/CSAA/menuitem.c13d2427e527f6a08e7ea35492278a0c/?vgnextoid=9ecd20cf57591110VgnVCM1000008712daceRCRD&vgnextchannel=a60bd284f0749010VgnVCM1000002872a8c0RCRD&vgnextfmt=default}}</ref>
+
+===Fictional appearances===
+* The Toyota Prius appears as the [[Monopoly (game)#Equipment|car token]], replacing the [[Packard]] Dragster in the [[Monopoly (game)|Monopoly]] Here and Now edition.
+* The Prius is among the multitude of cars available in the video game [[Gran Turismo 4]]. Unlike the other vehicles, the Prius's game screen has fuel-economy and power-distribution information as well as the standard speedometer and race information.
+* ''[[In Her Shoes]]'' (2005) driven by Rose Feller's ([[Toni Collette]]) boyfriend Simon Stein ([[Mark Feuerstein]]).
+* [[Sydney Bristow]], from the TV show ''[[Alias (TV series)|Alias]]'', is shown several times driving a silver NHW20 Prius, and in Episode 4.10, ''The Index'', she brings up hybrid cars in a discussion. In the episode 4.13, ''Tuesday'', she is seen driving a 2005 Silver Prius with fog lamp (package #4 and above). 
+* [[Larry David]] and his wife drive a silver Prius on the show ''[[Curb Your Enthusiasm]]'' and he refers to it as "Peppy". In reality, Larry David actually does drive the Prius, as he is known as an environmentalist. In the show, Larry has been seen waving at other Priuses on the road, calling out "Prius!". In Season 4, episode 38, Larry is annoyed that another Prius driver doesn't wave back, saying, "We're Prius drivers. We're a special breed." <ref> [http://www.hbo.com/larrydavid/episode/season4/keywords38.html Larry David on the Prius.]</ref>
+* [[Characters of Six Feet Under#Claire Fisher|Claire Fisher]], in the series finale of the show ''[[Six Feet Under]]'', drove a Prius to NYC after crashing her [[Cadillac]] [[Hearse]] and inheriting a whole lot of money.
+* In ''[[Gilmore Girls]]'', Rory Gilmore drives a first-generation Prius, which she received as a high-school-graduation gift from her grandparents.
+* [[Brian Griffin]] of the show ''[[Family Guy]]'' drives a Prius (which inexplicably appeared in the fourth season of the show). In the commentary of the show, it is revealed that the reason a Prius was used as Brian's car was because the director of the show had just bought a Prius. 
+* A Prius is featured in the movie ''[[Must Love Dogs]]'', as the car of [[John Cusack]]'s character, Jake.
+* The "Blog Hog" drives a Prius in Gordon Korman's ''Kidnapped'' series.
+* In the prequel to season 5 of ''[[24 (TV series)|24]]'', [[Chloe O'Brian]], played by [[Mary Lynn Rajskub]], is shown driving the Seaside Pearl Prius. In the first episode of season 5, we see her reaching in her pockets to remove regular keys to open her Prius. (This is probably incorrect, as all packages of the Prius except the base models include keyless entry).
+* [[Sara Sidle]] in ''[[CSI: Crime Scene Investigation]]''.
+* In [[Kicking & Screaming]], Phil Weston, played by [[Will Ferrell]], drives the Seaside Pearl Prius. 
+* This car is featured in the ''[[South Park]]'' episode [[Smug Alert!]], and is called the "Pious." The Pious has a [[Spoiler (automotive)|spoiler]] and says hybrid multiple times in large print on it.
+* It appeared on [[Two and a Half Men]] where Evelyn, Charlie and Alan's mom took Jake for a ride in it.
+* A Prius is being shown off by the singer in the video for the [["Weird Al" Yankovic]] song [[White & Nerdy]]. The Prius used in the video is actually owned by Yankovic.
+* [[Nancy Botwin]] bought a blue Prius in the second season of [[Weeds]] in the [[MILF Money (Weeds episode)|MILF Money]] episode.
+* [[Cindy Campbell]] ([[Anna Faris]]) in ''[[Scary Movie 3]]'' drives a blue Prius.
+* [[Sean McNamara]] buys a Prius in the beginning of the fourth season of ''[[Nip/Tuck]]''.
+* [[Matthew McConaughey]]'s animal loving-friend of nature on-screen sidekick, Demo, played by [[Bradley Cooper]], drives a Seaside Pearl Prius in ''[[Failure to Launch]]''.
+* Towards the ending of ''[[The One]]'' a black-red Prius can be seen parked in a street in [[Los Angeles]] and dubbed the United States' cleanest city. Other hybrid car such as [[Honda Civic Hybrid]] is also present.
+* In the ''[[The West Wing (TV series)|West Wing]]'' episode #605, [[Josh Lyman]] drives a large [[Sport utility vehicle|SUV]]/[[truck]] into a Prius.
+* [[Zach Braff]]'s character, Michael, drives a black Prius throughout the movie ''[[The Last Kiss]]''.
+* [[Julia Louis-Dreyfus]]' character drives a Prius in ''[[The New Adventures of Old Christine]]'' (2006)
+* ''[[Numb3rs]]'''s character Charlie Eppes drives a Prius in Seaside Pearl color. (e.g. shown on Feb 2, 2007's episode titled "Take Out".)
+* in the movie ''[[Just Friends]]'' Dusty Lee ([[Chris Klein]]) drives a Prius to watch "[[The Notebook]]" with Jamie Palomino ([[Amy Smart]]), Chris Brander ([[Ryan Reynolds]]) and Carol Brander, Chris's Mom.
+* The [[President of the United States]] in [[Sixty Days and Counting]] replaces the [[United States Secret Service]]'s fleet of armored, black SUVs with armored, black Priuses.
+
+===Media appearances===
+* ''[[Top Gear (current format)|Top Gear]]'' co-host [[Jeremy Clarkson]] has a long distaste for hybrid vehicles, especially the Prius. In the direct-to-video special ''Clarkson: The Good The Bad The Ugly'', Clarkson had a [[Redneck]] named "Billy Bob" destroy a first-generation Prius with various firearms before it caught fire.
+
+==Sales==
+* In April 2007 Prius sales in the U.S. were 13,056, an increase of 71.8 percent from the same month one year before
+* In March 2007 Prius sales in the U.S. were 19,156 units [http://www.greencarcongress.com/2007/04/reported_us_sal.html] up 133.2% from the prior year [http://www.greencarcongress.com/2007/04/toyotas_us_sale.html]
+* In February 2007 Prius sales in the U.S. were Prius' best month ever, posting 12,227 units, an 87% increase over February 2006 results. [http://www.greencarcongress.com/2007/03/us_sales_of_hyb.html]
+* In January 2007 Prius sales in the U.S. reached 8,299 units, its best January showing yet, and up 8.4% from January 2006 (outselling all Volvos), although production increased to the point where Priuses were available unsold in dealer lots.  Incentives and advertising were also introduced about this time. [http://www.greencarcongress.com/2007/02/us_hybrid_sales.html]
+* [[As of 2006|As of August 31, 2006]], 570,383 units have been sold worldwide, with Toyota cumulative sales of over 750,000 hybrids.<ref>{{cite web | title = | url = http://www.hybridcar.com/index2.php?option=com_content&do_pdf=1&id=239 | title = Worlds Best Selling Hybrid Nearing 600,000 Global Sales | author =  Sandra Duffy }}</ref>
+* [[As of 2006|As of June, 2006]], over 60,000 Priuses have been sold in California.
+* [[As of 2006|As of June 7, 2006]], 500,000 Priuses have been sold worldwide, 266,212 in US alone. <!-- http://news.yahoo.com/s/afp/20060607/bs_afp/usautotoyotasales_060607221346] - expired link, cannot be retrieved as of 15 Feb 2007-->
+* [[As of 2006|As of February 2006]], the waiting time in [[Palo Alto, California]], USA, was over 6 months.
+* U.S. sales were 53,991 in 2004 and doubled in 2005 to 107,897, about 60% of the world total of 180,000<ref>{{cite web | url = http://money.cnn.com/magazines/fortune/fortune_archive/2006/03/06/8370702 | title = The Birth of the Prius | author =  CNN Money}}</ref>
+* In January 2005, the Prius became available in [[South Africa]].
+* In June 2004, the ''[[Wall Street Journal]]'' reported that the backlog for 2004 Priuses has reached 22,000 in the US.
+* [[As of 2004|As of April 2004]], the expected delivery time for a Prius in the [[Netherlands]] is one year.
+* [[As of 2004|As of March 2004]], the waiting list at a [[Sonoma County, California]] dealership was over 100 people long.
+* [[As of 2004|As of February 16, 2004]], Toyota USA is not taking new internet orders for the 2004 Prius.
+* [[As of 2003|As of December 14, 2003]], the waiting time in [[Dallas, Texas]], USA, was 6 months.
+* US sales of the Prius began in August, 2000. US sales totalled 15,556 in 2001, and 20,119 in 2002.<ref>{{cite web | url = http://www.autofieldguide.com/articles/100302.html | title = The Toyota Prius: The Most Important '04 Model | author = Automotive Design and Production}}</ref>
+
+==Car rental==
+Many Toyota dealerships in the USA offer car rentals, allowing prospective buyers to try the Prius. 
+
+EV Rental Cars <ref> http://www.evrental.com/</ref>, in partnership with Fox Rent-a-Car <ref> http://www.foxrentacar.com/ev-cars.html </ref>, offers the Prius for rent at the airports in [[Sky Harbor International Airport|Phoenix]], [[San Francisco International Airport|San Francisco]], [[San Jose International Airport|San Jose]], [[Oakland International Airport|Oakland]], [[John Wayne Airport|Orange County]], [[Los Angeles International Airport|Los Angeles]], and [[San Diego International Airport|San Diego]].
+
+==See also==
+{{wikibooks|Toyota Prius FAQ}}
+{{wikibooks|Toyota Prius driving tricks}}
+{{commonscat|Toyota Prius}}
+*[[Comparison of Toyota hybrids]]
+*[[List of hybrid vehicles]]
+*[[Honda Civic Hybrid]]
+*[[Better World Club]]
+*[[Hybrid Synergy Drive]]
+*[[Hypermiler|Hypermiler Driving - Drivers who exceed EPA est MPG]]
+*[[Petroleum electric hybrid vehicle]]
+*[[Plug-in hybrid electric vehicle]]
+*[[Toyota Camry Hybrid]]
+*[[Toyota eCom]]
+
+==Notes and references==
+<div class="references-small" style="column-count:3;-moz-column-count:3;">
+<references/>
+</div>
+
+==External links==
+<!-- Discuss adding links that aren't about the Toyota Prius in the discussion page.  Why you think they are important, otherwise they will be deleted.  -->
+
+''Official Sites''
+*[http://www.toyota.com/prius Official USA Prius web site]
+*[http://www.prius.com Official Worldwide Prius Site]
+*{{PDF|[http://www.toyota.co.jp/en/k_forum/tenji/pdf/pgr_e.pdf Prius Green Report]|1.16&nbsp;[[Mebibyte|MiB]]<!-- application/pdf, 1216534 bytes -->}}
+*[http://www.hybridsynergydrive.com HSD web site]
+*[http://www.toyota.co.uk/bv/leads/pdfFiles/rc5260.pdf?pdfSubject=Prius Toyota Prius brochure and specifications (pdf) UK]
+*[http://www.toyota.co.jp/en/tech/environment/hsd/pdf/a_guide_to_hsd.pdf Toyota's paper on how the 2004 Prius is different from earlier models (in PDF, 2 MB)]
+*[http://www.toyota.co.jp/en/tech/environment/ths2/SpecialReports_12.pdf 24 page document on the THS II system (in PDF, 1.54 MB)]
+
+''News and references
+*[http://www.planetark.com/dailynewsstory.cfm/newsid/41845/story.htm Toyota's Hybrid Prius the Highest-Ranking in Satisfaction Table].
+*[http://www.autospeed.com/cms/A_2317/article.html Article on Prius models and technology] from [http://www.AutoSpeed.com AutoSpeed.com], October 2006
+*[http://money.cnn.com/magazines/fortune/fortune_archive/2006/03/06/8370702/ "The Birth of the Prius"] from ''[[Fortune (magazine)|Fortune]]'' magazine, [[March 6]], [[2006]]
+*[http://www.calcars.org/priusplus.html PRIUS+ page at CalCars.org] &mdash; nonprofit group is converting Prius into plug-in hybrids
+*[http://www.guardian.co.uk/japan/story/0,,1743808,00.html  Future plug-in Prius with 9 mile commute range without using petrol or diesel.]
+* [http://www.msnbc.msn.com/id/8839690/ Canadian Yellow Cab Taxi driver] puts over 200,000 miles on a Prius. 
+* [http://autos.msn.com/advice/CRArt.aspx?contentid=4023544 Consumer Reports ranks Prius as one of the most reliable cars.]
+* {{PDF|[http://www.evworld.com/library/toyotahs2.pdf TOYOTA HYBRID SYSTEM]|1.54&nbsp;[[Mebibyte|MiB]]<!-- application/pdf, 1616979 bytes -->}}
+*[http://www.popularmechanics.com/automotive/new_cars/4212545.html 2009 Toyota Prius: Spy Report]
+* [http://hybridcars.about.com/od/buyingahybridcar/a/sidebyside.htm About.com] Toyota Prius, Honda Civic and Honda Insight comparison, including Base MSRP price.
+*[http://john1701a.com/ Information, tips, and photos about Prius]
+*[http://www.PriUPS.com PriUPS] &mdash; Using the Prius as an electric power source in emergencies
+*[http://wikicars.org/en/Toyota_Prius Wikicars] Toyota Prius info and open review
+*[http://cars.about.com/od/toyota/fr/07prius.htm 2007 Toyota Prius Touring Edition review] at [http://cars.about.com About.com Cars]
+*[http://www.imcdb.org/vehicles_make-Toyota_model-Prius.html Toyota Prius in movies and TV shows]
+
+[[Category:Front wheel drive vehicles]]
+[[Category:Hybrid vehicles]]
+[[Category:Toyota vehicles|Prius, Toyota]]
+[[Category:Compact cars]]
