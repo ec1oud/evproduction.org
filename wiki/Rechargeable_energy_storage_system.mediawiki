@@ -1,0 +1,5 @@
+A '''rechargeable energy storage system''' or '''RESS''' is a system that stores [[energy]] for delivery of [[electricity|electric]] energy and which is rechargeable.  
+
+This [[term of art]] is used in US legislation related to [[hybrid vehicle]]s, such as the U.S. Energy Policy Act of [[2003]], and also in [[ISO]] [[international standard]]s on [[electric vehicles]].
+
+{{stub}}
