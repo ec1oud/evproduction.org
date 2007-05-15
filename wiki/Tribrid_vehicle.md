@@ -21,6 +21,11 @@ panel](solar_panel "wikilink"), [windmill](windmill "wikilink") or
 [velomobile](velomobile "wikilink") with an electric power-assist motor
 and additional on-board [solar cells](solar_cell "wikilink").
 
+See also
+--------
+
+-   [Solar car](/wiki/Solar_car "wikilink")
+
 External links
 --------------
 
