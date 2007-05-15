@@ -633,7 +633,6 @@ Notable facts
 <img src="PriusTaxi.jpg" title="fig:Taxi in Vancouver, British Columbia, Canada" alt="Taxi in Vancouver, British Columbia, Canada" width="250" />
 <img src="RCMP_car_in_Ottawa_crop.jpg" title="fig:Police in Ottawa, Ontario, Canada" alt="Police in Ottawa, Ontario, Canada" width="250" />
 <img src="Toyota_Prius_I.jpg" title="fig:Traffic Warden car in Örebro, Sweden." alt="Traffic Warden car in Örebro, Sweden." width="250" />
-<img src="LBPD-ParkingServices.JPG" title="fig:Parking Enforcement car in Laguna Beach, CA, United States." alt="Parking Enforcement car in Laguna Beach, CA, United States." width="250" />
 
 ### Name
 
