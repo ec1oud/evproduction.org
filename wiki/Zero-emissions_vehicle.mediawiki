@@ -1,0 +1,82 @@
+A '''zero-emissions vehicle''', or '''ZEV''' will produce no [[emissions]] or [[pollution]] from the vehicle when stationary or operating.  Emissions of concern include [[particulate]]s ([[soot]]), [[hydrocarbon]]s, [[carbon monoxide]] and various [[NOx|oxides of nitrogen]]. 
+
+Although not considered an emission by the [[CARB]] definition, [[carbon dioxide]] is one of the most important [[greenhouse gas]] implicated in [[global warming]] scenarios.
+
+A [[bicycle]] is a zero-emissions vehicle (including all other human-powered vehicles).
+
+The only other generally available technology considered zero emission is that used in [[Battery (electricity)|battery]] [[electric vehicle]]s.  Such vehicles do not emit any of the above pollutants, nor any CO<sub>2</sub> gasses.
+
+Developmental technologies offering zero pollution include:
+* [[Hydrogen]] utilizing [[fuel cell]] powered electric vehicles ([[Hydrogen vehicle]]s).
+* [[Compressed air vehicle]]s, typically recharged by slow (home) or fast (road station) electric compressors.
+* [[Flywheel energy storage]] vehicles.
+* [[Solar car|Solar powered cars]] and [[tribrid]]s.
+
+== What ZEV does not include ==
+
+Note that "[[zero emissions]]" does not mean that the complete power cycle is non-polluting, except in special cases, since in most cases the energy is provided from [[fossil fuel]] plants. This may still be an advantage for urban areas when compared to conventional vechicles. Special cases producing zero pollution in the ''operating energy cycle'' would include [[electric vehicle]]s where an offsetting amount of zero emissions power is provided, especially solar electric or wind generated power.
+
+Hydrogen powered vehicles as proposed by the automotive industry are especially questionable in their net pollution since current economic production of hydrogen is typically by the processing of [[natural gas]] or [[coal]] using water in processes using high temperature and pressure. Unless special care is taken to [[carbon sequestration|sequester the carbon dioxide]] and other more toxic waste from these processes, a future "[[hydrogen economy]]" may produce even more greenhouse gases and toxic pollution than the current [[fossil fuel]] usage. However, hydrogen may be produced from water using electricity, which may be derived from [[solar power]] or [[hydropower]], but currently at greater expense{{fn|1}} than from fossil fuels.
+
+"Zero emissions" also does not include emissions associated with manufacturing such vehicles or components, nor outgassing from synthetic materials used in vehicle construction, nor soot-like dust from tire wear, nor potential pollution associated with end-of-life vehicle or vehicle component dismantling, recycling and reuse.  
+
+
+==Notes==
+
+{{fnb|1}} The expenses from using solar power appear greater than for fossil fuels largely because many of the costs of fossil fuels have been ''externalized'', that is to say that someone other than the producer and consumer of the product bear the indirect costs of the cycle (though these may be the same population, bearing for example, increased health costs).'' Further externalised cost pertain to using fast vehicles with a large overhead in terms of space, energy and weight, for personal transport in cities. This general issue brings up the discussion of the [[future of the car]] as a primary provider of transport on planet earth.
+
+==List of Zero-emissions vehicles==
+===Fuel cell vehicles===
+{{seedetails|List of fuel cell vehicles}}
+
+===Compressed air vehicles===
+* [[Air car]]
+
+===Battery Electric vehicles (BEV)===
+Recent or current production electric vehicles sold or leased to fleets include:
+*[[Chevrolet S10 EV]] (Some sold to fleets, available on secondary market as refurbished vehicles)
+*[[Chrysler TEVan]] (1993-1995) and Second Generation [[Chrysler TEVan|EPIC]] (1998-200?)
+*[[Ford Ranger EV]] (1998-2003, some sold, most leased and recovered and destroyed)
+*[[General Motors EV1]] (Several hundred produced for lease only, all recovered, all destroyed but for a few placed in museums after being rendered unusable)
+*[[Honda EV Plus]] (Several hundred produced for lease only, all recovered, most destroyed)
+*[[Toyota RAV4 EV]] (Rare, some leased and sold on US East and west coast, out of production, supported)
+*[[TWIKE]] (hybrid HPV/EV tricycle, 800+ sold and used)
+
+''See [[Battery electric vehicle#Production vehicles]] for a full maintained list''
+
+===Others===
+* [[Bicycle]]
+* [[Electric scooter]]s
+* Hybrid electric/human powered vehicles ([[TWIKE]])
+
+===Competing solutions ===
+* [[Bicycle]]
+* [[Electric scooter]]s
+* [[Walking]]
+* [[Horseback]]
+* Electric [[train|trains]]
+* [[Trams]] and [[Subway (rail)|Subways]]
+* [[Public transport]] in general when utilisation is high
+
+Benefits of many alternative approaches to the problem of oil dependence and tailpipe pollution, are claimed to solve a number of other problems as well.
+
+==See also==
+*[[Tier (emission standard)]]
+*[[Compressed air vehicle]]
+*[[Electric vehicle]]
+*[[Flywheel energy storage]]
+*[[Fuel cell]]
+*[[Future of the car]]
+*[[Land sailing]]
+*[[Partial zero-emissions vehicle]]
+*[[Photovoltaic cell]]
+*[[Solar Power]]
+*[[Who Killed the Electric Car?]] - A documentary film
+
+==External links==
+*[http://www.driveclean.ca.gov Official California site on ZEVs and PZEVs]
+*[http://www.sciam.com/article.cfm?chanID=sa006&articleID=00065437-FFF8-14E5-BFF883414B7F0000 New Scientific American article]
+*[http://www.arb.ca.gov/msprog/zevprog/factsheets/2003zevchanges.pdf 2003 Zero Emission Vehicle Program Changes], a CARB factsheet
+
+[[Category:Emission standards]]
+[[Category:Electric vehicles|*]]
