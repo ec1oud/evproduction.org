@@ -4,8 +4,6 @@ permalink: b'wiki/List_of_hybrid_vehicles/'
 layout: wiki
 tags:
  - Hybrid vehicles|*
- - Buses|*
- - Trucks
 ---
 
 This is a **list of [hybrid vehicles](hybrid_vehicle "wikilink")** in
