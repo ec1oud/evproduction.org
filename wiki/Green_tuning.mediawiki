@@ -18,7 +18,7 @@ Types of green tunning includes:
 *[http://journeytoforever.org/biofuel_library/ethanol_motherearth/me1.html Ethanol conversion]
 *[http://www.topgreencars.com Top Green Cars ]
 
-{{auto-stub}}
+{{stub}}
 [[Category:green vehicles]]
 [[Category:alternative propulsion]]
 [[Category:Tuning]]
