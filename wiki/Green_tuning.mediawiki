@@ -1,0 +1,24 @@
+'''Green tuned''' cars are cars that have been [[car tuning|tuned]] to use initial or deeper [[alternative propulsion]].
+
+Types of green tunning includes: 
+
+*[[Electric vehicle conversion]]. An electric vehicle conversion is the modification of a conventional internal combustion engine (ICE) driven vehicle to battery electric propulsion, creating a battery electric vehicle. In some cases the vehicle may be built by the converter, or assembled from a [[kit car]]. In some countries, the user can choose to buy a converted vehicle of any model in the automaker dealerships only paying the cost of the batteries and motor, with no installation costs (it is called preconversion or previous conversion).
+*[[Hybridization]]: change to a [[hybrid electric vehicle]]. One can use an [[aftermarket]] kit for the [[powertrain]] or use a [[hybrid adapter]] trailer.
+*[[Pluginization]] of hybrid cars. A plug-in hybrid electric vehicle (PHEV) is a hybrid which has additional battery capacity and the ability to be recharged from an external electrical outlet. In addition, modifications are made to the vehicle's control software. The vehicle can be used for short trips of moderate speed without needing the internal combustion engine (ICE) component of the vehicle, thereby saving fuel costs. In this mode of operation the vehicle operates as a pure battery electric vehicle with a weight penalty (the ICE). The long range and additional power of the ICE power train is available when needed.
+*[[Alternation to a different fuel]]: this mostly includes a change to vegetable oil, or any alcohols (ethanol or methanol). Like Pluginization and hybridization, this tuning does not however make the vehicle a zero-emissions vehicle.
+
+
+== See also ==
+* [[Glider (disambiguation)|Glider]] (car without [[powertrain]]).
+* [[Labor force]]
+
+== External links ==
+{{wikibookspar||Electric Vehicle Conversion}}
+*[http://wikicars.org/es/Portal:Green_tuning Wikicars green tuning Portal].
+*[http://journeytoforever.org/biofuel_library/ethanol_motherearth/me1.html Ethanol conversion]
+*[http://www.topgreencars.com Top Green Cars ]
+
+{{auto-stub}}
+[[Category:green vehicles]]
+[[Category:alternative propulsion]]
+[[Category:Tuning]]
