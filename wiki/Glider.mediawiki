@@ -1,5 +1,7 @@
 A vehicle without [[powertrain]]. 
 
+See [[electric vehicle conversion]].
+
 {{stub}}
 
 [[Category:Vehicles]]

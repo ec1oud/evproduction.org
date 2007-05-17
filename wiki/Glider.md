@@ -7,3 +7,6 @@ tags:
 ---
 
 A vehicle without [powertrain](powertrain "wikilink").
+
+See [electric vehicle
+conversion](electric_vehicle_conversion "wikilink").
