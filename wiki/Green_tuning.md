@@ -44,7 +44,7 @@ Types of green tunning includes:
 See also
 --------
 
--   [Glider](/wiki/Glider_(disambiguation) "wikilink") (car without
+-   [Glider](/wiki/Glider "wikilink") (car without
     [powertrain](powertrain "wikilink")).
 -   [Labor force](/wiki/Labor_force "wikilink")
 
