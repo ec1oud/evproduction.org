@@ -6,12 +6,13 @@ tags:
  - Green car racing
 ---
 
-**Northeast Sustainable Energy Association**, in the northeastern United
-States, organized Tour de Sol. Central to the Festival is the Road Rally
-for which the Tour de Sol is famous.
+Northeast Sustainable Energy Association, in the northeastern United
+States, organized **Tour de Sol**. Central to the Festival is the Road
+Rally for which the Tour de Sol is famous.
 
-Century Automotive Challenge organized by the Eastern Electric Vehicle
-Club,a chapter of the U. S. Electric Auto Association (EAA) is the
+**Century Automotive Challenge**, organized by the Eastern Electric
+Vehicle Club a chapter of the U. S. [Electric Auto
+Association](/wiki/Electric_Auto_Association "wikilink") (EAA), is the
 successor of Tour de Sol Rally and happens 2007-06- 9 & 10. The rally
 starts on Saturday at the competition headquarters at the Burlington
 Country Institute of Technology at [Westampton,
