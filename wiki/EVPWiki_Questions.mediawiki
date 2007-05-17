@@ -1,0 +1,44 @@
+__NOTOC__ __NOEDITSECTION__ <!--
+***************************************************************************
+
+   Do not ask your question on this page! Rather, go to one of the
+   listed pages instead.
+
+   This page is among the most visible to viewers and the rest of the web.
+
+   Please keep it very simple. Do not make major changes without first
+   achieving a consensus on the talk page:
+   http://www.wikipedia.org/wiki/Wikipedia_talk:Questions)
+
+***************************************************************************
+-->
+{| 
+|- valign=top
+| style="width:50%; background:#F5FAFF;"|
+=== Finding information ===
+* '''[[Wikipedia:Look it up|Search]]''' — for many questions it's fastest and easiest to use the search box.
+
+<span style="font-size:90%;margin-left:2em;">e.g. To find the capital of South Africa, fill in ''South Africa'' in the box on the left and click ''Search''.</span>
+* '''[[Wikipedia:Reference desk|Reference Desks]]''' — for knowledge questions (about anything other than how to use Wikipedia) you can ask our volunteers.
+
+<span style="font-size:90%;margin-left:2em;"> e.g. ''"What country has the world's largest fishing fleet?"''</span>
+:[[Wikipedia:Reference desk/Computing|Computing]] - [[Wikipedia:Reference desk/Entertainment|Entertainment]] - [[Wikipedia:Reference desk/Language|Language]] - [[Wikipedia:Reference desk/Humanities|Humanities]] - [[Wikipedia:Reference desk/Mathematics|Mathematics]] - [[Wikipedia:Reference desk/Science|Science]] - [[Wikipedia:Reference desk/Miscellaneous|Miscellaneous]]
+| style="width:50%; background:#F5FAFF;"|
+=== How to use Wikipedia ===
+{{shortcut|[[WP:?]]<br>[[WP:Q]]<br>[[WP:DESK]]}}
+* '''[[Wikipedia:FAQ|FAQ]]''' — Frequently Asked Questions about Wikipedia
+* '''[[Help:Contents]]''' — information about using Wikipedia.
+
+<span style="font-size:90%;margin-left:2em;"> e.g. ''"How do I add an image to an article?"''</span>
+* '''[[Wikipedia:Help desk|Help Desk]]''' — the place to ask volunteers questions on how to use Wikipedia.
+*'''[[Wikipedia:New contributors' help page|New contributors' help page]]''' — a range of services to answer newcomers' questions.
+*'''[[Wikipedia:Media copyright questions|Media copyright questions]]''' - a place to ask questions on this topic in particular
+|-
+| style="width:50%; background:#F5FAFF;"|
+=== Asking questions or making comments ===
+* Each article has a '''[[Wikipedia:Talk page|Talk page]]''' — click on the '''article's''' '''''discussion''''' link at the top of the page &mdash; for questions, reporting vandalism or discussions about the article.
+* '''[[Wikipedia:Village pump|Village pump]]''' is '''the''' discussion forum for many '''technical and policy issues'''.
+| style="width:50%; background:#F5FAFF;"|
+=== IRC — help chat ===
+You are also welcome to ask questions in one of Wikipedia's [[Internet Relay Chat|IRC]] channels. If you have an [[Comparison of Internet Relay Chat clients|IRC client]] installed you can join a channel by connecting to [irc://irc.freenode.net/wikipedia-en-help '''#wikipedia-en-help'''] (a help channel for new Wikipedians) or [irc://irc.freenode.net/wikipedia '''#wikipedia'''] (for general chat). You can also use the '''[http://www.prism.gatech.edu/~mflaschen3/irc/ web-based client]''' to be connected instantly.
+|}
