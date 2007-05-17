@@ -13,7 +13,8 @@ is famous.
 
 [Century Automotive Challenge](/wiki/Century_Automotive_Challenge "wikilink")
 organized by the Eastern Electric Vehicle Club, a chapter of the U. S.
-Electric Auto Association (EAA) is the successor of Tour de Sol Rally.
+Electric Auto Association (EAA) is the successor of Tour de Sol Rally
+and happens 2007-06- 9 & 10.
 
 External links
 --------------
