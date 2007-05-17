@@ -25,9 +25,7 @@ The conversion of a bicycle to electric power is probably the lowest cost means 
 
 ===[[Electric scooter]]===
 <!-- following appears to be production original, not individual or production conversion - should be in "Battery electric vehicle''
-<gallery>
-Image:Www.SynEco.co.nz 2.JPG|MOPED Electric Scooter
-</gallery>
+NaodW29-gallery492a03501430d85c00000001
 Electric MOPED Scooters are on road vehicles that can typically be operated on a Motor Car License
 and at speeds up to 50km/hr (depending on local laws).
 
@@ -116,7 +114,7 @@ A novelty vehicle or an electric powered [[art car]] may not be suitable for on 
 == References ==
 <References/>
 ==External links==
-{{wikibookspar||Electric Vehicle Conversion}}
+{{wikibookspar|Electric_vehicle_conversion}}
 * [http://www.evalbum.com/    The EV Photo Album - Contains photos and information of many types/styles of EVs and EV Conversions]
 * [http://www.evdl.org/       The Electric Vehicle Discussion List (EVDL) - A helpful resource for all current and future EV owners, converters, and enthusiasts] 
 * [http://mysite.verizon.net/res83zys/ An electric motocycle builder shows construction details]
