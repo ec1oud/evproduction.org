@@ -11,7 +11,7 @@ layout: wiki
 <tr class="odd">
 <td><h3 id="finding-information">Finding information</h3>
 <ul>
-<li><strong><a href="Wikipedia:Look_it_up" title="wikilink">Search</a></strong> — for many questions it's fastest and easiest to use the search box.</li>
+<li><strong><a href="EVPWiki:Look_it_up" title="wikilink">Search</a></strong> — for many questions it's fastest and easiest to use the search box.</li>
 </ul>
 <p><span style="font-size:90%;margin-left:2em;">e.g. To find the capital of South Africa, fill in <em>South Africa</em> in the box on the left and click <em>Search</em>.</span></p>
 <ul>

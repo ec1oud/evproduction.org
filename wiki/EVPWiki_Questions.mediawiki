@@ -16,7 +16,7 @@ __NOTOC__ __NOEDITSECTION__ <!--
 |- valign=top
 | style="width:50%; background:#F5FAFF;"|
 === Finding information ===
-* '''[[Wikipedia:Look it up|Search]]''' — for many questions it's fastest and easiest to use the search box.
+* '''[[EVPWiki:Look it up|Search]]''' — for many questions it's fastest and easiest to use the search box.
 
 <span style="font-size:90%;margin-left:2em;">e.g. To find the capital of South Africa, fill in ''South Africa'' in the box on the left and click ''Search''.</span>
 * '''[[Wikipedia:Reference desk|Reference Desks]]''' — for knowledge questions (about anything other than how to use Wikipedia) you can ask our volunteers.
