@@ -10,7 +10,7 @@ The **Electric Auto Association** (EAA) is a non-profit educational
 organization that promotes the advancement and widespread adoption of
 [Battery electric vehicles](/wiki/Battery_electric_vehicle "wikilink"). It was
 formed in 1967 in [San Jose,
-California](/wiki/San_Jose,_California "wikilink").
+California](wikipedia:San_Jose,_California "wikilink").
 
 Members
 -------
