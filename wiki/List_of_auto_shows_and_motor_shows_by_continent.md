@@ -125,6 +125,7 @@ tags:
     New York](/wiki/Scarsdale,_New_York "wikilink"))
 -   [Seattle International Auto
     Show](/wiki/Seattle_International_Auto_Show "wikilink")
+    [1](http://www.seattleautoshow.com)
 -   [SEMA Show](/wiki/SEMA "wikilink")
 -   [South Florida Auto Show](/wiki/South_Florida_Auto_Show "wikilink")
     ([Miami](/wiki/Miami "wikilink"), [Florida](Florida "wikilink"))
