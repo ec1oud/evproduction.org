@@ -18,6 +18,11 @@ starts on Saturday at the competition headquarters at the Burlington
 Country Institute of Technology at [Westampton,
 NJ](wikipedia:Westampton,_NJ "wikilink")
 
+See also
+--------
+
+-   [Auto show](/wiki/Auto_show "wikilink")
+
 External links
 --------------
 
