@@ -39,7 +39,7 @@ layout: wiki
 <td><h3 id="asking-questions-or-making-comments">Asking questions or making comments</h3>
 <ul>
 <li>Each article has a <strong><a href="Wikipedia:Talk_page" title="wikilink">Talk page</a></strong> — click on the <strong>article's</strong> <strong><em>discussion</em></strong> link at the top of the page — for questions, reporting vandalism or discussions about the article.</li>
-<li><strong><a href="Wikipedia:Village_pump" title="wikilink">Village pump</a></strong> is <strong>the</strong> discussion forum for many <strong>technical and policy issues</strong>.</li>
+<li><strong><a href="Wikipedia:Wikipedia:Village_pump" title="wikilink">Village pump</a></strong> is <strong>the</strong> discussion forum for many <strong>technical and policy issues</strong>.</li>
 </ul></td>
 <td><h3 id="irc-help-chat">IRC — help chat</h3>
 <p>You are also welcome to ask questions in one of Wikipedia's <a href="Internet_Relay_Chat" title="wikilink">IRC</a> channels. If you have an <a href="Comparison_of_Internet_Relay_Chat_clients" title="wikilink">IRC client</a> installed you can join a channel by connecting to <a href="irc://irc.freenode.net/wikipedia-en-help"><strong>#wikipedia-en-help</strong></a> (a help channel for new Wikipedians) or <a href="irc://irc.freenode.net/wikipedia"><strong>#wikipedia</strong></a> (for general chat). You can also use the <strong><a href="http://www.prism.gatech.edu/~mflaschen3/irc/">web-based client</a></strong> to be connected instantly.</p></td>

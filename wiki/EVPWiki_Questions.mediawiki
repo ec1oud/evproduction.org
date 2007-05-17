@@ -37,7 +37,7 @@ __NOTOC__ __NOEDITSECTION__ <!--
 | style="width:50%; background:#F5FAFF;"|
 === Asking questions or making comments ===
 * Each article has a '''[[Wikipedia:Talk page|Talk page]]''' — click on the '''article's''' '''''discussion''''' link at the top of the page &mdash; for questions, reporting vandalism or discussions about the article.
-* '''[[Wikipedia:Village pump|Village pump]]''' is '''the''' discussion forum for many '''technical and policy issues'''.
+* '''[[Wikipedia:Wikipedia:Village pump|Village pump]]''' is '''the''' discussion forum for many '''technical and policy issues'''.
 | style="width:50%; background:#F5FAFF;"|
 === IRC — help chat ===
 You are also welcome to ask questions in one of Wikipedia's [[Internet Relay Chat|IRC]] channels. If you have an [[Comparison of Internet Relay Chat clients|IRC client]] installed you can join a channel by connecting to [irc://irc.freenode.net/wikipedia-en-help '''#wikipedia-en-help'''] (a help channel for new Wikipedians) or [irc://irc.freenode.net/wikipedia '''#wikipedia'''] (for general chat). You can also use the '''[http://www.prism.gatech.edu/~mflaschen3/irc/ web-based client]''' to be connected instantly.
