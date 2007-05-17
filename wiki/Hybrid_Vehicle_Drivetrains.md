@@ -8,7 +8,7 @@ tags:
  - Engines
 ---
 
-[Petroleum electric Hybrid
+[Petroleum electric hybrid
 vehicles](/wiki/Petroleum_electric_hybrid_vehicle "wikilink") make use of both
 an on-board [rechargeable energy storage
 system](rechargeable_energy_storage_system "wikilink") (RESS) and a
