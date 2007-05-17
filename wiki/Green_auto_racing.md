@@ -31,3 +31,4 @@ External links
     Sol](http://www.nesea.org/transportation/tour/).
 -   [21st Century Automotive
     Challenge](http://www.eevc.info/2stcentautocomp.pdf) (PDF).
+-   [Petroleum auto racings](http://en.wikipedia.org/wiki/Auto_racing).
