@@ -40,11 +40,6 @@ Types of green tunning includes:
     mode of operation the vehicle operates as a pure battery electric
     vehicle with a weight penalty (the ICE). The long range and
     additional power of the ICE power train is available when needed.
--   [Alternation to a different
-    fuel](/wiki/Alternation_to_a_different_fuel "wikilink"): this mostly
-    includes a change to vegetable oil, or any alcohols (ethanol or
-    methanol). Like Pluginization and hybridization, this tuning does
-    not however make the vehicle a zero-emissions vehicle.
 
 See also
 --------
