@@ -1,6 +1,12 @@
+Batteries in Open source electric vehicles are based on  the '''Open Source Battery Project'''. 
 
+It is at least possible for EV/Hybrid batteries to be built for significantly less than the current models are selling for. All that's missing is a good solid 'Open Source' design.
 
+To this end, appeared a new group to attempt to design just such a system, for building batteries for much less than they are being sold. 
+ 
+At the very least you will have the opportunity to understand the battery and battery managements systems better than ever.
 
+Official website: http://autos.groups.yahoo.com/group/OSBP4EVs/
 == See also ==
 * [[Baset trailer]]
 == Other links ==
