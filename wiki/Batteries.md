@@ -6,6 +6,9 @@ tags:
  - Batteries
 ---
 
+Other links
+-----------
+
 Hawker put out a [useful guide for the general care of lead acid
 batteries](http://aaron.boim.com/EV/EVhandbook4hawkerBatteries.pdf).
 
