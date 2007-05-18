@@ -1,3 +1,5 @@
+{{Main|Battery}}
+
 [[Image:Acp_tzero_dsc00309.jpg|thumb|right|Automobile battery pack consisting of 28 [[Optima (disambiguation)|Optima]] Yellow Tops]]
 
 A '''battery pack''' is a set of any number of (preferably) identical [[Battery (electricity)|batteries]] or individual battery cells.  They may be configured in a series, parallel or a mixture of both to deliver the desired voltage, capacity, or power density. The term battery pack is often used in reference to RC hobby toys and [[battery electric vehicle]]s.
