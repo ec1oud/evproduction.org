@@ -6,6 +6,11 @@ tags:
  - Batteries
 ---
 
+See also
+--------
+
+-   [Baset trailer](/wiki/Baset_trailer "wikilink")
+
 Other links
 -----------
 
