@@ -1,0 +1,145 @@
+'''Lead-acid batteries''', invented in 1859 by [[France|French]] [[physicist]] [[Gaston Planté]], are the oldest type of  [[secondary battery|rechargeable battery]]. Despite having the second lowest [[energy]]-to-[[weight]] ratio (next to the [[nickel-iron battery]]) and a correspondingly low energy-to-[[volume]] ratio, their ability to supply high [[surge current]]s means that the cells maintain a relatively large [[power-to-weight ratio]].  This, along with their low cost, makes them ideal for use in [[cars]], as they can provide the high current required by [[Automobile self starter|automobile starter motors]].  They are also used in vehicles such as [[forklift]]s, in which the low energy-to-weight ratio may in fact be considered a benefit since the battery can be used as a [[counterweight]]. Large arrays of lead-acid cells are used as standby power sources for telecommunications facilities, generating stations, and computer data centers.
+
+==Electrochemistry==
+Each cell contains (in the charged state) electrodes of [[lead]] metal (Pb) and [[lead dioxide|lead (IV) oxide]] (PbO<sub>2</sub>) in an [[electrolyte]] of about 37% (5.99 Molar) ''w''/''w'' [[sulfuric acid]] (H<sub>2</sub>SO<sub>4</sub>). In the discharged state both electrodes turn into [[lead(II) sulfate]] (PbSO<sub>4</sub>) and the electrolyte loses its dissolved sulfuric acid and becomes primarily [[water]].  Due to the [[freezing-point depression]] of water, as the battery discharges and the concentration of sulfuric acid decreases, the electrolyte is more likely to freeze.
+
+The chemical reactions are (charged to discharged):
+
+Anode (oxidation):
+<math>\mbox{Pb} (s) +\mbox{SO}_{4}^{2-} (aq) \leftrightarrow \mbox{PbSO}_{4} (s) +2e^- \quad\epsilon^o = 0.356 \ \mathrm{V}</math>
+
+Cathode (reduction):
+<math>\mbox{PbO}_{2} (s) +\mbox{SO}_{4}^{2-} (aq) +4\mbox{H}^++2e^- \leftrightarrow \mbox{PbSO}_{4} (s) +2\mbox{H}_2\mbox{O} (l) \quad\epsilon^o = 1.685 \ \mathrm{V}</math>
+
+Because of the open cells with liquid electrolyte in most lead-acid batteries, overcharging with excessive charging voltages will generate [[oxygen]] and [[hydrogen]] gas by [[electrolysis of water]], forming an  [[explosive limit|explosive mix]]. This should be avoided. Caution must also be observed because of the extremely corrosive nature of sulfuric acid.
+
+Practical cells are usually not made with pure lead but have small amounts of [[antimony]], [[tin]], or [[calcium]] alloyed in the plate material. 
+
+The following are general voltage ranges for six-cell lead-acid batteries:
+* Open-circuit (quiescent) at full charge: 12.6 - 12.8 V 
+* Open-circuit at full discharge: 11.8 - 12.0 V 
+* Loaded at full discharge: 10.5 V.  
+* Continuous-preservation (float) charging: 13.8V for gelled electrolyte; 13.4V for flooded; and 13.5V for AGM (Absorbed Glass Mat)
+# All voltages are at 20C, and must be be adjusted for temperature changes. 
+# Float voltage recommendations vary, always check manufacturers' recommendation.
+# Precise (+/- 0.05V) float voltage IS critical to longevity; too low (sulfation) is almost as bad as too high (corrosion & electrolyte loss)
+* Typical (daily) charging: 14.2 - 14.5 V (check manufacturer's recommendation)
+* Equalization charging (for flooded lead acids): 15 - 16 V
+* Gassing threshold: 14.4 V
+* After full charge the terminal voltage will drop quickly to 13.2 V and then slowly to 12.6 V.
+
+==Construction of battery==
+===Plates===
+The principle of the lead acid cell can be demonstrated with simple sheet lead plates for the two electrodes.  However such a construction would only produce around an amp for roughly postcard sized plates, and it would not produce such a current for more than a few minutes.
+
+Planté realised that a plate construction was required that gave a much larger effective surface area.  Planté's method of producing the plates has been largely unchanged.  
+
+A plate consists of a rectangular lead plate alloyed with a little antimony to improve the mechanical characteristics. The plate is in fact a grid with rectangular holes in it, the lead forming thin walls to the holes.  The holes are filled with a mixture of red lead and 33% dilute sulphuric acid (Different manufacturers have modified the mixture).  The paste is pressed into the holes in the plates which are slightly tapered on both sides to assist in retention of the paste.  This paste remains porous and allows the acid to react with the lead inside the plate increasing the surface area many fold.  At this stage the positive and negative plates are identical.  Once dry the plates are then stacked together with suitable separators and inserted in the battery container.  An odd number of plates is always used, with one more negative plate than positive.  Each alternate plate is connected together.  After the acid has been added to the cell, the cell is given its first forming charge.  The positive plates gradually turn the chocolate brown colour of Lead Dioxide, and the negative turn the slate gray of 'spongy' lead.  Such a cell is ready to be used.
+
+Many modern manufacturers use pastes in the plates made directly from Lead Dioxide and Lead, thus avoiding the necessity to form the plates.  Once acid is added, the cell is ready for use.
+
+One of the problems with the plates in a lead-acid battery is that the plates change size as the battery charges and discharges, the plates increasing in size as the active material absorbs sulphate from the acid during discharge, and decreasing as they give up the sulphate during charging.  This causes the plates to gradually shed the paste during their life.  It is important that there is plenty of room underneath the plates to catch this shed material.  If this material reaches the plates a shorted cell will occur.
+
+==Separators==
+Separators are used between the positive and negative plates of a lead acid battery to prevent short circuit through  physical contact, mostly through Dendrites (‘treeing’), but also through shredded active material.
+Separators cause some obstructions for the flow of ions i.e. electricity between the electrodes. Separators therefore must have the following characteristics:
+#They must be porous&mdash;high porosity gives a high rate of flow of ions.
+#Pore size must be small enough to restrict the flow of colloid particles but not restrict the ions.
+#They must be as thin as possible. 
+#Electrical resistance must be very high.
+#The area of the separator must be a little larger than the area of the plates to prevent material shorting between the plates.
+To balance these criteria, the choice of separator shifted from wood to rubber to glass mat to cellulose based separators to sintered PVC separator to microporous PVC/polyethylene separator. An effective separator must meet a number of mechanical properties. Permeability, porosity, pore size distribution, specific surface area, mechanical design and strength, Electrical resistance, ionic conductivity, and chemical compatibility with the electrolyte. In service the separator must have good resistance to acid and oxidation. 
+
+In the battery service condition the following reaction can be shown :
+:PbO<sub>2</sub> + 2H<sup>+</sup> + SO<sub>4</sub><sup>-2</sup>  =      PbSO<sub>4</sub> + H<sub>2</sub>O + ½ O<sub>2</sub> 
+:PbO<sub>2</sub> + (oxidizable separator material) + H<sub>2</sub>SO<sub>4</sub>  = PbSO<sub>4</sub> + (oxidized material) 
+
+Moreover, the battery service temperature can be as high as 70 to 80 degrees Celsius. The separator must be capable of resisting thermal degradation as far as possible.
+<!-- From akganguly@rediffmail.com -->
+
+==Classification of lead acid batteries ==
+=== By production technology ===
+*Flooded/Wet cell batteries
+*VRLA: Valve Regulated Lead Acid batteries
+*AGM: Absorbed Glass Mat batteries
+*Gel cell batteries
+
+=== By application ===
+*Starter batteries
+*Stand-by (stationary) batteries
+*Traction (propulsion)batteries
+
+==Other applications==
+Wet cells designed for deep discharge are commonly used in [[golf cart]]s and other [[battery electric vehicle]]s, large backup power supplies for telephone and computer centers and off-grid household electric power systems.
+
+Gel cells are used in back-up power supplies for alarm and smaller computer systems (particularly in uninterruptible power supplies) and for electric scooters, electrified bicycles and marine applications.  Unlike wet cells, gel cells are sealed, so they are less prone to spilling and do not require maintenance of electrolyte levels.  
+
+[[Absorbed glass mat]] (AGM) cells are also sealed and used in battery electric vehicles, as well as applications where there is a fairly high risk of the battery being laid on its side or over-turned, such as motorcycles.
+
+Historically, lead-acid batteries were used to supply the filament (heater) voltage (usually between 2 and 12 volts with 6 V being most common) in [[vacuum tube]] (valve) radio receivers in areas where no mains electricity supply was available. Such radios typically used two batteries: a lead-acid [[A battery (vacuum tubes)|"A" battery]] for the filament voltage and a higher voltage (45 V–120 V) "dry" non-rechargeable [[B battery (vacuum tubes)|"B" battery]] for the plate (anode) voltage. A few sets also used a third (3 V–9 V with several taps) "dry" non-rechargeable [[C battery (vacuum tubes)|"C" battery]] for grid bias.
+
+Lead-acid batteries are used in emergency lighting in case of [[power failure]].
+
+==Starting batteries decay with deep discharges==
+Lead acid batteries designed for starting service, such as those used in most automobiles, are not designed for deep discharge.  They have a large number of thin plates designed for maximum surface area, and therefore maximum current output, but which can easily be damaged by deep discharge. Repeated deep discharges will result in capacity loss and ultimately in premature failure, as the electrodes disintegrate due to mechanical stresses that arise from cycling.  A common misconception is that starting batteries should always be kept on float charge. In reality, this practice will encourage corrosion in the electrodes and result in premature failure.  Starting batteries should be kept open-circuit but charged regularly (at least once every two weeks) to prevent sulfation.
+
+==Deep cycle batteries==
+Specially designed deep-cycle cells are much less susceptible to degradation due to cycling, and are required for applications where the batteries are regularly discharged, such as [[photovoltaic]] systems, electric vehicle (forklift, golf cart and other) and [[uninterruptible power supplies]]. These batteries have thicker plates that can deliver less peak current, but can withstand frequent discharging.<ref>[http://www.windsun.com/Batteries/Battery_FAQ.htm "Battery FAQ" at ''Northern Arizona Wind & Sun'', visited 2006-07-23]</ref>
+
+Marine batteries are something of a compromise between the two, able to be discharged to a greater degree than automotive batteries, but less so than deep cycle batteries.
+
+==MF (Maintenance Free) batteries==
+The '''MF (Maintenance Free) battery''' is one of many types of lead-acid battery.
+
+It became popular on [[motorcycles]] because its acid is absorbed into the medium which separates the plates, so it cannot spill, and this medium also lends support to the plates which helps them better to withstand vibration.
+
+The electrical characteristics of MF batteries differ somewhat from wet-cell lead-acid batteries, and caution should be exercised in charging and discharging them.   MF batteries should not be confused with AGM (Absorbed Glass Mat) batteries, which also have an absorbed [[electrolyte]] but again have different electrical characteristics.
+
+==Exploding Batteries==
+
+MF Batteries rely on valves fitted to each cell which can vent hydrogen if over-pressurisation occurs. Generally [[oxygen]] and [[hydrogen]] recombine in the space above the electrolyte so that over-pressurisation rarely occurs. Should such a condition occur and the valves fail to operate (through being blocked for example), then there is a possibility of an internal [[explosion]] if the oxygen-hydrogen mixture is ignited. Just a slight jolt can cause a spark to jump between the posts, and the gas explodes. Personal injuries can result. The condition can be assessed if any swelling in the cell walls of the battery are visible. The swelling from internal pressurisation varies from cell to cell, that at the battery ends being most obvious. Such batteries should be isolated and carefully discarded, using protective personal equipment (goggles, overalls, gloves etc) during the handling.
+
+==Environmental concerns==
+Currently attempts are being made to develop alternatives to the lead-acid battery (particularly for automotive use) because of concerns about the environmental consequences of improper disposal of old batteries.  Lead-acid battery [[recycling]] is one of the most successful recycling programs in the world, with over 97% of all battery lead recycled between 1997 and 2001.<ref>{{
+cite web
+| title=Battery Council International
+| accessdate=2006-06-01
+| url=http://www.batterycouncil.org/recycling.html
+}}</ref> Effective Lead pollution control system is a necessity for sustainable environment. There is a continuous improvement in battery [[recycling]] plants and furnace designs for greater efficiencies. These recycling plants are ecology friendly as they follow all [[emission]] standards for lead smelters, but new methods should be devised or alternatives developed  to the lead-acid battery so that lead pollution can be reduced to an essentially negligible amount. 
+
+==Additives==
+Many vendors sell chemical additives (solid compounds as well as liquid solutions) that supposedly reduce sulfate build up and improve battery condition when added to the electrolyte of a vented lead-acid battery. Such treatments are rarely, if ever, effective. 
+
+Two compounds used for such purposes are [[Epsom salts]] and [[EDTA]].  Epsom salts reduce the internal resistance in a weak or damaged battery and may allow a small amount of extended life. EDTA can be used to dissolve the [[sulphate]] deposits of heavily discharged plates. However, the dissolved material is then no longer available to participate in the normal charge/discharge cycle, so a battery temporarily revived with EDTA should not be expected to have normal life expectancy.  Residual EDTA in the lead-acid cell forms organic acids which will accelerate corrosion of the lead plates and internal connectors.  
+
+Active material (the positive plate lead peroxide and negative plate spongy lead) changes physical form during discharge, resulting in plate growth, distortion of the active material, and shedding of active material.  Once the active material has left the plates, it cannot be restored into position by any chemical treatment. Similarly, internal physical problems such as cracked plates, corroded connectors, or damaged separators cannot be restored chemically.
+
+==See also==
+{{portal|energy}}
+*[[Absorbed glass mat]] (AGM)
+*[[Car battery]] 
+*[[Gel battery]]
+*[[NanoSafe]]
+*[[Rechargeable battery]]
+*[[VRLA]]
+
+==References==
+<div class="references-small">
+<references />
+</div>
+
+*U.S. Department of Energy, [http://www.eh.doe.gov/techstds/standard/hdbk1084/hdbk1084.pdf Primer On Lead-Acid Storage Batteries] (pdf)
+*[http://www.gravitaexim.com/Battery-Recycling/environment-friendly-battery-recycling.html Environment Friendly Battery Recycling]
+
+==External links==
+* [http://www.batterycouncil.org/about.html Battery Council International (BCI)],  [[trade organization]] that brings together the leading lead-acid battery manufacturers. 
+* [http://www.batteryuniversity.com/ BatteryUniversity.com]
+* [http://www.batteryfaq.org/ Car and Deep Cycle Battery Frequently Asked Questions]
+* [http://www.fireflyenergy.com/ Firefly Energy] - The next generation of lead acid technologies.
+* [http://www.atsdr.cdc.gov/tfacts13.html ToxFAQs™: Lead]
+* [http://www.npi.gov.au/database/substance-info/profiles/50.html National Pollutant Inventory - Lead and Lead Compounds Fact Sheet]
+* [http://www.atsdr.cdc.gov/HEC/CSEM/lead/ Case Studies in Environmental Medicine - Lead Toxicity]
+* [http://www.tumakuder.org/ Used battery management in Turkey] in Turkish
+[[Category:Rechargeable batteries]]
+[[Category:Automotive technologies]]
+[[Category:Lead]]
