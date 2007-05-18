@@ -8,8 +8,4 @@ Regulators are most often used in [[battery electric vehicle|BEV]] battery packs
 *[http://www.plasmatronics.com.au Plasmatronics]
 *[http://enviromotors.com/wiki/index.php/Sparrow/BMSSome Battery Management System]
 
-===Patents===
-* {{US patent|384447}}, E. Julien, ''Regulating cummutator for secondary battery''
-* [[Open hardware]]
-
 [[Category:BEV components]]

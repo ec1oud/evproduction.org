@@ -32,9 +32,3 @@ External links
 -   [Plasmatronics](http://www.plasmatronics.com.au)
 -   [Battery Management
     System](http://enviromotors.com/wiki/index.php/Sparrow/BMSSome)
-
-### Patents
-
--   , E. Julien, *Regulating cummutator for secondary battery*
-
--   [Open hardware](/wiki/Open_hardware "wikilink")
