@@ -1,11 +1,10 @@
-A '''battery regulator''' is a device in a [[battery pack]] which bleeds off excess charge current to allow all cells or batteries in a string to be fully charged without overcharging other cells.  Since they may all reach full charge at different times because of differences in capacity due to age, a regulator keeps all the batteries or cells in balance.  They are most effective during periodic full charge events performed to PbA battery packs by holding down the finishing voltage preventing weak cells from overcharging and gassing. Regulators do not actively balance batteries by shuttling power during operation like a [[battery balancer]] does, a balancer may further extend a packs lifespan.
+[[Image:Lipoly equalizer.jpg|thumb|Battery balancer]]
+A '''battery balancer''' is a device in a [[battery pack]] which can actively shuttle energy into a weak cell from other more healthy cells in the pack, they may also include the function of a [[battery regulator]] to prevent overcharging.  Balancers are often found in [[Lithium ion battery]] packs for cell phones and laptop computers. They can also be found in [[battery electric vehicle|BEV]] battery packs.
 
-Regulators are most often used in [[battery electric vehicle|BEV]] battery packs to prolong the packs' useful lifespan.
+A full Battery Management System (BMS) might include active balancing as well as temperature monitoring, charging, and other features to maximize the life of a battery pack.
 
-==External links==
-===General===
-*[http://www.manzanitamicro.com/parts.htm Rudman Regulators]
-*[http://www.plasmatronics.com.au Plasmatronics]
-*[http://enviromotors.com/wiki/index.php/Sparrow/BMSSome Battery Management System]
-
+Lee Hart has designed and makes available kits for an 80 cell/battery programmable balancer.
+* http://www.geocities.com/sorefeets/balancerland/
+* "I've been driving electric cars for 25 years. Having to charge, monitor, and test dozens of batteries has always been tedious. So, I built a ''Battery Balancer'' system.  Basically, it consists of: [http://autos.groups.yahoo.com/group/Prius_Technical_Stuff/message/15446]"
+* http://www.rotordesign.com/s10/Clamper.pdf
 [[Category:BEV components]]
