@@ -12,4 +12,4 @@ of Asia Pacific, <http://www.evaap.org/)and> AVERE (
 <http://www.avere.org/>), form the **World Electric Vehicle Association
 (WEVA)**.
 
-Its [chairman](chairman "wikilink") is Hisashi Ishitani.
+Its chairman is Hisashi Ishitani.
