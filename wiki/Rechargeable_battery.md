@@ -7,13 +7,9 @@ tags:
  - Rechargeable batteries|*
 ---
 
-![A rechargeable lithium polymer [Nokia](/wiki/Nokia "wikilink") [mobile
-phone](mobile_phone "wikilink")
-battery.](Nokia_Battery_Hologram.jpg "fig:A rechargeable lithium polymer Nokia mobile phone battery.")
 **Rechargeable batteries**, also known as **storage batteries** or
-**[secondary cells](secondary_cell "wikilink")**, are
-[batteries](battery_(electricity) "wikilink") that can be restored to
-full charge by the application of [electrical
+**secondary cells**, are [batteries](battery "wikilink") that can be
+restored to full charge by the application of [electrical
 energy](electrical_energy "wikilink"). They are also called accu/akku,
 which is short for accumulator. They come in many different designs
 using different chemicals. Attempting to recharge non-rechargeable
