@@ -1,0 +1,19 @@
+A '''sodium-sulfur battery''' is a type of [[battery (electricity)|battery]] constructed from [[sodium]] (Na) and [[sulfur]] (S). This type of battery exhibits a high [[energy density]], high efficiency of charge/discharge (89&mdash;92%), long cycle life, and is made from inexpensive, non-toxic materials. However, the operating temperature of 300 to 350 °C and the highly [[corrosion|corrosive]] nature of sodium make it suitable only for large-scale non-mobile applications. A suggested application is [[grid energy storage]].  A 6MWH system has been installed at Tsunashima, Japan.
+
+== Construction ==
+The [[electrochemical cell|cell]] is usually made in a tall cylindrical configuration. The entire cell is enclosed by an [[inert]] metal container and sealed at the top with an airtight [[alumina]] lid. The cell becomes more economical with increasing size. In commercial applications the cells are arranged in blocks for better conservation of heat. 
+
+== Operation ==
+During the discharge phase, molten [[metal]]lic sodium at the core acts as the [[anode]], separated by a  [[beta-alumina solid electrolyte]] (BASE) cylinder from a sulfur container made from an inert metal acting as the [[cathode]]. The sulfur is absorbed in a [[carbon]] sponge. Alumina is a good conductor of sodium [[ion]]s but a bad conductor of electrons, avoiding self-discharge. When sodium gives off an [[electron]], the Na<sup>+</sup> ion migrates to the sulfur container. The electron travels through the molten sodium to the contact and through the electric load to the sulfur container. Here, the electron reacts with sulfur to form S<sup>&minus;</sup>, which then forms sodium polysulfide. As the cell discharges the sodium level drops. During the charging phase the reverse process takes place. Once running, the heat produced by charging and discharging cycles is enough to maintain operating temperatures and no external source is required.
+
+==Safety aspects==
+Pure sodium presents dangers because it spontaneously burns on contact with water. Therefore, the system
+must be protected from moisture. In modern NaS cells, sealing techniques make [[fire]]s unlikely.
+
+==See also==
+*[[Molten salt battery]]
+
+==References==
+*[http://www.worldenergy.org/wec-geis/publications/default/tech_papers/17th_congress/3_3_05.asp World Energy Council technical paper]
+
+[[Category:Rechargeable batteries]]
