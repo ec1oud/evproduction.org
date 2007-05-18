@@ -13,6 +13,7 @@ Its limitations are a low [[specific energy]], poor charge retention, poor low-t
 ===Lead===
 ====Wet lead acid====
 {{Mainarticle|Lead-acid battery}}
+
 Wet lead acid battery: The major advantage of the [[wet cell]] lead acid battery is its low cost<ref>http://www.mpoweruk.com/leadacid.htm</ref> - a large battery (e.g. 70 Ah) is relatively cheap when compared to other chemistries. However, this battery chemistry has lower [[energy density]] than other battery chemistries available today. Its most common application is a [[car battery|starter battery]] for vehicles, but they can also be used in alarm systems, [[uninterruptible power supply|uninterruptible power supplies]] and for energy storage for buildings not connected to the electrical grid. The lead-acid battery chemistry was invented in 1859.
 
 ====Gel====
