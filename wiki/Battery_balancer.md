@@ -28,6 +28,7 @@ programmable balancer.
 -   <http://www.geocities.com/sorefeets/balancerland/>
 -   "I've been driving electric cars for 25 years. Having to charge,
     monitor, and test dozens of batteries has always been tedious. So, I
-    built a *Battery Balancer* system. Basically, it consists of:
-    [1](http://autos.groups.yahoo.com/group/Prius_Technical_Stuff/message/15446)"
+    built a *Battery Balancer* system. Basically, it consists of: [click
+    to
+    see](http://autos.groups.yahoo.com/group/Prius_Technical_Stuff/message/15446)"
 -   <http://www.rotordesign.com/s10/Clamper.pdf>
