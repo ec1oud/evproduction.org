@@ -82,7 +82,7 @@ Rechargeable alkaline battery: A variety of [[alkaline battery]] that can be rec
 == Comparison of battery types ==
 {| class="wikitable"
 !Battery type
-!Nom. cell [[voltage|volts]] (V)<ref>Nominal cell [[voltage]] (V).  Most batteries contain multiple cells, for example an automotive 12v car battery contains 6 cells * 2.0v per cells for the total of 12 volts.</ref>
+!Nom. cell [[voltage|volts]] (V)
 ![[Energy density|Energy/ weight]]<br>(MJ/kg)
 !Energy/ weight<br>(Wh/kg)
 ![[Energy density|Energy/ size]]<br>(Wh/L)

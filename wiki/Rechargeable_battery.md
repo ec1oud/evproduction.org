@@ -223,7 +223,7 @@ Comparison of battery types
 <thead>
 <tr class="header">
 <th><p>Battery type</p></th>
-<th><p>Nom. cell <a href="voltage" title="wikilink">volts</a> (V)<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p></th>
+<th><p>Nom. cell <a href="voltage" title="wikilink">volts</a> (V)</p></th>
 <th><p><a href="Energy_density" title="wikilink">Energy/ weight</a><br />
 (MJ/kg)</p></th>
 <th><p>Energy/ weight<br />
@@ -339,7 +339,7 @@ Comparison of battery types
 <td><p>270</p></td>
 <td><p>1800</p></td>
 <td><p>99.9%</p></td>
-<td><p>$0.20 Wh<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a></p></td>
+<td><p>$0.20 Wh<a href="#fn1" class="footnote-ref" id="fnref1"><sup>1</sup></a></p></td>
 <td><p>5%-10%</p></td>
 <td><p>1200</p></td>
 <td></td>
@@ -350,7 +350,7 @@ Comparison of battery types
 <td><p>0.47-0.72</p></td>
 <td><p>130-200</p></td>
 <td><p>300</p></td>
-<td><p>Over 3000<a href="#fn3" class="footnote-ref" id="fnref3"><sup>3</sup></a></p></td>
+<td><p>Over 3000<a href="#fn2" class="footnote-ref" id="fnref2"><sup>2</sup></a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -427,9 +427,8 @@ Comparison of battery types
 <section class="footnotes">
 <hr />
 <ol>
-<li id="fn1">Nominal cell <a href="voltage" title="wikilink">voltage</a> (V). Most batteries contain multiple cells, for example an automotive 12v car battery contains 6 cells * 2.0v per cells for the total of 12 volts.<a href="#fnref1" class="footnote-back">↩</a></li>
-<li id="fn2"><a href="http://www.werbos.com/E/WhoKilledElecPJW.htm">http://www.werbos.com/E/WhoKilledElecPJW.htm</a> (which links to <a href="http://www.thunder-sky.com/home_en.asp">http://www.thunder-sky.com/home_en.asp</a>)<a href="#fnref2" class="footnote-back">↩</a></li>
-<li id="fn3"><a href="http://www.a123systems.com/html/tech/power.html">http://www.a123systems.com/html/tech/power.html</a><a href="#fnref3" class="footnote-back">↩</a></li>
+<li id="fn1"><a href="http://www.werbos.com/E/WhoKilledElecPJW.htm">http://www.werbos.com/E/WhoKilledElecPJW.htm</a> (which links to <a href="http://www.thunder-sky.com/home_en.asp">http://www.thunder-sky.com/home_en.asp</a>)<a href="#fnref1" class="footnote-back">↩</a></li>
+<li id="fn2"><a href="http://www.a123systems.com/html/tech/power.html">http://www.a123systems.com/html/tech/power.html</a><a href="#fnref2" class="footnote-back">↩</a></li>
 </ol>
 </section>
 
