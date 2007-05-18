@@ -1,0 +1,301 @@
+{{Mergefrom|secondary cell|date=March 2007}}
+[[Image:Nokia Battery Hologram.jpg|thumb|A rechargeable lithium polymer [[Nokia]] [[mobile phone]] battery.]]
+'''Rechargeable batteries''', also known as '''storage batteries''' or '''[[secondary cell]]s''', are [[battery (electricity)|batteries]] that can be restored to full charge by the application of [[electrical energy]]. They are also called accu/akku, which is short for accumulator. They come in many different designs using different chemicals. Attempting to recharge non-rechargeable batteries is not advised as it has a small chance of causing a [[Battery explosion#Battery explosion|battery explosion]]. Some types of rechargeable batteries are susceptible to damage due to [[Rechargeable battery#Reverse charging|reverse charging]] if they are fully discharged; other types need to be fully discharged occasionally in order to maintain the capacity for deep discharge. Fully integrated [[battery charger]]s that optimize the charging current are available.
+
+Rechargeable batteries currently are used for lower power applications such as automobile starters, portable consumer devices, tools, and [[uninterruptible power supply|uninterruptible power supplies]]. Emerging applications in [[petroleum electric hybrid vehicle|hybrid vehicles]] and [[battery electric vehicle|electric vehicles]] are driving the technology to improve cost, reduce weight, and increase lifetime. Future applications are proposed to use rechargeable batteries for load leveling, where they would store baseline electric power for use during peak load periods, and for [[renewable energy]] uses, such as storing power generated from [[photovoltaic array]]s during the day to be used at night.
+
+==Battery types==
+===Nickel-iron===
+{{Mainarticle|Nickel-iron battery}}
+The Nickel-iron battery is a very robust battery which is tolerant of mistreatment, like overcharge, overdischarge, short-circuiting and thermal shock, and can have very long life. It is often used in backup situations where it can be continuously charged and can last for 20-50 years.
+<ref name="mpoweruk">[http://www.mpoweruk.com/nickel_iron.htm Mpower: Nickel Iron Batteries], [http://www.axeonpower.com/nickel_iron.htm Axeonpower: Nickel Iron Batteries]</ref>
+<ref name="faqnife">[http://www.beutilityfree.com/batterynife/FAQNIFE.html "Nickel Iron Battery Frequently Asked Questions" BeUtilityFree ]</ref><ref name="flyer">[http://www.beutilityfree.com/batterynife/Flyer.pdf a description of the Chinese nickel-iron battery from BeUtilityFree]</ref> 
+Its limitations are a low [[specific energy]], poor charge retention, poor low-temperature performance and its high cost of manufacture. Its chemical composition is nickel(III) oxide-hydroxide for the [[cathode]], iron for the [[anode]], and [[potassium hydroxide]] for the [[electrolyte]]. This battery chemistry has been produced since 1903.
+
+===Lead===
+====Wet lead acid====
+{{Mainarticle|Lead-acid battery}}
+Wet lead acid battery: The major advantage of the [[wet cell]] lead acid battery is its low cost<ref>http://www.mpoweruk.com/leadacid.htm</ref> - a large battery (e.g. 70 Ah) is relatively cheap when compared to other chemistries. However, this battery chemistry has lower [[energy density]] than other battery chemistries available today. Its most common application is a [[car battery|starter battery]] for vehicles, but they can also be used in alarm systems, [[uninterruptible power supply|uninterruptible power supplies]] and for energy storage for buildings not connected to the electrical grid. The lead-acid battery chemistry was invented in 1859.
+
+====Gel====
+{{Mainarticle|Gel battery}}
+[[Image:Bleigelakku.jpg|thumb|right|A gel battery]]
+Gel battery: A type of [[VRLA]] battery that uses gelified electrolyte. Unlike a traditional wet cell lead-acid battery, the cells of a gel battery are valve-regulated. Its applications include automobiles, motorcycle, boats, aircraft, and other motorized vehicles.
+
+====Absorbed glass mat====
+{{Mainarticle|Absorbed glass mat}}
+Absorbed glass mat: A type of [[VRLA]] battery. The plates in an AGM battery may be flat like wet cell lead-acid batteries, or they may be wound in tight spirals. In cylindrical AGM's, the plates are thin and wound, like most consumer disposable and rechargeable cells, into spirals so they are also sometimes referred to as spiral wound. Its chemical composition are electrolytes absorbed into a fiberglass mat.
+
+===Nickel-cadmium===
+{{Mainarticle|Nickel-cadmium battery}}
+Nickel-cadmium battery: This chemistry gives the longest cycle life of any currently available battery (over 1,500 cycles), but has low energy density compared with some of the other chemistries. Batteries using older technology suffer from [[memory effect]], but this has been reduced drastically in modern batteries. [[Cadmium]] is toxic to most life forms, so it poses environmental concerns. Its chemical composition is [[nickel]] for the cathode and cadmium for the anode. It is used in many domestic applications, but is being superseded by Li-ion and Ni-MH types. It has been mass produced since 1946.
+
+===Nickel metal hydride===
+{{Mainarticle|Nickel metal hydride battery}}
+Nickel metal hydride battery: Similar to a [[nickel-cadmium battery]] (NiCd) in that it also uses nickel for the cathode but it uses a [[hydride]] absorbing [[alloy]] for the anode. This makes it less detrimental to the environment. In addition, a NiMH battery can have two to three times the capacity of an equivalent size NiCd and the [[memory effect]] is not as significant. However, compared with lithium ion chemistry, the volumetric energy density is lower and self-discharge is higher. Applications for the battery include hybrid vehicles such as the [[Toyota Prius]], Toyota RAV4-EV all-electric plug-in Electric car, and consumer electronics. It was made available in 1983. The most advanced versions, up to 105 amp-hours, were made by a partnership between Panasonic and Toyota. These are the standard battery for all-electric EVs capable of lasting longer than the life of the vehicle while yielding a range more than 100 miles on a charge, adequate acceleration, and modest weight.
+
+===Lithium ion===
+{{Mainarticle|Lithium ion battery}}
+Lithium ion battery: A relatively modern battery chemistry that offers a very high charge density (i.e. a light battery will store a lot of energy) and which does not suffer from any [[memory effect]] whatsoever. Its chemical composition is LiCoO<sub>2</sub>, LiMn<sub>2</sub>O<sub>4</sub>, LiNiO<sub>2</sub> or Li-Ph for the cathode and [[carbon]] for the anode. Applications include [[laptop computer]]s, [[camera phone]]s, some rechargeable [[MP3 player]]s, and most other portable, rechargeable digital equipment. [[Tesla Motors|Tesla]], [[REVA|Reva]] and [[Kewet]] are all releasing new lithium ion battery electric car models in 2007. Lithium ion batteries were introduced around 1990.  The problems with Lithium batteries include volatility, thermal runaway, high cost, and limited shelf and cycle life.
+
+===Lithium ion polymer===
+{{Mainarticle|Lithium ion polymer battery}}
+Lithium ion polymer battery: Similar characteristics to lithium-ion, but with slightly less [[charge density]] and a greater life cycle degradation rate. An advantage over regular lithium-ion is ultra-slim design, as little as 1 mm thick. Disadvantages would be if the battery discharges below a certain voltage it may never be able to hold a charge again, also if overcharged the battery becomes extremely unstable and may explode. Applications include ultra-slim cells for [[personal digital assistant]]s (PDA). They were released in 1996.
+
+===Sodium-sulfur===
+{{Mainarticle|Sodium-sulfur battery}}
+Sodium-sulfur battery: Exhibits a high energy density, high efficiency of charge/discharge (89—92%), long cycle life, and is made from inexpensive, non-toxic materials. However, the operating temperature of 300 to 350 °C and the highly corrosive nature of sodium make it suitable only for large-scale non-mobile applications. A suggested application is grid energy storage in the electric grid.
+
+===Nickel-zinc===
+{{Mainarticle|Nickel-zinc battery}}
+Nickel-zinc battery: A type of rechargeable battery commonly used in the light [[electric vehicle]] sector. The battery is still not commonly found in the mass market, but they are considered as the next generation batteries used for high drain applications, and are expected to replace lead-acid batteries because of their higher energy density and higher power to mass ratio, up to 75% lighter for the same power. In addition they are expected to be priced somewhere in between [[nickel-cadmium battery|nickel-cadmium]] and [[lead-acid battery|lead-acid batteries]], but have twice the energy storing capacity of nickel-cadmium batteries.  Problems with Nickel-zinc include relatively high cost with limited life expectancy.
+
+===Molten salt===
+{{Mainarticle|Molten salt battery}}
+Molten salt battery: High* temperature battery that offers both a higher energy density through the proper selection of reactant pairs as well as a higher power density by means of a high conductivity molten [[salt]] electrolyte. They are used in services where high energy density and high power density are required. These features make rechargeable molten salt batteries the most promising batteries for powering electric vehicles. However, operating temperatures of 400 to 700°C bring problems with thermal management and safety, and places more stringent requirements on the rest of the battery components. Its composition includes a molten salt electrolyte.
+
+===Super iron===
+{{Mainarticle|Super iron battery}}
+Super iron battery: A new class of rechargeable electric battery. "Super-iron" is a moniker for a special kind of ferrate salt (iron(VI)): [[potassium ferrate]] or [[barium ferrate]], as used in this new class of batteries.<ref>''Dataweek'', [http://dataweek.co.za/news.asp?pklNewsID=597&pklIssueID=40&pklCategoryID=31 'Super-iron' battery shows great potential], [[26 January]] [[2000]]</ref> As of 2004, chemist [[Stuart Licht]] of the University of Massachusetts in Boston was leading research into a Super-iron battery.
+
+===Zinc-bromine flow===
+{{Mainarticle|Zinc-bromine flow battery}}
+Zinc bromide battery: A type of hybrid [[flow battery]]. A solution of [[zinc bromide]] is stored in two tanks. When the battery is charged or discharged the electrolytes are pumped through a reactor and back into the tanks. One tank is used to store the electrolyte for the positive electrode reactions and the other for the negative. Its composition includes the '''zinc bromide electrolyte'''.
+
+===Rechargeable alkaline===
+{{Mainarticle|Rechargeable alkaline battery}}
+Rechargeable alkaline battery: A variety of [[alkaline battery]] that can be recharged. It was first released in 1993, but is now out of production in most parts of the world. It is still being sold in Canada under the brand Pure Energy.
+
+== Comparison of battery types ==
+{| class="wikitable"
+!Battery type
+!Nom. cell [[voltage|volts]] (V)<ref>Nominal cell [[voltage]] (V).  Most batteries contain multiple cells, for example an automotive 12v car battery contains 6 cells * 2.0v per cells for the total of 12 volts.</ref>
+![[Energy density|Energy/ weight]]<br>(MJ/kg)
+!Energy/ weight<br>(Wh/kg)
+![[Energy density|Energy/ size]]<br>(Wh/L)
+![[Specific power|Power/ weight]]<br>(W/kg)
+!Charge/ discharge efficiency (%)
+!Energy/ consumer- price
+!Self- discharge rate (%/month)
+!Cycle durability (# of cycles)
+!Time durability
+|-
+! [[Lead-acid battery|Wet lead-acid battery]]
+| 2.1 ''or 2.2''
+| 0.11-0.14
+| 30-40
+| 60-75
+| 180
+| 70%-92%
+| 5-8 Wh/US$
+| 3%-4%
+| 500-800
+| 
+|-
+![[Gel battery|Gel lead-acid battery]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+![[Absorbed glass mat|Absorbed glass mat lead-acid battery]]
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+![[Nickel-iron battery]]
+| 1.2
+| 0.18
+| 50
+| 
+| 100
+| 65%
+|
+| 20%-40%
+|
+|
+|-
+![[Nickel-cadmium battery]]
+| 1.2
+| 0.14-0.22
+| 40-60
+| 50-150
+| 150
+| 70%-90%
+|
+| 20%
+| 2000
+|
+|-
+![[Nickel metal hydride battery]]
+| 1.2
+| 0.11-0.29
+| 30-80
+| 140-300
+| 250-1000
+| 66%
+|
+| 20%
+| 1000
+|
+|-
+![[Nickel-zinc battery]]
+| 
+| 0.22
+| 60
+| 170
+| 
+| 
+| high
+|
+|
+|
+|-
+![[Lithium ion battery]]
+| 3.6
+| 0.58
+| 160
+| 270
+| 1800
+| 99.9%
+| $0.20 Wh<ref>http://www.werbos.com/E/WhoKilledElecPJW.htm (which links to http://www.thunder-sky.com/home_en.asp)</ref>
+| 5%-10%
+| 1200
+|
+|-
+![[Lithium ion polymer battery]]
+| 3.7
+| 0.47-0.72
+| 130-200
+| 300
+| Over 3000<ref>http://www.a123systems.com/html/tech/power.html</ref>
+| 
+| 
+| 
+| 
+| long
+|-
+![[Sodium-sulfur battery|NaS Battery]]
+| 
+| 
+| 
+| 
+| 
+| 89%-92%
+| 
+| 
+| 
+| 
+|-
+![[Molten salt battery]]
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+| 
+|-
+![[Super iron battery]]
+| 
+| 
+| 
+|
+| 
+|
+|
+|
+|
+| 
+|-
+![[Zinc bromide battery]]
+| 
+| 
+|
+|
+|
+|
+|
+|
+|
+| 
+|-
+![[Rechargeable alkaline battery]]
+| 1.5
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|}
+
+==Recharging==
+[[Image:Charger.jpg|thumb|right|Battery charger]]
+
+The energy used to recharge rechargeable batteries mostly comes from [[mains electricity]] using an adapter unit.
+
+Recharging backup batteries using off-peak energy paid for by on-peak excess electric power from residential [[solar panels]] exactly matches the critical peak shortage and nighly electric surplus. This load-leveling function helps elminate the need for expensive peaker units and helps amortize the cost of generators over more hours of operation.
+
+Recharging from the 12V battery of a car is also possible. Use of a [[Electrical generator|hand generator]] is also possible, but it is not clear if such devices are commercially made.
+
+Most [[battery charger]]s take several hours to recharge a battery.  Most batteries can be charged in far less time than the most common simple battery chargers are capable of.  [[Duracell]] now sells a charger that can recharge AA- and AAA-size NiMH batteries in just 15 minutes.
+
+== Dynamos ==
+For uses like [[clockwork radio|radios]] and [[flashlight]]s, rechargeable batteries may be replaced by clockwork mechanisms or [[electrical generator|dynamos]].
+
+=== Recharging battery electric vehicles ===
+{{Main|Battery electric vehicle}}
+Recharging an EV using off-peak energy paid for by on-peak excess electric power from residential [[solar panels]] exactly matches the critical peak shortage and nighly electric surplus. 
+
+While EVs can charge slowly at night, raising the nightly low electric use, solar panels can lower the daytime peak, flattening the daily usage curve and lowering the cost of electric power for all users.
+
+==Reverse charging==
+Reverse charging is when a rechargeable battery is recharged with its [[polarity]] reversed. Reverse charging can occur under a number of circumstances, the two most important being: 
+
+* When a battery is incorrectly inserted into a [[battery charger|charger]].
+* When multiple batteries are used in [[series and parallel circuits|series]] in a device. When one battery completely discharges ahead of the rest, the other batteries in series may force the discharged battery to discharge to below zero voltage.
+
+It can cause damage to the battery.
+
+==See also==
+{{portal|energy}}
+*[[Battery pack]]
+*[[Battery electric vehicle]]
+*[[Fuel cell]]
+*[[Mercury-containing and Rechargeable Battery Management Act]]
+*[[Trickle charging]]
+*[[List of battery sizes]]
+
+==External links==
+*[http://www.batteryuniversity.com/ Battery University]
+*[http://www.buchmann.ca/ Batteries in a Portable World]
+*[http://www.battery-faq.com/ Battery-FAQ]
+*[http://science.howstuffworks.com/battery.htm How Stuff Works - Batteries]
+*[http://www.sciam.com/askexpert_question.cfm?articleID=000392D5-589B-1C72-9EB7809EC588F2D7 Scientific American - How Rechargeable Batteries Work]
+
+==References==
+<!-- MORE Please-->
+<references/>
+
+[[Category:Batteries]]
+[[Category:Rechargeable batteries|*]]
