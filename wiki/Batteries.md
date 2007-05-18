@@ -9,15 +9,29 @@ tags:
 Batteries in Open source electric vehicles are based on the **Open
 Source Battery Project**.
 
-It is at least possible for EV/Hybrid batteries to be built for
-significantly less than the current models are selling for. All that's
-missing is a good solid 'Open Source' design.
+Open Source Battery Project
+---------------------------
 
-To this end, appeared a new group to attempt to design just such a
-system, for building batteries for much less than they are being sold.
+The OSBP4EVs is an attempt to gather the expertise of many to design low
+cost battery solutions for Electric Vehicles and Hybrids, in a good
+solid 'Open Source' design.
 
-At the very least you will have the opportunity to understand the
-battery and battery managements systems better than ever.
+The primary goal will be to design car sized batteries using cheap off
+the [shelf cells](shelf_cell "wikilink") such as [Lithium
+Ion](/wiki/Lithium_Ion "wikilink") or [Nickel Metal
+Hydride](/wiki/Nickel_Metal_Hydride "wikilink"), for building batteries for
+much less than they are being sold.
+
+It addition a suitable [charger](charger "wikilink")/[battery management
+system](battery_management_system "wikilink") needs to be designed that
+can charge and maintain these packs.
+
+We feel that inexpensive [DIY](w:DIY "wikilink") batteries of this type
+will give home built EV and Hybrid vehicles greater range and provide
+more options for the builders.
+
+Also you will have the opportunity to understand the battery, chargers
+and battery managements systems better than ever.
 
 Official website: <http://autos.groups.yahoo.com/group/OSBP4EVs/>
 
