@@ -1,0 +1,85 @@
+A '''nickel metal hydride battery''', abbreviated '''NiMH''', is a type of [[rechargeable battery]] similar to a [[nickel-cadmium battery|nickel-cadmium]] ([[Nickel|Ni]][[Cadmium|Cd]]) battery but has a hydrogen-absorbing [[alloy]] for the [[anode]] instead of [[cadmium]]. Like in NiCd batteries, [[nickel]] is the [[cathode]]. A NiMH battery can have two to three times the capacity of an equivalent size NiCd and the [[memory effect]] is not as significant.  However, compared to the [[lithium-ion battery]], the [[volumetric]] [[energy density]] is lower and self-discharge is higher.  
+
+Applications of NiMH type batteries includes [[hybrid vehicle]]s such as the [[Toyota]] [[Prius]] and consumer electronics. The NiMH technology will also be used on the [[Alstom]] [[Citadis]] [[low floor]] [[tram]] ordered for [[Nice]], [[France]]; as well as the humanoid prototype robot [[ASIMO]] designed by [[Honda]].  Standard NiMH batteries perform better with moderate drain devices such as [[digital camera]]s, [[flashlight]]s, and other consumer electronics. Because NiCd batteries have lower [[internal resistance]], they still have the edge in very high current drain applications such as cordless [[power tool]]s and [[RC car]]s.
+
+==Charging==
+[[Image:Charge_NiMH.svg|thumb|400px|NIMH Charge curve]]
+
+The charging voltage is 1.4-1.6 V/cell.[http://www.duracell.com/oem/rechargeable/Nickel/methods.asp]
+Duracell recommends "a maintenance charge of indefinite duration at C/300 rate".
+A fully charged cell measures 1.35-1.4 V (unloaded), and supplies a nominal average 1.2V during discharge, down to about 1.0V (further discharge may cause permanent damage).  
+Voltage Depression ("Memory Effect") from repeated partial discharge can occur, but is reversible through charge cycling.
+[http://www.duracell.com/oem/rechargeable/Nickel/voltdep.asp]
+
+When fast-charging, it is advisable to charge the NiMH batteries with a smart [[battery charger]] to avoid overcharging, which can damage batteries and cause dangerous conditions.  Modern NiMH batteries contain [[catalyst]]s to immediately deal with gases developed as a result of over-charging without being harmed (2 H<sub>2</sub> + O<sub>2</sub> ---catalyst--> 2 H<sub>2</sub>O). However, this only works with over-charging [[Current (electricity)|currents]] of up to ''C''/10&nbsp;h (nominal capacity divided by 10 hours). As a result of this reaction, the batteries will heat up considerably, marking the end of the charging process.  Some quick chargers have a fan to keep the batteries cool.
+
+Some equipment manufacturers consider that NiMH can be safely charged in simple fixed (low) current chargers with or without timers, and that permanent over-charging is permissible with currents up to ''C''/10&nbsp;h. In fact, this is what happens in cheap cordless phone base stations and the cheapest battery chargers. Although this may be safe, it may not be good for the health of the battery. According to the [[Panasonic]] NiMH charging manual (link below), permanent trickle charging (small current overcharging) can cause battery deterioration and  the trickle charge rate should be limited to between 0.033&times;''C'' per hour and 0.05&times;''C'' per hour for a maximum of 20 hours to avoid damaging the batteries.
+
+Long-term maintenance charge of NiMH batteries needs to be by low [[duty cycle]] pulses of high current rather than continuous low current in order to preserve battery health.
+
+Brand new batteries, or batteries which have been unused for some time, need "reforming" to reach their full capacity. For this reason new batteries may need several charge/discharge cycles before they operate to their advertised capacity.
+
+==Discharging==
+Care must also be taken during discharge to ensure that one or more cells in a series-connected battery pack, like the common arrangement of four [[AA battery|AA]] cells in series in a [[digital camera]], do not become completely discharged and go into [[Reverse charging|polarity reversal]].  Cells are never absolutely identical, and inevitably one will be completely discharged before the others.  When this happens, the "good" cells will start to "drive" the discharged cell in reverse, which can cause permanent damage to that cell.  Some cameras, [[Global Positioning System|GPS receivers]] and [[Personal digital assistant|PDA]]s detect the safe end-of-discharge voltage of the series cells and shut themselves down, but devices like flashlights and some toys do not.  Once noticeable dimming or slowing of the device is noticed, it should be turned off immediately to avoid polarity reversal.  A single cell driving a load won't suffer from polarity reversal, because there are no other cells to reverse-charge it when it becomes discharged.
+
+NiMH chemistry has a somewhat higher self-discharge rate than the NiCd chemistry. The self-discharge is 5-10% on the first day{{Fact|date=February 2007}}, and stabilizes around 0.5-1% per day at [[room temperature]].  The rate is strongly affected by the temperature at which the batteries are stored with cooler storage temperatures leading to slower discharge rate and longer battery life. The highest capacity cells on the market (> 2300mAh) are reported to have the highest discharge rates.
+
+===Low Self Discharge Batteries===
+A new type of nickel metal hydride battery was introduced in 2006 that claims to reduce self discharge, and therefore lengthen shelf life. By using a new separator, manufacturers claim between 70 to 85% of capacity is retained after one year, when stored at 20 degrees Celsius (68F). These cells are marketed as "ready to use" rechargeables, and are targeted towards typical consumers who use their digital cameras only a few times a year. Besides the longer shelf life, they are otherwise similar to normal NiMH batteries of equivalent capacity, and can be charged in typical NiMH chargers.
+Some brands that are currently available on the market (May 2007) are [[Accupower]] Acculoop, [[Ansmann]] MaxE range, [[Gold Peak]] [[ReCyko]], [[Kodak]] Pre Charged, [[Nexcell]] EnergyOn, [[Panasonic R2]], [[Rayovac]] Hybrid, [[Sanyo]] [[Eneloop]], Titanium Power Enduro, [[Uniross]] Hybrio, and [[VARTA]] Ready2use. These appear to be available in AA and AAA sizes only, and have less capacity (2000~2100mAh in AA) than the current generation of high capacity cells (2800mAh, AA).
+
+==History and other information==
+
+
+
+[[Image:NiMH 2500mAh.jpg|thumb|150px|Modern, high capacity NiMH rechargeable batteries]]
+
+NiMH battery technology was developed at the end of the 1980's and commercialised first by the Matsushita Company {{Fact|date=April 2007}}.
+
+see discussion in "History..."  on earlier invention and pioneering development (1964) and patent application filed in 1967.  
+       
+
+------------------------------------------------------------------------------------------------------
+
+Common penlight-size (AA) batteries have nominal capacities ''C'' ranging from 1100 [[Milliampere-hour|mA·h]]  to 2700 mA·h at 1.2 V, usually rated at 0.2×''C'' rate. Useful discharge capacity is an inverse function of the discharge rate, but up to around 1×''C'' rate, there is no significant difference.  NiMH batteries have an [[alkaline]] [[electrolyte]], usually [[potassium hydroxide]]. The specific [[energy density]] for NiMH material is approximately 70&nbsp;[[watt-hour|W·h]]/[[kilogram|kg]] (250 kJ/kg), with a volumetric [[energy density]] of about 300&nbsp;W·h/[[Liter|L]] (360 MJ/m³).
+
+Sometimes, voltage-sensitive devices won't perform well because the voltage is lower than disposable batteries at equivalent sizes.  Even though the voltage is lower, it can be beneficial for the length of the discharge cycle.
+
+Cadmium is poisonous, so NiMH batteries are less detrimental to the environment than NiCd batteries. [[Recycling#Batteries|Battery recycling]] programs exist to take care of end-of-life batteries.
+
+==Chemistry==
+
+The [[anode]] reaction occurring in a NiMH battery is as follows:
+H<sub>2</sub>O + Mm + e<sup>−</sup> ↔ OH<sup>−</sup> + Mm-H
+The battery is charged in the right direction of this equation and discharged in the left direction.
+[[Nickel(II) hydroxide]] forms the cathode.
+
+The "metal" in a NiMH battery is actually an [[intermetallic]] compound.  Many different compounds have been developed for this application, but those in current use fall into two classes.  The most common is AB<sub>5</sub>, where A is a [[rare earth element|rare earth]] mixture of [[lanthanum]], [[cerium]], [[neodymium]], [[praseodymium]] and B is [[nickel]], [[cobalt]], [[manganese]], and/or [[aluminum]]. Very few batteries use higher-capacity negative material electrodes based on AB<sub>2</sub> compounds, where A is titanium and/or [[vanadium]] and B is [[zirconium]] or nickel, modified with [[chromium]], cobalt, [[iron]], and/or manganese, due to the reduced life performances [http://www.cobasys.com/pdf/tutorial/inside_nimh_battery_technology.pdf].
+
+Any of these compounds serves the same role, reversibly forming a mixture of metal hydride compounds.  When [[hydrogen ion]]s are forced out of the [[potassium hydroxide]] [[electrolyte]] solution by the [[voltage]] applied during charging, this process prevents them from forming a gas, allowing a low pressure and volume to be maintained.  As the battery is discharged, these same [[ion]]s are released to participate in the reverse reaction.
+
+== Advantages vs. Alkaline ==
+NiMH batteries and chargers are readily available in retail stores in common sizes: AAA, AA, C and D.  They are not expensive, and the voltage and performance is similar to standard Alkaline batteries in those sizes; they can be substituted for most purposes -- digital cameras are a particularly good use.  The ability to recharge hundreds of times can save a lot of money and resources.  Unlike NiCd rechargable batteries, NiMH do not contain heavy metals, or other materials of special concern.  The drawback of NiMH is that they lose about 1% of their charge per day.  This is not a problem in the short term, but makes them unsuitable for many light-duty uses, such as clocks, remote controls or safety devices, where the battery would normally be expected to last many months or years.
+
+NiMH batteries are particularly advantageous for high current drain applications. Alkaline batteries, which might have approximately 3000mAh capacity under low current demand (200mA) will have less than 1000mAh capacity under 1000mA (reference). Digital cameras with LCD's and flash lights can drain over 1A, quickly depleting Alkaline batteries after few shots. NiMH can handle these current levels and maintain their full capacity. 
+
+Applications that require frequent replacement of the battery, such as toys or video game controllers also benefit from use of rechargeable batteries. With the development of low self discharge NiMH's (see section above), many of occasional use applications can be replaced with NiMH rechargeables.
+
+[[Lithium ion]] batteries are more compact than nickel metal hydride batteries.<ref>http://sg.biz.yahoo.com/070123/1/464td.html</ref>
+
+==References==
+* [http://www.electroenergyinc.com/products/technicalpapers/BipolarNickel.pdf Bipolar Nickel Metal Hydride Battery by Martin G. Klein, Michael Eskra, Robert Plivelich and Paula Ralston]
+<References />
+
+==See also==
+
+==External links==
+*[http://www.batteryuniversity.com/ BatteryUniversity.com]
+*[http://wireless.berkeley.edu/services/battery.shtml Battery Care & Tips]
+*[http://www.duracell.com/oem/rechargeable/Nickel/nickel_metal_tech.asp Duracell Ni-MH Technical Bulletin]
+*[http://data.energizer.com/QuickSearch_Action.aspx?group=13&name=NiMH%20Rechargeable Energizer Ni-MH Battery Datasheets]
+
+[[Category:Rechargeable batteries]]
+[[Category:NiMH batteries]]
+[[Category:Metal hydrides]]
+[[Category:Nickel]]
