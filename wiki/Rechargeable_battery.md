@@ -73,11 +73,12 @@ lead-acid battery chemistry was invented in 1859.
 
 #### Gel
 
-![A gel battery](Bleigelakku.jpg "fig:A gel battery") Gel battery: A
-type of [VRLA](/wiki/VRLA "wikilink") battery that uses gelified electrolyte.
-Unlike a traditional wet cell lead-acid battery, the cells of a gel
-battery are valve-regulated. Its applications include automobiles,
-motorcycle, boats, aircraft, and other motorized vehicles.
+![A gel battery](Bleigelakku.jpg "A gel battery")
+
+Gel battery: A type of [VRLA](/wiki/VRLA "wikilink") battery that uses
+gelified electrolyte. Unlike a traditional wet cell lead-acid battery,
+the cells of a gel battery are valve-regulated. Its applications include
+automobiles, motorcycle, boats, aircraft, and other motorized vehicles.
 
 #### Absorbed glass mat
 
