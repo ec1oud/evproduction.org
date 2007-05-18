@@ -8,10 +8,6 @@ tags:
  - Lithium
 ---
 
-|             |                                                         |                                                           |                                                     |                |                                                            |                  |                                        |                                            |                                              |
-|-------------|---------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------|----------------|------------------------------------------------------------|------------------|----------------------------------------|--------------------------------------------|----------------------------------------------|
-| {{Batteries | EtoW=160 [Wh](/wiki/Watt_hour "wikilink")/[kg](kg "wikilink") | EtoS=270 [Wh](Watt_hour "wikilink")/[L](Liter "wikilink") | PtoW=1800 [W](Watts "wikilink")/[kg](kg "wikilink") | CtoDE=99.9%[1] | EtoCP=2.8 [Wh](Watt_hour "wikilink")/[US$](USD "wikilink") | SDR=5%-10%/month | TD=(24-36) [months](months "wikilink") | CD=1200 [cycles](Cycle#physics "wikilink") | NomV=1.2 / 3.6 / 3.7 [V](Volts "wikilink")}} |
-
 **Lithium-ion batteries** (sometimes abbreviated **Li-ion batteries**)
 are a type of [rechargeable battery](rechargeable_battery "wikilink")
 commonly used in consumer electronics. They are currently one of the
@@ -30,10 +26,10 @@ History
 
 Lithium ion batteries, first proposed in the 1960s, came into reality
 once [Bell Labs](/wiki/Bell_Labs "wikilink") developed a workable graphite
-anode[2] to provide an alternative to lithium metal, the [lithium
+anode[1] to provide an alternative to lithium metal, the [lithium
 battery](lithium_battery "wikilink"). Following groundbreaking cathode
 research by a team led by [John
-Goodenough](/wiki/John_Goodenough "wikilink")[3] then at [Oxford
+Goodenough](/wiki/John_Goodenough "wikilink")[2] then at [Oxford
 University](/wiki/Oxford_University "wikilink"), now at the [University of
 Texas](/wiki/University_of_Texas "wikilink"), Austin, the first commercial
 lithium ion battery was released by [Sony](/wiki/Sony "wikilink") in 1991.
@@ -75,7 +71,7 @@ rate of approximately 5% per month, compared with over 30% per month in
 
 According to one manufacturer, Li-ion cells (and, accordingly, "dumb"
 Li-ion batteries) do not have any self-discharge in the usual meaning of
-this word.[4] What looks like a self-discharge in these batteries is a
+this word.[3] What looks like a self-discharge in these batteries is a
 permanent loss of capacity, described in more detail below. On the other
 hand, "smart" Li-ion batteries do self-discharge, due to the small
 constant drain of the built-in voltage monitoring circuit. This drain is
@@ -88,7 +84,7 @@ dependent upon aging from time of manufacturing (shelf life) regardless
 of whether it was charged, and not just on the number of
 charge/discharge cycles. So an older battery will not last as long as a
 new battery due solely to its age, unlike other batteries. This drawback
-is not widely publicized.[5]
+is not widely publicized.[4]
 
 At a 100% charge level, a typical Li-ion [laptop](laptop "wikilink")
 battery that is full most of the time at 25 degrees
@@ -102,7 +98,7 @@ manufactured, and occurs even when the battery is unused. Different
 storage temperatures produce different loss results: 6% loss at 0 °C(32
 °F), 20% at 25 °C(77 °F), and 35% at 40 °C(104 °F). When stored at 40%
 charge level, these figures are reduced to 2%, 4%, 15% at 0, 25 and 40
-degrees Celsius respectively.[6]
+degrees Celsius respectively.[5]
 
 Li-ion batteries can even go into a state that is known as *Deep
 Discharge*. At this point, the battery may take a very long time to
@@ -127,7 +123,7 @@ longer lifetime out of a Li-ion battery.
 A stand-alone Li-ion cell must never be discharged below a certain
 voltage to avoid irreversible damage. Therefore all systems involving
 Li-ion batteries are equipped with a circuit that shuts down the system
-when the battery is discharged below the predefined threshold.[7] It
+when the battery is discharged below the predefined threshold.[6] It
 should thus be impossible to "deep discharge" the battery in a properly
 designed system during normal use. This is also one of the reasons
 Li-ion cells are rarely sold as such to consumers, but only as finished
@@ -148,7 +144,7 @@ Li-ion chemistry is not safe as such, and a Li-ion cell requires several
 mandatory safety devices to be built in before it can be considered safe
 for use outside of a laboratory. These are: shut-down separator (for
 overtemperature), tear-away tab (for internal pressure), vent (pressure
-relief), and thermal interrupt (overcurrent/overcharging).[8] The
+relief), and thermal interrupt (overcurrent/overcharging).[7] The
 devices take away useful space inside the cells, and add an additional
 layer of unreliability. Typically, their action is to permanently and
 irreversibly disable the cell.
@@ -163,7 +159,7 @@ overcharging) and a back-up pressure valve.
 
 There is ongoing research to develop alternative Li-ion chemistries that
 would be safe with fewer or no safety devices, such as [Valence
-Technology](/wiki/Valence_Technology "wikilink").[9]
+Technology](/wiki/Valence_Technology "wikilink").[8]
 
 ![A lithium ion battery from a mobile
 phone](Lithium_Ion.JPG "A lithium ion battery from a mobile phone")
@@ -174,7 +170,7 @@ Specifications and design
 -   Specific energy density: 150 to 200 [W·h](watt-hour "wikilink")/kg
     (540 to 720 [kJ](kilojoule "wikilink")/kg)
 -   Volumetric energy density: 250 to 530 W·h/L (900 to 1900 J/cm3)
--   Specific power density: 300 to 1500 W/kg (@ 20 seconds[10] and 285
+-   Specific power density: 300 to 1500 W/kg (@ 20 seconds[9] and 285
     W·h/L)
 
 A typical chemical reaction of the Li-ion battery is as follows:
@@ -256,23 +252,23 @@ Guidelines for prolonging Li-ion battery life
     lithium-ion batteries should be charged early and often. However, if
     they are not used for a longer time, they should be brought to a
     charge level of around 40%. Lithium-ion batteries should never be
-    "deep-cycled" like Ni-Cd batteries.[11]
+    "deep-cycled" like Ni-Cd batteries.[10]
 -   Li-ion batteries should be kept cool. Ideally they are stored in a
     refrigerator. Aging will take its toll much faster at high
     temperatures. The high temperatures found in cars cause lithium-ion
     batteries to degrade rapidly.
 -   Lithium-ion batteries should never be depleted to empty (0%).
--   According to one book,[12] lithium ion batteries should not be
+-   According to one book,[11] lithium ion batteries should not be
     frozen (should not be stored under -40 °C), because most lithium-ion
     battery electrolytes freeze at approximately −40 °C (this is much
     colder than the lowest temperature reached by household freezers,
     however).
 -   Li-ion batteries should be bought only when needed, because the
-    aging process begins as soon as the battery is manufactured.[13]
+    aging process begins as soon as the battery is manufactured.[12]
 -   When using a notebook computer running from fixed line power over
     extended periods, the battery can be removed and stored in a cool
     place so that it is not affected by the heat produced by the
-    computer.[14]
+    computer.[13]
 
 ### Storage temperature and charge
 
@@ -287,19 +283,19 @@ storage at a given charge level and temperature.
 | 25 °C (77 °F)                       | **4%** loss after 1 year  | **20%** loss after 1 year       |
 | 40 °C (104 °F)                      | **15%** loss after 1 year | **35%** loss after 1 year       |
 | 60 °C (140 °F)                      | **25%** loss after 1 year | **40%** loss after **3 months** |
-| ''Source: BatteryUniversity.com[15] |                           |                                 |
+| ''Source: BatteryUniversity.com[14] |                           |                                 |
 
 It is significantly beneficial to avoid storing a lithium-ion battery at
 full charge. A Li-ion battery stored at 40% charge will last many times
 longer than one stored at 100% charge, particularly at higher
-temperatures.[16]
+temperatures.[15]
 
 If a Li-ion battery is stored with too low a charge, there is a risk of
 allowing the charge to drop below the battery's low-voltage threshold,
 resulting in an unrecoverably dead battery. Once the charge has dropped
 to this level, recharging it can be dangerous. An internal safety
 circuit will therefore open to prevent charging, and the battery will be
-for all practical purposes dead.[17]
+for all practical purposes dead.[16]
 
 In circumstances where a second Li-ion battery is available for a given
 device, it is recommended that the unused battery be discharged to 40%
@@ -311,7 +307,7 @@ Controversy
 -----------
 
 Lithium-ion batteries can easily rupture, ignite, or explode when
-exposed to high temperatures,[18] or direct sunlight. They should not be
+exposed to high temperatures,[17] or direct sunlight. They should not be
 stored in a car during hot weather. Short-circuiting a Li-ion battery
 can cause it to ignite or explode. Never open a Li-ion battery's casing.
 Li-ion batteries contain safety devices that protect the cells inside
@@ -328,7 +324,7 @@ mid-2006 recall of 10 million Sony batteries used in
 [Sharp](/wiki/Sharp "wikilink") laptops was stated to be as a consequence of
 internal contamination with metal particles. Under some circumstances,
 these can pierce the separator, rapidly converting all of the energy in
-the cell to heat.[19] However, there are problems that go beyond this
+the cell to heat.[18] However, there are problems that go beyond this
 and this explanation is not complete.
 
 The mid-2006 Sony laptop battery recall isn't the first of its kind, but
@@ -336,7 +332,7 @@ it is the largest. During the past decade there have been numerous
 recalls of lithium-ion batteries in cellular phones and laptops owing to
 overheating problems. Last December, Dell pulled about 22,000 batteries
 from the U.S. market. In 2004, Kyocera Wireless recalled about 1 million
-batteries used in phones.[20] In March 2007, Lenovo recalled another
+batteries used in phones.[19] In March 2007, Lenovo recalled another
 205,000 9-cell lithium ion batteries because of an explosion risk.
 
 "It is possible to replace the lithium cobalt oxide cathode material in
@@ -345,12 +341,12 @@ explode and even have a longer shelf life. But for the moment these
 safer li-ion batteries seem mainly destined for electric cars and other
 large-capacity applications, where the safety issues are more
 critical... The fact is that lithiated metal phosphate batteries hold
-only about 75 percent as much power..."[21]
+only about 75 percent as much power..."[20]
 
 New technology
 --------------
 
-In February 2005, [Altairnano](/wiki/Altairnano "wikilink"),[22] a small firm
+In February 2005, [Altairnano](/wiki/Altairnano "wikilink"),[21] a small firm
 based in [Reno, Nevada](/wiki/Reno,_Nevada "wikilink"), announced a nano-sized
 titanate electrode material for lithium-ion batteries. Its prototype
 battery has three times the power of existing batteries and can be fully
@@ -360,7 +356,7 @@ are much longer, estimated to be around 20 years or four times longer
 than regular lithium-ion batteries. The batteries can operate from -50
 °C to over 75 °C and will not explode or result in thermal runaway even
 under severe conditions because they do not contain
-graphite-coated-metal anode electrode material.[23] The batteries are
+graphite-coated-metal anode electrode material.[22] The batteries are
 currently being tested in a new production car made by [Phoenix
 Motorcars](/wiki/Phoenix_Motorcars "wikilink") which was on display at the
 2006 SEMA motorshow.
@@ -369,12 +365,12 @@ In March of 2005, Toshiba announced another fast charging lithium-ion
 battery, based on new nano-material technology, that provides even
 faster charge times, greater capacity, and a longer life cycle. The
 battery may be used in commercial products in 2006 or early 2007,
-primarily in the industrial and automotive sectors.[24]
+primarily in the industrial and automotive sectors.[23]
 
-In November 2005, [A123Systems](/wiki/A123Systems "wikilink") announced[25] a
-new higher power, faster recharging Li-Ion battery system[26][27] based
+In November 2005, [A123Systems](/wiki/A123Systems "wikilink") announced[24] a
+new higher power, faster recharging Li-Ion battery system[25][26] based
 on research licensed from MIT. Their first cell is in production
-(1Q/2006)[28] and being used in [DeWalt](/wiki/DeWalt "wikilink") power tools
+(1Q/2006)[27] and being used in [DeWalt](/wiki/DeWalt "wikilink") power tools
 and [Hybrids Plus](/wiki/Hybrids_Plus "wikilink") Prius
 [PHEV](/wiki/PHEV "wikilink") conversions (although the conversion costs more
 than the original price of the car, mostly due to the price of the
@@ -391,11 +387,11 @@ capacity (ampere-hours) is increased only slightly.
 In April 2006, a group of scientists at [MIT](/wiki/MIT "wikilink") announced
 that they had figured out a way to use viruses to form nano-sized wires
 that can be used to build ultrathin lithium-ion batteries with three
-times the normal energy density.[29]
+times the normal energy density.[28]
 
 As of June 2006, researchers in France have created nanostructured
 battery electrodes with several times the energy capacity, by weight and
-volume, of conventional electrodes.[30]
+volume, of conventional electrodes.[29]
 
 References
 ----------
@@ -415,28 +411,28 @@ External links
 -   [Charging-the-Lithium-Ion-Battery](http://www.e-articles.info/e/a/title/Charging-the-Lithium-Ion-Battery/)
 -   [Advantages-and-Limitations-of-the-Lithium-Polymer-Battery](http://www.e-articles.info/e/a/title/Advantages-and-Limitations-of-the-Lithium-Polymer-Battery/)
 
-[1] <http://www.batteryuniversity.com/partone-12.htm>
-
-[2] [USPTO link for Bell Labs graphite
+[1] [USPTO link for Bell Labs graphite
 work](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=8&f=G&l=50&co1=AND&d=PTXT&s1=Basu.INNM.&s2=graphite&OS=IN/Basu+AND+graphite&RS=IN/Basu+AND+graphite)
 
-[3] [USPTO search for inventions by "Goodenough,
+[2] [USPTO search for inventions by "Goodenough,
 John"](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=IN%2F%22goodenough%22&Refine=Refine+Search&Refine=Refine+Search&Query=in%2F%22goodenough%2C+john%22)
 
-[4] 
+[3] 
 
-[5] <http://www.buchmann.ca/Article5-Page1.asp>
+[4] <http://www.buchmann.ca/Article5-Page1.asp>
 
-[6] [BatteryUniversity.com: how to prolong lithium-based
+[5] [BatteryUniversity.com: how to prolong lithium-based
 batteries](http://www.batteryuniversity.com/parttwo-34.htm)
 
-[7] Gold Peak Industries Ltd., Lithium Ion technical handbook
+[6] Gold Peak Industries Ltd., Lithium Ion technical handbook
+
+[7] 
 
 [8] 
 
-[9] 
+[9] <http://www.e-one.com.tw/News_2005_e.htm>
 
-[10] <http://www.e-one.com.tw/News_2005_e.htm>
+[10] 
 
 [11] 
 
@@ -448,34 +444,32 @@ batteries](http://www.batteryuniversity.com/parttwo-34.htm)
 
 [15] 
 
-[16] 
+[16] <http://www.batteryuniversity.com/partone-12.htm>
 
-[17] <http://www.batteryuniversity.com/partone-12.htm>
+[17] <http://www.tayloredge.com/museum/mymuseum/physics/li-ion_003.mov>
 
-[18] <http://www.tayloredge.com/museum/mymuseum/physics/li-ion_003.mov>
+[18] <http://www.theinquirer.net/default.aspx?article=32550>
 
-[19] <http://www.theinquirer.net/default.aspx?article=32550>
-
-[20] Tullo, Alex. "Dell Recalls Lithium Batteries." Chemical and
+[19] Tullo, Alex. "Dell Recalls Lithium Batteries." Chemical and
 Engineering News 21 Aug 2006: 11.
 
-[21] <http://www.nytimes.com/2006/09/01/opinion/01cringely.html>
+[20] <http://www.nytimes.com/2006/09/01/opinion/01cringely.html>
 
-[22] <http://www.altairnano.com/markets_amps.html>
+[21] <http://www.altairnano.com/markets_amps.html>
 
-[23] <http://www.altairnano.com/documents/AltairnanoEDTAPresentation.pdf>
+[22] <http://www.altairnano.com/documents/AltairnanoEDTAPresentation.pdf>
 
-[24] <http://www.toshiba.co.jp/about/press/2005_03/pr2901.htm>
+[23] <http://www.toshiba.co.jp/about/press/2005_03/pr2901.htm>
 
-[25] <http://www.a123systems.com/html/news/articles/051102_news.html>
+[24] <http://www.a123systems.com/html/news/articles/051102_news.html>
 
-[26] <http://www.greencarcongress.com/2005/11/a123systems_lau.html#more>
+[25] <http://www.greencarcongress.com/2005/11/a123systems_lau.html#more>
 
-[27] <http://autos.groups.yahoo.com/group/gridable-hybrids/message/2099>
+[26] <http://autos.groups.yahoo.com/group/gridable-hybrids/message/2099>
 
-[28] <http://hybrids-plus.com/pmwiki/index.php?n=Ext.A123Cells>
+[27] <http://hybrids-plus.com/pmwiki/index.php?n=Ext.A123Cells>
 
-[29] Science Express (preprint)
+[28] Science Express (preprint)
 <http://www.sciencemag.org/cgi/content/abstract/1122716>
 
-[30] <http://www.technologyreview.com/read_article.aspx?ch=nanotech&sc=&id=17017&pg=1>
+[29] <http://www.technologyreview.com/read_article.aspx?ch=nanotech&sc=&id=17017&pg=1>

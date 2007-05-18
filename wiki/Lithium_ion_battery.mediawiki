@@ -1,17 +1,3 @@
-<!-- unless there is ongoing breaking news that affects the majority of the article, this is not {{current}} -->
-{|align=right
-| {{Batteries
-|EtoW=160 [[Watt hour|Wh]]/[[kg]]
-|EtoS=270 [[Watt hour|Wh]]/[[Liter|L]]
-|PtoW=1800 [[Watts|W]]/[[kg]]
-|CtoDE=99.9%<ref>http://www.batteryuniversity.com/partone-12.htm</ref>
-|EtoCP=2.8 [[Watt hour|Wh]]/[[USD|US$]]
-|SDR=5%-10%/month
-|TD=(24-36) [[months]]
-|CD=1200 [[Cycle#physics|cycles]]
-|NomV=1.2 / 3.6 / 3.7 [[Volts|V]]}}
-|}
-
 '''Lithium-ion batteries''' (sometimes abbreviated '''Li-ion batteries''') are a type of [[rechargeable battery]] commonly used in consumer electronics. They are currently one of the most popular types of battery for portable electronics, with one of the best energy-to-weight ratios, no [[memory effect]] and a slow loss of charge when not in use.  They can be dangerous if mistreated, however, and unless care is taken their lifespan may be reduced. A more advanced lithium-ion battery design is the [[lithium polymer cell]]. Although originally intended for consumer electronics, Lithium-ion batteries are growing in popularity with the defense and aerospace industries because of their high energy density. 
 
 ==History==
