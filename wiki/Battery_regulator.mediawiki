@@ -4,8 +4,8 @@ Regulators are most often used in [[battery electric vehicle|BEV]] battery packs
 
 ==External links==
 ===General===
-*[http://www.manzanitamicro.com/parts.htm Rudman Regulators]
-*[http://www.plasmatronics.com.au Plasmatronics]
-*[http://enviromotors.com/wiki/index.php/Sparrow/BMSSome Battery Management System]
+*[http://www.manzanitamicro.com/parts.htm Rudman Regulators].
+*[http://www.plasmatronics.com.au Plasmatronics].
+*[http://enviromotors.com/wiki/index.php/Sparrow/BMS Some Battery Management Systems].
 
 [[Category:BEV components]]

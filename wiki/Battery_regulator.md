@@ -28,7 +28,7 @@ External links
 
 ### General
 
--   [Rudman Regulators](http://www.manzanitamicro.com/parts.htm)
--   [Plasmatronics](http://www.plasmatronics.com.au)
--   [Battery Management
-    System](http://enviromotors.com/wiki/index.php/Sparrow/BMSSome)
+-   [Rudman Regulators](http://www.manzanitamicro.com/parts.htm).
+-   [Plasmatronics](http://www.plasmatronics.com.au).
+-   [Some Battery Management
+    Systems](http://enviromotors.com/wiki/index.php/Sparrow/BMS).
