@@ -52,6 +52,6 @@ Official website: http://autos.groups.yahoo.com/group/OSBP4EVs/
 ** [http://www.philpem.me.uk/elec/welder/ Very simple battery tab welder], This is the most basic inexpensive, yet effective tab welder.
 ** [http://www.sas.org/E-Bulletin/2003-10-31/labNotesAS/body.html  This one is a little more complex, but a little more versatile].   
 * misc links : Put anything that doesn't fit anywhere else in here
-** [http://www.kz1300.com/hfgc/  Effects of Room Temperature Superconductivity], [Superconductivity] Invention. 
+** [http://www.kz1300.com/hfgc/  Effects of Room Temperature Superconductivity], [[Superconductivity]] Invention. 
 ** [http://skidaddysprojectscom.com Reverse Trike / Tubing bender and other projects].
 ** [http://tinyurl.com/ tinyurl], An excellent free site that turns long links into short ones. Great for multi-line links.

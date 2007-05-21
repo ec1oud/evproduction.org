@@ -119,7 +119,7 @@ External links
 -   misc links : Put anything that doesn't fit anywhere else in here
     -   [Effects of Room Temperature
         Superconductivity](http://www.kz1300.com/hfgc/),
-        \[Superconductivity\] Invention.
+        [Superconductivity](/wiki/Superconductivity "wikilink") Invention.
     -   [Reverse Trike / Tubing bender and other
         projects](http://skidaddysprojectscom.com).
     -   [tinyurl](http://tinyurl.com/), An excellent free site that
