@@ -16,12 +16,14 @@ Official website: http://autos.groups.yahoo.com/group/OSBP4EVs/
 == See also ==
 * [[Baset trailer]]
 == Other links ==
-Hawker put out a [http://aaron.boim.com/EV/EVhandbook4hawkerBatteries.pdf useful guide for the general care of lead acid batteries].
+* [http://www.fullriver.com/fullriver/advantage.html Fullriver, Not only do they have all kinds of batteries, but they also make them special order for customers]. 
 
-They also have some [http://aaron.boim.com/EV/Hawker_BatteryApplicationHandbook.pdf other battery guides].
-Even information for the [http://aaron.boim.com/EV/Hawker_ChargingLead-Tin_Batteries.pdf charging of lead-tin batteries].
+*Hawker put out a [http://aaron.boim.com/EV/EVhandbook4hawkerBatteries.pdf useful guide for the general care of lead acid batteries].
 
-NREL published a paper on an [http://crow/~aaron/EV/InteruptChargingAlgorithm.pdf interrupt charging algorithm]
-for lead-acid batteries.
+*They also have some [http://aaron.boim.com/EV/Hawker_BatteryApplicationHandbook.pdf other battery guides].
+
+*Even information for the [http://aaron.boim.com/EV/Hawker_ChargingLead-Tin_Batteries.pdf charging of lead-tin batteries].
+
+*NREL published a paper on an [http://crow/~aaron/EV/InteruptChargingAlgorithm.pdf interrupt charging algorithm] for lead-acid batteries.
 
 [[Category:Batteries]]
