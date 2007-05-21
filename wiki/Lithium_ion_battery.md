@@ -34,10 +34,13 @@ University](/wiki/Oxford_University "wikilink"), now at the [University of
 Texas](/wiki/University_of_Texas "wikilink"), Austin, the first commercial
 lithium ion battery was released by [Sony](/wiki/Sony "wikilink") in 1991.
 Used in numerous commercial applications these batteries revolutionized
-consumer electronics. One of the latest uses is in hybrid electric cars
-and eventually electric vehicles. [Tesla](/wiki/Tesla_Motors "wikilink"),
-[Reva](/wiki/REVA "wikilink") and [Kewet](Kewet "wikilink") are all releasing
-new lithium ion battery electric car models in 2007.
+consumer electronics.
+
+One of the latest uses is in hybrid electric cars and eventually
+electric vehicles, as [commodity cells](commodity_cell "wikilink").
+[Tesla](/wiki/Tesla_Motors "wikilink"), [Reva](REVA "wikilink") and
+[Kewet](/wiki/Kewet "wikilink") are all releasing new lithium ion battery
+electric car models in 2007.
 
 Advantages and disadvantages
 ----------------------------
