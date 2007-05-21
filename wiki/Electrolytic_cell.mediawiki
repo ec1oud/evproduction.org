@@ -1,0 +1,22 @@
+{{TOCright}}
+'''Electrolytic cells''' are composed of a vessel used to do [[electrolysis]], containing [[electrolyte]], usually a [[solution]] of [[water]] or other [[solvent]]s capable of dissolving various [[ion]]s into solution, and a [[cathode]] and [[anode]].  The electrolyte in the cell is inert unless driven by external [[voltage]] into a [[redox]] reaction with the anode and cathode.  The term literally means a cell that splits up or loosens ions.
+
+==Galvanic cells compared to electrolytic cells==
+In contrast, a [[galvanic cell]], also known as a [[voltaic cell]] or an [[electrochemical cell]], generates electricity using two metals that have different reaction potentials to the electrolyte which is ionically bridged.  The ions are allowed to flow between the two solutions created when the two metals contact the electrolyte; the reaction difference of the two metals generates [[electricity]].  The difference between the two types of cells is that a  ''galvanic cell must use dissimilar metals'' which are separated, except for ions, to produce a charge whereas an '''electrolytic cell''' has both anode and cathode suspended in the same solution and is driven by an external electrical charge; further, an electrolytic cell may use the same metal for cathode and anode.
+
+==Anode and cathode marking compared to charging==
+The anode and cathode in both types of cell are marked with the [[polarity|polarities]] of the current flow.  In actual practice, the [[anode]] and the [[cathode]] in a galvanic cell swap functions during the charge portion of the cycle. Thus the electrode marked as [[anode]] for discharge is really acting as the [[cathode]] while charging and the electrode marked as [[cathode]] is actually acting as the [[anode]] during charging.  In an electrolytic cell, the [[anode]] is where the electrons come up from the solution and the oxidation reaction creates electrons from reaction with the negative anions.  The [[cathode]] reduces the ionic solution, drawing positive cations to the cathode and using electrons to reduce the cation.
+
+==Usage==
+The [[electrolysis]] of salt water or acidic water is an easy example of electrolysis.  The ionic solution is driven by current and produces hydrogen gas in a reduction reaction at the [[cathode]]  using electrons to complete the hydrogen ions.  At the [[anode]] oxygen gas is produced in an oxidizing reaction and electrons are given off as the oxygen ions combine.  These electrons then flow up the anode and through the circuit.
+
+In molten salt ([[sodium chloride]]), when a current is passed through the salt the anode oxidizes chlorine which gives off electrons to the circuit.  The cathode reduces sodium metal which deposits on the cathode using electrons to complete the sodium metal [[valence (chemistry)|valence]] shell.
+
+Commercially, electrolytic cells are used in electrorefining and [[electrowinning]] of several non-ferrous metals.  Almost all high-purity [[copper]], [[zinc]] and [[lead]] is produced industrially in electrolytic cells.
+
+==Cell types==
+* [[Concentration cell]]
+* [[Electrochemical cell]]
+* [[Galvanic cell]]
+
+[[Category:Batteries]]
