@@ -329,6 +329,7 @@ Related subjects:
 * [http://msdaif.googlepages.com/PracticalMotorsI.pdf Practical Presentation on Electric Motors]
 * [http://www.reliableplant.com/article.asp?articleid=383 Information on maximizing electric motor life] - Article
 * [http://www.evmotors.com.au Electric vehicle motors]
+* [http://www.goldenmotor.com/ Goldenmotor]
 
 [[Category:BEV components]]
 [[Category:Electric motors|*]]

@@ -1102,6 +1102,7 @@ External articles
     life](http://www.reliableplant.com/article.asp?articleid=383) -
     Article
 -   [Electric vehicle motors](http://www.evmotors.com.au)
+-   [Goldenmotor](http://www.goldenmotor.com/)
 
 [1] <http://www.tfcbooks.com/tesla/system.htm>
 
