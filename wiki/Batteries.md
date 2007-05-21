@@ -26,9 +26,9 @@ It addition a suitable [charger](charger "wikilink")/[battery management
 system](battery_management_system "wikilink") needs to be designed that
 can charge and maintain these packs.
 
-We feel that inexpensive [DIY](w:DIY "wikilink") batteries of this type
-will give home built EV and Hybrid vehicles greater range and provide
-more options for the builders.
+We feel that inexpensive [DIY](wikipedia:DIY "wikilink") batteries of
+this type will give home built EV and Hybrid vehicles greater range and
+provide more options for the builders.
 
 Also you will have the opportunity to understand the battery, chargers
 and battery managements systems better than ever.
