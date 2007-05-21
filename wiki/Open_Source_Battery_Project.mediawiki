@@ -21,24 +21,37 @@ Official website: http://autos.groups.yahoo.com/group/OSBP4EVs/
 ** [http://www.geocities.com/hempev/EVCalculator.html  Uve's Electric Vehicle Calculator] 
 ** [http://www.evconvert.com/tools/evcalc/    Another EV calculator]
 * Battery Management Systems :links to some systems for keeping your EV batteries healthy 
-**   
- 
+** [http://www.cameronsoftware.com/ev/EV_BatteryManagementSystems.html  Battery Management] 
+** [http://www.geocities.com/sorefeets/balancerland/ Info on building your own battery charge ballancer, designed by Lee Hart]
+** [http://www.metricmind.com/ac_honda/bms.htm More info on battery management systems]
+** [http://www.teslamotors.com/display_data/TeslaRoadsterBatterySystem.pdf Tesla white paper on the Tesla battery pack - and BMS- ] (pdf). 
 *EV discussion sites
-   
- 
+** [http://visforvoltage.net  V is For Voltage]. 
 *General Battery Information Sites: Where to learn about battery types, charging, strengths/weaknesses 
-   
- 
+** [http://www.buchmann.ca  Batteries in a Portable World], A handbook on rechargable batteries for non-engineers.
+** [http://www.batteryuniversity.com/index.htm  Battery University], Great site on the makeup, care and feeding of the various types of batteries in use today .
+** [http://www.greenbatteries.com/batteryterms.html  What do all these new words mean?], Glossary of Technical Battery Terminology    
 * Lithium-Ion cell information : Details specific to construction and use of lithium cells 
-   
- 
+**[http://www.batteryuniversity.com/partone-5.htm  Is Lithium-Ion the ideal battery? ].
+**[http://www.greenbatteries.com/libafa.html  Frequently Asked Questions about Lithium Ion (Li-ion) Batteries]   
 *Ni-Mh cell information : Information specific to nickel-metal hydride batteries 
-   
- 
+**[http://www.greenbatteries.com/nibafa.html  Frequently Asked Questions about NiMH Rechargeble Batteries]   
 * Sources : Where to buy cells, batteries, materials to make battery packs 
-   
- 
-* Tools : Testers, Welders, and other specialized tools for Battery Packs 
-   
- 
+**Bicycle Battery Packs 
+***[http://www.rabbittool.com/pages/ 890f.html  Bicycle Battery Packs].
+***[http://www.batteryspace.com     Hobby Battery Packs - Most Chemistries].
+**[http://www.greenbatteries.com/  Source for new Ni-Mh, Ni-Cd, Li-ion cell batteries].
+**[http://www.toolsandsupplies.com/detail.asp?product_id=SA%2045803  interconnect material].
+**[http://www.mcmaster.com interconnects in small packs].
+**[http://www.surplustraders.net/b/  Surplus Traders], good source for cheap battery cells. 
+* Tools : [[Tester]]s, Welders, and other specialized tools for [[Battery pack]]s 
+**[http://f1.grp.yahoofs.com/v1/UHxHRgFaEgXjxE3HfRPSQPTs0soZDa083gMKqrAMaOf5qPmqpGojy3C5KqPFGeGJOEZV3Wuo0Wvz4wIBlZXmYskPfksJ-9s/BATTERY_TESTER.doc  Battery Tester to measure internal ac resistance ].
+** [http://www.hobbyspotwelders.com/HSBATTERYPEN.php     Commercial]  [[Spot welder]] 
+** [http://www.5bears.com/welder.htm  Homemade Spot Welder], spot welders can be used to attach tabs to cells.
+** [http://www.teralab.co.uk/Electronics/Spot_Welder/Spot_Welder_Page1.htm Very clean DIY spot welder using a hacked microwave oven transformer. From the page: "This project is a very simple spot welder which will weld thin sheet metal. It will just about weld 0.38mm thick steel. Sheet steel half this thickness welds effortlessly. It can be used for assembling high vacuum components and making thermocouples.] 
+** [http://www.philpem.me.uk/elec/welder/ Very simple battery tab welder], This is the most basic inexpensive, yet effective tab welder.
+** [http://www.sas.org/E-Bulletin/2003-10-31/labNotesAS/body.html  This one is a little more complex, but a little more versatile].   
 * misc links : Put anything that doesn't fit anywhere else in here
+** [http://www.kz1300.com/hfgc/  Effects of Room Temperature Superconductivity], [Superconductivity] Invention. 
+** [http://skidaddysprojectscom.com Reverse Trike / Tubing bender and other projects].
+** [http://tinyurl.com/ tinyurl], An excellent free site that turns long links into short ones. Great for multi-line links.
