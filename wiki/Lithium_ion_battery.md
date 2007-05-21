@@ -393,6 +393,11 @@ As of June 2006, researchers in France have created nanostructured
 battery electrodes with several times the energy capacity, by weight and
 volume, of conventional electrodes.[29]
 
+See also
+--------
+
+-   [Commodity cell](/wiki/Commodity_cell "wikilink")
+
 References
 ----------
 
