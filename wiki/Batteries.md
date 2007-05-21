@@ -64,6 +64,6 @@ Other links
 
 <!-- -->
 
--   NREL published a paper on an [interrupt charging
+-   [NREL](/wiki/NREL "wikilink") published a paper on an [interrupt charging
     algorithm](http://crow/~aaron/EV/InteruptChargingAlgorithm.pdf) for
-    lead-acid batteries.
+    [lead-acid batteries](lead-acid_battery "wikilink").

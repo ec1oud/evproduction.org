@@ -24,6 +24,6 @@ Official website: http://autos.groups.yahoo.com/group/OSBP4EVs/
 
 *Even information for the [http://aaron.boim.com/EV/Hawker_ChargingLead-Tin_Batteries.pdf charging of lead-tin batteries].
 
-*NREL published a paper on an [http://crow/~aaron/EV/InteruptChargingAlgorithm.pdf interrupt charging algorithm] for lead-acid batteries.
+*[[NREL]] published a paper on an [http://crow/~aaron/EV/InteruptChargingAlgorithm.pdf interrupt charging algorithm] for [[lead-acid battery|lead-acid batteries]].
 
 [[Category:Batteries]]
