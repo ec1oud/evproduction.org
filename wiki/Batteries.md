@@ -65,5 +65,5 @@ Other links
 <!-- -->
 
 -   [NREL](/wiki/NREL "wikilink") published a paper on an [interrupt charging
-    algorithm](http://crow/~aaron/EV/InteruptChargingAlgorithm.pdf) for
+    algorithm](http://www.nrel.gov/awards/current_interrupt.html) for
     [lead-acid batteries](lead-acid_battery "wikilink").
