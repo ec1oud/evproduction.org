@@ -240,20 +240,29 @@ References
 <references/>
 </div>
 
+Didik Long Ranger
+-----------------
+
+The Didik Long Ranger is a hybrid gasoline/electric powered vehicle
+based on the former CitiCar/Commutacar of the 1970's updated and capable
+of carrying 3 adults at speeds of up to 85 km/h (53 mph). The vehicle
+also incorporates solar panels, so it is a [tribid](tribid "wikilink").
+
 External links
 --------------
 
 ### Projects
 
-[High School Student
-Project](http://doctord.webhop.net/Scott/Hybrid/Weller_report.htm) -
-April 2003
+-   [High School Student
+    Project](http://doctord.webhop.net/Scott/Hybrid/Weller_report.htm) -
+    April 2003\].
+-   [Didik Long Ranger](http://www.didik.com/didik_ct.htm).
 
 ### News
 
-[Man Motors On Hybrid Bicycle
-video](http://cyclesantamonica.blogspot.com/2006/09/hybrid-bike.html) -
-Sept 2006
+-   [Man Motors On Hybrid Bicycle
+    video](http://cyclesantamonica.blogspot.com/2006/09/hybrid-bike.html) -
+    Sept 2006
 
 ### Hybrid airplanes
 

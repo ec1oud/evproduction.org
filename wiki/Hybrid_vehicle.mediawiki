@@ -78,17 +78,19 @@ The technology for such infrastructure is old and well established -
 <references/>
 </div>
 
+== Didik Long Ranger ==
+The Didik Long Ranger is a hybrid gasoline/electric powered vehicle based on the former CitiCar/Commutacar of the 1970's updated and capable of carrying 3 adults at speeds of up to 85 km/h (53 mph). The vehicle also incorporates solar panels, so it is a [[tribid]]. 
+
 ==External links==
 ===Projects===
-[http://doctord.webhop.net/Scott/Hybrid/Weller_report.htm High School Student Project] - April 2003
+*[http://doctord.webhop.net/Scott/Hybrid/Weller_report.htm High School Student Project] - April 2003].
+* [http://www.didik.com/didik_ct.htm  Didik Long Ranger].
 ===News===
-[http://cyclesantamonica.blogspot.com/2006/09/hybrid-bike.html Man Motors On Hybrid Bicycle video] - Sept 2006
+*[http://cyclesantamonica.blogspot.com/2006/09/hybrid-bike.html Man Motors On Hybrid Bicycle video] - Sept 2006
 === Hybrid airplanes ===
 * [http://www.hybrid-vehicles.net/hybrid-airplanes.htm Hybrid airplanes].
 *[http://www.redorbit.com/news/science/733650/scuderi_group_secures_patent_protection_for_worlds_first_hybrid_airplane/index.html World's First Hybrid Airplane Engine].
 * http://www.ecogeek.org/content/view/131/1/  
-
-{{Energy related development}} 
 
 [[Category:Alternative propulsion]]
 [[Category:Hybrid vehicles]]
