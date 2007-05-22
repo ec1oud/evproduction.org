@@ -1,0 +1,39 @@
+The term '''solar panel''' is best applied to a flat '''[[solar thermal collector]]''', such as a [[solar hot water panel|solar hot water]] or air panel used to heat [[solar hot water|water]], air,  or otherwise collect [[solar thermal energy]].  But 'solar panel' may also refer to a '''[[Photovoltaic array|photovoltaic module]]''' which is an assembly of [[solar cell]]s used to generate [[electricity]].  In all cases, the panels are typically flat, and are available in various heights and widths.
+
+An '''array''' is a group of solar-thermal panels or photovoltaic (PV) modules; the panels can be connected either in parallel or series depending upon the design objective.  Solar panels typically find use in residential, commercial, institutional, and light industrial applications.
+
+Solar-thermal panels saw widespread use in Florida and California until the 1920s when tank-type [[water heater]]s replaced them.  A thriving manufacturing business soon dwindled.  However, solar-thermal panels are still in production, and are common in portions of the world where energy costs, and solar energy availability, are high.
+
+Recently there has been a surge toward large scale production of PV modules.  In parts of the world with significantly high [[insolation]] levels, PV output and their economics are enhanced.  PV modules are the primary component of most small-scale solar-electric power generating facilities.  Larger facilities, such as [[Solar thermal energy|solar power plants]] typically contain an array of reflectors (concentrators), a receiver, and a thermodynamic power cycle, and thus use solar-thermal rather than PV.
+
+The largest solar panel in the world is under construction in the south of [[Portugal]]. A 116-megawatt facility covering a 250-hectare south-facing hillside in the southern [[Alentejo]] region and it will produce electricity for 25,000 households.<ref name="guardian">{{cite journal
+  | last = Tremlett
+  | first = Giles 
+  | title = Huge solar power station planned for Portugal
+  | journal = The Guardian
+  | date = 6 May 2005
+  | url = http://www.guardian.co.uk/renewable/Story/0,,1477722,00.html
+  | accessdate = 25/02/2007 }}</ref>
+
+
+
+
+==See also==
+* [[Solar power]]
+* [[Active solar]]
+* [[Photovoltaics]]
+* [[Solar cells]]
+* [[Solar shingles]]
+
+== External links ==
+*[http://www.enf.cn/database/panels.html Directory of Photovoltaic Panel Manufacturers]
+*[http://www.enf.cn/database/installers.html Directory of Photovoltaic Panel Installation Companies]
+*[http://www.enf.cn/database/equipment.html Directory of Photovoltaic Panel Production Equipment Manufacturers]
+*[http://www.wattsun.com/resources/calculators/index.html Solar design calculators]
+<div style="clear:both">
+
+==References==
+<references/>
+
+[[Category:Solar energy]]
+[[Category:Solar design]]
