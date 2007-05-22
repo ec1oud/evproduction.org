@@ -6,10 +6,6 @@ tags:
  - Solar energy
 ---
 
-![250x\|right\|A **solar cell**, made from a
-[monocrystalline](monocrystalline "wikilink")
-[silicon](silicon "wikilink")
-[wafer](wafer "wikilink")](solar_cell.png "fig:250x|right|A solar cell, made from a monocrystalline silicon wafer")
 A **solar cell** or **[photovoltaic](/wiki/Photovoltaics "wikilink") cell** is
 a device that converts [light](light "wikilink")
 [energy](energy "wikilink") into [electrical](electricity "wikilink")

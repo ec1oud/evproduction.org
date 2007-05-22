@@ -1,6 +1,3 @@
-[[Image:solar cell.png|thumb|250x|right|A '''solar cell''', made from a [[monocrystalline]] 
-[[silicon]] [[wafer]]]]
-{{portal|Energy}}
 A '''solar cell''' or '''[[Photovoltaics|photovoltaic]] cell''' is a device that converts [[light]] [[energy]] into [[electricity|electrical]] energy. Sometimes the term ''solar cell'' is reserved for devices intended specifically to capture energy from sunlight, while the term ''photovoltaic cell'' is used when the light source is unspecified.
 
 Fundamentally, the device needs to fulfill only two functions: photogeneration of charge carriers ([[electron]]s and [[electron hole|holes]]) in a [[Absorption (electromagnetic radiation)|light-absorbing material]], and separation of the charge carriers to a conductive contact  that will transmit the electricity (simply put, carrying electrons off through a metal contact into a wire or other circuit). This conversion is called the ''photovoltaic effect'', and the field of research related to solar cells is known as [[photovoltaics]].
