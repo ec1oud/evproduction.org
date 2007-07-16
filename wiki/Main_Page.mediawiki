@@ -51,9 +51,9 @@ Want to break free from nuclear-[[oil dependence]], but continue to experience t
 *[http://www.osgv.org/ SSM Open Source Green Vehicle]. 
 *[http://www.fastbk.com/EVware/ EVWare]
 
-===Propietary ===
-*[http://www.myersmotors.com/ The Sparrow] was introduced in 1999, sold for a couple years, and now once again you can buy it.  It is freeway capable, but holds only one person.  Think of it as an enclosed, safer motorcycle.
-*[http://www.austinev.org/evalbum/655.html The Solectria Sunrise] did not make it into production as fast as planned, but it just might get there yet!  We're working on it...
+===Proprietary ===
+*[http://www.myersmotors.com/ The Sparrow] was introduced in 1999, sold for a couple years, and now once again you can buy it as the NmG (No more Gas).  It is freeway capable, but holds only one person.  Think of it as an enclosed, safer motorcycle.
+*[http://www.austinev.org/evalbum/655.html The Solectria Sunrise] did not make it into production as planned, but it just might get there yet!  We're working on it...
 
 ==Other technologies and parts ==
 *[[Enabling technologies]]

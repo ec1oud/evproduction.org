@@ -144,15 +144,15 @@ Other EV's
 -   [SSM Open Source Green Vehicle](http://www.osgv.org/).
 -   [EVWare](http://www.fastbk.com/EVware/)
 
-### Propietary
+### Proprietary
 
 -   [The Sparrow](http://www.myersmotors.com/) was introduced in 1999,
-    sold for a couple years, and now once again you can buy it. It is
-    freeway capable, but holds only one person. Think of it as an
-    enclosed, safer motorcycle.
+    sold for a couple years, and now once again you can buy it as the
+    NmG (No more Gas). It is freeway capable, but holds only one person.
+    Think of it as an enclosed, safer motorcycle.
 -   [The Solectria Sunrise](http://www.austinev.org/evalbum/655.html)
-    did not make it into production as fast as planned, but it just
-    might get there yet! We're working on it...
+    did not make it into production as planned, but it just might get
+    there yet! We're working on it...
 
 Other technologies and parts
 ----------------------------
