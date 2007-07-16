@@ -51,8 +51,8 @@ Specifications
 ### Estimated Performance
 
 -   top speed 80 mph
--   accelleration 0-30 mph ?
--   accelleration 0-60 mph ?
+-   acceleration 0-30 mph ?
+-   acceleration 0-60 mph ?
 -   time, 1/4-mile ?
 -   range at constant 30 mph 125 miles
 -   range at constant 60 mph 90 miles
