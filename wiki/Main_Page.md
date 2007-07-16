@@ -103,8 +103,8 @@ willing to help make it happen.
     and [online
     financing](http://www.bootstrapaustin.org/wiki/index.php/Bootstrap_Online_Financing).
 
-EVProductions vehicles and goods
---------------------------------
+EVProduction's vehicles and goods
+---------------------------------
 
 EVProduction vehicles and goods uses own solutions and as much as
 possible other open solutions, specially [OSCar](/wiki/OSCar "wikilink").
