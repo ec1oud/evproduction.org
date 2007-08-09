@@ -13,6 +13,7 @@ We think the time is right for the electric [[open source vehicle]].  It will be
 
 On these pages we aim to detail exactly how it's possible.  So read on, and keep in mind that your ideas matter too, and we want to hear about them!  We invite you to change and improve every page, and to write your own dreams.  If we work together, maybe all our wishes can be fulfilled.
 
+
 == EVProduction club == 
 
 The EVProduction club began life as a [http://groups.yahoo.com/group/EVProduction/ Yahoo mailing list]. The current plan is to collect dues from members to fund the club's projects.
