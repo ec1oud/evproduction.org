@@ -39,6 +39,10 @@ It was made from the above mold.
 Starting to look like a Car
 ---------------------------
 
-Pictures - August 31m 2007
+Pictures - August 31th 2007
 
-![Back and Side](Freedom_1.jpeg "Back and Side")
+![Back and Side](Freedom_1.jpeg "fig:Back and Side") ![Front and
+Side](Freedom_2.jpeg "fig:Front and Side")
+![Profile](Freedom_3.jpeg "fig:Profile")
+![Back](Freedom_4.jpeg "fig:Back") ![](Freedom_5.jpeg "fig:")
+![](Freedom_6.jpeg "fig:")
