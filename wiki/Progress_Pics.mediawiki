@@ -40,14 +40,13 @@ Pictures - August 31th 2007
 
 [[Category:Freedom EV]]
 
-
 {|
 |-
-|  
-[[Image:Freedom 1.jpeg|thumb|Back and Side]]
-[[Image:Freedom_2.jpeg|thumb|Front and Side]]
-[[Image:Freedom 3.jpeg|thumb|Profile]]
-[[Image:Freedom 4.jpeg|thumb|Back]]
-[[Image:Freedom 5.jpeg|thumb|]]
-[[Image:Freedom 6.jpeg|thumb|]]
+|
+|  [[Image:Freedom 1.jpeg|thumb|Back and Side]]
+|| [[Image:Freedom_2.jpeg|thumb|Front and Side]]
+|| [[Image:Freedom 3.jpeg|thumb|Profile]]
+|| [[Image:Freedom 4.jpeg|thumb|Back]]
+|| [[Image:Freedom 5.jpeg|thumb|]]
+|| [[Image:Freedom 6.jpeg|thumb|]]
 |}
