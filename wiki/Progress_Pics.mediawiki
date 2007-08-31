@@ -42,7 +42,6 @@ Pictures - August 31th 2007
 
 {|
 |-
-|
 |  [[Image:Freedom 1.jpeg|thumb|Back and Side]]
 || [[Image:Freedom_2.jpeg|thumb|Front and Side]]
 || [[Image:Freedom 3.jpeg|thumb|Profile]]
