@@ -40,3 +40,5 @@ Starting to look like a Car
 ---------------------------
 
 Pictures - August 31m 2007
+
+![Back and Side](Freedom_1.jpeg "Back and Side")
