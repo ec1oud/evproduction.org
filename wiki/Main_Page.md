@@ -56,8 +56,8 @@ exponentially in the past decade. The most creative programmers are
 pooling their spare time to write free programs and operating systems,
 which anyone can use, and anyone can fix problems, or make improvements,
 and give those changes to the world. If you are reading this page with
-the [Firefox](http://www.mozilla.com/firefox/) browser or uses
-[Linux](wikipedia:Linux "wikilink"), then you are already benefitting
+the [Firefox](http://www.mozilla.com/firefox/) browser, or use
+[Linux](wikipedia:Linux "wikilink"), then you are already benefiting
 from the open source movement. And for almost every other task as well,
 some free software is available.
 
