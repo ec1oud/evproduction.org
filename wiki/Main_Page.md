@@ -10,7 +10,7 @@ tags:
 </center>
 
 <figure>
-<img src="Baker-ad1.jpg" title="Baker" alt="Baker" width="80" /><figcaption>Baker</figcaption>
+<img src="Baker-ad1.jpg" title="Baker" alt="Baker" width="81" /><figcaption>Baker</figcaption>
 </figure>At the beginning of the 20th century, as the "horseless
 carriage" was being developed, there were 3 favored options for
 propulsion: a steam engine (like the trains of the era), an internal
