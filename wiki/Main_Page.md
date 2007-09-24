@@ -143,6 +143,7 @@ Other EV's
 
 -   [SSM Open Source Green Vehicle](http://www.osgv.org/).
 -   [EVWare](http://www.fastbk.com/EVware/)
+-   [OSCar](/wiki/OSCar "wikilink")
 
 ### Proprietary
 
