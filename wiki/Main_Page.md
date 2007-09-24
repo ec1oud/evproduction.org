@@ -114,18 +114,17 @@ market, to develop them.
 
 ### Our first car, the Freedom EV
 
-Want to break free from nuclear-[oil
-dependence](oil_dependence "wikilink"), but continue to experience the
-freedom of the open highway? Want to keep your free time to yourself,
-not spend too much of it building your own car? The [Freedom
-EV](/wiki/Freedom_EV "wikilink") is going to be one of your best choices.
-[Jerry Dycus](/wiki/Jerry_Dycus "wikilink") is setting up production of these,
-and has some great momentum going. It's a grassroots project, no big
-capitalist financing involved, which means that for now it's a kit car.
-As the momentum builds, Jerry plans to get the bodies into larger-scale
-production, and eventually to sell finished cars. [A few
-others](/wiki/EVProduction:Community_Portal "wikilink") are hashing out some
-of the other details.
+Want to break free from [oil dependence](oil_dependence "wikilink"), but
+continue to experience the freedom of the open highway? Want to keep
+your free time to yourself, not spend too much of it building your own
+car? The [Freedom EV](/wiki/Freedom_EV "wikilink") is going to be one of your
+best choices. [Jerry Dycus](/wiki/Jerry_Dycus "wikilink") is setting up
+production of these, and has some great momentum going. It's a
+grassroots project, no big capitalist financing involved, which means
+that for now it's a kit car. As the momentum builds, Jerry plans to get
+the bodies into larger-scale production, and eventually to sell finished
+cars. [A few others](/wiki/EVProduction:Community_Portal "wikilink") are
+hashing out some of the other details.
 
 -   [Latest Progress](/wiki/Progress_Pics "wikilink")
 -   [The Yahoo group](http://autos.groups.yahoo.com/group/EVProduction/)
