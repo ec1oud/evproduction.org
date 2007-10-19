@@ -152,7 +152,10 @@ Other EV's
     Think of it as an enclosed, safer motorcycle.
 -   [The Solectria Sunrise](http://www.austinev.org/evalbum/655.html)
     did not make it into production as planned, but it just might get
-    there yet! We're working on it...
+    there yet! It is being reborn as the Sunrise EV2 by a group headed
+    by Lee Hart &lt;sunrise.ev@earthlink.net&gt;. The EV2 will be sold
+    as a kit car, to enable anyone to have a high performance electric
+    vehicle without the limitations of a conversion.
 
 Other technologies and parts
 ----------------------------
