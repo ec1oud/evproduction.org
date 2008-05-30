@@ -16,7 +16,7 @@ On these pages we aim to detail exactly how it's possible.  So read on, and keep
 
 == EVProduction club == 
 
-The EVProduction club began life as a [http://groups.yahoo.com/group/EVProduction/ Yahoo mailing list]. The current plan is to collect dues from members to fund the club's projects.
+The EVProduction club began life as a Yahoo mailing list. The current plan is to collect dues from members to fund the club's projects.
 
 This group is for the purpose of getting BEV's into production by group effort. The auto companies will not do it so we must do it ourselves. We intend to enable start up of [[wikipedia:open hardware|open hardware]] EV production lines and standards of several types of EV's done by group vote with money raised by the group. 
 
@@ -28,6 +28,8 @@ By spreading the costs amoung many we can keep the risk very low and with our ex
 
 The EVProduction club is for those who want EV's on the market and willing to help make it happen.
 
+*[http://autos.groups.yahoo.com/group/EVProduction/ The Yahoo group]
+*[http://groups.google.com/group/evproduction The Google Group]
 * [http://www.bootstrapaustin.org/wiki/index.php/Welcome_to_the_Bootstrap_Network Bootstrap to develop ideas] and [http://www.bootstrapaustin.org/wiki/index.php/Bootstrap_Online_Financing online financing].
 
 ==EVProduction's vehicles and goods ==
@@ -40,7 +42,6 @@ You can propose improvements and ideas although they are not in the market, to d
 Want to break free from [[oil dependence]], but continue to experience the freedom of the open highway?  Want to keep your free time to yourself, not spend too much of it building your own car?  The [[Freedom EV]] is going to be one of your best choices.  [[Jerry Dycus]] is setting up production of these, and has some great momentum going.  It's a grassroots project, no big capitalist financing involved, which means that for now it's a kit car.  As the momentum builds, Jerry plans to get the bodies into larger-scale production, and eventually to sell finished cars.  [[EVProduction:Community Portal|A few others]] are hashing out some of the other details.
 
 *[[Progress Pics|Latest Progress]]
-*[http://autos.groups.yahoo.com/group/EVProduction/ The Yahoo group]
 
 ===Other EVProduction Goods===
 
@@ -56,6 +57,13 @@ Want to break free from [[oil dependence]], but continue to experience the freed
 ===Proprietary ===
 *[http://www.myersmotors.com/ The Sparrow] was introduced in 1999, sold for a couple years, and now once again you can buy it as the NmG (No more Gas).  It is freeway capable, but holds only one person.  Think of it as an enclosed, safer motorcycle.
 *[http://www.austinev.org/evalbum/655.html The Solectria Sunrise] did not make it into production as planned, but it just might get there yet!  It is being reborn as the Sunrise EV2 by a group headed by Lee Hart <sunrise.ev@earthlink.net>. The EV2 will be sold as a kit car, to enable anyone to have a high performance electric vehicle without the limitations of a conversion.
+*[http://www.zapworld.com/electric-vehicles/electric-cars/zap-alias Zap Alias]
+*[http://www.phoenixmotorcars.com/vehicles/phoenix-suv.php Phoenix Motors]
+*[http://www.teslamotors.com/ Tesla Roadster]
+*[http://www.venturifetish.fr/?lang=en Venturi Fetish]
+==== Bikes ====
+*[http://www.vectrix.com/ Vetrix]
+*[http://www.enertiabike.com/ Enertia]
 
 ==Other technologies and parts ==
 *[[Enabling technologies]]

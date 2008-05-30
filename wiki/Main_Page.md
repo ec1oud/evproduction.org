@@ -74,9 +74,8 @@ own dreams. If we work together, maybe all our wishes can be fulfilled.
 EVProduction club
 -----------------
 
-The EVProduction club began life as a [Yahoo mailing
-list](http://groups.yahoo.com/group/EVProduction/). The current plan is
-to collect dues from members to fund the club's projects.
+The EVProduction club began life as a Yahoo mailing list. The current
+plan is to collect dues from members to fund the club's projects.
 
 This group is for the purpose of getting BEV's into production by group
 effort. The auto companies will not do it so we must do it ourselves. We
@@ -98,6 +97,8 @@ with our experience in EV's do them right.
 The EVProduction club is for those who want EV's on the market and
 willing to help make it happen.
 
+-   [The Yahoo group](http://autos.groups.yahoo.com/group/EVProduction/)
+-   [The Google Group](http://groups.google.com/group/evproduction)
 -   [Bootstrap to develop
     ideas](http://www.bootstrapaustin.org/wiki/index.php/Welcome_to_the_Bootstrap_Network)
     and [online
@@ -127,7 +128,6 @@ cars. [A few others](/wiki/EVProduction:Community_Portal "wikilink") are
 hashing out some of the other details.
 
 -   [Latest Progress](/wiki/Progress_Pics "wikilink")
--   [The Yahoo group](http://autos.groups.yahoo.com/group/EVProduction/)
 
 ### Other EVProduction Goods
 
@@ -156,6 +156,17 @@ Other EV's
     by Lee Hart &lt;sunrise.ev@earthlink.net&gt;. The EV2 will be sold
     as a kit car, to enable anyone to have a high performance electric
     vehicle without the limitations of a conversion.
+-   [Zap
+    Alias](http://www.zapworld.com/electric-vehicles/electric-cars/zap-alias)
+-   [Phoenix
+    Motors](http://www.phoenixmotorcars.com/vehicles/phoenix-suv.php)
+-   [Tesla Roadster](http://www.teslamotors.com/)
+-   [Venturi Fetish](http://www.venturifetish.fr/?lang=en)
+
+#### Bikes
+
+-   [Vetrix](http://www.vectrix.com/)
+-   [Enertia](http://www.enertiabike.com/)
 
 Other technologies and parts
 ----------------------------
