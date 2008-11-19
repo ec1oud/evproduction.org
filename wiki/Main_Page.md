@@ -13,7 +13,7 @@ tags:
 <img src="Yet-another-baker-ad.jpg" title="Baker" alt="Baker" width="80" /><figcaption>Baker</figcaption>
 </figure>At the beginning of the 20th century, as the "horseless
 carriage" was being developed, there were 3 favored options for
-propulsion: a steam engine (like the trains of the era), an internal
+propulsion: A steam engine (like the trains of the era), an internal
 combustion engine, or an [electric motor](electric_motor "wikilink").
 Women tended to prefer electric cars because they were clean and didn't
 require cranking the engine over by hand; while the men often preferred
