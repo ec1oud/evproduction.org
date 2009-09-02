@@ -36,8 +36,8 @@ It was made from the above mold.
 |----------------------------------|-----------------------------------------------------------------------------|----------------------------------|----------------------------------|
 | ![](10-31-2006_Prototype-05.jpg) | ![Windshield installed](10-31-2006_Prototype-13.jpg "Windshield installed") | ![](10-31-2006_Prototype-27.jpg) | ![](10-31-2006_Prototype-06.jpg) |
 
-It is a Car
------------
+Its a Car
+---------
 
 Pictures - August 31th 2007
 
