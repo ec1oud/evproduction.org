@@ -1,0 +1,227 @@
+[[Image:EVScooterAtVancouver.jpg|right|thumb|220px|[[Electric scooter]] at the 2005 Vancouver EV gathering]]
+
+'''Electric [[motorcycle]]s and [[Scooter (motorcycle)|scooter]]s''' are vehicles with two or three wheels that use electric motors to attain locomotion.
+
+==Power source==
+
+Generally, the source of power for the electric motor has been [[batteries]], but development in [[fuel cell]] technology has created several prototypes. Some examples are: the [[ENV]] from Intelligent Energy, Honda's scooter using the Honda FC Stack, and the Yamaha FC-AQEL. Also, petroleum hybrid-electric motorcycles are under development. Some examples are the Ecycle, and Yamaha's Gen-RYU.
+
+==Advantages and disadvantages==
+
+'''Electric [[motorcycle]]s and [[Scooter (motorcycle)|scooter]]s''' are rising in popularity because of higher gasoline prices. Battery technology is gradually improving making this form of transportation more practical. <ref>http://www.technologyreview.com/NanoTech/17837/</ref>
+
+Advantages of [[electric]] over [[gasoline]] power:
+# The fuel costs for electric power are less than one-third the cost of gasoline power.
+# Nearly silent.
+# Zero emissions.  Can ride indoors.
+# No trips needed to a petrol station.  Plug in and recharge at home.
+# Lower maintenance costs and fewer maintenance activities.  For example, no need to change oil.
+# In many European cities, traffic in central zones is limited to electric vehicles only.
+
+Disadvantages:
+# Up front costs are higher than comparative gasoline powered motorcycle or scooter.
+# Shorter range before recharging.
+# Longer "fill up" or recharge time.
+# Comparatively lower maximum speed.  In other words lower speeds at similar price points.
+# Few electric power outlets are conveniently located near streets or driveways.
+
+==History==
+
+* Late 1860s - Earliest references to electric motorcycles can be found in patents. 
+* 1911 ----------- Electric motorcycle available according to early Popular Mechanix article. <ref>http://electricmotorcycles.net/modules/wordpress/?p=48</ref>
+* 1920's --------- Ransomes, current makers of forklifts, explored the use of an electric powered motorcycle. This and other developments helped pave the way for the company to use electric mining cars and lorreys. <ref>http://www.forkliftparts.co.uk/history.htm</ref>
+* 1941 ----------- Fuel rationing in Occupied Europe encouraged an Austrian company by the name of Socovel to create a small electric motorcycle.  Approximately 400 were manufactured. <ref>http://www.econogics.com/ev/evhists.htm</ref>
+* Early 1940s- Fuel rationing in United States caused Earle Williams to convert a motorcycle to electric power. This became the basis for the formation of the ParCar from the Marketeer Company. <ref>http://www.parcar.com/legend/history.htm</ref>
+* 1967 ----------- First Fuel Cell powered electric motorcycle created by Karl Kordesch at Union Carbide debuts.  Demonstrated the feasibility of fuel cells as a power source.  This particular fuel cell was an alkili fuel cell that operated with hydrazine, a rocket fuel propellant. <ref>http://americanhistory.si.edu/fuelcells/alk/alk2.htm</ref>
+* 1967 ----------- "Papoose" moped sized electric motorcycle prototype is created by Indian Motorcycle Company under the direction of Floyd Clymer. <ref>http://www.cycletownusa.com/post1953.html</ref>
+* Early 1970s- Aurenthetic Charger moped sized scooter sold. <ref>http://www.econogics.com/ev/evhista.htm</ref>
+* 1973 ----------- Mike Corbin sets first electric motorcycle land speed record of 101 mph.
+* 1974 ----------- Corbin-Gentry Inc. begins sale of street legal electric motorcycles.
+* 1974 ----------- Professor Charles E. MacArthur makes first electric vehicle ascent on Mt. Washington, NH using a Corbin Electric motorcycle.  The event evolved into an annual rally called the "Mt Washington Alternative Vehicle Regatta".
+* 1978 ----------- Electric Harley Davidson MK2 created by Transitron manufactured in Honolulu, Hawaii. <ref>http://electricmotorcycles.net/modules/wordpress/?p=181</ref>
+* 1988 ----------- Eyeball Engineering creates KawaSHOCKi electric dragbike and is featured in a major magazine. <ref>http://www.nedra.com/hotbike.html</ref>
+* Late 1990's - EMB Lectra VR24 electricmotorbike created by Scott Cronk and EMB. Pioneered the use of variable reluctance motors (hence the VR) and marketed as street legal.  <ref>http://www.electricmotorbike.org/</ref>
+* 2000 ----------- Killacycle makes record run of 152 mph at 9.4 s quarter mile time at Woodburn Drags 2000, OR.<ref>http://www.nedra.com/150mph_club.html#killacycle</ref>
+* 2007 ----------- A123 Li-Ion cell-powered Killacycle makes new quarter mile record of 8.16 seconds and 156 mph in Phoenix, AZ at AHDRA 2007. <ref>http://www.killacycle.com/2007/04/04/8168-15578-mph-getting-close-to-the-magic-7s/</ref>
+
+==Types==
+===Various types of scooters===
+
+Scooters are divided into categories as per the particular niche that they are designed to operate in and speed requirements:
+
+* 2 wheeled [[Vespa]]-styled scooters 0-60 mph
+* 2 wheeled Stand-up scooters (like a [[kick scooter]]) 0-25 mph 
+* 2 wheeled-side-by-side stand-up scooters like manufactured by [[Segway PT]] 0-10 mph 
+* 2 wheeled Seated scooters 0-25 mph 
+* 3 wheeled Mobility scooter (disability riders) 0-10 mph 
+* 3 wheeled Seated scooters/golf carts 0-25 mph 
+* 3 wheeled standup scooters like manufactured by Zap 0-15 mph
+
+===Electric motorcycle or electric bicycle===
+
+2 wheeled motorcycles are generally differentiated from motorized bicycles and mopeds (motorized pedal cycles) by speed with motorcycles having greater speeds usually greater than 30 mph. Although, this line for what constitutes a 2 wheeled motorcycle has blurred due to marketing, styling, and public opinion.
+
+===Main categories of 3-wheeled motorcycles===
+
+Due to vagueness in motor vehicle laws, any 3-wheeled vehicle that can travel over 30 mph is often classified as a motorcycle. This classification does not depend whether the operator is fully enclosed by a "cage" or exposed to the elements. But for design purposes, three wheeled vehicles are divided into 2 categories:
+
+* 1 wheel in front and 2 in back, known as a delta design or the traditional trike (tricycle) design 
+* 2 wheels in front and 1 in back, known as a tadpole design.
+
+Some three wheeled motorcycles enclose the rider in a "cabin" or cockpit.  These include the Gizmo, Twike, NmG.
+
+Some three wheeled motorcycles have independent suspension allowing the vehicle to tilt or lean.
+
+==Comparison of select current or upcoming vehicles==
+<!-- There are a ton of electric scooters that have a top speed of <= 20 mph.  Can we keep this list to notable scooters with speed >= 23 mph?  If the list gets large then I suggest increasing the min speed as necessary. Perhaps a category for freeway ready electric motorcycles and one for neighborhood electrics.
+-->
+{|class="wikitable"
+!rowspan=2|Name
+!rowspan=2|Top Speed
+!rowspan=2|Cost
+!rowspan=2|Vehicle type
+!colspan=3|Battery
+!rowspan=2|Range
+!rowspan=2|Comments
+|-
+
+!Type
+!Life
+!Capacity
+|-
+
+![[VentureOne]]
+| 75+mph (120+ Km/h)EV 
+|[http://www.flytheroad.com/e_home.html $18000 - $23000]
+|3 Wheel
+|Lithium-ion batteries by [[A123Systems]]
+|5000+ charge cycles
+|40+&nbsp;kW
+|120 miles<br>193 km 
+|Theoretical; no prototype yet built
+|-
+
+![http://myersmotors.com/buynow.html Myers Motors NmG]
+|75&nbsp;mph
+|US$25,000
+|3 Wheel
+|13 Optima Blue Top deep cycle marine Batteries<ref>http://www.optimabatteries.com/publish/optima/americas0/en/config/product_info/marine/technical_specs.html</ref>
+|
+|55 [[Ampere-hour|A·h]]×13 = 715 A·h
+|[http://www.myersmotors.com/funtelligent_faq.html 25-30 miles]
+|[http://www.evworld.com/view.cfm?section=article&archive=1&storyid=1142&first=5726&end=5725 The Case for the Tango]
+|-
+
+![[Vectrix]]
+|100&nbsp;km/h, 60&nbsp;mph
+|[http://www.groovygreen.com/index.php?option=com_content&task=view&id=274&Itemid=81 $11K]
+|Scooter
+|[[Nickel metal hydride battery|Nickel metal hydride (NiMH)]]<br>provided by GP Batteries
+|10 years or 50,000 miles / 80,000 km
+|30 A·h, 3.7 kW·h
+|110&nbsp;km @ 40&nbsp;km/h, 68&nbsp;miles @ 25&nbsp;mph
+|[http://www.viamichelin.com/viamichelin/gbr/tpl/mag5/art20061215/htm/route-vectrix.htm# Review]
+|-
+
+![http://www.electricmotorsport.com/EGPR/egprPage.htm Electric Motorsport]
+|65&nbsp;mph 
+|[http://www.electricmotorsport.com/EGPR/sales.htm $6800 - $8000]
+|Motorcycle
+|48&nbsp;Volt 44&nbsp;A·h pack includes. 8 BB high rate 12&nbsp;volt 22&nbsp;A·h (SLA). In parallel series connection. 
+|200-500 charge cycles
+|10+&nbsp;kW
+|40&nbsp;miles 
+|
+|-
+
+<!--
+![http://www.motomojo.net/tazelectra.html Taz Electra]
+|80&nbsp;km/h,<br>50&nbsp;mph
+|
+|4x12v sealed lead acid gel
+|700 cycles
+|45 A·h
+|144&nbsp;km, 90&nbsp;mi
+|
+|-
+-->
+![[ZAP Xebra]]
+|65&nbsp;km/h,<br>45&nbsp;mph
+|US$10K
+|3 Wheel
+|Lead acid
+|3 years
+|
+|[http://www.zapworld.com/ZAPWorld.aspx?id=3892 25&nbsp;miles at 30mph]
+|[http://www.xebraworld.com/Julie%20L.htm review]
+|-
+<!--
+!e-max sport[http://thesolarstore.com/index.php?p=transport&sum=mope&id=177]
+|60&nbsp;km/h,<br>36&nbsp;mph
+|[http://e-maxusa.com/ $2,750]
+|8 × 12 V/20 A silicone battery[http://www.e-max-scooter.com/en/produkte-e-max-s.php][http://www.e-max-scooter.com/en/umwelt-batterien.php]
+|400 cycles
+|
+|[http://www.e-max-scooter.com/en/produkte-e-max-s.php 60-80&nbsp;km]
+|[http://e-max.us/ e-max has gone out of business]
+|-
+-->
+<!--
+!Eco-Glide LE[http://www.costco.com/Browse/Product.aspx?Prodid=11122711]
+|55&nbsp;km/h,<br>34&nbsp;mph
+|$1,400
+|Scooter
+|12 V/20 A·h 2 packs of 4 (8-pcs total)
+|
+|
+|10&nbsp;miles
+|[http://www.ocregister.com/ocregister/money/homepage/article_1351115.php ocregister.com]
+|-
+-->
+
+![http://www.evadermotorsports.com/1000.php Evader]
+|50&nbsp;km/h,<br>30&nbsp;mph
+|$2,500
+|Scooter
+|4×12 V sealed lead acid gel[http://www.evadermotorsports.com/1000tech.php]
+|two years
+|45 A·h
+|70&nbsp;km, 40&nbsp;mi
+|
+<!--
+|-
+
+!eGO Cycle 2[http://www.egovehicles.com/Products/index.cfm?doc_id=122]
+|40&nbsp;km/h,<br>23&nbsp;mph[http://www.egovehicles.com/common/index.cfm?doc_id=42]
+|$1,200
+|Scooter
+|
+|
+|
+|40&nbsp;km, 25&nbsp;miles<br>(18 mph, 150 lb rider, flat terrain)
+|
+|-
+-->
+|}
+
+== References ==
+<references />
+
+==See also==
+* [[Battery electric vehicle]]
+* [[Electric vehicle]]
+
+
+==External links==
+
+===News===
+* [http://blog.wired.com/gadgets/2007/05/esolex_french_e.html E-Solex: French Electric Bike] May 7, 2007
+
+
+[[Category:Three-wheeled motor vehicles]]
+[[Category:Electric vehicles|Scooter]]
+[[Category:Green vehicles]]
+[[Category:Motor scooters]]
+[[Category:Motorcycle technology]]
+[[Category:Motorcycle classifications]]
+[[Category:Vehicles]]
